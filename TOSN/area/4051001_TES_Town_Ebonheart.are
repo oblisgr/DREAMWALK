@@ -1,0 +1,2213 @@
+#AREA Ebonheart~
+
+#VERSION 1
+
+#CLIMATE 2 2 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4051001
+RESERVED~
+RESERVED~
+RESERVED
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4051001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4051001
+Ascadian isles, Ebonheart, town~
+Curving town paths wind between pale stone buildings under mild southern light
+beside plastered facades, hanging banners and useful supplies arranged nearby.
+Loose leaves turn across the paving as shade lingers beneath the covered walks
+and this civic quarter carries the calm of guarded streets.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4051002 0
+S
+#4051002
+Ascadian isles, Ebonheart, town~
+Open stone courtyards stretch beneath tall defensive walls in warm coastal air
+past carved entry arches, hanging banners and useful supplies arranged nearby.
+A soft breeze stirs the hanging cloth and pale surfaces reflect the muted glow
+as the walled town holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051001 0
+D2
+South~
+~
+0 0 4051003 0
+S
+#4051003
+Ascadian isles, Ebonheart, town~
+Worn civic paths extend beneath tall defensive walls amid soft afternoon shade
+among broad stone steps and covered supply carts lining the well-kept streets.
+Warm light reaches the pale paving while the open ground retains gentle warmth
+and this open courtyard rests beneath the humid open air.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051002 0
+D2
+South~
+~
+0 0 4051004 0
+S
+#4051004
+Ascadian isles, Ebonheart, town~
+Broad walled avenues wind gently among high plastered walls beneath open skies
+with shaded colonnades and rain-darkened barrels placed clear of passing feet.
+A warm breeze stirs the hanging banners and small braziers give off faint heat
+as the stone street carries the calm of guarded streets.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051003 0
+D2
+South~
+~
+0 0 4051005 0
+S
+#4051005
+Ascadian isles, Ebonheart, town~
+Broad castle streets cross between arcades and courtyards in mild southern air
+beside carved entry arches and guard braziers kept clear of the walking space.
+Daylight warms the high plastered walls and banners move above the road nearby
+as the walled town feels orderly and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051004 0
+D1
+East~
+~
+0 0 4051043 0
+D2
+South~
+~
+0 0 4051006 0
+S
+#4051006
+Ascadian isles, Ebonheart, town~
+Busy public walkways pass steadily between shaded arcades in mild southern air
+with carved entry arches, hanging banners and useful supplies arranged nearby.
+Thin shadows cross the open courtyards as pale surfaces reflect the muted glow
+and the stone street shows the wear of constant daily use.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051005 0
+D1
+East~
+~
+0 0 4051021 0
+D2
+South~
+~
+0 0 4051007 0
+D3
+West~
+~
+0 0 4051009 0
+S
+#4051007
+Ascadian isles, Ebonheart, town~
+Well-kept stone roads curve through enclosed castle streets beneath open skies
+past plastered facades and trimmed lanterns arranged beside the walking space.
+Humid air settles over the stone paths as pale surfaces reflect the muted glow
+and this civic quarter holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051006 0
+D1
+East~
+~
+0 0 4051023 0
+D2
+South~
+~
+0 0 4051008 0
+S
+#4051008
+Ascadian isles, Ebonheart, town~
+Narrow fortified streets extend among high plastered walls in warm coastal air
+past broad stone steps and rain-darkened barrels placed clear of passing feet.
+Mild air crosses the broad stone streets as cloth awnings shift over the paths
+and this open courtyard carries the calm of guarded streets.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051007 0
+D1
+East~
+~
+0 0 4051045 0
+S
+#4051009
+Ascadian isles, Ebonheart, town~
+Firm stone thoroughfares wind onward across paved ground in the humid daylight
+among carved entry arches and clay planters arranged beside the walking space.
+Warm light reaches the pale paving while lantern chains sway against the walls
+and the walled town shows the wear of constant daily use.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051038 0
+D1
+East~
+~
+0 0 4051006 0
+D3
+West~
+~
+0 0 4051010 0
+S
+#4051010
+Ascadian isles, Ebonheart, town~
+Sheltered town passages curve gently among stone buildings under warm daylight
+with carved entry arches and trimmed lanterns kept clear of the walking space.
+Loose leaves turn across the paving while pale surfaces reflect the muted glow
+and this civic quarter rests beneath the humid open air.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051009 0
+D2
+South~
+~
+0 0 4051068 0
+D3
+West~
+~
+0 0 4051028 0
+S
+#4051011
+Ascadian isles, Ebonheart, town~
+Orderly civic streets cross through fortified town grounds in warm coastal air
+among low courtyard walls, guard braziers and useful supplies arranged nearby.
+A soft breeze stirs the hanging cloth and dust rests between the fitted stones
+as this open courtyard holds the warmth of the southern day.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051031 0
+D2
+South~
+~
+0 0 4051032 0
+D3
+West~
+~
+0 0 4051012 0
+S
+#4051012
+Ascadian isles, Ebonheart, town~
+Paved stone lanes curve gently past solid public buildings in warm coastal air
+beside low courtyard walls and iron railings spaced across the open stonework.
+A warm breeze stirs the hanging banners as shadows move beneath the colonnades
+and the stone street holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051013 0
+D1
+East~
+~
+0 0 4051011 0
+D3
+West~
+~
+0 0 4051095 0
+S
+#4051013
+Ascadian isles, Ebonheart, town~
+Broad castle streets run onward past solid public buildings beneath open skies
+among plastered facades and hanging banners arranged beside the walking space.
+Daylight warms the high plastered walls and cloth awnings shift over the paths
+as this civic quarter holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051014 0
+D2
+South~
+~
+0 0 4051012 0
+S
+#4051014
+Ascadian isles, Ebonheart, town~
+Paved stone lanes run steadily across orderly civic spaces under warm daylight
+beside carved entry arches, clay planters and useful supplies arranged nearby.
+Thin shadows cross the open courtyards as dust rests between the fitted stones
+and the walled town holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051015 0
+D1
+East~
+~
+0 0 4051069 0
+D2
+South~
+~
+0 0 4051013 0
+D3
+West~
+~
+0 0 4051070 0
+S
+#4051015
+Ascadian isles, Ebonheart, town~
+Orderly civic streets curve steadily between shaded arcades beneath open skies
+with broad stone steps and trimmed lanterns arranged beside the walking space.
+Mild air crosses the broad stone streets as banners move above the road nearby
+and the stone street carries the calm of guarded streets.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051016 0
+D2
+South~
+~
+0 0 4051014 0
+S
+#4051016
+Ascadian isles, Ebonheart, town~
+Open stone courtyards stretch across orderly civic spaces in mild southern air
+past plastered facades and rain-darkened barrels lining the well-kept streets.
+Warm light reaches the pale paving as shallow eaves cast narrow bands of shade
+and the walled town feels orderly and firmly established.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051020 0
+D2
+South~
+~
+0 0 4051015 0
+D3
+West~
+~
+0 0 4051017 0
+S
+#4051017
+Ascadian isles, Ebonheart, town~
+Sheltered town passages extend past solid public buildings under warm daylight
+among carved entry arches, wooden benches and useful supplies arranged nearby.
+A soft breeze stirs the hanging cloth as lantern chains sway against the walls
+and the stone street rests beneath the humid open air.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051072 0
+D1
+East~
+~
+0 0 4051016 0
+D2
+South~
+~
+0 0 4051071 0
+D3
+West~
+~
+0 0 4051018 0
+S
+#4051018
+Ascadian isles, Ebonheart, town~
+Well-kept stone roads thread past solid public buildings in the humid daylight
+with plastered facades and rain-darkened barrels placed clear of passing feet.
+A warm breeze stirs the hanging banners and leaves rustle beside the low walls
+as this open courtyard carries the calm of guarded streets.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051017 0
+D3
+West~
+~
+0 0 4051019 0
+S
+#4051019
+Ascadian isles, Ebonheart, town~
+Firm stone thoroughfares extend gently across paved ground under warm daylight
+past carved entry arches and wooden benches arranged beside the walking space.
+Loose leaves turn across the paving and small braziers release a trace of heat
+as this civic quarter rests beneath the humid open air.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051047 0
+D1
+East~
+~
+0 0 4051018 0
+D2
+South~
+~
+0 0 4051080 0
+D3
+West~
+~
+0 0 4051073 0
+S
+#4051020
+Ascadian isles, Ebonheart, town~
+Narrow fortified streets run steadily across paved ground in mild southern air
+beside pale stone walls, trimmed lanterns and useful supplies arranged nearby.
+A soft breeze stirs the hanging cloth while banners move above the road nearby
+and this civic quarter feels orderly and firmly established.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051025 0
+D3
+West~
+~
+0 0 4051016 0
+S
+#4051021
+Ascadian isles, Ebonheart, town, dock~
+Long wooden quays stretch gently among stacked cargo beneath an open humid sky
+with rows of sealed barrels and small oil lanterns resting close to the water.
+Salt air crosses the timber piers while rope fibers strain around the bollards
+and this landing stage smells strongly of rope and brine.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051022 0
+D3
+West~
+~
+0 0 4051006 0
+S
+#4051022
+Ascadian isles, Ebonheart, town, dock~
+Plank-covered dockways run gently among stacked cargo in the mild coastal wind
+past bundled fishing nets and iron cargo hooks set safely away from the water.
+A mild breeze stirs the tied canvas and rope fibers strain around the bollards
+as the harbor walkway rests beneath the salt-laden air.~
+0 0 1 0 0 0
+D3
+West~
+~
+0 0 4051021 0
+S
+#4051023
+Ascadian isles, Ebonheart, town, dock~
+Sturdy harbor walkways continue steadily among stacked cargo in salt-laden air
+beside heavy wooden bollards and wooden loading frames kept along the walkway.
+Dark water laps below the broad quays and small waves knock beneath the boards
+as the busy dock smells strongly of rope and brine.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051024 0
+D3
+West~
+~
+0 0 4051007 0
+S
+#4051024
+Ascadian isles, Ebonheart, town, dock~
+Weathered dockside paths stretch along sturdy quay walls beneath pale daylight
+among coiled mooring ropes and covered supply sacks resting along the walkway.
+Pale light glints across the wet planks as canvas shifts over the stored cargo
+and this timber quay creaks above the sheltered water.~
+0 0 1 0 0 0
+D3
+West~
+~
+0 0 4051023 0
+S
+#4051025
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's outdoors~
+Packed training yards extend inside high defensive walls under steady daylight
+past broad stone steps and water barrels standing around the open drill space.
+Mild air stirs the canvas screens while small braziers release a trace of heat
+and this drill ground holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051058 0
+D1
+East~
+~
+0 0 4051026 0
+D3
+West~
+~
+0 0 4051020 0
+S
+#4051026
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's outdoors~
+Wide barracks courtyards run between heavy stone buildings in the humid warmth
+with scarred practice posts and water barrels kept clear of the walking space.
+Warm wind crosses the packed drill yard as small braziers give off gentle heat
+and the open courtyard stands orderly beneath the open sky.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4051027 0
+D3
+West~
+~
+0 0 4051025 0
+S
+#4051027
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's outdoors~
+Broad stone parade grounds spread among sturdy drill posts in the humid warmth
+beside plain guard benches, water barrels and useful supplies arranged nearby.
+Mild air moves through the fortress yard as small braziers release gentle heat
+and the fortress yard stands orderly beneath the open sky.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051026 0
+D2
+South~
+~
+0 0 4051028 0
+S
+#4051028
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's outdoors~
+Fortified open courts continue inside high defensive walls in the humid warmth
+among broad stone steps, trimmed braziers and useful supplies arranged nearby.
+Bright light falls over the open court as loose straps tap against the shields
+and this drill ground stands orderly beneath the open sky.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051027 0
+D1
+East~
+~
+0 0 4051010 0
+D2
+South~
+~
+0 0 4051029 0
+D3
+West~
+~
+0 0 4051091 0
+S
+#4051029
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's outdoors~
+Enclosed military yards open between heavy stone buildings in mild coastal air
+past plain guard benches and trimmed braziers set clear of the central ground.
+Pale light fills the broad parade ground as weapon racks wait beside the walls
+and the fortress yard holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051028 0
+D2
+South~
+~
+0 0 4051030 0
+S
+#4051030
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's outdoors~
+Open fortress courtyards run inside high defensive walls under steady daylight
+with plain guard benches and trimmed braziers set clear of the central ground.
+Mild air stirs the canvas screens while dust settles beside the practice posts
+and the open courtyard holds the warmth of the southern day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4051029 0
+D3
+West~
+~
+0 0 4051031 0
+S
+#4051031
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's outdoors~
+Hard-packed drill grounds open inside high defensive walls in the humid warmth
+beside sturdy weapon racks, water barrels and useful supplies arranged nearby.
+Bright light falls over the open court as training gear rests in careful order
+while the fortress yard stands orderly beneath the open sky.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4051030 0
+D3
+West~
+~
+0 0 4051011 0
+S
+#4051032
+Ascadian isles, Ebonheart, town, argonian mission~
+Weathered stone walls enclose a humid mission chamber beneath heavy roof beams
+beside simple sleeping couches and bundled herbs resting in well-used corners.
+Warm lamplight plays over the low wooden tables and herbal scents fill the air
+as this sheltered room retains a gentle enclosed warmth.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051011 0
+D2
+South~
+~
+0 0 4051033 0
+S
+#4051033
+Ascadian isles, Ebonheart, town, argonian mission~
+Solid interior walls frame this quiet meeting room beneath stout ceiling beams
+among simple sleeping couches and bundled herbs set between the narrow aisles.
+Muted firelight falls over the low wooden tables and warm herbal scents linger
+as the quiet mission retains a gentle enclosed warmth.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051032 0
+D2
+South~
+~
+0 0 4051034 0
+S
+#4051034
+Ascadian isles, Ebonheart, town, argonian mission~
+Sturdy masonry walls enclose a warm meeting room beneath broad wooden supports
+beside woven reed mats and rolled correspondence resting in well-used corners.
+A shifting glow falls over the low wooden tables as herbal scents fill the air
+and the warm chamber holds only practical daily comforts.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051033 0
+D4
+Up~
+~
+0 0 4051035 0
+S
+#4051035
+Ascadian isles, Ebonheart, town, argonian mission~
+High plastered walls frame this secluded lodging room beneath heavy roof beams
+among broad guest benches and clay water jars kept clear of the central aisle.
+Muted firelight shines over the low wooden tables as warm herbal scents linger
+and the quiet mission retains a gentle enclosed warmth.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051036 0
+D5
+Down~
+~
+0 0 4051034 0
+S
+#4051036
+Ascadian isles, Ebonheart, town, argonian mission~
+Solid interior walls enclose a practical meeting room beneath heavy roof beams
+with simple sleeping couches and clay water jars resting in well-used corners.
+Muted firelight moves across the woven reed mats as herbal scents fill the air
+and the warm chamber remains suited to private conversation.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051037 0
+D2
+South~
+~
+0 0 4051035 0
+S
+#4051037
+Ascadian isles, Ebonheart, town, argonian mission~
+Thick mortared walls frame this secluded meeting room beneath heavy roof beams
+among woven reed mats and carved storage chests set neatly around the chamber.
+Soft candlelight falls over the low wooden tables as warm herbal scents linger
+and this sheltered room holds only practical daily comforts.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051036 0
+S
+#4051038
+Ascadian isles, Ebonheart, town, East empire company's hall~
+Polished plaster walls enclose a guarded trade office beneath heavy roof beams
+beside tall ledger cabinets and shipment records resting in well-used corners.
+Muted firelight flickers over the broad writing desks as dust hangs in the air
+and the ordered chamber holds the weight of daily business.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051039 0
+D2
+South~
+~
+0 0 4051009 0
+D3
+West~
+~
+0 0 4051040 0
+S
+#4051039
+Ascadian isles, Ebonheart, town, East empire company's hall~
+Pale masonry walls enclose a formal trade office beneath broad wooden supports
+past tall ledger cabinets and cargo manifests kept clear of the central aisle.
+Amber lantern light falls across the open ledgers as the air holds a dry scent
+and this ledger room keeps each account carefully protected.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051038 0
+S
+#4051040
+Ascadian isles, Ebonheart, town, East empire company's hall~
+Pale masonry walls frame this busy commercial hall beneath dark timber rafters
+with scarred office tables and sealed contracts set between the narrow aisles.
+A shifting glow plays across the open ledgers as a light draft stirs the cloth
+and the formal interior holds the weight of daily business.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051041 0
+D1
+East~
+~
+0 0 4051038 0
+S
+#4051041
+Ascadian isles, Ebonheart, town, East empire company's hall~
+A busy trade office opens within carved masonry walls under pale lantern light
+past broad writing desks and shipment records kept clear of the central aisle.
+A shifting glow shines beneath the timber ceiling as lamp smoke curls overhead
+and the trade office keeps each account carefully protected.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051042 0
+D2
+South~
+~
+0 0 4051040 0
+S
+#4051042
+Ascadian isles, Ebonheart, town, East empire company's hall~
+Pale masonry walls frame this busy records chamber beneath stout ceiling beams
+past broad writing desks and cargo manifests arranged for practical daily use.
+Warm lamplight moves across the open ledgers and shadows gather in the corners
+as the trade office serves the routine needs of commerce.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051041 0
+S
+#4051043
+Ascadian isles, Ebonheart, town, East empire company's north warehouse~
+Rough plaster walls frame this work-worn storage hall beneath heavy roof beams
+beside stacks of wooden crates and bundled rope ordered across the hard floor.
+Low golden light moves across the sealed barrels and the air holds a dry scent
+as this cargo room remains arranged for quick inspection.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051044 0
+D3
+West~
+~
+0 0 4051005 0
+S
+#4051044
+Ascadian isles, Ebonheart, town, East empire company's north warehouse~
+A guarded cargo room opens within solid masonry walls under pale lantern light
+among rows of sealed barrels and wooden pallets stored beneath sturdy shelves.
+A shifting glow drifts beneath the high roof beams while dust hangs in the air
+and the crowded store bears the wear of constant handling.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051043 0
+S
+#4051045
+Ascadian isles, Ebonheart, town, East empire company's south warehouse~
+Solid masonry walls frame this crowded cargo room beneath broad wooden rafters
+past deep storage shelves and covered containers resting in well-used corners.
+Low golden light drifts across the sealed barrels as lamp smoke curls overhead
+and the storage hall remains arranged for quick inspection.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051046 0
+D3
+West~
+~
+0 0 4051008 0
+S
+#4051046
+Ascadian isles, Ebonheart, town, East empire company's south warehouse~
+Rough plaster walls enclose a guarded warehouse aisle beneath heavy roof beams
+with deep storage shelves and wooden pallets arranged for practical daily use.
+Warm lamplight moves across the sealed barrels while the air holds a dry scent
+and this cargo room bears the wear of constant handling.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051045 0
+S
+#4051047
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Pale masonry walls enclose a solemn meeting hall beneath heavy decorated beams
+past high-backed chairs and sealed petitions arranged for practical daily use.
+Warm lamplight plays across the council tables while lamp smoke curls overhead
+and this formal hall holds an air of restrained authority.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051048 0
+D2
+South~
+~
+0 0 4051019 0
+S
+#4051048
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Carved masonry walls frame this solemn meeting hall beneath dark paneled beams
+beside long council tables and official reports set between the narrow aisles.
+Pale lantern light falls beneath the lofty ceiling while dust hangs in the air
+and the council room feels measured and deliberately formal.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051049 0
+D1
+East~
+~
+0 0 4051051 0
+D2
+South~
+~
+0 0 4051047 0
+D3
+West~
+~
+0 0 4051050 0
+S
+#4051049
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Pale masonry walls enclose an orderly petition room beneath dark paneled beams
+with long council tables and official reports kept clear of the central aisle.
+Soft candlelight plays beneath the lofty ceiling and lamp smoke curls overhead
+as the solemn chamber holds an air of restrained authority.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4051053 0
+D2
+South~
+~
+0 0 4051048 0
+D3
+West~
+~
+0 0 4051052 0
+S
+#4051050
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Pale masonry walls frame this guarded meeting hall beneath arched ceiling ribs
+past broad writing desks and official reports kept clear of the central aisle.
+Faint hearth light plays across the council tables while dust hangs in the air
+and this formal hall feels measured and deliberately formal.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4051048 0
+S
+#4051051
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Carved masonry walls enclose a formal petition room beneath dark paneled beams
+past high-backed chairs and official reports arranged for practical daily use.
+Warm lamplight flickers across the council tables as the air holds a dry scent
+and the solemn chamber holds an air of restrained authority.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4051048 0
+S
+#4051052
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Pale masonry walls enclose a formal records chamber beneath dark paneled beams
+among long council tables and bound law books kept clear of the central aisle.
+A shifting glow trembles beneath the lofty ceiling while dust hangs in the air
+and the council room holds an air of restrained authority.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4051049 0
+D4
+Up~
+~
+0 0 4051054 0
+S
+#4051053
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Pale masonry walls frame this orderly meeting hall beneath arched ceiling ribs
+with broad writing desks and bound law books arranged for practical daily use.
+A shifting glow shines across the council tables and the air holds a dry scent
+as this formal hall carries the quiet dignity of civil rule.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4051049 0
+S
+#4051054
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Thick decorated walls enclose a formal meeting hall beneath dark paneled beams
+beside broad writing desks and sealed petitions arranged in disciplined order.
+Soft candlelight plays across the council tables and lamp smoke curls overhead
+as the council room holds an air of restrained authority.~
+0 1032 0 0 0 0
+D4
+Up~
+~
+0 0 4051055 0
+D5
+Down~
+~
+0 0 4051052 0
+S
+#4051055
+Ascadian isles, Ebonheart, town, Grand council's chambers~
+Carved masonry walls enclose a guarded meeting hall beneath dark paneled beams
+among high-backed chairs and official reports kept clear of the central aisle.
+Low golden light moves across the council tables and the air holds a dry scent
+as the council room feels measured and deliberately formal.~
+0 1032 0 0 0 0
+D4
+Up~
+~
+0 0 4051056 0
+D5
+Down~
+~
+0 0 4051054 0
+S
+#4051056
+Ascadian isles, Ebonheart, town, Grand council's chambers tower~
+Pale masonry walls frame this formal tower office beneath broad carved rafters
+beside high shuttered windows and regional maps set between the narrow aisles.
+Warm lamplight falls across the regional maps as the enclosed room stays quiet
+and this upper chamber feels calm above the busier halls.~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4051055 0
+S
+#4051057
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Heavy fortress walls frame this orderly guard room beneath stout ceiling beams
+past broad duty tables and sealed supply chests set between the narrow aisles.
+Warm lamplight moves across the weapon racks as the wooden floor remains still
+and the austere chamber offers function with little comfort.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4051058 0
+D4
+Up~
+~
+0 0 4051060 0
+S
+#4051058
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Stern masonry walls enclose a fortified guard room beneath aged overhead beams
+beside heavy weapon racks and stacked shields kept clear of the central aisle.
+A shifting glow moves across the weapon racks as the rafters hold deep shadows
+and the disciplined interior bears the wear of long service.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051059 0
+D1
+East~
+~
+0 0 4051057 0
+D2
+South~
+~
+0 0 4051025 0
+D4
+Up~
+~
+0 0 4051064 0
+D5
+Down~
+~
+0 0 4051067 0
+S
+#4051059
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Rough stone walls enclose a practical guard room beneath broad wooden supports
+beside sturdy storage racks and stacked shields arranged in disciplined order.
+Muted firelight plays across the weapon racks as the rafters hold deep shadows
+and this martial chamber remains prepared for another watch.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4051058 0
+S
+#4051060
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Rough stone walls frame this practical duty room beneath a high wooden ceiling
+beside sturdy storage racks and stacked shields ordered across the hard floor.
+Muted firelight moves across the weapon racks as shadows gather in the corners
+and the garrison room bears the wear of long service.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051061 0
+D5
+Down~
+~
+0 0 4051057 0
+S
+#4051061
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Stern masonry walls enclose a fortified guard room beneath dark timber rafters
+past plain wooden tables and stacked shields arranged for practical daily use.
+Warm lamplight drifts across the weapon racks as a light draft stirs the cloth
+and the austere chamber stands ready for alarms and patrols.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4051060 0
+S
+#4051062
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Stern masonry walls frame this practical duty room beneath stout ceiling beams
+with rows of wooden bunks and stacked shields kept clear of the central aisle.
+A shifting glow falls across the weapon racks as the enclosed room stays quiet
+and this martial chamber bears the wear of long service.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4051063 0
+S
+#4051063
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Weathered barracks walls enclose a crowded guard room beneath heavy roof beams
+beside sturdy storage racks and stacked shields set between the narrow aisles.
+Warm lamplight falls across the weapon racks as the wooden floor remains still
+and the garrison room offers function with little comfort.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051062 0
+D2
+South~
+~
+0 0 4051064 0
+S
+#4051064
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+A crowded guard room opens within stern masonry walls under pale lantern light
+with broad duty tables and sealed supply chests stored beneath sturdy shelves.
+A shifting glow plays across the weapon racks as shadows gather in the corners
+and the austere chamber remains prepared for another watch.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051063 0
+D5
+Down~
+~
+0 0 4051058 0
+S
+#4051065
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Austere plaster walls frame this fortified guard room beneath heavy roof beams
+with broad duty tables and sealed supply chests arranged in disciplined order.
+Warm lamplight plays across the weapon racks and the rafters hold deep shadows
+as the disciplined interior bears the wear of long service.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4051066 0
+S
+#4051066
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Broad fortified walls frame this crowded duty room beneath stout ceiling beams
+past rows of wooden bunks and stacked shields kept clear of the central aisle.
+A shifting glow falls across the weapon racks as a light draft stirs the cloth
+and the garrison room remains prepared for another watch.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051065 0
+D2
+South~
+~
+0 0 4051067 0
+S
+#4051067
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison~
+Rough stone walls frame this austere guard room beneath smoke-darkened rafters
+past broad duty tables and folded uniform cloaks resting in well-used corners.
+Warm lamplight plays across the weapon racks as the wooden floor remains still
+and the garrison room stands ready for alarms and patrols.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051066 0
+D4
+Up~
+~
+0 0 4051058 0
+S
+#4051068
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's hawkmoth towers~
+Austere plaster walls frame this narrow tower room beneath dark wooden rafters
+among heavy shuttered windows and bundled arrows resting in well-used corners.
+A shifting glow drifts over the steep inner stair as lamp smoke curls overhead
+and the raised chamber supports a long and patient watch.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051010 0
+S
+#4051069
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's hawkmoth towers~
+Stern masonry walls frame this elevated watch chamber beneath heavy roof beams
+beside a tight central ladder and warning horns arranged in disciplined order.
+Soft candlelight flickers over the steep inner stair and dust hangs in the air
+as the tower room stands exposed to every change in weather.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4051014 0
+S
+#4051070
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's hawkmoth towers~
+Stern masonry walls frame this austere sentry post beneath dark wooden rafters
+beside a tight central ladder and spare bows arranged for practical daily use.
+Soft candlelight falls across the narrow windows and lamp smoke curls overhead
+as the fortified interior remains ready to sound an alarm.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4051014 0
+S
+#4051071
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's hawkmoth towers~
+Broad fortified walls frame this narrow watch chamber beneath heavy roof beams
+beside a steep inner stair and bundled arrows kept clear of the central aisle.
+Low golden light falls along the waiting signal gear and dust hangs in the air
+as this narrow post remains ready to sound an alarm.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051017 0
+S
+#4051072
+Ascadian isles, Ebonheart, town, Fort Hawkmoth's hawkmoth towers~
+Rough stone walls enclose an austere upper guard room beneath heavy roof beams
+beside narrow firing slits and warning horns arranged for practical daily use.
+Low golden light plays over the steep inner stair as the air holds a dry scent
+and the raised chamber keeps its equipment close at hand.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4051017 0
+S
+#4051073
+Ascadian isles, Ebonheart, town, imperial chapels~
+Polished plaster walls frame this quiet prayer room beneath dark paneled beams
+among a raised devotional shrine, white votive candles and bound sacred texts.
+Low golden light shines over the altar as still air carries a trace of incense
+and the reverent hall keeps its offerings in careful order.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051074 0
+D1
+East~
+~
+0 0 4051019 0
+D2
+South~
+~
+0 0 4051076 0
+S
+#4051074
+Ascadian isles, Ebonheart, town, imperial chapels~
+High limewashed walls enclose a vaulted prayer room beneath dark paneled beams
+among broad offering tables, folded altar cloths and fragrant incense burners.
+A shifting glow falls along the shrine and painted icons catch the muted light
+as this quiet chapel holds a deep and disciplined stillness.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4051073 0
+D3
+West~
+~
+0 0 4051075 0
+S
+#4051075
+Ascadian isles, Ebonheart, town, imperial chapels~
+Pale masonry walls enclose a quiet shrine chamber beneath broad carved rafters
+past a polished stone altar and small offering bowls placed within easy reach.
+Faint hearth light glimmers beneath the vault as incense scents the sacred air
+and the sacred room preserves the dignity of formal worship.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4051074 0
+D4
+Up~
+~
+0 0 4051078 0
+S
+#4051076
+Ascadian isles, Ebonheart, town, imperial chapels~
+Polished plaster walls enclose a solemn chapel hall beneath dark paneled beams
+among rows of prayer benches, ceremonial vessels and fragrant incense burners.
+Faint hearth light plays over the altar as the chamber retains a reverent calm
+and the solemn chamber keeps its offerings in careful order.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051073 0
+D3
+West~
+~
+0 0 4051077 0
+S
+#4051077
+Ascadian isles, Ebonheart, town, imperial chapels~
+Pale masonry walls frame this reverent prayer room beneath arched ceiling ribs
+among a polished stone altar, ceremonial vessels and fragrant incense burners.
+Faint hearth light falls along the shrine as votive flames cast gentle shadows
+and this quiet chapel retains an atmosphere of sacred calm.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4051076 0
+D4
+Up~
+~
+0 0 4051079 0
+S
+#4051078
+Ascadian isles, Ebonheart, town, imperial chapels~
+Pale masonry walls enclose a reverent prayer room beneath broad carved rafters
+with a polished stone altar and small offering bowls placed within easy reach.
+Muted firelight falls along the shrine as incense scents the sacred air nearby
+and the solemn chamber retains an atmosphere of sacred calm.~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4051075 0
+S
+#4051079
+Ascadian isles, Ebonheart, town, imperial chapels~
+Carved masonry walls frame this vaulted chapel hall beneath dark paneled beams
+with a polished stone altar and white votive candles placed within easy reach.
+Warm lamplight moves along the shrine and soft echoes linger beneath the vault
+as the sacred room retains an atmosphere of sacred calm.~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4051077 0
+S
+#4051080
+Ascadian isles, Ebonheart, town, imperial commission~
+Pale masonry walls enclose an orderly records room beneath dark timber rafters
+among broad writing desks and sealed reports arranged for practical daily use.
+Warm lamplight moves across the official forms while the air holds a dry scent
+and the formal office supports patient administrative work.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051019 0
+D2
+South~
+~
+0 0 4051081 0
+S
+#4051081
+Ascadian isles, Ebonheart, town, imperial commission~
+Pale masonry walls enclose an orderly records room beneath aged overhead beams
+among locked document chests and official forms set neatly around the chamber.
+Low golden light drifts over the broad writing desks and dust hangs in the air
+as the ordered chamber supports patient administrative work.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051080 0
+D2
+South~
+~
+0 0 4051082 0
+S
+#4051082
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+The austere watch room rests within rough stone walls beneath heavy roof beams
+beside scarred duty tables and polished shields arranged in disciplined order.
+Warm lamplight shines across the wooden bunks as the enclosed room stays quiet
+and the practical interior remains ready for sudden alarms.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051081 0
+D1
+East~
+~
+0 0 4051087 0
+D2
+South~
+~
+0 0 4051083 0
+D3
+West~
+~
+0 0 4051086 0
+S
+#4051083
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+Heavy fortress walls enclose a fortified duty hall beneath dark timber rafters
+beside sturdy weapon racks and polished shields ordered across the hard floor.
+Warm lamplight drifts across the wooden bunks as a light draft stirs the cloth
+and the guard room remains ready for sudden alarms.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051082 0
+D2
+South~
+~
+0 0 4051084 0
+S
+#4051084
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+Rough stone walls frame this austere barracks chamber beneath heavy roof beams
+among plain wooden bunks and folded watch cloaks resting in well-used corners.
+Warm lamplight plays over the waiting shields as the enclosed room stays quiet
+and this watch chamber keeps its equipment in strict order.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051083 0
+D2
+South~
+~
+0 0 4051085 0
+S
+#4051085
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+Thick defensive walls frame this well-used watch room beneath heavy roof beams
+among plain wooden bunks and locked equipment chests placed within easy reach.
+Warm lamplight falls over the waiting shields as shadows gather in the corners
+and the austere chamber remains ready for sudden alarms.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4051084 0
+S
+#4051086
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+Broad fortified walls enclose a guarded watch room beneath aged overhead beams
+beside sturdy weapon racks and polished shields arranged in disciplined order.
+Warm lamplight moves across the wooden bunks and the rafters hold deep shadows
+as the austere chamber remains ready for sudden alarms.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4051082 0
+D4
+Up~
+~
+0 0 4051088 0
+S
+#4051087
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+Stern masonry walls frame this guarded duty hall beneath broad wooden supports
+with sturdy weapon racks and spare armor pieces set between the narrow aisles.
+Warm lamplight falls over the waiting shields as the rafters hold deep shadows
+and this watch chamber offers rough shelter between watches.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4051082 0
+D4
+Up~
+~
+0 0 4051089 0
+S
+#4051088
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+Heavy fortress walls frame this guarded watch room beneath stout ceiling beams
+beside sturdy weapon racks and polished shields set between the narrow aisles.
+Warm lamplight plays across the wooden bunks and a light draft stirs the cloth
+as the practical interior remains ready for sudden alarms.~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4051086 0
+S
+#4051089
+Ascadian isles, Ebonheart, town, Imperial guard's garrison~
+Rough stone walls frame this austere duty hall beneath a shallow plaster vault
+past sturdy weapon racks and spare armor pieces set between the narrow aisles.
+Warm lamplight drifts across the wooden bunks as shadows gather in the corners
+and the guard room keeps its equipment in strict order.~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4051087 0
+S
+#4051090
+Ascadian isles, Ebonheart, town, Six Fishes's tavern~
+A busy public room opens within weathered stone walls under muted hearth light
+past small dining tables and stacked meal bowls stored beneath sturdy shelves.
+A shifting glow plays over the tables as cooking steam gathers overhead nearby
+and the lively room provides plain comfort for weary guests.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051091 0
+S
+#4051091
+Ascadian isles, Ebonheart, town, Six Fishes's tavern~
+Thick mortared walls enclose a busy dining chamber beneath aged overhead beams
+among long common benches and stacked meal bowls resting in well-used corners.
+Warm lamplight plays over the tables as ale and woodsmoke scent the air nearby
+and the lively room holds the scents of ale, smoke and stew.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051090 0
+D1
+East~
+~
+0 0 4051028 0
+D2
+South~
+~
+0 0 4051092 0
+D4
+Up~
+~
+0 0 4051094 0
+S
+#4051092
+Ascadian isles, Ebonheart, town, Six Fishes's tavern~
+Thick mortared walls enclose a well-used taproom beneath broad wooden supports
+past small dining tables and stacked meal bowls ordered across the hard floor.
+Soft candlelight flickers over the tables while cooking steam gathers overhead
+as this warm tavern holds the scents of ale, smoke and stew.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051091 0
+S
+#4051093
+Ascadian isles, Ebonheart, town, Six Fishes's tavern~
+Weathered stone walls enclose a busy public room beneath broad wooden supports
+past small dining tables and stacked meal bowls arranged in disciplined order.
+Pale lantern light plays over the tables while ale and woodsmoke scent the air
+as this warm tavern provides plain comfort for weary guests.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051094 0
+S
+#4051094
+Ascadian isles, Ebonheart, town, Six Fishes's tavern~
+A well-used taproom opens within sturdy masonry walls under muted hearth light
+with long common benches and stacked meal bowls set neatly around the chamber.
+A shifting glow drifts over the tables and woodsmoke curls beneath the rafters
+as the lively room provides plain comfort for weary guests.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051093 0
+D5
+Down~
+~
+0 0 4051091 0
+S
+#4051095
+Ascadian isles, Ebonheart, town, Skyrim's mission~
+Thick plaster walls enclose a sturdy residential room beneath heavy roof beams
+past broad carved benches and covered food trays resting in well-used corners.
+Warm lamplight moves over the fur rugs and deep shadows gather near the chests
+as the warm mission remains suited to private hospitality.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051096 0
+D1
+East~
+~
+0 0 4051012 0
+D2
+South~
+~
+0 0 4051097 0
+D4
+Up~
+~
+0 0 4051099 0
+D5
+Down~
+~
+0 0 4051098 0
+S
+#4051096
+Ascadian isles, Ebonheart, town, Skyrim's mission~
+Timber-paneled walls frame this sturdy reception room beneath heavy roof beams
+beside deep wooden chairs and fur-lined rugs arranged for practical daily use.
+Warm lamplight moves over the fur rugs as the broad hearth gives steady warmth
+and this timbered room holds the scent of woodsmoke and wax.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4051095 0
+S
+#4051097
+Ascadian isles, Ebonheart, town, Skyrim's mission~
+Heavy paneled walls enclose a sturdy meeting room beneath dark carved supports
+among deep wooden chairs and covered food trays set neatly around the chamber.
+Warm lamplight drifts over the fur rugs as woven hangings stir in a mild draft
+and the sturdy chamber holds the scent of woodsmoke and wax.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4051095 0
+S
+#4051098
+Ascadian isles, Ebonheart, town, Skyrim's mission~
+Carved interior walls enclose a sturdy reception room beneath heavy roof beams
+among deep wooden chairs and covered food trays ordered across the hard floor.
+Warm lamplight drifts over the fur rugs as woodsmoke scents the sheltered room
+and the warm mission keeps its furnishings in careful order.~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4051095 0
+S
+#4051099
+Ascadian isles, Ebonheart, town, Skyrim's mission~
+Thick plaster walls enclose a welcoming guest chamber beneath heavy roof beams
+among deep wooden chairs and covered food trays set between the narrow aisles.
+Warm lamplight moves over the fur rugs and carved timber reflects a muted glow
+as this timbered room remains suited to private hospitality.~
+0 8 0 0 0 0
+D5
+Down~
+~
+0 0 4051095 0
+S
+#4051100
+Ascadian isles, Ebonheart, town, undeground caves~
+Dark fractured walls enclose a cool rock passage beneath jagged overhead stone
+past mineral ledges, shallow pools and pale fungus scattered over rough stone.
+Muted firelight moves over the damp floor as ripples disturb the shallow pools
+and this natural chamber continues into quiet darkness.~
+0 8 13 0 0 0
+S
+#0
+
+#RESETS
+M 0 2300152 1 4051001  ;  Mob: Apelles Matius [Npcs] => #4051001 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3108003 1 5  ; -- Equip: Adamantium jack [Items] (body)
+E 1 3108002 1 10  ; -- Equip: Adamantium armcops [Items] (arms)
+E 1 3108006 1 7  ; -- Equip: Adamantium guards [Items] (legs)
+E 1 3108007 1 8  ; -- Equip: Adamantium boots [Items] (feet)
+E 1 3108005 1 9  ; -- Equip: Adamantium wristguards [Items] (hands)
+E 1 3201028 1 16  ; -- Equip: Adamantium mace [Items] (wield)
+M 0 2301393 1 4051002  ;  Mob: Jonus Maximus [Npcs] => #4051002 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3137003 1 5  ; -- Equip: Imperial templar cuirass [Items] (body)
+E 1 3137001 1 6  ; -- Equip: Imperial templar helm [Items] (head)
+E 1 3137002 1 10  ; -- Equip: Imperial templar pauldrons [Items] (arms)
+E 1 3137007 1 8  ; -- Equip: Imperial templar sabatons [Items] (feet)
+E 1 3137005 1 9  ; -- Equip: Imperial templar gauntlets [Items] (hands)
+E 1 3137004 1 13  ; -- Equip: Imperial templar girdle [Items] (waist)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301574 1 4051003  ;  Mob: Maline Masolaude [Npcs] => #4051003 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+G 1 3403060 1 ; -- Give: Bread [Items]
+M 0 2301971 1 4051004  ;  Mob: Pilus Amatius [Npcs] => #4051004 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3301016 1 1  ; -- Equip: Diamond ring [Items] (finger-r)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+M 0 2302689 1 4051005  ;  Mob: Vilamon [Npcs] => #4051005 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3235018 1 16  ; -- Equip: Steel longsword [Items] (wield)
+G 1 3403060 1 ; -- Give: Bread [Items]
+G 1 3403188 1 ; -- Give: Hound meat [Items]
+M 0 2300346 1 4051006  ;  Mob: Blatta Hateria [Npcs] => #4051006 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300859 1 4051007  ;  Mob: Fainertil [Npcs] => #4051007 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3150001 1 6  ; -- Equip: Nordic iron helm [Items] (head)
+E 1 3150003 1 5  ; -- Equip: Nordic iron cuirass [Items] (body)
+E 1 3150002 1 10  ; -- Equip: Nordic iron pauldrons [Items] (arms)
+E 1 3150006 1 7  ; -- Equip: Nordic iron greaves [Items] (legs)
+E 1 3132007 1 8  ; -- Equip: Imperial iron sabatons [Items] (feet)
+E 1 3139005 1 9  ; -- Equip: Iron gauntlets [Items] (hands)
+E 1 3223020 1 16  ; -- Equip: Iron claymore [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2301003 1 4051008  ;  Mob: Gaeldol [Npcs] => #4051008 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3119001 1 6  ; -- Equip: Colovian fur coif [Items] (head)
+E 1 3149003 1 5  ; -- Equip: Nordic fur jerkin [Items] (body)
+E 1 3149006 1 7  ; -- Equip: Nordic fur breeches [Items] (legs)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3237040 1 16  ; -- Equip: Wooden longbow [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2301279 1 4051009  ;  Mob: Ian [Npcs] => #4051009 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3149003 1 5  ; -- Equip: Nordic fur jerkin [Items] (body)
+E 1 3149006 1 7  ; -- Equip: Nordic fur breeches [Items] (legs)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3235040 1 16  ; -- Equip: Steel longbow [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2301857 1 4051010  ;  Mob: Nevosi Hlan [Npcs] => #4051010 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301920 1 4051011  ;  Mob: Olfin gro-Logrob [Npcs] => #4051011 [Ebonheart] Ascadian isles, Ebonheart, town
+E 1 3150001 1 6  ; -- Equip: Nordic iron helm [Items] (head)
+E 1 3150003 1 5  ; -- Equip: Nordic iron cuirass [Items] (body)
+E 1 3139002 1 10  ; -- Equip: Iron pauldrons [Items] (arms)
+E 1 3139006 1 7  ; -- Equip: Iron greaves [Items] (legs)
+E 1 3132007 1 8  ; -- Equip: Imperial iron sabatons [Items] (feet)
+E 1 3139005 1 9  ; -- Equip: Iron gauntlets [Items] (hands)
+E 1 3231020 1 16  ; -- Equip: Silver claymore [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300115 1 4051032  ;  Mob: An-Deesei [Npcs] => #4051032 [Ebonheart] Ascadian isles, Ebonheart, town, argonian mission
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3320013 1 2  ; -- Equip: Twin lamps' insignia [Items] (finger-l)
+M 0 2301067 1 4051033  ;  Mob: Geel-Lah [Npcs] => #4051033 [Ebonheart] Ascadian isles, Ebonheart, town, argonian mission
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3320013 1 2  ; -- Equip: Twin lamps' insignia [Items] (finger-l)
+M 0 2301313 1 4051034  ;  Mob: Im-Kilaya [Npcs] => #4051034 [Ebonheart] Ascadian isles, Ebonheart, town, argonian mission
+E 1 3104032 1 13  ; -- Equip: Expensive sash of health [Items] (waist)
+E 1 3106009 1 5  ; -- Equip: Exquisite robe [Items] (body)
+E 1 3301033 1 3  ; -- Equip: Jeweled amulet [Items] (neck-1)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+E 1 3320013 1 2  ; -- Equip: Twin lamps' insignia [Items] (finger-l)
+M 0 2301926 1 4051035  ;  Mob: On-Wan [Npcs] => #4051035 [Ebonheart] Ascadian isles, Ebonheart, town, argonian mission
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301928 1 4051036  ;  Mob: Onasha [Npcs] => #4051036 [Ebonheart] Ascadian isles, Ebonheart, town, argonian mission
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3320013 1 2  ; -- Equip: Twin lamps' insignia [Items] (finger-l)
+M 0 2302555 1 4051037  ;  Mob: Ukawei [Npcs] => #4051037 [Ebonheart] Ascadian isles, Ebonheart, town, argonian mission
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+E 1 3320013 1 2  ; -- Equip: Twin lamps' insignia [Items] (finger-l)
+M 0 2300356 1 4051038  ;  Mob: Bolrin [Npcs] => #4051038 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's hall
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+M 0 2300440 1 4051039  ;  Mob: Canctunian Ponius [Npcs] => #4051039 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's hall
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3301016 1 1  ; -- Equip: Diamond ring [Items] (finger-r)
+G 1 3408032 1 ; -- Give: Skooma pipe [Items]
+G 1 3403235 1 ; -- Give: Moon sugar [Items]
+M 0 2301362 1 4051040  ;  Mob: J'Zhirr [Npcs] => #4051040 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's hall
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+M 0 2301914 1 4051041  ;  Mob: Okan-Shei [Npcs] => #4051041 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's hall
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+M 0 2302248 1 4051042  ;  Mob: Shazgob gra-Luzgan [Npcs] => #4051042 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's hall
+E 1 3140005 1 9  ; -- Equip: Leather bracers [Items] (hands)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300948 1 4051043  ;  Mob: Fiiriel [Npcs] => #4051043 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's north warehouse
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3152003 1 5  ; -- Equip: Nordic ringmail jack [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3235026 1 16  ; -- Equip: Steel battleaxe [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2301174 1 4051044  ;  Mob: Haening [Npcs] => #4051044 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's north warehouse
+E 1 3114001 1 6  ; -- Equip: Boiled netch leather coif [Items] (head)
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3144008 1 17  ; -- Equip: Netch leather buckler [Items] (hold)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2302274 1 4051045  ;  Mob: Siltalaure [Npcs] => #4051045 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's south warehouse
+E 1 3114001 1 6  ; -- Equip: Boiled netch leather coif [Items] (head)
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144008 1 17  ; -- Equip: Netch leather buckler [Items] (hold)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3223015 1 16  ; -- Equip: Iron saber [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2302454 1 4051046  ;  Mob: Thoromlallor [Npcs] => #4051046 [Ebonheart] Ascadian isles, Ebonheart, town, East empire company's south warehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3152003 1 5  ; -- Equip: Nordic ringmail jack [Items] (body)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3235026 1 16  ; -- Equip: Steel battleaxe [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300202 1 4051047  ;  Mob: Asciene Rane [Npcs] => #4051047 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+M 0 2300708 1 4051048  ;  Mob: Duke Vedam Dren [Npcs] => #4051048 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3123003 1 5  ; -- Equip: Ebony cuirass [Items] (body)
+E 1 3123002 1 10  ; -- Equip: Ebony pauldrons [Items] (arms)
+E 1 3123006 1 7  ; -- Equip: Ebony greaves [Items] (legs)
+E 1 3123007 1 8  ; -- Equip: Ebony sabatons [Items] (feet)
+E 1 3123005 1 9  ; -- Equip: Ebony gauntlets [Items] (hands)
+E 1 3236110 1 16  ; -- Equip: Steel mace of shock [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301011 1 4051049  ;  Mob: Galas Drenim [Npcs] => #4051049 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3213012 1 16  ; -- Equip: Ebony shortsword [Items] (wield)
+G 1 3401064 1 ; -- Give: Potion of restore magicka [Items]
+E 1 3320016 1 2  ; -- Equip: House Telvanni's insignia [Items] (finger-l)
+M 0 2301479 1 4051050  ;  Mob: Llaalam Dredil [Npcs] => #4051050 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301508 1 4051051  ;  Mob: Llerar Mandas [Npcs] => #4051051 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3211032 1 16  ; -- Equip: Dwarven warhammer [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301523 1 4051052  ;  Mob: Llivas Othravel [Npcs] => #4051052 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3114001 1 6  ; -- Equip: Boiled netch leather coif [Items] (head)
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3211041 1 16  ; -- Equip: Dwarven crossbow [Items] (wield)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302048 1 4051053  ;  Mob: Relen Hlaalu [Npcs] => #4051053 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3114001 1 6  ; -- Equip: Boiled netch leather coif [Items] (head)
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302107 1 4051054  ;  Mob: Ruccia Conician [Npcs] => #4051054 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3211012 1 16  ; -- Equip: Dwarven shortsword [Items] (wield)
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302652 1 4051055  ;  Mob: Varus Vantinius [Npcs] => #4051055 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers
+E 1 3004011 1 5  ; -- Equip: Duke's guard silver cuirass [Items] (body)
+E 1 3135002 1 10  ; -- Equip: Imperial silver pauldrons [Items] (arms)
+E 1 3135006 1 7  ; -- Equip: Imperial silver greaves [Items] (legs)
+E 1 3135007 1 8  ; -- Equip: Imperial silver sabatons [Items] (feet)
+E 1 3135005 1 9  ; -- Equip: Imperial silver gauntlets [Items] (hands)
+E 1 3019006 1 16  ; -- Equip: Steel broadsword of hewing [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301633 1 4051056  ;  Mob: Matus Mido [Npcs] => #4051056 [Ebonheart] Ascadian isles, Ebonheart, town, Grand council's chambers tower
+E 1 3135001 1 6  ; -- Equip: Imperial silver helm [Items] (head)
+E 1 3004011 1 5  ; -- Equip: Duke's guard silver cuirass [Items] (body)
+E 1 3135002 1 10  ; -- Equip: Imperial silver pauldrons [Items] (arms)
+E 1 3135007 1 8  ; -- Equip: Imperial silver sabatons [Items] (feet)
+E 1 3135005 1 9  ; -- Equip: Imperial silver gauntlets [Items] (hands)
+E 1 3135008 1 17  ; -- Equip: Imperial silver bulwark [Items] (hold)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300090 1 4051057  ;  Mob: Alodie Jes [Npcs] => #4051057 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300242 1 4051058  ;  Mob: Aumsi [Npcs] => #4051058 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3128007 1 8  ; -- Equip: Heavy leather striders [Items] (feet)
+E 1 3235028 1 16  ; -- Equip: Steel mace [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300835 1 4051059  ;  Mob: Ervona Barys [Npcs] => #4051059 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3136001 1 6  ; -- Equip: Imperial steel helm [Items] (head)
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3136005 1 9  ; -- Equip: Imperial steel gauntlets [Items] (hands)
+E 1 3101002 1 7  ; -- Equip: Imperial skirt [Items] (legs)
+M 0 2300877 1 4051060  ;  Mob: Fanildil [Npcs] => #4051060 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401060 1 ; -- Give: Potion of restore personality [Items]
+G 1 3401061 1 ; -- Give: Potion of restore luck [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300982 1 4051061  ;  Mob: Frald the White [Npcs] => #4051061 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3137003 1 5  ; -- Equip: Imperial templar cuirass [Items] (body)
+E 1 3137002 1 10  ; -- Equip: Imperial templar pauldrons [Items] (arms)
+E 1 3137007 1 8  ; -- Equip: Imperial templar sabatons [Items] (feet)
+E 1 3137005 1 9  ; -- Equip: Imperial templar gauntlets [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301394 1 4051062  ;  Mob: Joshur [Npcs] => #4051062 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2301456 1 4051063  ;  Mob: Landorume [Npcs] => #4051063 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3235003 1 ; -- Give: Steel throwing knife [Items]
+G 1 3235002 1 ; -- Give: Steel throwing star [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301830 1 4051064  ;  Mob: Nebia Amphia [Npcs] => #4051064 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401035 1 ; -- Give: Potion of fire resistance [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301833 1 4051065  ;  Mob: Nedhelorn [Npcs] => #4051065 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301892 1 4051066  ;  Mob: Norring [Npcs] => #4051066 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302281 1 4051067  ;  Mob: Sirollus Saccus [Npcs] => #4051067 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's legion garrison
+E 1 3132003 1 5  ; -- Equip: Imperial iron cuirass [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3213028 1 16  ; -- Equip: Ebony mace [Items] (wield)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408041 1 ; -- Give: Master armorer's hammer [Items]
+G 1 3408043 1 ; -- Give: Secret master armorer's hammer [Items]
+G 1 3136002 1 ; -- Give: Imperial steel pauldrons [Items]
+G 1 3160005 1 ; -- Give: Studded leather bracers [Items]
+G 1 3213028 1 ; -- Give: Ebony mace [Items]
+G 1 3231034 1 ; -- Give: Silver spear [Items]
+G 1 3157001 1 ; -- Give: Silver helm [Items]
+G 1 3135008 1 ; -- Give: Imperial silver bulwark [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300241 1 4051068  ;  Mob: Augurius Sialius [Npcs] => #4051068 [Ebonheart] Ascadian isles, Ebonheart, town, Fort Hawkmoth's hawkmoth towers
+E 1 3004011 1 5  ; -- Equip: Duke's guard silver cuirass [Items] (body)
+E 1 3135002 1 10  ; -- Equip: Imperial silver pauldrons [Items] (arms)
+E 1 3135007 1 8  ; -- Equip: Imperial silver sabatons [Items] (feet)
+E 1 3135005 1 9  ; -- Equip: Imperial silver gauntlets [Items] (hands)
+E 1 3135008 1 17  ; -- Equip: Imperial silver bulwark [Items] (hold)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3231036 1 16  ; -- Equip: Silver halberd [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300986 1 4051073  ;  Mob: Frik [Npcs] => #4051073 [Ebonheart] Ascadian isles, Ebonheart, town, imperial chapels
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3231031 1 16  ; -- Equip: Silver staff [Items] (wield)
+G 1 3401008 1 ; -- Give: Potion of light [Items]
+G 1 3401009 1 ; -- Give: Potion of nighteye [Items]
+G 1 3401037 1 ; -- Give: Potion of shock resistance [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401064 1 ; -- Give: Potion of restore magicka [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2301346 1 4051074  ;  Mob: Iulus Truptor [Npcs] => #4051074 [Ebonheart] Ascadian isles, Ebonheart, town, imperial chapels
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3301040 1 1  ; -- Equip: Malachite ring [Items] (finger-r)
+G 1 3406183 1 ; -- Give: Guide to Vivec [Items]
+G 1 3406074 1 ; -- Give: Battle of Sancre tor [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2301415 1 4051075  ;  Mob: Kaye [Npcs] => #4051075 [Ebonheart] Ascadian isles, Ebonheart, town, imperial chapels
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235017 1 16  ; -- Equip: Steel katana [Items] (wield)
+G 1 3235032 1 ; -- Give: Steel warhammer [Items]
+G 1 3235020 1 ; -- Give: Steel claymore [Items]
+G 1 3235024 1 ; -- Give: Steel waraxe [Items]
+G 1 3235036 1 ; -- Give: Steel halberd [Items]
+G 1 3235041 1 ; -- Give: Steel crossbow [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2301451 1 4051076  ;  Mob: Lalatia Varian [Npcs] => #4051076 [Ebonheart] Ascadian isles, Ebonheart, town, imperial chapels
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401019 1 ; -- Give: Potion of cure disease [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401064 1 ; -- Give: Potion of restore magicka [Items]
+G 1 3401038 1 ; -- Give: Potion of poison resistance [Items]
+G 1 3401039 1 ; -- Give: Potion of magic resistance [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302159 1 4051077  ;  Mob: Sarmosia Vant [Npcs] => #4051077 [Ebonheart] Ascadian isles, Ebonheart, town, imperial chapels
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302172 1 4051078  ;  Mob: Sauleius Cullian [Npcs] => #4051078 [Ebonheart] Ascadian isles, Ebonheart, town, imperial chapels
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3236069 1 16  ; -- Equip: Steel mace of frost [Items] (wield)
+G 1 3402008 1 ; -- Give: Scroll of levitate [Items]
+G 1 3402005 1 ; -- Give: Scroll of frost shield [Items]
+G 1 3402013 1 ; -- Give: Scroll of bound axe weapon [Items]
+G 1 3402019 1 ; -- Give: Scroll of bound short blade [Items]
+G 1 3402041 1 ; -- Give: Scroll of dispel [Items]
+G 1 3402032 1 ; -- Give: Scroll of summon undead [Items]
+G 1 3402056 1 ; -- Give: Scroll of fortify magicka [Items]
+G 1 3402099 1 ; -- Give: Scroll of damage armor [Items]
+G 1 3402095 1 ; -- Give: Scroll of damage health [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302354 1 4051079  ;  Mob: Synnolian Tunifus [Npcs] => #4051079 [Ebonheart] Ascadian isles, Ebonheart, town, imperial chapels
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401055 1 ; -- Give: Potion of restore strength [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401035 1 ; -- Give: Potion of fire resistance [Items]
+G 1 3401036 1 ; -- Give: Potion of frost resistance [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302108 1 4051080  ;  Mob: Rufinus Alleius [Npcs] => #4051080 [Ebonheart] Ascadian isles, Ebonheart, town, imperial commission
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302544 1 4051081  ;  Mob: Tuvene Arethan [Npcs] => #4051081 [Ebonheart] Ascadian isles, Ebonheart, town, imperial commission
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3301040 1 1  ; -- Equip: Malachite ring [Items] (finger-r)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300337 1 4051082  ;  Mob: Birard Adrognese [Npcs] => #4051082 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3136001 1 6  ; -- Equip: Imperial steel helm [Items] (head)
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136006 1 7  ; -- Equip: Imperial steel greaves [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3136008 1 17  ; -- Equip: Imperial steel bulwark [Items] (hold)
+E 1 3235039 1 16  ; -- Equip: Steel shortbow [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300451 1 4051083  ;  Mob: Cavortius Albuttian [Npcs] => #4051083 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136002 1 10  ; -- Equip: Imperial steel pauldrons [Items] (arms)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3136005 1 9  ; -- Equip: Imperial steel gauntlets [Items] (hands)
+E 1 3136008 1 17  ; -- Equip: Imperial steel bulwark [Items] (hold)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300749 1 4051084  ;  Mob: Ekkhi [Npcs] => #4051084 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3159007 1 8  ; -- Equip: Steel sabatons [Items] (feet)
+E 1 3159005 1 9  ; -- Equip: Steel gauntlets [Items] (hands)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300990 1 4051085  ;  Mob: Frostien Ephine [Npcs] => #4051085 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136001 1 6  ; -- Equip: Imperial steel helm [Items] (head)
+E 1 3136006 1 7  ; -- Equip: Imperial steel greaves [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3140005 1 9  ; -- Equip: Leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3235039 1 16  ; -- Equip: Steel shortbow [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301112 1 4051086  ;  Mob: Glallian Maraennius [Npcs] => #4051086 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130008 1 17  ; -- Equip: Imperial chain shield [Items] (hold)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301378 1 4051087  ;  Mob: Jelin [Npcs] => #4051087 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3132001 1 6  ; -- Equip: Imperial iron helm [Items] (head)
+E 1 3132003 1 5  ; -- Equip: Imperial iron cuirass [Items] (body)
+E 1 3132006 1 7  ; -- Equip: Imperial iron greaves [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3132008 1 17  ; -- Equip: Imperial iron bulwark [Items] (hold)
+E 1 3221039 1 16  ; -- Equip: Imperial shortbow [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302128 1 4051088  ;  Mob: Sader [Npcs] => #4051088 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3132001 1 6  ; -- Equip: Imperial iron helm [Items] (head)
+E 1 3132003 1 5  ; -- Equip: Imperial iron cuirass [Items] (body)
+E 1 3132006 1 7  ; -- Equip: Imperial iron greaves [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3132008 1 17  ; -- Equip: Imperial iron bulwark [Items] (hold)
+E 1 3221039 1 16  ; -- Equip: Imperial shortbow [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302685 1 4051089  ;  Mob: Viccia Claevius [Npcs] => #4051089 [Ebonheart] Ascadian isles, Ebonheart, town, Imperial guard's garrison
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3231031 1 16  ; -- Equip: Silver staff [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300040 1 4051090  ;  Mob: Agning [Npcs] => #4051090 [Ebonheart] Ascadian isles, Ebonheart, town, Six Fishes's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235032 1 16  ; -- Equip: Steel warhammer [Items] (wield)
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410009 1 ; -- Give: Greef [Items]
+G 1 3410008 1 ; -- Give: Mazte [Items]
+G 1 3410012 1 ; -- Give: Vintage brandy [Items]
+G 1 3410014 1 ; -- Give: Alto wine [Items]
+G 1 3410013 1 ; -- Give: Aged flin [Items]
+M 0 2300457 1 4051091  ;  Mob: Chanil-Lee [Npcs] => #4051091 [Ebonheart] Ascadian isles, Ebonheart, town, Six Fishes's tavern
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3235012 1 16  ; -- Equip: Steel shortsword [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301395 1 4051092  ;  Mob: Joslin [Npcs] => #4051092 [Ebonheart] Ascadian isles, Ebonheart, town, Six Fishes's tavern
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130002 1 10  ; -- Equip: Imperial chain armcops [Items] (arms)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3139007 1 8  ; -- Equip: Iron sabatons [Items] (feet)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3232053 1 16  ; -- Equip: Silver shortsword of frost [Items] (wield)
+M 0 2301462 1 4051093  ;  Mob: Lassinia Mussillius [Npcs] => #4051093 [Ebonheart] Ascadian isles, Ebonheart, town, Six Fishes's tavern
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3009002 1 16  ; -- Equip: Imperial netch blade [Items] (wield)
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302696 1 4051094  ;  Mob: Vinnus Laecinnius [Npcs] => #4051094 [Ebonheart] Ascadian isles, Ebonheart, town, Six Fishes's tavern
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3131008 1 17  ; -- Equip: Imperial dragonscale shield [Items] (hold)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300299 1 4051095  ;  Mob: Bedraflod [Npcs] => #4051095 [Ebonheart] Ascadian isles, Ebonheart, town, Skyrim's mission
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3019004 1 16  ; -- Equip: Steel jinkblade [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300403 1 4051096  ;  Mob: Briring [Npcs] => #4051096 [Ebonheart] Ascadian isles, Ebonheart, town, Skyrim's mission
+E 1 3152003 1 5  ; -- Equip: Nordic ringmail jack [Items] (body)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3235026 1 16  ; -- Equip: Steel battleaxe [Items] (wield)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300747 1 4051097  ;  Mob: Eiruki Hearth-Healer [Npcs] => #4051097 [Ebonheart] Ascadian isles, Ebonheart, town, Skyrim's mission
+E 1 3152003 1 5  ; -- Equip: Nordic ringmail jack [Items] (body)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3223026 1 16  ; -- Equip: Iron battleaxe [Items] (wield)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301206 1 4051098  ;  Mob: Heidmir [Npcs] => #4051098 [Ebonheart] Ascadian isles, Ebonheart, town, Skyrim's mission
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3232132 1 16  ; -- Equip: Silver dagger of poison [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301326 1 4051099  ;  Mob: Ingokning [Npcs] => #4051099 [Ebonheart] Ascadian isles, Ebonheart, town, Skyrim's mission
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3018010 1 1  ; -- Equip: Ring of knuckle luck [Items] (finger-r)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300994 1 4051100  ;  Mob: Furius Acilius [Npcs] => #4051100 [Ebonheart] Ascadian isles, Ebonheart, town, undeground caves
+E 1 3012003 1 5  ; -- Equip: Lord's mail [Items] (body)
+E 1 3136002 1 10  ; -- Equip: Imperial steel pauldrons [Items] (arms)
+E 1 3136006 1 7  ; -- Equip: Imperial steel greaves [Items] (legs)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3136005 1 9  ; -- Equip: Imperial steel gauntlets [Items] (hands)
+E 1 3004010 1 16  ; -- Equip: Demon katana [Items] (wield)
+G 1 3401004 1 ; -- Give: Potion of levitate [Items]
+S
+
+#SHOPS
+2302281 5 9 0 0 0 120 90 0 23 ; Sirollus Saccus
+2302172 9 5 41 2 0 120 90 0 23 ; Sauleius Cullian
+2300040 17 19 0 0 0 120 90 0 23 ; Agning
+2300986 10 13 19 0 0 120 90 0 23 ; Frik
+2301456 5 9 12 8 35 120 90 0 23 ; Landorume
+2301415 5 9 12 8 35 120 90 0 23 ; Kaye
+2300877 10 13 0 0 0 120 90 0 23 ; Fanildil
+2302354 10 13 0 0 0 120 90 0 23 ; Synnolian Tunifus
+2301830 10 0 0 0 0 120 90 0 23 ; Nebia Amphia
+2301451 10 0 0 0 0 120 90 0 23 ; Lalatia Varian
+2301346 35 0 0 0 0 120 90 0 23 ; Iulus Truptor
+0
+
+#REPAIRS
+2302281 9 5 0 100 1 0 23 ; Sirollus Saccus
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 EBONHEART~
+Ebonheart is the heart of Imperial authority and government across Vvardenfell
+where the Duke and Grand Council rule from a vast keep guarded by legionaries.
+Chapels, foreign missions and company warehouses all line the fortified harbor
+as soldiers protect the docks and halls of provincial power.~
+0 $~
+
+#$

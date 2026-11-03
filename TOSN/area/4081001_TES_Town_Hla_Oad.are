@@ -1,0 +1,634 @@
+#AREA Hla oad~
+
+#VERSION 1
+
+#CLIMATE 1 4 1
+
+#NEIGHBOR Bitter coast~
+
+#AUTHOR Oblisgr~
+
+#RANGES
+1 5 0 60
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 10
+
+#ECONOMY 0 497845790
+
+#MOBILES
+#4081001
+RESERVED~
+RESERVED~
+RESERVED
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4081001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4081001
+Bitter coast, Hla Oad, village~
+Rough earthen ways wind among low wooden dwellings through a haze of woodsmoke
+past empty fish crates, clay vessels and drying racks set upon narrow porches.
+Marsh air hangs among the leaning shacks, carrying the smell of rain-dark soil
+and pale reflections stir in every puddle.~
+0 0 1 0 0 0
+D0
+North
+~
+~
+0 0 4081002 0
+D1
+Exit description
+~
+~
+0 0 1080150 0
+S
+#4081002
+Bitter coast, Hla Oad, village~
+Shallow muddy lanes run among faded timber buildings under a veil of damp mist
+past low fences, stacked barrels and woven traps placed near rough thresholds.
+Thin smoke lingers beneath the sagging eaves, carrying the odor of soaked wood
+as puddles tremble beneath the rain.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4081001 0
+D3
+West~
+~
+0 0 4081003 0
+S
+#4081003
+Bitter coast, Hla Oad, village~
+Rutted footpaths extend between moss-streaked walls beneath drifting marsh fog
+past coiled nets, reed baskets and split firewood left beside raised doorways.
+Gray mist spreads over the trodden earth as dim reflections tremble in puddles
+and muddy tracks fade beneath the steady drizzle.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081004 0
+D1
+East~
+~
+0 0 4081002 0
+S
+#4081004
+Bitter coast, Hla Oad, village~
+Uneven walkways wind past rows of weathered shacks amid the smell of wet reeds
+with coiled nets, old handcarts and fishing poles resting against damp planks.
+Damp haze hangs around the timber walls as mud loosens beside the narrow paths
+and cool droplets gather along the eaves.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4081003 0
+D3
+West~
+~
+0 0 4081005 0
+S
+#4081005
+Bitter coast, Hla Oad, village~
+Narrow dirt tracks curve around simple wooden homes through the cool marsh air
+with drying racks, low fences and bundled reeds spread beside the muddy lanes.
+Faint rain settles along the softened ground, carrying the scent of wet timber
+as smoke thins beneath the clouded sky.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081006 0
+D1
+East~
+~
+0 0 4081004 0
+S
+#4081006
+Bitter coast, Hla Oad, village~
+Worn village paths curve between closely built shelters beneath a low gray sky
+past patched awnings, clay vessels and wooden buckets set upon narrow porches.
+Woodsmoke drifts above shallow puddles, carrying the smell of mud and fish oil
+as insects drone beyond the fences.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081007 0
+D1
+East~
+~
+0 0 4081027 0
+D2
+South~
+~
+0 0 4081005 0
+D3
+West~
+~
+0 0 4081016 0
+S
+#4081007
+Bitter coast, Hla Oad, village~
+Rain-dark paths run past squat timber buildings under dim and clouded daylight
+with old handcarts, woven traps and reed baskets kept under sagging rooflines.
+Moist air moves over the trodden earth, carrying cool scents of reeds and clay
+as the soft ground yields beneath each step.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081008 0
+D2
+South~
+~
+0 0 4081006 0
+D3
+West~
+~
+0 0 4081013 0
+S
+#4081008
+Bitter coast, Hla Oad, village~
+Packed earth trails run around simple wooden homes through a haze of woodsmoke
+with low fences, bundled reeds and fishing poles resting above the wet ground.
+Cool mist drifts around the timber walls, carrying the smell of brackish water
+as humid air settles over the worn pathways.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081009 0
+D2
+South~
+~
+0 0 4081007 0
+S
+#4081009
+Bitter coast, Hla Oad, village~
+Muddy footpaths thread past rows of weathered shacks under a veil of damp mist
+with fishing poles, woven traps and coiled nets scattered beside the footways.
+Thin drizzle falls above shallow puddles as soft rain darkens the packed earth
+and loose shutters tap against the walls.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081010 0
+D2
+South~
+~
+0 0 4081008 0
+S
+#4081010
+Bitter coast, Hla Oad, village~
+Sodden village lanes wander between moss-streaked walls beneath a low gray sky
+among clay vessels, split firewood and wooden buckets set upon narrow porches.
+Damp haze hangs over the trodden earth as reed leaves rustle beyond the fences
+and cool mist beads upon the darkened timber.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081011 0
+D1
+East~
+~
+0 0 4081019 0
+D2
+South~
+~
+0 0 4081009 0
+D3
+West~
+~
+0 0 4081012 0
+S
+#4081011
+Bitter coast, Hla Oad, village~
+Soft earthen paths wind past squat timber buildings beneath drifting marsh fog
+with reed baskets, drying racks and low fences arranged beneath shallow eaves.
+A damp breeze moves among the leaning shacks, carrying the odor of soaked wood
+as small fires smolder inside the dwellings.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4081010 0
+S
+#4081012
+Bitter coast, Hla Oad, village~
+Damp winding paths wander past patched wooden dwellings beneath a low gray sky
+with stacked barrels, woven traps and coiled nets left beside raised doorways.
+Cold moisture hangs among the leaning shacks, carrying the scent of wet timber
+as reeds rustle beyond the outer huts.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081029 0
+D1
+East~
+~
+0 0 4081010 0
+S
+#4081013
+Bitter coast, Hla Oad, village~
+Uneven walkways run between moss-streaked walls under clouds swollen with rain
+past old handcarts, low fences and bundled reeds left along the firmer ground.
+Marsh air moves above shallow puddles, carrying a trace of smoke and wet earth
+as low clouds gather over the weathered roofs.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4081028 0
+D1
+East~
+~
+0 0 4081007 0
+D3
+West~
+~
+0 0 4081014 0
+S
+#4081014
+Bitter coast, Hla Oad, village, dock~
+Old plank walkways reach between tar-darkened pilings under banks of low cloud
+beside coiled ropes, drying racks and empty baskets set along the damp planks.
+Cool mist drifts through the open timberwork and small ripples cross the water
+as a cool breeze stirs the hanging nets.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4081013 0
+D2
+South~
+~
+0 0 4081026 0
+D3
+West~
+~
+0 0 4081015 0
+S
+#4081015
+Bitter coast, Hla Oad, village, dock~
+Worn landing boards curve along the quiet waterfront beneath dim gray daylight
+with tarred nets, old floats and sealed barrels left beside the mooring posts.
+Moist air hangs along the narrow walkway as droplets gather along the railings
+with pale ripples spreading beyond the pilings.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4081014 0
+S
+#4081016
+Bitter coast, Hla Oad, village, Fadila Balvel's house~
+A modest single room lies within weathered timber walls beneath uneven rafters
+with patched clothing, clay pots and low shelves tucked into every dry corner.
+Damp air slips through gaps in the planking and smoke stains the ceiling above
+before the faint fire settles into embers.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4081006 0
+D2
+South~
+~
+0 0 4081017 0
+S
+#4081017
+Bitter coast, Hla Oad, village, Fadila Balvel's house~
+Damp wooden walls enclose a humble shack interior beneath low smoke-dark beams
+among coiled rope, plain utensils and worn stools stored below shallow ledges.
+Lamplight flickers among the hanging possessions as old boards shift underfoot
+and every possession shows long, practical use.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081016 0
+S
+#4081018
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+Smoke-darkened walls enclose a dusty warehouse room beneath low wooden rafters
+among plain shelves, storage bins and stacked crates resting on uneven boards.
+Musty air spreads through the enclosed chamber and loose fittings knock softly
+with packing dust coating the worn floorboards.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4081019 0
+S
+#4081019
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+A crowded stockroom lies within damp stone walls beneath broad timber supports
+among empty jars, sealed barrels and covered baskets set beside narrow aisles.
+A cool draft passes above the worn wooden floor and dust turns slowly overhead
+with musty air lingering beneath the rafters.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081018 0
+D2
+South~
+~
+0 0 4081020 0
+D3
+West~
+~
+0 0 4081010 0
+S
+#4081020
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+A dim stockroom rests behind heavy plastered walls beneath smoke-stained beams
+with old hand tools, packing straw and coiled rope stored in shadowed corners.
+A dusty glow hangs around the crowded shelves as small lamp flames bend gently
+with quiet darkness filling the narrow recesses.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081019 0
+D2
+South~
+~
+0 0 4081021 0
+S
+#4081021
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+A cluttered supply room opens inside rough plank walls beneath dark crossbeams
+past bundled sacks, shielded lanterns and cargo chests kept within easy reach.
+Deep shadows hang across the stacked containers and old boards creak underfoot
+as muted light fades among the crowded shelves.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081020 0
+D5
+Down~
+~
+0 0 4081022 0
+S
+#4081022
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+Weathered board walls enclose a shadowed stockroom beneath closely set rafters
+with storage bins, folded canvas and coiled rope placed across the worn floor.
+Fine dust settles between the waiting crates and packing straw rustles faintly
+as the low ceiling traps the smell of old timber.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081023 0
+D4
+Up~
+~
+0 0 4081021 0
+S
+#4081023
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+A dim storage chamber lies within smoke-darkened walls beneath dark crossbeams
+past empty jars, stacked crates and cargo chests ordered beside low platforms.
+Damp air lingers beneath the heavy ceiling beams and musty odors fill the room
+as the stored goods settle into dusty silence.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081024 0
+D2
+South~
+~
+0 0 4081022 0
+S
+#4081024
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+Damp stone walls enclose a dusty timber interior beneath a low boarded ceiling
+with sealed barrels, bundled sacks and plain shelves set beside narrow aisles.
+Fine dust drifts through the enclosed chamber as deep corners remain in shadow
+with every container kept close to the walls.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081025 0
+D2
+South~
+~
+0 0 4081023 0
+S
+#4081025
+Bitter coast, Hla Oad, village, Fatleg's drop off warehouse~
+A cramped stockroom opens inside rough plank walls beneath smoke-stained beams
+among covered baskets, folded canvas and packing straw kept within easy reach.
+Dim firelight moves around the crowded shelves and loose fittings knock softly
+as deep shadows gather behind the stacked crates.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4081024 0
+S
+#4081026
+Bitter coast, Hla Oad, village, Murudius Flaeus's house~
+Smoke-darkened walls enclose a narrow living space beneath a patched reed roof
+among old tools, basic cookware and bundled nets resting across uneven boards.
+Lamplight moves beneath the cramped rafters and the timber frame creaks softly
+until a passing draft disturbs the warm air.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4081014 0
+S
+#4081027
+Bitter coast, Hla Oad, village, Okur's house~
+A cramped wooden chamber opens inside rough plank walls beneath uneven rafters
+among small barrels, folded blankets and simple bedding set within easy reach.
+The low fire glows over the packed belongings as rain whispers across the roof
+and the boards smell faintly of damp timber.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4081006 0
+S
+#4081028
+Bitter coast, Hla Oad, village, Relien Rirne's house~
+A dim single room rests behind patched board walls beneath darkened roof beams
+with storage sacks, wooden bowls and clay pots placed around the narrow floor.
+Lamplight spreads across the uneven boards as shadows sway beneath the rafters
+and quiet creaks travel through the frame.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4081013 0
+S
+#4081029
+Bitter coast, Hla Oad, village, Shurkul gro-Sharga's house~
+A plain one-room dwelling lies within rough plank walls beneath uneven rafters
+among reed baskets, fishing gear and coiled rope gathered beneath wooden pegs.
+A cool draft drifts along the patched wall seams as old boards shift underfoot
+and the low ceiling traps the hearth warmth.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4081012 0
+S
+#0
+
+#RESETS
+M 0 2301947 1 4081010  ;  Mob: Pallia Ceno [Npcs] => #4081010 [Hla oad] Bitter coast, Hla Oad, village
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+M 0 2301118 1 4081011  ;  Mob: Glonagoth [Npcs] => #4081011 [Hla oad] Bitter coast, Hla Oad, village
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301017 1 3  ; -- Equip: Emerald amulet [Items] (neck-1)
+M 0 2300266 1 4081015  ;  Mob: Baleni Salavel [Npcs] => #4081015 [Hla oad] Bitter coast, Hla Oad, village, dock
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144008 1 17  ; -- Equip: Netch leather buckler [Items] (hold)
+E 1 3235012 1 16  ; -- Equip: Steel shortsword [Items] (wield)
+M 0 2300857 1 4081016  ;  Mob: Fadile Balvel [Npcs] => #4081016 [Hla oad] Bitter coast, Hla Oad, village, Fadila Balvel's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+M 0 2301264 1 4081017  ;  Mob: Hrondar Highlander [Npcs] => #4081017 [Hla oad] Bitter coast, Hla Oad, village, Fadila Balvel's house
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3223012 1 16  ; -- Equip: Iron shortsword [Items] (wield)
+M 0 2300510 1 4081018  ;  Mob: Dalam Gavyn [Npcs] => #4081018 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3235028 1 16  ; -- Equip: Steel mace [Items] (wield)
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+M 0 2300872 1 4081019  ;  Mob: Falvis Tunel [Npcs] => #4081019 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3235012 1 16  ; -- Equip: Steel shortsword [Items] (wield)
+M 0 2301506 1 4081020  ;  Mob: Llemisa Marys [Npcs] => #4081020 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408047 1 ; -- Give: Master's lockpick [Items]
+G 1 3408052 1 ; -- Give: Master's probe [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+M 0 2301964 1 4081021  ;  Mob: Perien Aurelie [Npcs] => #4081021 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235028 1 16  ; -- Equip: Steel mace [Items] (wield)
+G 1 3405023 1 ; -- Give: Torch [Items]
+M 0 2301990 1 4081022  ;  Mob: Ra'Zhid [Npcs] => #4081022 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2301991 1 4081023  ;  Mob: Rabinna [Npcs] => #4081023 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+M 0 2302045 1 4081024  ;  Mob: Relam Arinith [Npcs] => #4081024 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3139003 1 5  ; -- Equip: Iron cuirass [Items] (body)
+E 1 3139006 1 7  ; -- Equip: Iron greaves [Items] (legs)
+E 1 3139007 1 8  ; -- Equip: Iron sabatons [Items] (feet)
+E 1 3224053 1 16  ; -- Equip: Iron shortsword of frost [Items] (wield)
+M 0 2302507 1 4081025  ;  Mob: Trasteve [Npcs] => #4081025 [Hla oad] Bitter coast, Hla Oad, village, Fatleg's drop off warehouse
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3405023 1 ; -- Give: Torch [Items]
+M 0 2301774 1 4081026  ;  Mob: Murudius Flaeus [Npcs] => #4081026 [Hla oad] Bitter coast, Hla Oad, village, Murudius Flaeus's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+M 0 2301916 1 4081027  ;  Mob: Okur [Npcs] => #4081027 [Hla oad] Bitter coast, Hla Oad, village, Okur's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+M 0 2302050 1 4081028  ;  Mob: Relien Rirne [Npcs] => #4081028 [Hla oad] Bitter coast, Hla Oad, village, Relien Rirne's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+M 0 2302268 1 4081029  ;  Mob: Shurkul gro-Sharga [Npcs] => #4081029 [Hla oad] Bitter coast, Hla Oad, village, Shurkul gro-Sharga's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+S
+
+#SHOPS
+2300510 5 9 0 0 0 120 90 0 23
+2301964 5 9 12 1 8 120 90 0 23
+2302507 5 9 12 8 35 120 90 0 23
+2301506 13 5 0 0 0 120 90 0 23
+0
+
+#REPAIRS
+2300510 9 5 0 100 1 0 23
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 HLA OAD~
+Hla Oad is a small fishing village on the southern reaches of the Bitter Coast
+where battered shacks surround a muddy square beside a small sheltered harbor.
+Fisherfolk and paupers share few meager services above a hidden smugglers' den
+as damp sea mist settles across the weathered settlement.
+~
+0 $~
+
+#$

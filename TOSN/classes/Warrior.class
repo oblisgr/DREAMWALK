@@ -1,0 +1,116 @@
+Name		Warrior~
+Class		5
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Rapier' 1 95
+Skill 'Cutlass' 1 95
+Skill 'Saber' 1 95
+Skill 'Falchion' 1 95
+Skill 'Katana' 1 95
+Skill 'Longsword' 1 95
+Skill 'Broadsword' 1 95
+Skill 'Claymore' 1 95
+Skill 'Daikatana' 1 95
+Skill 'Charge' 1 95
+Skill 'Disarm' 1 95
+Skill 'Skirmish' 1 95
+Skill 'Slice' 1 95
+Skill 'Overkill' 1 95
+Skill 'Strike' 1 95
+Skill 'Mail' 1 90
+Skill 'Enrage' 1 90
+Skill 'Trammel' 1 90
+Skill 'Spurn' 1 90
+Skill 'Cover' 1 90
+Skill 'Plate' 1 85
+Skill 'Deflect' 1 85
+Skill 'Withstand' 1 85
+Skill 'Spook' 1 85
+Skill 'Overlay' 1 85
+Skill 'Dodge' 1 80
+Skill 'Lunge' 1 80
+Skill 'Sweep' 1 80
+Skill 'Assault' 1 80
+Skill 'Taunt' 1 75
+Skill 'Bash' 1 75
+Skill 'Block' 1 75
+Skill 'Revenge' 1 75
+Skill 'Defend' 1 75
+Skill 'Rebuff' 1 75
+Skill 'Shelter' 1 75
+Skill 'Shroud' 1 75
+Skill 'Thrust' 1 75
+Skill 'Destabilize' 1 75
+Skill 'Smith' 1 70
+Skill 'Sharpen' 1 70
+Skill 'Reinforce' 1 70
+Skill 'Repair' 1 70
+Skill 'Inspect' 1 70
+Skill 'Spear' 1 65
+Skill 'Glaive' 1 65
+Skill 'Halberd' 1 65
+Skill 'Lance' 1 65
+Skill 'Pike' 1 65
+Skill 'Pin' 1 65
+Skill 'Sickle' 1 65
+Skill 'Perforate' 1 65
+Skill 'Puncture' 1 65
+Skill 'Impale' 1 65
+Skill 'Dart' 1 60
+Skill 'Ninjaku' 1 60
+Skill 'Knife' 1 60
+Skill 'Shortbow' 1 60
+Skill 'Longbow' 1 60
+Skill 'Crossbow' 1 60
+Skill 'Barrage' 1 60
+Skill 'Sickle' 1 55
+Skill 'Handaxe' 1 55
+Skill 'Waraxe' 1 55
+Skill 'Pickaxe' 1 55
+Skill 'Battleaxe' 1 55
+Skill 'Berserk' 1 55
+Skill 'Execute' 1 55
+Skill 'Overpower' 1 55
+Skill 'Cleave' 1 55
+Skill 'Wirlwind' 1 55
+Skill 'Mutilate' 1 55
+Skill 'Cripple' 1 55
+Skill 'Slaughter' 1 55
+Skill 'Sever' 1 55
+Skill 'Chop' 1 55
+Skill 'Swing' 1 55
+Skill 'Hack' 1 55
+Skill 'Club' 1 50
+Skill 'Mace' 1 50
+Skill 'Flail' 1 50
+Skill 'Morningstar' 1 50
+Skill 'Staff' 1 50
+Skill 'Warhammer' 1 50
+Skill 'Maul' 1 50
+Skill 'Safeguard' 1 50
+Skill 'Stun' 1 50
+Skill 'Pummel' 1 50
+Skill 'Doorbash' 1 50
+Skill 'Smash' 1 50
+Skill 'Crush' 1 50
+Skill 'Punish' 1 50
+Skill 'Clobber' 1 50
+Skill 'Payback' 1 50
+Skill 'Bleed' 1 50
+Skill 'Splinter' 1 50
+Skill 'Bludgeon' 1 50
+Skill 'Waste' 1 50
+End	

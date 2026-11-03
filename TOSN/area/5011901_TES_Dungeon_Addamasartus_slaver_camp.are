@@ -1,0 +1,351 @@
+#AREA Addamasartus slaver camp~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011901
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011901
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011901
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011902 0
+D4
+Exit description
+~
+~
+0 0 1190295 0
+S
+#5011902
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011903 0
+D2
+South~
+~
+0 0 5011901 0
+S
+#5011903
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011919 0
+D2
+South~
+~
+0 0 5011902 0
+D3
+West~
+~
+0 0 5011904 0
+S
+#5011904
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011920 0
+D1
+East~
+~
+0 0 5011903 0
+D2
+South~
+~
+0 0 5011905 0
+D3
+West~
+~
+0 0 5011906 0
+S
+#5011905
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011904 0
+S
+#5011906
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011909 0
+D1
+East~
+~
+0 0 5011904 0
+D2
+South~
+~
+0 0 5011907 0
+S
+#5011907
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011906 0
+D2
+South~
+~
+0 0 5011908 0
+S
+#5011908
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011907 0
+S
+#5011909
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011910 0
+D2
+South~
+~
+0 0 5011906 0
+S
+#5011910
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011911 0
+D2
+South~
+~
+0 0 5011909 0
+S
+#5011911
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011912 0
+D2
+South~
+~
+0 0 5011910 0
+S
+#5011912
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011913 0
+D2
+South~
+~
+0 0 5011911 0
+S
+#5011913
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011914 0
+D2
+South~
+~
+0 0 5011912 0
+S
+#5011914
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011915 0
+D2
+South~
+~
+0 0 5011913 0
+D3
+West~
+~
+0 0 5011916 0
+S
+#5011915
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011914 0
+S
+#5011916
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011914 0
+D2
+South~
+~
+0 0 5011917 0
+S
+#5011917
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011916 0
+D2
+South~
+~
+0 0 5011918 0
+S
+#5011918
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011917 0
+S
+#5011919
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011903 0
+S
+#5011920
+Bitter coast, Addamasartus, slaver camp~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011904 0
+S
+#0
+
+#RESETS
+M 0 2300251 1 5011906  ;  Mob: Baadargo [Npcs] => #5011906 [] Bitter coast, Addamasartus, slaver camp
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300275 1 5011908  ;  Mob: Banalz [Npcs] => #5011908 [] Bitter coast, Addamasartus, slaver camp
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2301656 1 5011911  ;  Mob: Melar Baram [Npcs] => #5011911 [] Bitter coast, Addamasartus, slaver camp
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3205009 1 16  ; -- Equip: Chitin dagger [Items] (wield)
+M 0 2301766 1 5011913  ;  Mob: Mulvisie Othril [Npcs] => #5011913 [] Bitter coast, Addamasartus, slaver camp
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205009 1 16  ; -- Equip: Chitin dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+M 0 2301915 1 5011916  ;  Mob: Okaw [Npcs] => #5011916 [] Bitter coast, Addamasartus, slaver camp
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2302376 1 5011919  ;  Mob: Tanisie Verethi [Npcs] => #5011919 [] Bitter coast, Addamasartus, slaver camp
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205009 1 16  ; -- Equip: Chitin dagger [Items] (wield)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ADDAMASARTUS SLAVER CAMP~
+Addamasartus is a small slavers' cave nestled northeast of coastal Seyda Neen,
+housing three armed smugglers, their captives and a lone rat in damp passages.
+Flooded tunnels offer an underwater route past crates and scattered contraband
+before the cave narrows into the outlaws' guarded den.
+~
+0 $~
+
+#$

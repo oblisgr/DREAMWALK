@@ -1,0 +1,17 @@
+/player/*
+!/player/.gitkeep
+/backup/*
+!/backup/.gitkeep
+/log/*
+!/log/.gitkeep
+/deleted/*
+!/deleted/.gitkeep
+/corpses/*
+!/corpses/.gitkeep
+/gods/*
+!/gods/.gitkeep
+/hotboot/*
+!/hotboot/.gitkeep
+/imc/imc.config
+/build.log
+/nohup.out

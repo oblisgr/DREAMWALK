@@ -1,0 +1,348 @@
+#AREA Abernanit smuggler den~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011501
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011501
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011501
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 5011502 0
+S
+#5011502
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011503 0
+D1
+East~
+~
+0 0 5011501 0
+D2
+South~
+~
+0 0 5011511 0
+S
+#5011503
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011504 0
+D2
+South~
+~
+0 0 5011502 0
+S
+#5011504
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011505 0
+D2
+South~
+~
+0 0 5011503 0
+S
+#5011505
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011506 0
+D2
+South~
+~
+0 0 5011504 0
+S
+#5011506
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011505 0
+D3
+West~
+~
+0 0 5011507 0
+S
+#5011507
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011506 0
+D3
+West~
+~
+0 0 5011508 0
+S
+#5011508
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011507 0
+D2
+South~
+~
+0 0 5011509 0
+S
+#5011509
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011508 0
+D2
+South~
+~
+0 0 5011510 0
+S
+#5011510
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011509 0
+S
+#5011511
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011502 0
+D2
+South~
+~
+0 0 5011512 0
+S
+#5011512
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011511 0
+D2
+South~
+~
+0 0 5011513 0
+S
+#5011513
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011512 0
+D3
+West~
+~
+0 0 5011514 0
+S
+#5011514
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011513 0
+D3
+West~
+~
+0 0 5011515 0
+S
+#5011515
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011516 0
+D1
+East~
+~
+0 0 5011514 0
+S
+#5011516
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011516 0
+D2
+South~
+~
+0 0 5011515 0
+S
+#5011517
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011518 0
+D2
+South~
+~
+0 0 5011516 0
+S
+#5011518
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011519 0
+D2
+South~
+~
+0 0 5011517 0
+S
+#5011519
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011520 0
+D3
+West~
+~
+0 0 5011518 0
+S
+#5011520
+Bitter coast, Abernanit, smuggler den~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011519 0
+S
+#0
+
+#RESETS
+M 0 2300093 1 5011508  ;  Mob: Alonisea Varys [Npcs] => #5011508 [] Bitter coast, Abernanit, smuggler den
+E 1 3149005 1 9  ; -- Equip: Nordic fur bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3406028 1 ; -- Give: Admonition against ebony [Items]
+M 0 2300269 1 5011512  ;  Mob: Balis Sari [Npcs] => #5011512 [] Bitter coast, Abernanit, smuggler den
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+M 0 2300527 1 5011515  ;  Mob: Dandsa [Npcs] => #5011515 [] Bitter coast, Abernanit, smuggler den
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223019 1 16  ; -- Equip: Iron broadsword [Items] (wield)
+M 0 2302440 1 5011518  ;  Mob: Thelama Indaren [Npcs] => #5011518 [] Bitter coast, Abernanit, smuggler den
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205039 1 16  ; -- Equip: Chitin shortbow [Items] (wield)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ABERNANIT SMUGGLER DEN~
+Abernanit is a small smuggler den hidden on a peninsula southeast of Gnaar Mok
+where trapped doors and hostile beasts guard tunnels filled with stolen goods.
+Barrels, crates and locked chests fill stone ledges above pools of murky water
+as a kidnapped traveler waits among the armed outlaw gang.~
+0 $~
+
+#$

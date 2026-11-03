@@ -1,0 +1,167 @@
+Name		Battlemage~
+Class		28
+AttrPrime		1
+AttrSecond	5
+AttrDeficient	25
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		17
+Hpmin		1
+Hpmax		4
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Open' 1 95
+Skill 'Lock' 1 95
+Skill 'Ignite' 1 95
+Skill 'Frost' 1 95
+Skill 'Storm' 1 95
+Skill 'Coat' 1 95
+Skill 'Levitate' 1 95
+Skill 'Breath' 1 95
+Skill 'Burden' 1 95
+Skill 'Feather' 1 95
+Skill 'Shield' 1 95
+Skill 'Burn' 1 90
+Skill 'Freeze' 1 90
+Skill 'Shock' 1 90
+Skill 'Poison' 1 90
+Skill 'Blast' 1 90
+Skill 'Sear' 1 90
+Skill 'Chill' 1 90
+Skill 'Electrify' 1 90
+Skill 'Sensitize' 1 90
+Skill 'Expose' 1 90
+Skill 'Contaminate' 1 90
+Skill 'Taint' 1 90
+Skill 'Corrupt' 1 90
+Skill 'Disable' 1 90
+Skill 'Soften' 1 90
+Skill 'Leech' 1 90
+Skill 'Enervate' 1 90
+Skill 'Slow' 1 90
+Skill 'Stultify' 1 90
+Skill 'Temptate' 1 90
+Skill 'Spite' 1 90
+Skill 'Jinx' 1 90
+Skill 'Hinder' 1 90
+Skill 'Drain' 1 90
+Skill 'Deplete' 1 90
+Skill 'Weary' 1 90
+Skill 'Weaken' 1 90
+Skill 'Emasculate' 1 90
+Skill 'Stumble' 1 90
+Skill 'Fuddle' 1 90
+Skill 'Woe' 1 90
+Skill 'Degrade' 1 90
+Skill 'Hex' 1 90
+Skill 'Wound' 1 90
+Skill 'Disrupt' 1 90
+Skill 'Doze' 1 90
+Skill 'Corrode' 1 90
+Skill 'Erode' 1 90
+Skill 'Materialize' 1 85
+Skill 'Evoke' 1 85
+Skill 'Forge' 1 85
+Skill 'Shape' 1 85
+Skill 'Fabricate' 1 85
+Skill 'Assemble' 1 85
+Skill 'Fashion' 1 85
+Skill 'Equip' 1 85
+Skill 'Crown' 1 85
+Skill 'Support' 1 85
+Skill 'Butrress' 1 85
+Skill 'Arm' 1 85
+Skill 'Clothe' 1 85
+Skill 'Shoe' 1 85
+Skill 'Raise' 1 85
+Skill 'Invoke' 1 85
+Skill 'Tame' 1 85
+Skill 'Activate' 1 85
+Skill 'Beckon' 1 85
+Skill 'Reanimate' 1 85
+Skill 'Conjure' 1 85
+Skill 'Produce' 1 85
+Skill 'Sickle' 1 80
+Skill 'Handaxe' 1 80
+Skill 'Waraxe' 1 80
+Skill 'Pickaxe' 1 80
+Skill 'Battleaxe' 1 80
+Skill 'Berserk' 1 80
+Skill 'Execute' 1 80
+Skill 'Overpower' 1 80
+Skill 'Cleave' 1 80
+Skill 'Wirlwind' 1 80
+Skill 'Mutilate' 1 80
+Skill 'Cripple' 1 80
+Skill 'Slaughter' 1 80
+Skill 'Sever' 1 80
+Skill 'Chop' 1 80
+Skill 'Swing' 1 80
+Skill 'Hack' 1 80
+Skill 'Plate' 1 75
+Skill 'Deflect' 1 75
+Skill 'Withstand' 1 75
+Skill 'Spook' 1 75
+Skill 'Overlay' 1 75
+Skill 'Recall' 1 70
+Skill 'Rob' 1 70
+Skill 'Siphon' 1 70
+Skill 'Steal' 1 70
+Skill 'Extract' 1 70
+Skill 'Consume' 1 70
+Skill 'Appropriate' 1 70
+Skill 'Pilfer' 1 70
+Skill 'Absorb' 1 70
+Skill 'Devour' 1 70
+Skill 'Tap' 1 70
+Skill 'Soultrap' 1 70
+Skill 'Sense' 1 70
+Skill 'Discern' 1 70
+Skill 'Locate' 1 70
+Skill 'Reflect' 1 70
+Skill 'Pray' 1 70
+Skill 'Dispel' 1 70
+Skill 'Devote' 1 70
+Skill 'Rapier' 1 65
+Skill 'Cutlass' 1 65
+Skill 'Saber' 1 65
+Skill 'Falchion' 1 65
+Skill 'Katana' 1 65
+Skill 'Longsword' 1 65
+Skill 'Broadsword' 1 65
+Skill 'Claymore' 1 65
+Skill 'Daikatana' 1 65
+Skill 'Charge' 1 65
+Skill 'Disarm' 1 65
+Skill 'Skirmish' 1 65
+Skill 'Slice' 1 65
+Skill 'Overkill' 1 65
+Skill 'Strike' 1 65
+Skill 'Dart' 1 60
+Skill 'Ninjaku' 1 60
+Skill 'Knife' 1 60
+Skill 'Shortbow' 1 60
+Skill 'Longbow' 1 60
+Skill 'Crossbow' 1 60
+Skill 'Barrage' 1 60
+Skill 'Scribe' 1 55
+Skill 'Imbue' 1 55
+Skill 'Enchant' 1 55
+Skill 'Meditate' 1 55
+Skill 'Banish' 1 55
+Skill 'Innervate' 1 55
+Skill 'Blink' 1 55
+Skill 'Entangle' 1 55
+Skill 'Sleep' 1 55
+Skill 'Envenom' 1 50
+Skill 'Brew' 1 50
+Skill 'Cook' 1 50
+Skill 'Bandage' 1 50
+Skill 'Fade' 1 50
+Skill 'Aid' 1 50
+End	

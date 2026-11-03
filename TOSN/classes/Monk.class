@@ -1,0 +1,129 @@
+Name		Monk~
+Class		18
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Claw' 1 95
+Skill 'Katar' 1 95
+Skill 'Knuckle' 1 95
+Skill 'Cestus' 1 95
+Skill 'Evade' 1 95
+Skill 'Slam' 1 95
+Skill 'Kick' 1 95
+Skill 'Punch' 1 95
+Skill 'Pounce' 1 95
+Skill 'Grapple' 1 95
+Skill 'Batter' 1 95
+Skill 'Swipe' 1 95
+Skill 'Hold' 1 95
+Skill 'Frazzle' 1 95
+Skill 'Pincer' 1 95
+Skill 'Knock' 1 95
+Skill 'Cloth' 1 90
+Skill 'Disengage' 1 90
+Skill 'Distract' 1 90
+Skill 'Parry' 1 90
+Skill 'Rescue' 1 90
+Skill 'Focus' 1 90
+Skill 'Unyield' 1 90
+Skill 'Guard' 1 90
+Skill 'Recover' 1 90
+Skill 'Trample' 1 90
+Skill 'Dodge' 1 85
+Skill 'Lunge' 1 85
+Skill 'Sweep' 1 85
+Skill 'Assault' 1 85
+Skill 'Tumble' 1 80
+Skill 'Climb' 1 80
+Skill 'Slip' 1 80
+Skill 'Twist' 1 80
+Skill 'Poise' 1 80
+Skill 'Pickpocket' 1 75
+Skill 'Sneak' 1 75
+Skill 'Hide' 1 75
+Skill 'Peek' 1 75
+Skill 'Backstab' 1 75
+Skill 'Creep' 1 75
+Skill 'Taunt' 1 70
+Skill 'Bash' 1 70
+Skill 'Block' 1 70
+Skill 'Revenge' 1 70
+Skill 'Defend' 1 70
+Skill 'Rebuff' 1 70
+Skill 'Shelter' 1 70
+Skill 'Shroud' 1 70
+Skill 'Thrust' 1 70
+Skill 'Destabilize' 1 70
+Skill 'Dart' 1 65
+Skill 'Ninjaku' 1 65
+Skill 'Knife' 1 65
+Skill 'Shortbow' 1 65
+Skill 'Longbow' 1 65
+Skill 'Crossbow' 1 65
+Skill 'Barrage' 1 65
+Skill 'Leather' 1 60
+Skill 'Suppress' 1 60
+Skill 'Unchain' 1 60
+Skill 'Cool' 1 55
+Skill 'Warm' 1 55
+Skill 'Ground' 1 55
+Skill 'Detoxify' 1 55
+Skill 'Unjinx' 1 55
+Skill 'Vaccinate' 1 55
+Skill 'Cleanse' 1 55
+Skill 'Stabilize' 1 55
+Skill 'Steady' 1 55
+Skill 'Toughen' 1 55
+Skill 'Strengthen' 1 55
+Skill 'Fortitude' 1 55
+Skill 'Quicken' 1 55
+Skill 'Outsmart' 1 55
+Skill 'Embolden' 1 55
+Skill 'Inspire' 1 55
+Skill 'Favor' 1 55
+Skill 'Rejuvenate' 1 55
+Skill 'Empower' 1 55
+Skill 'Refresh' 1 55
+Skill 'Rebuild' 1 55
+Skill 'Revitalize' 1 55
+Skill 'Rebalance' 1 55
+Skill 'Clarify' 1 55
+Skill 'Reassure' 1 55
+Skill 'Uplift' 1 55
+Skill 'Redeem' 1 55
+Skill 'Heal' 1 55
+Skill 'Replenish' 1 55
+Skill 'Renew' 1 55
+Skill 'Club' 1 50
+Skill 'Mace' 1 50
+Skill 'Flail' 1 50
+Skill 'Morningstar' 1 50
+Skill 'Staff' 1 50
+Skill 'Warhammer' 1 50
+Skill 'Maul' 1 50
+Skill 'Safeguard' 1 50
+Skill 'Stun' 1 50
+Skill 'Pummel' 1 50
+Skill 'Doorbash' 1 50
+Skill 'Smash' 1 50
+Skill 'Crush' 1 50
+Skill 'Punish' 1 50
+Skill 'Clobber' 1 50
+Skill 'Payback' 1 50
+Skill 'Bleed' 1 50
+Skill 'Splinter' 1 50
+Skill 'Bludgeon' 1 50
+Skill 'Waste' 1 50
+End	

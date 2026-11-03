@@ -1,0 +1,901 @@
+#AREA Seyda Neen~
+
+#VERSION 1
+
+#CLIMATE 3 4 2
+
+#NEIGHBOR imperial prison ship~
+
+#AUTHOR Oblisgr~
+
+#RANGES
+1 5 0 60
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 10
+
+#ECONOMY 0 497845790
+
+#MOBILES
+#4192001
+RESERVED~
+RESERVED~
+RESERVED
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4192001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4192001
+Bitter coast, Seyda Neen, town~
+Moist earth forms a worn path between low buildings faded by constant moisture
+with shallow puddles reflecting light beneath drifting banks of coastal mists.
+Moss clings to stonework and timber as reeds stir in the warm and humid breeze
+and the air carries wet soil, smoke and brackish marsh scents.
+~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4192002 0
+D0
+Exit description
+~
+~
+0 0 1190294 0
+S
+#4192002
+Bitter coast, Seyda Neen, town~
+Weathered walls and dark wooden beams rise above mud softened by frequent rain
+as beads of water gather along the eaves then fall into scattered wet hollows.
+Faded plaster, moss and tall wiry grasses lend the street a subdued appearance
+beneath humid air filled with insects and the smell of damp wood.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192001 0
+D1
+East~
+~
+0 0 4192027 0
+D2
+South~
+~
+0 0 4192003 0
+D3
+West~
+~
+0 0 4192030 0
+S
+#4192003
+Bitter coast, Seyda Neen, town~
+A narrow earth track crosses soft ground marked by footprints and shallow ruts
+among clumps of marsh grass, slick stone and roots exposed by steady rainfall.
+Thin gray mist settles over the walls as moisture darkens every wooden surface
+and muted smells of mud, smoke and vegetation linger nearby.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192002 0
+D2
+South~
+~
+0 0 4192004 0
+S
+#4192004
+Bitter coast, Seyda Neen, town~
+Firm soil opens into a modest clearing edged by weathered walls and low fences
+with baskets, clay pots and rough boards resting just over the dampest ground.
+Smoke from small household fires mingles with humid air and earthy marsh odors
+as puddles tremble beneath drops falling from mossy eaves.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192003 0
+D2
+South~
+~
+0 0 4192005 0
+S
+#4192005
+Bitter coast, Seyda Neen, town~
+The worn path bends through rough soil beneath walls stained by rain and mold,
+past leaning fence posts tangled with reeds, wide leaves and thick green moss.
+Clouded light gives the surroundings a muted cast across mud and faded plaster
+with cool moisture and plant scents hanging steadily in the air.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192004 0
+D1
+East~
+~
+0 0 4192028 0
+D2
+South~
+~
+0 0 4192006 0
+D3
+West~
+~
+0 0 4192016 0
+S
+#4192006
+Bitter coast, Seyda Neen, town~
+Shallow channels carry rainwater through the firm earth beside darkened timber
+as moss spreads over stones and tiny insects hover over the quiet muddy pools.
+The humid breeze stirs wild grasses along walls weathered by years of dampness
+bringing the mixed odors of wet wood, soil and distant hearth smoke.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192005 0
+D1
+East~
+~
+0 0 4192038 0
+D2
+South~
+~
+0 0 4192007 0
+S
+#4192007
+Bitter coast, Seyda Neen, town~
+Bootprints and wheel ruts score a broad stretch of earth hardened by daily use
+though steady rain has softened its edges and gathered in shallow depressions.
+Low buildings emerge through a dim haze of mist, their surfaces dull with rain
+as a mild breeze moves the heavy scents of mud and smoke.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192006 0
+D2
+South~
+~
+0 0 4192008 0
+S
+#4192008
+Bitter coast, Seyda Neen, town~
+Thick grasses and hardy ferns crowd the verge beside a well-trodden earth path
+with tiny mushrooms growing near old boards and stones filmed with green moss.
+Dew gathers over each leaf while humid air softens the outlines of plain walls
+and insects drift above the darker patches of saturated ground.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192007 0
+D2
+South~
+~
+0 0 4192014 0
+D3
+West~
+~
+0 0 4192037 0
+S
+#4192009
+Bitter coast, Seyda Neen, town~
+A broad patch of trampled earth lies between walls mottled by age and moisture
+with rainwater filling hollows among loose stone and scattered tufts of grass.
+Faint smoke drifts through the humid air as drops gather on beams and shutters
+leaving the surroundings rich with earthy and woody smells.
+~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4192014 0
+D3
+West~
+~
+0 0 4192010 0
+S
+#4192010
+Bitter coast, Seyda Neen, town~
+Old boards cross the softest ground beside muddy paths and rain-darkened walls
+their worn planks slick with moisture and edged by weeds growing through gaps.
+Nearby timbers bear stains from the wet climate as mist curls around low eaves
+and the air smells of soaked wood, marsh plants and faint smoke.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192011 0
+D1
+East~
+~
+0 0 4192009 0
+D2
+South~
+~
+0 0 4192013 0
+D3
+West~
+~
+0 0 4192015 0
+S
+#4192011
+Bitter coast, Seyda Neen, town~
+A sheltered lane passes beneath dark eaves dripping steadily onto packed earth
+with mossy stones and sagging boards lining the edges of the narrow muddy way.
+Moisture collects in every crack as smoke hangs low in the quiet and heavy air
+blending with the odors of wet plaster, plants and old timber.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192012 0
+D2
+South~
+~
+0 0 4192010 0
+S
+#4192012
+Bitter coast, Seyda Neen, town~
+The ground here lies pressed flat by regular passage despite the lingering mud
+leaving overlapping tracks among small stones, weeds and small pools of water.
+Rough walls and simple wooden fittings appear softened beneath a veil of mist,
+as warm smoke mixes with the cool scent of rain-soaked earth.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192033 0
+D2
+South~
+~
+0 0 4192011 0
+D3
+West~
+~
+0 0 4192032 0
+S
+#4192013
+Bitter coast, Seyda Neen, town~
+Rough ground rises and dips beneath a thin covering of grass and slippery moss
+beside old walls whose faded surfaces show long exposure to rain and damp air.
+Water beads upon wood and stone while a cloudy brightness filters through haze
+and the damp breeze carries smells of soil, reeds and smoke.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192010 0
+D2
+South~
+~
+0 0 4192034 0
+S
+#4192014
+Bitter coast, Seyda Neen, town~
+A worn track continues over dark soil scattered with pebbles and fallen leaves
+between old modest structures with low walls stained by mud and constant damp.
+Gray mist blurs hard edges as grasses sway and droplets cling to worn surfaces
+filling the quiet air with the scent of rain and vegetation.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192008 0
+D1
+East~
+~
+0 0 4192026 0
+D2
+South~
+~
+0 0 4192023 0
+D3
+West~
+~
+0 0 4192009 0
+S
+#4192015
+Bitter coast, Seyda Neen, town~
+Frequent rain has left the packed ground dark, wet and broken by shallow pools
+while moss and wiry grass spread where passing feet have spared the soft soil.
+Weathered timber and muted plaster stand beneath humid air veiled by thin mist
+with earthy odors rising from the wet paths and shaded growth.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4192031 0
+D1
+East~
+~
+0 0 4192010 0
+D2
+South~
+~
+0 0 4192029 0
+S
+#4192016
+Bitter coast, Seyda Neen, town, Arrille's tradehouse~
+Amber lamplight spreads across timber walls darkened by smoke and coastal damp
+revealing full shelves, rough tables and floorboards worn smooth by heavy use.
+The mingled scents of ale, cooked food and wet clothing fill the warm interior
+above the softer odors of wax, old wood and stored provisions.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192017 0
+D1
+East~
+~
+0 0 4192005 0
+D2
+South~
+~
+0 0 4192018 0
+D4
+Up~
+~
+0 0 4192020 0
+S
+#4192017
+Bitter coast, Seyda Neen, town, Arrille's tradehouse~
+A long wooden counter divides the busy room from shelves of bottles and wares,
+with clay cups, small kegs and folded cloth arranged beneath hanging lanterns.
+Muted conversation blends with the scrape of chairs across uneven floorboards,
+as smoke and the smell of warm meals gather beneath the beams.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4192016 0
+S
+#4192018
+Bitter coast, Seyda Neen, town, Arrille's tradehouse~
+Low tables occupy the open floor amid sturdy seats polished by daily handling.
+Above, smoky lanterns cast a warm glow across plain walls and timber supports.
+Damp air enters whenever the door opens, carrying traces of rain and damp soil
+before yielding to the warmer scents of ale, stew and burning oil.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192016 0
+D2
+South~
+~
+0 0 4192019 0
+S
+#4192019
+Bitter coast, Seyda Neen, town, Arrille's tradehouse~
+Wooden shelves climb the walls under bundles of ropes, cloth and common wares.
+Nearby barrels and sacks remain stacked wherever the worn floor remains clear.
+Lamp smoke gathers beneath the rafters as faint spice and leather odors mingle
+with stronger smells drifting from drink, cooked food and damp coats.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192018 0
+S
+#4192020
+Bitter coast, Seyda Neen, town, Arrille's tradehouse~
+The wood floor creaks underfoot between crowded tables and a broad service bar
+its surface marked by soiled boots, spilled drink and years of steady traffic.
+Soft firelight glints across clay cups and bottles arranged on nearby shelves,
+as warmth, smoke and hearty food scents settle throughout the room.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4192021 0
+D5
+Down~
+~
+0 0 4192016 0
+S
+#4192021
+Bitter coast, Seyda Neen, town, Arrille's tradehouse~
+A tight passage winds among stacked crates, low tables and plain wooden chairs
+beneath beams stained dark by lamp soot and moisture carried in from outdoors.
+Worn rugs soften parts of the floor while shelves display plain everyday goods
+amid the mixed aromas of old timber, ale, wax and dried herbs.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192020 0
+D2
+South~
+~
+0 0 4192022 0
+S
+#4192022
+Bitter coast, Seyda Neen, town, Arrille's tradehouse~
+Heavy rafters cross the ceiling above plaster walls worn by years of dim light
+while candles and hanging lamps illuminate scuffed furniture and full shelves.
+The room feels warm despite the damp climate, with little drafts near doorways
+and rich scents of food, drink, leather and wood lingering within.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192021 0
+S
+#4192023
+Bitter coast, Seyda Neen, town, Census and Excise's office~
+A broad wooden counter separates the public floor from orderly rows of tables,
+with ledgers, loose forms and stoppered inkpots arranged beneath steady lamps.
+Bootsteps sound across worn boards as dry paper, sealing wax and wet wool lend
+their dry and earthy scents to the quiet administrative room.
+~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4192014 0
+D2
+South~
+~
+0 0 4192024 0
+S
+#4192024
+Bitter coast, Seyda Neen, town, Census and Excise's office~
+Tall shelves cover the plaster walls with bound records and bundled documents,
+while narrow desks stand beneath shuttered windows dulled by the coastal haze.
+Old quills, sand shakers and oil lamps occupy surfaces polished by daily labor
+amid the smells of old paper, lamp oil and moisture-darkened wood.
+~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4192023 0
+D2
+South~
+~
+0 0 4192025 0
+S
+#4192025
+Bitter coast, Seyda Neen, town, Census and Excise's office~
+Plain benches line the room before desks crowded with forms and official tools
+as pale lamplight covers wooden partitions, locked drawers and document racks.
+Soft drafts stir loose papers while wax seals and ink stains mark the worktops
+leaving the chamber smelling of parchment, dust and wet clothing.
+~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4192024 0
+D2
+South~
+~
+0 0 4192039 0
+S
+#4192026
+Bitter coast, Seyda Neen, town, Census and Excise's warehouse~
+Heavy crates and sealed barrels fill the warehouse under thick timber rafters,
+with sacks, ropes and packing straw set along narrow aisles of scuffed boards.
+Dust hangs in shafts of dim light as damp wood and stored goods scent the air,
+among stacked cargo awaiting inspection or removal.
+~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4192014 0
+S
+#4192027
+Bitter coast, Seyda Neen, town, Draren Thiralas's house~
+A modest front room rests behind plaster walls stained faintly by coastal damp
+with a plain table, wooden chairs and wall shelves holding household crockery.
+Soft lamplight falls across swept floorboards and a chest beside clean bedding
+as the scents of wax, old timber and cooked roots linger inside.
+~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4192002 0
+S
+#4192028
+Bitter coast, Seyda Neen, town, Eldafire's house~
+A small hearth lends warmth to this modest home beneath smoke-darkened rafters
+beside woven mats, clay dishes and plain furnishings polished by regular care.
+Dried herbs hang near the wall as firelight flickers over plaster and old wood
+filling the room with gentle scents of food, ash and warm earth.
+~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4192005 0
+S
+#4192029
+Bitter coast, Seyda Neen, town, Erene Llenim's shack~
+Old warped planks enclose a small shack beneath a low and roughly patched roof
+with a straw pallet, battered stool and small crate raised off the damp floor.
+Rain stains mark the timber walls as cold moisture seeps through narrow cracks
+leaving strong smells of wet wood, smoke and muddy clothing.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192015 0
+S
+#4192030
+Bitter coast, Seyda Neen, town, Fargoth's house~
+The compact house contains sturdy furnishings arranged with practical neatness
+including a low table, narrow bed and shelves set against faded plaster walls.
+Candlelight glows over folded cloth, clay vessels and boards worn by footsteps
+as damp air mingles with traces of soap, wax and cooked grain.
+~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4192002 0
+S
+#4192031
+Bitter coast, Seyda Neen, town, Fine-Mouth's shack~
+Rough timber walls surround a narrow shack whose boards have darkened with age
+beneath a patched roof held up by beams wrapped with cord and strips of cloth.
+A bedroll and worn containers occupy the driest part of the uneven floorboards
+amid odors of damp straw, old rope and smoky lamp oil.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4192015 0
+S
+#4192032
+Bitter coast, Seyda Neen, town, Foryn Gilnith's shack~
+A crowded shack holds plain tools, chipped vessels and boxes used as furniture
+with patched bedding tucked beside a wall blackened by years of lantern smoke.
+Loose boards creak beneath each step as moisture beads along the cold corners,
+and stale food, wet leather and soot lend weight to the air.
+~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4192012 0
+S
+#4192033
+Bitter coast, Seyda Neen, town, Indrele Rathryon's shack~
+Sparse furnishings occupy this weathered shack beneath sagging timber supports
+with a faded blanket, low stool and clay brazier resting on rough floorboards.
+Pale daylight enters through gaps that admit the damp breeze during each storm
+carrying smells of rain-soaked wood, ashes and marsh vegetation.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4192012 0
+S
+#4192034
+Bitter coast, Seyda Neen, town, lighthouse~
+Thick stone walls enclose a round chamber beneath beams darkened by lamp smoke
+with storage chests, spare rope and oil jars arranged beside the curved stair.
+Moisture beads across the plaster as faint drafts carry the scent of wet stone
+mixed with old timber, dust and sharply scented lantern oil.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192013 0
+D4
+Up~
+~
+0 0 4192035 0
+S
+#4192035
+Bitter coast, Seyda Neen, town, lighthouse~
+A narrow stair coils around the inner wall between worn steps and iron railing
+while slit windows admit faint light, cool air and the distant murmur of wind.
+Whitewashed stone bears streaks of damp beneath brackets holding dim oil lamps
+and every footstep rises in hollow echoes through the tower.
+~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4192036 0
+D5
+Down~
+~
+0 0 4192034 0
+S
+#4192036
+Bitter coast, Seyda Neen, town, lighthouse~
+Broad glass panes surround a great lantern mounted within a framework of brass
+above polished reflectors, oil vessels and tools set on sturdy wooden shelves.
+Wind presses softly against the windows as flame heat gathers near the ceiling
+amid scents of warm metal, soot and clean-burning lamp oil.
+~
+0 8 0 0 0 0
+D5
+Down~
+~
+0 0 4192035 0
+S
+#4192037
+Bitter coast, Seyda Neen, town, Terurise Girvayne's house~
+Clean plastered walls frame a modest room furnished with care despite the damp
+with a wooden table, woven mats and shelves holding crockery and folded cloth.
+Warm candlelight settles across swept boards as dried herbs hang by the hearth
+adding mild scents of smoke, soap and cooked vegetables.
+~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4192008 0
+S
+#4192038
+Bitter coast, Seyda Neen, town, Vodunius Nuccius's house~
+A narrow home contains only useful furnishings arranged around the open floor,
+including a plain bed, solid chest and low table scarred by many years of use.
+Soft light enters through shuttered windows and falls over pale plaster walls,
+while damp timber, wax and stored clothing scent the still air.
+~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4192006 0
+S
+#4192039
+Bitter coast, Seyda Neen, town, prison ship~
+Worn planks form the enclosed deck beneath beams strengthened with iron bands,
+with wound ropes, shut hatches and barred partitions lining the tight passage.
+Lanterns sway gently as the hull creaks and cool moisture gathers on wet wood,
+amid strong odors of tar, brine, wet rope and old wood.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4192025 0
+D5
+Down~
+~
+0 0 4192040 0
+S
+#4192040
+Bitter coast, Seyda Neen, town, prison ship, lower deck~
+Low beams press above a dark lower deck divided by heavy bars and locked gates
+where chains, low bunks and rough benches occupy the dim holding compartments.
+Bilge water shifts beneath the boards as lantern smoke thickens the stale air,
+mingling with rust, damp straw and the sour scent of confinement.
+~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4192039 0
+S
+#0
+
+#RESETS
+M 0 2300550 1 4192006  ;  Mob: Darvame Hleran [Npcs] => #4192006 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302402 1 4192007  ;  Mob: Teleri Helvi [Npcs] => #4192007 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300187 1 4192016  ;  Mob: Arrille [Npcs] => #4192016 [Seyda neen] Bitter coast, Seyda Neen, town
+G 1 3409033 1 ; -- Give:  Roasted slaughterfish [Items]
+G 1 3409075 1 ; -- Give:  Cooked beef [Items]
+G 1 3403060 1 ; -- Give:  Bread [Items]
+G 1 3403262 1 ; -- Give:  Pear [Items]
+G 1 3405023 1 ; -- Give:  Torch [Items]
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+G 1 3231009 1 ; -- Give: Silver dagger [Items]
+G 1 3139003 1 ; -- Give: Iron cuirass [Items]
+G 1 3139001 1 ; -- Give: Iron helm [Items]
+G 1 3235024 1 ; -- Give: Steel waraxe [Items]
+G 1 3237039 1 ; -- Give: Wooden shortbow [Items]
+G 1 3407009 1 ; -- Give: Waterskin [Items]
+G 1 3403279 1 ; -- Give: Rat meat [Items]
+G 1 3403318 1 ; -- Give: Scrib jerky [Items]
+G 1 3402085 1 ; -- Give: Scroll of restore fatigue [Items]
+M 0 2300774 1 4192017  ;  Mob: Elone [Npcs] => #4192017 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3235019 1 16  ; -- Equip: Steel broadsword [Items] (wield)
+G 1 3320007 1 ; -- Give: Blades' insignia [Items]
+M 0 2301261 1 4192018  ;  Mob: Hrisskar Flat-Foot [Npcs] => #4192018 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3160003 1 5  ; -- Equip: Studded leather jerkin [Items] (body)
+E 1 3130002 1 10  ; -- Equip: Imperial chain armcops [Items] (arms)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3132007 1 8  ; -- Equip: Imperial iron sabatons [Items] (feet)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+G 1 3320005 1 ; -- Give: Imperial legion's insignia [Items]
+M 0 2301997 1 4192019  ;  Mob: Raflod the Braggart [Npcs] => #4192019 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235019 1 16  ; -- Equip: Steel broadsword [Items] (wield)
+G 1 3320002 1 ; -- Give: Thieves guild's insignia [Items]
+M 0 2300069 1 4192020  ;  Mob: Albecius Colollius [Npcs] => #4192020 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3139002 1 10  ; -- Equip: Iron pauldrons [Items] (arms)
+E 1 3139006 1 7  ; -- Equip: Iron greaves [Items] (legs)
+E 1 3139007 1 8  ; -- Equip: Iron sabatons [Items] (feet)
+E 1 3139005 1 9  ; -- Equip: Iron gauntlets [Items] (hands)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3235024 1 16  ; -- Equip: Steel waraxe [Items] (wield)
+M 0 2302374 1 4192021  ;  Mob: Tandram Andalen [Npcs] => #4192021 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+M 0 2302491 1 4192022  ;  Mob: Tolvise Othralen [Npcs] => #4192022 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2301041 1 4192023  ;  Mob: Ganciele Douar [Npcs] => #4192023 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136001 1 6  ; -- Equip: Imperial steel helm [Items] (head)
+E 1 3136002 1 10  ; -- Equip: Imperial steel pauldrons [Items] (arms)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3136005 1 9  ; -- Equip: Imperial steel gauntlets [Items] (hands)
+E 1 3136008 1 17  ; -- Equip: Imperial steel bulwark [Items] (hold)
+E 1 3136004 1 13  ; -- Equip: Imperial steel girdle [Items] (waist)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3101002 1 7  ; -- Equip: Imperial skirt [Items] (legs)
+G 1 3320005 1 ; -- Give: Imperial legion's insignia [Items]
+M 0 2302193 1 4192024  ;  Mob: Sellus Gravius [Npcs] => #4192024 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3137003 1 5  ; -- Equip: Imperial templar cuirass [Items] (body)
+E 1 3137002 1 10  ; -- Equip: Imperial templar pauldrons [Items] (arms)
+E 1 3137007 1 8  ; -- Equip: Imperial templar sabatons [Items] (feet)
+E 1 3137005 1 9  ; -- Equip: Imperial templar gauntlets [Items] (hands)
+E 1 3137004 1 13  ; -- Equip: Imperial templar girdle [Items] (waist)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+G 1 3320005 1 ; -- Give: Imperial legion's insignia [Items]
+M 0 2302304 1 4192025  ;  Mob: Socucius Ergalla [Npcs] => #4192025 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3236053 1 16  ; -- Equip: Steel shortsword of frost [Items] (wield)
+G 1 3320020 1 ; -- Give: Census and excise's insignia [Items]
+M 0 2300028 1 4192026  ;  Mob: Adraria Vandacia [Npcs] => #4192026 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+G 1 3320020 1 ; -- Give: Census and excise's insignia [Items]
+M 0 2300653 1 4192027  ;  Mob: Draren Thiralas [Npcs] => #4192027 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2300756 1 4192028  ;  Mob: Eldafire [Npcs] => #4192028 [Seyda neen] Bitter coast, Seyda Neen, town
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300810 1 4192029  ;  Mob: Erene Llenim [Npcs] => #4192029 [Seyda neen] Bitter coast, Seyda Neen, town, Arrille's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2300886 1 4192030  ;  Mob: Fargoth [Npcs] => #4192030 [Seyda neen] Bitter coast, Seyda Neen, town, Arrille's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3304010 1 1  ; -- Equip: Copper ring of health [Items] (finger-r)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3410010 1 ; -- Give: Flin [Items]
+M 0 2300952 1 4192031  ;  Mob: Fine-Mouth [Npcs] => #4192031 [Seyda neen] Bitter coast, Seyda Neen, town, Arrille's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300976 1 4192032  ;  Mob: Foryn Gilnith [Npcs] => #4192032 [Seyda neen] Bitter coast, Seyda Neen, town, Arrille's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+G 1 3301036 1 ; -- Give: Jeweled ring [Items]
+M 0 2301319 1 4192033  ;  Mob: Indrele Rathryon [Npcs] => #4192033 [Seyda neen] Bitter coast, Seyda Neen, town, Arrille's tradehouse
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2302438 1 4192036  ;  Mob: Thavere Vedrano [Npcs] => #4192036 [Seyda neen] Bitter coast, Seyda Neen, town, Arrille's tradehouse
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+M 0 2302424 1 4192037  ;  Mob: Teruise Girvayne [Npcs] => #4192037 [Seyda neen] Bitter coast, Seyda Neen, town, Arrille's tradehouse
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302705 1 4192038  ;  Mob: Vodunius Nuccius [Npcs] => #4192038 [Seyda neen] Bitter coast, Seyda Neen, town, Census and Excise's office
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3404026 1 ; -- Give: Clay tankard [Items]
+G 1 3404079 1 ; -- Give: Paper [Items]
+M 0 2301381 1 4192040  ;  Mob: Jiub [Npcs] => #4192040 [Seyda Neen] Bitter coast, Seyda Neen, town, prison ship, lower deck
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+S
+
+#SHOPS
+2300187 5 9 12 8 35 120 90 0 23 ; Arrille
+0
+
+#REPAIRS
+2300187 9 5 0 100 1 0 23 ; Arrille
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 SEYDA NEEN~
+Seyda Neen is a small marshbound port commonly known as Vvardenfell's gateway,
+where timber homes, Imperial offices and muddy paths rise above dark wetlands.
+The Grand Pharos watches the harbor as visitors arrive under Hlaalu governance
+and silt striders wait beyond the village for inland journeys.~
+0 $~
+
+#$

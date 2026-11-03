@@ -1,0 +1,2087 @@
+#AREA Help~
+
+#VERSION 1
+
+#CLIMATE 2 2 2
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+1 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#9999001
+RESERVED~
+RESERVED~
+RESERVED
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#9999001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#9999001
+RESERVED~
+RESERVED
+~
+0 0 0 0 0 0
+S
+#0
+
+#SPECIALS
+S
+
+#HELPS
+1 ACROBAT~
+Acrobats are a polite euphemism for agile burglars and second-story men. These
+thieves avoid detection by stealth, and rely on mobility and cunning to avoid
+capture.
+
+Positive attributes: Agility, Endurance
+Negative attributes: Intelligence
+
+Hp per level: 1d6
+
+Proffecions:
+Can train up to 99%: Acrobatics, Athletics
+Can train up to 75%: Marksman, Sneak
+Can train up to 50%: Unarmored, Speechcraft, Alteration
+Can train up to 25%: Spear, Hand to hand, Light armor
+~
+1 AGENT~
+Agents are common operatives skilled in deception and avoidance,  also trained
+in self-defense and the use of deadly force. Self-reliant and independent, the
+agents devote themselves to personal goals, or to various patrons or causes.
+
+Positive attributes: Personality, Agility
+Negative attributes: Strength
+
+Hp per level: 1d6
+
+Proffecions:
+Can train up to 99%: Speechcraft, Sneak
+Can train up to 75%: Acrobatics, Light armor
+Can train up to 50%: Short blade, Mercantile, Conjuration
+Can train up to 25%: Block, Unarmored, Illusion
+~
+1 ARCHER~
+Archers are fighters specializing in long-range combat and rapid movement. They
+keep their opponents at distance by ranged weapons, swift maneuver, and engaged
+in melee with sword and shield after the enemy is wounded and weary.
+
+Positive attributes: Agility, Strength
+Negative attributes: Endurance
+
+Hp per level: 1d8
+
+Proffecions:
+Can train up to 99%: Marksman, Long blade
+Can train up to 75%: Block, Athletics
+Can train up to 50%: Light armor, Unarmored, Spear
+Can train up to 25%: Restoration, Sneak, Medium armor
+~
+1 ASSASSIN~
+Assassins are killers who rely on stealth and mobility to approach the victims
+undetected. Execution with ranged weapons or with short blades for close work.
+Assassins include ruthless murderers and principled agents of noble causes.
+
+Positive attributes: Agility, Intelligence
+Negative attributes: Charisma
+
+Hp per level: 1d6
+
+Proffecions:
+Can train up to 99%: Sneak, Marksman
+Can train up to 75%: Light armor, Short blade
+Can train up to 50%: Acrobatics, Security, Long blade
+Can train up to 25%: Alchemy, Block, Athletics
+~
+1 BARBARIAN~
+Barbarians are the proud, savage warrior elite of the plains nomads, mountain
+tribes, and sea reavers. They tend to be brutal and direct, lacking civilized
+graces, but they glory in heroic feats, and excel in fierce, frenzied single
+combat.
+
+Positive attributes: Strength, Agility
+Negative attributes: Intelligence
+
+Hp per level: 1d8
+
+Proffecions:
+Can train up to 99%: Axe, Medium armor
+Can train up to 75%: Blunt weapon, Athletics
+Can train up to 50%: Block, Acrobatics, Light armor
+Can train up to 25%: Armorer, Marksman, Unarmored
+~
+1 BARD~
+Bards are loremasters and storytellers. They crave adventure for the wisdom and
+insight to be gained, and must depend on weapons, shield, spell and enchantment
+to preserve them from the perils of their educational experiences.
+
+Positive attributes: Personality, Intelligence
+Negative attributes: Strength
+
+Hp per level: 1d6
+
+Proffecions:
+Can train up to 99%: Speechcraft, Alchemy
+Can train up to 75%: Acrobatics, Long blade
+Can train up to 50%: Block, Mercantile, Illusion
+Can train up to 25%: Medium armor, Enchant, Security
+~
+1 BATTLEMAGE~
+Battlemages are combat-wizards, trained in both lethal spellcasting and heavily
+armored combat. They sacrifice their mobility and versatility for the ability
+to supplement melee and ranged attacks with elemental damage.
+
+Positive attributes: Intelligence, Strength
+Negative attributes: Endurance
+
+Hp per level: 1d4
+
+Proffecions:
+Can train up to 99%: Alteration, Destruction
+Can train up to 75%: Conjuration, Axe
+Can train up to 50%: Heavy armor, Mysticism, Long blade
+Can train up to 25%: Marksman, Enchant, Alchemy
+~
+1 HEALER~
+Healers are spellcasters who swear solemn oaths to heal the afflicted and cure
+the diseased. When threatened, they defend with reason, disabling attacks and
+magic, relying on deadly force only in extremity.
+
+Positive attributes: Willpower, Personality
+Negative attributes: Strength
+
+Hp per level: 1d4
+
+Proffecions:
+Can train up to 99%: Restoration, Mysticism
+Can train up to 75%: Alteration, Hand to hand
+Can train up to 50%: Speechcraft, Illusion, Alchemy
+Can train up to 25%: Unarmored, Light armor, Blunt weapon
+~
+1 KNIGHT~
+Knights of noble birth, distinguished in battle or tourney, are high civilized
+warriors, schooled in letters and courtesy, governed by the codes of chivalry.
+In addition to the arts of war, many knights also study the lore of healing and
+enchantment.
+
+Positive attributes: Strength, Personality
+Negative attributes: Intelligence
+
+Hp per level: 1d8
+
+Proffecions:
+Can train up to 99%: Long blade, Axe
+Can train up to 75%: Speechcraft, Heavy armor
+Can train up to 50%: Block, Restoration, Mercantile
+Can train up to 25%: Medium armor, Enchant, Armorer
+~
+1 MAGE~
+Mages claim to study magic for its intellectual rewards, but they often profit
+from its practical applications. Varying widely in temperament and motivation,
+mages share but one thing in common, the avid love of spellcasting.
+
+Positive attributes: Intelligence, Willpower
+Negative attributes: Strength
+
+Hp per level: 1d4
+
+Proffecions:
+Can train up to 99%: Mysticism, Destruction
+Can train up to 75%: Alteration, Illusion
+Can train up to 50%: Restoration, Enchant, Alchemy
+Can train up to 25%: Unarmored, Short blade, Conjuration
+~
+1 MONK~
+Monks are the students of the ancient martial arts of hand-to-hand combat and
+unarmored self defense. They often avoid detection by high stealth, mobility,
+and agility, and are skilled with a variety of ranged and close-combat weapons.
+
+Positive attributes: Agility, Willpower
+Negative attributes: Intelligence
+
+Hp per level: 1d6
+
+Proffecions:
+Can train up to 99%: Hand to hand, Unarmored
+Can train up to 75%: Athletics, Acrobatics
+Can train up to 50%: Sneak, Block, Marksman
+Can train up to 25%: Light armor, Restoration, Blunt weapon
+~
+1 NIGHTBLADE~
+Nightblades are nibble spellcasters who use their magics to enhance mobility,
+concealment, and stealthy close combat. They have a sinister reputation, since
+many nightblades are thieves, enforcers, assassins, or covert agents.
+
+Positive attributes: Willpower, Agility
+Negative attributes: Personality
+
+Hp per level: 1d4
+
+Proffecions:
+Can train up to 99%: Mysticism, Illusion
+Can train up to 75%: Alteration, Sneak
+Can train up to 50%: Short blade, Light armor, Unarmored
+Can train up to 25%: Destruction, Marksman, Security
+~
+1 PILGRIM~
+Pilgrims are travellers and seekers of truth and enlightenment. They fortify
+themselves for road and wilderness with arms, armor, and magic, and through
+wide experience of the world, they become shrewd in commerce and persuasion.
+
+Positive attributes: Personality, Endurance
+Negative attributes: Strength
+
+Hp per level: 1d6
+
+Proffecions:
+Can train up to 99%: Speechcraft, Mercantile
+Can train up to 75%: Marksman, Restoration
+Can train up to 50%: Medium armor, Illusion, Hand to hand
+Can train up to 25%: Short blade, Block, Alchemy
+~
+1 ROGUE~
+Rogues are adventurers and opportunists with a gift for getting in and out of
+trouble. Relying variously on charm and dash, blades and business sense, they
+thrive on conflict and misfortune, trusting to luck and cunning to survive.
+
+Positive attributes: Agility, Personality
+Negative attributes: Willpower
+
+Hp per level: 1d8
+
+Proffecions:
+Can train up to 99%: Short blade, Mercantile
+Can train up to 75%: Axe, Light armor
+Can train up to 50%: Hand to hand, Block, Medium armor
+Can train up to 25%: Speechcraft, Athletics, Long blade
+~
+1 SORCERER~
+Sorcerer though spellcasters by vocation, they rely mostly on summonings and
+enchantments. They are greedy for magic scrolls, rings, armor and weapons, and
+commanding undead and Daedric servants gratifies their egos.
+
+Positive attributes: Intelligence, Endurance
+Negative attributes: Agility
+
+Hp per level: 1d4
+
+Proffecions:
+Can train up to 99%: Enchant, Conjuration
+Can train up to 75%: Mysticism, Destruction
+Can train up to 50%: Alteration, Illusion, Medium armor
+Can train up to 25%: Heavy armor, Marksman, Short blade
+~
+1 SPELLSWORD~
+Spellswords are spellcasting specialists trained to support Imperial troops in
+skirmish and in battle. The veteran spellswords are prized as mercenaries, and
+well-suited for careers as adventurers and soldiers-of-fortune.
+
+Positive attributes: Willpower, Endurance
+Negative attributes: Strength
+
+Hp per level: 1d4
+
+Proffecions:
+Can train up to 99%: Block, Restoration
+Can train up to 75%: Long blade, Destruction
+Can train up to 50%: Alteration, Blunt weapon, Enchant
+Can train up to 25%: Alchemy, Medium armor, Axe
+~
+1 THIEF~
+Thieves are pickpockets and pilferers. Unlike the robbers, who kill and loot,
+thieves typically choose stealth and subterfuge over violence, and they often
+entertain romantic notions with charm and cleverness.
+
+Positive attributes: Agility, Intelligence
+Negative attributes: Willpower
+
+Hp per level: 1d6
+
+Proffecions:
+Can train up to 99%: Security, Sneak
+Can train up to 75%: Acrobatics, Light armor
+Can train up to 50%: Short blade, Marksman, Speechcraft
+Can train up to 25%: Hand to hand, Mercantile, Athletics
+~
+1 WARRIOR~
+Warriors are the professional men-at-arms, soldiers, mercenaries, and common
+adventurers of the Empire, trained with various weapons and armor styles,
+conditioned by long marches, and hardened by ambush, skirmish, and battle.
+
+Positive attributes: Strength, Endurance
+Negative attributes: Intelligence
+
+Hp per level: 1d8
+
+Proffecions:
+Can train up to 99%: Long blade, Medium armor
+Can train up to 75%: Heavy armor, Athletics
+Can train up to 50%: Block, Armorer, Spear
+Can train up to 25%: Marksman, Axe, Blunt weapon
+~
+1 PRIEST~
+Priest are specialists trained mostly in the ways of restoration. They claim to
+study magic for its common cause, but they often profit from its benefits. Like
+mages they share the avid love of spellcasting.
+
+Positive attributes: Willpower, Personality
+Negative attributes: Endurance
+
+Hp per level: 1d4
+
+Proffecions:
+Can train up to 99%: Restoration, Mysticism
+Can train up to 75%: Alteration, Blunt weapon
+Can train up to 50%: Unarmored, Conjuration, Speechcraft
+Can train up to 25%: Light armor, Alchemy, Destruction
+~
+1 BLOCK~
+The Block proficiency allows the hero to use shields to block one melee attack.
+Shields will not protect you from ranged and magical attacks.
+
+Actions: Block, Bash
+
+Skills: Disarm, Taunt
+
+-------------------------------------------------------------------------------
+Block action will make you avoid a enemy's attack. You have to equip a shield
+in order to use this skill.
+
+Check to succeed: Skill % /10 + dexterity.
+Cost: 10.
+~
+1 ARMORER~
+The Armorer profficiency is used to maintain weapons and armor items at top
+effectiveness.  Damaged weapons do less damage. Damaged armor provides less
+protection against  attacks. As wear increases, the diminishing effectiveness
+of weapons and armor  becomes dramatic.
+
+Acions: Execute, Gouge, Pummel, Overpower
+
+Skills:  Hammer, Sharpen, Reinforce
+~
+1 SECURITY~
+The Security proficiency lets you open locked doors and containers with thief
+tools like lockpicks, disarm traps with probes, and re-seal sealed documents
+after reading them.
+
+Actions: Distract
+
+Skills: Lockpick, Track, Scan, Detrap
+~
+1 SNEAK~
+The Sneak proficiency is the art of moving unseen and unheard. Skilled sneaks
+are also adept pickpockets. Sneak is a very useful skill, as it allows for
+critical hits.
+
+Actions: Fade, Disengage
+
+Skills: Pickpocket, Sneak, Hide, Backstab
+
+Sneak skill will allow you to walk silently and creature will not see you.
+
+Skill to succeed: Skill % /2 + intelligence.
+Duration: 12 turns.
+Cost: 10
+~
+1 ENCHANT~
+Enchant proficiency is the process of permanently applying a magical effect to
+an item  by harnessing the power of a creature's soul. This skill governs the
+creation, use, and recharging of enchanted items.
+
+Actions: Blink, Banish
+
+Skills: Scribe, Meditate, Enchant, Imbue
+
+Enchant skill will allow you to enchant armor and clothing with a positive
+effect. You will need a runestone to do this.
+
+Check to succeed: Skill % /2 + intelligence.
+Cost: 10.
+~
+1 ALCHEMY~
+Alchemy proficiency allows you to identify magical properties in ingredients
+and create potions to generate useful effects, such as healing, cure disease,
+water-walking, magical shielding, and fortifying bodily attributes.
+
+Actions: None
+
+Skills: Brew, Cook, Poison, Aid
+~
+1 HEAVY_ARMOR~
+The Heavy Armor proficiency is used to move and defend while wearing massive
+and rigid armors like iron, steel, silver, Dwemer, ebony, and Daedric armor.
+
+Actions: None
+
+Skills: Heavy armor
+
+As higher you train these armor skills, the more armor you will receive from
+wearing armor of this category.
+
+About skill:
+The heavy armor skill will allow you to wear all armor items flaged as heavy
+armor style.
+~
+1 MEDIUM_ARMOR~
+The Medium Armor proficiency lets one move and defend while wearing durable but
+flexible armors like chain, scale, bonemold, and Orcish armor.
+
+Actions: None
+
+Skills: Medium armor
+
+As higher you train these armor skills, the more armor you will receive from
+wearing armor of this category.
+
+About skill:
+The medium armor skill will allow you to wear all armor items flaged as medium
+armor style.
+~
+1 LIGHT_ARMOR~
+The Light Armor profiency lets one move and defend while wearing light-weight,
+flexible armors like leather, boiled leather, fur, chitin, and glass.
+
+Actions: None
+
+Skills: Light armor
+
+As higher you train these armor skills, the more armor you will receive from
+wearing armor of this category.
+
+About skill:
+The light armor skill will allow you to wear all armor items flaged as light
+armor style.
+~
+1 HAND_TO_HAND~
+The Hand-to-hand skill is the martial art of unarmed combat.
+
+Actions: Slam, Kick, Punch, Grip
+
+Skills: Cestus
+
+As higher you train these weapon skills, the more damage you will deal with the
+weapons of this category.~
+1 LONG_BLADE~
+The Long Blade proficincy lets the hero use broadswords, sabers, longswords,
+claymores, katanas, and dai-katanas effectively.
+
+Actions: None
+
+Skills: Claymore, Longsword, Broadsword
+
+As higher you train these weapon skills, the more damage you will deal with the
+weapons of this category.
+~
+1 BLUNT_WEAPON~
+The Blunt Weapon proficiency makes you more effective when using heavy bashing
+weapons like maces, hammers, clubs, or staves.
+
+Actions: None
+
+Skills: Mace, Warhammer, Staff
+
+As higher you train these weapon skills, the more damage you will deal with the
+weapons of this category.
+~
+1 AXE~
+he Axe skill helps a user wield heavy chopping weapons like war axes and
+battleaxes more effectively.
+
+Actions: None
+
+Skills: Battleaxe, Waraxe
+
+As higher you train these weapon skills, the more damage you will deal with the
+weapons of this category.
+~
+1 MARKSMAN~
+The Marksman profficiency affects the use of ranged weapons such as the short
+bow, long bow, crossbow, dart, throwing star, and throwing knife.
+
+Actions: None
+
+Skills: Archery (Bows, Throwing weapons, Crossbows)
+
+As higher you train these weapon skills, the more damage you will deal with the
+weapons of this category.
+~
+1 SHORT_BLADE~
+Short Blade proficiency makes hero be more effective with short, quick, weapons
+like daggers, tantos, short swords, and wakizashis.
+
+Actions: None
+
+Skills: Dagger, Shortsword
+
+As higher you train these weapon skills, the more damage you will deal with the
+weapons of this category.
+
+~
+1 SPEAR~
+The Spear proficiency permits effective use of long-hafted thrusting weapons
+like spears and halberds.
+
+Actions: None
+
+Skills: Spear, Halberd
+
+As higher you train these weapon skills, the more damage you will deal with the
+weapons of this category.
+~
+1 DESTRUCTION~
+The Destruction proficiency is the mastery of the spell effects of the College
+of Destruction. Their spells harm living and unliving things, like elemental
+damage, draining, damaging, vulnerability, and disintegration magical effects.
+
+Actions: None
+
+Skills:
+Shock damage, Frost damage, Fire damage, Poison damage, Drain attribute
+Drain fatigue, Drain magicka, Drain health, Damage attribute, Damage fatigue,
+Damage magicka, Damage health, Weakness to element, Disindegrade weapon and
+armor.
+~
+1 ALTERATION~
+Thhe Alteration proficiency manipulates the physical world and its natural
+properties. Alteration effects include water breathing and walking, jumping,
+levitating, burdening, opening and locking, and creating shield barriers
+against physical and elemental damage.
+
+Actions: None
+
+Skills: Burden, Feather, Levitate, Shield, Elemental shield
+
+~
+1 ILLUSION~
+The Illusion profficiency includes spells that alter the perceptions and
+thoughts of living beings. Illusion effects include blindness, illumination,
+paralysis, silence, calmness, enragement, charm, distract, camouflage, and
+invisibility.
+
+Actions: None
+
+Skills:
+Blindness, Chameleon, Charm, Demoralize, Frenzy, Invisibility, Paralysis,
+Sanctuary, Sound
+~
+1 CONJURATION~
+The Conjuration proficiency include the mental domination of mundane and
+magical creatures, summoning of otherworldly weapons and armor, and summoning
+of Daedric or undead servants and powers to serve and protect the caster.
+
+Actions: None
+
+Skills: Summon scamp, Bound weapons and armor
+~
+1 MYSTICISM~
+The Mysticism proficiency shapes and focus otherworldly forces to bind souls in
+gems, teleport the caster's body, manipulate the world with telekinesis, absorb
+or reflect magical energies, and sense unseen objects at a distance.
+
+Actions: None
+
+Skills:
+Absorb attributes, Absorb fatigue, Absorb magicka, Absorb Health
+~
+1 RESTORATION~
+The Restoration proficiency heals, restores, and fortify the body's attributes
+and abilities, cure disease, and protect it from other malign influences.
+
+Actions: None
+
+Skills:
+Fortify attributes, Fortify health, Fortify fatigue, Fortify magicka, Restore
+attributes, Restore health, Restore magicka, Restore Fatigue, Restistance to
+elements, Immunity to elements.
+~
+1 ATHLETICS~
+The Athletics proficiency trains and conditions one for running and swimming.
+
+Actions: Enrage, Grapple, Dodge
+
+Skills: Dig, Rescue, Charge
+~
+1 ACROBATICS~
+The Acrobatics skill involves jumping, climbing, and avoiding damage from
+falls.
+
+Actions: Tumble, Pounce
+
+Skills: Climb, Mount
+~
+1 SPEECHCRAFT~
+The Speechcraft proficiency allows hero to influence others. Listeners are more
+willing to divulge information or to entrust tasks to the skilled speaker.
+
+Actions: None
+
+Skills: Intimidate, Bluff, Judge
+~
+1 MERCANTILE~
+The Mercantile proficiency is the art of buying low and selling high. This
+skill guarantees lower initial prices for goods, equipment, and services, and
+improves chances of getting better deals by bargaining.
+
+Actions: None
+
+Skills: Bandage, Peek, Inspect
+~
+1 BANDAGE~
+This skill can be use to restore yours or other's health by 1-12 points.
+
+Chance to succced: Skill % /2 + willpower
+Cost: 10.
+~
+1 PEEK~
+This skill is automatic skill that will allow the hero to get a fast look into
+the victim's inventory.
+~
+1 INSPECT~
+This skill will allow you to inspect an weapon's or armor's statistics like the
+damage, armor, weight and value.
+
+Chance to succeed: Skill % /2 + personality.
+Cost: 10.
+~
+1 INTIMIDATE~
+This skill will allow you to intimidate a victim and make it give you and item
+it equips. If unsuccessful your favor will go down by 10 points.
+
+Chance to succeed: Skill % /2 + personality - victim's level.
+Cost: 10.
+~
+1 BLUFF~
+This skill will allow you to make an npc give you info about itself like its
+health, magicka, fatigue, ac and thac0.
+
+Chance to succeed: Skill % /2 + personality.
+Cost: 10.
+~
+1 JUDGE~
+This skill will allow you to know the alignment of the victim. Especially when
+you dont want to kill good npcs.
+
+Chance to succeed: Skill % /2 + personality.
+Cost: 10.
+~
+1 CLIMB~
+This skill will allow you to pass through exits that require climbing.
+~
+1 MOUNT~
+This skill will allow you to mount creature without falling.
+~
+1 CHARGE~
+This skill will allow you o charge against an enemy and get a mighty hit.
+
+Chance to succeed: Skill % /2 + strength.
+Effect: 1d12 + strength /2.
+Cost: 10.
+~
+1 ENRAGE~
+This automatic action will allow you to be enraged in combat, adding extra
+damage to your attacks.
+
+Chance to succeed: Skill % /10 + willpower.
+Effect: Strength /2 points.
+Duration: Luck /2 turns.
+Cost: 10.
+~
+1 GRAPPLE~
+This automatic action will allow you to grapple with the enemy receiving +2
+agility and substracting -2 agility from the enemy.
+
+Chance to succeed: Skill % /10 + endurance
+Effect: +2 / -2 agility.
+Duration: Endurance /2.
+Cost: 10.
+~
+1 DODGE~
+This automatic action will avoid an incomming attack from enemy.
+
+Chance to succeed: Skill % /10 + agility.
+Cost: 10.
+~
+1 DISEASE_IMMUNITY~
+This spell will allow your target to gain immunity from disease.
+If immune the damage dealt will be zero.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 PARALYSIS_IMMUNITY~
+This spell will allow your target to gain immunity from pralysis.
+If immune the damaged dealt will be zero.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 POISON_IMMUNITY~
+This spell will allow your target to gain immunity from poison attacks.
+If immune the damaged dealt will be zero.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 FORTIFY_STRENGTH~
+This spell will allow you to increase target's strength for a period.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_ENDURANCE~
+This spell will allow you to increase target's endurance for a period.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_AGILITY~
+This spell will allow you to increase target's agility for a period.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_INTELLIGENCE~
+This spell will allow you to increase target's intelligence for a period.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_WILLPOWER~
+This spell will allow you to increase target's willpower for a period.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_PERSONALITY~
+This spell will allow you to increase target's personality for a period.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_LUCK~
+This spell will allow you to increase target's luck for a period.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_ATTACK~
+This spell will allow you to increase target's hitroll for a period.
+
+Effect: 1-5.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 FORTIFY_FATIGUE~
+This spell will allow you to increase your current fatigue.
+
+Effect: Current fatigue * 2.
+Cost: 10 + effect + effect /2.
+~
+1 FORTIFY_HEALTH~
+This spell will allow you to increase your current health.
+
+Effect: Current health * 2.
+Cost: 10 + effect + effect /2.
+~
+1 FORTIFY_MAGICKA~
+This spell will allow you to increase your current magicka.
+
+Effect: Current magicka * 2.
+Cost: 10 + effect + effect /2.
+~
+1 DISEASE RESISTANCE~
+This spell will allow your target to gain resistance to disease. If resistant
+you will dealt less damage from this kind of spells.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 POISON_RESISTANCE~
+This spell will allow your target to gain resistance to poison. If resistant
+you will dealt less damage from this kind of spells.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 FROST_RESISTANCE~
+This spell will allow your target to gain resistance to frost. If resistant you
+will dealt less damage from this kind of spells.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 FIRE_RESISTANCE~
+This spell will allow your target to gain resistance to fire. If resistant you
+will dealt less damage from this kind of spells.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 SHOCK_RESISTANCE~
+This spell will allow your target to gain resistance to shock. If resistant you
+will dealt less damage from this kind of spells.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 MAGIC_RESISTANCE~
+This spell will allow your target to gain resistance to magic. If resistant you
+will dealt less damage from this kind of spells.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 PARALYSIS_RESISTANCE~
+This spell will allow your target to gain resistance to paralysis. If resistant
+you will dealt less damage from this kind of spells.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 RESTORE_STRENGTH~
+This spell will allow you to restore your target's strength even if it is
+permanently damaged.
+
+Effect: 2.
+Cost: 10 + effect.
+~
+1 RESTORE_ENDURANCE~
+This spell will allow you to restore your target's endurance even if it is
+permanently damaged.
+
+Effect: 2.
+Cost: 10 + effect.
+~
+1 RESTORE_AGILITY~
+This spell will allow you to restore your target's agility even if it is
+permanently damaged.
+
+Effect: 2.
+Cost: 10 + effect.
+~
+1 RESTORE_INTELLIGENCE~
+This spell will allow you to restore your target's intelligence even if it is
+permanently damaged.
+
+Effect: 2.
+Cost: 10 + effect.
+~
+1 RESTORE_WILLPOWER~
+This spell will allow you to restore your target's willpower even if it is
+permanently damaged.
+
+Effect: 2.
+Cost: 10 + effect.
+~
+1 RESTORE_PERSONALITY~
+This spell will allow you to restore your target's personality even if it is
+permanently damaged.
+
+Effect: 2.
+Cost: 10 + effect.
+~
+1 RESTORE_LUCK~
+This spell will allow you to restore your target's luck even if it is
+permanently damaged.
+
+Effect: 2.
+Cost: 10 + effect.
+~
+1 RESTORE_HEALTH~
+This spell will allow you to restore target's health.
+
+Effect: 1d20 + willpower.
+Cost: 10 + effect /2.
+~
+1 RESTORE_FATIGUE~
+This spell will allow you to restore target's fatigue.
+
+Effect: 1d20 + willpower.
+Cost: 10 + effect /2.
+~
+1 RESTORE_MAGICKA~
+This spell will allow you to restore target's magicka.
+
+Effect: 20 + 1d20 + willpower.
+Cost: 10 + effect /2.
+~
+1 ABSORB_STRENGTH~
+This spell will allow you to drain target's strength and give it to you for a
+period.
+
+Effect: -1/+1 strength.
+Duration: 1d60 + willpower.
+Cost: 15 + effect1 + effect2 + duration /2.
+~
+1 ABSORB_ENDURANCE~
+This spell will allow you to drain target's endurance and give it to you for
+a period.
+
+Effect: -1/+1 endurance.
+Duration: 1d60 + willpower.
+Cost: 15 + effect1 + effect2 + duration /2.
+~
+1 ABSORB_AGILITY~
+This spell will allow you to drain target's agility and give it to you for a
+period.
+
+Effect: -1/+1 agility.
+Duration: 1d60 + willpower.
+Cost: 15 + effect1 + effect2 + duration /2.
+~
+1 ABSORB_INTELLIGENCE~
+This spell will allow you to drain target's intelligence and give it to you for
+a period.
+
+Effect: -1/+1 intelligence.
+Duration: 1d60 + willpower.
+Cost: 15 + effect1 + effect2 + duration /2.
+~
+1 ABSORB_WILLPOWER~
+This spell will allow you to drain target's willpower and give it to you for a
+period.
+
+Effect: -1/+1 willpower.
+Duration: 1d60 + willpower.
+Cost: 15 + effect1 + effect2 + duration /2.
+~
+1 ABSORB_PERSONALITY~
+This spell will allow you to drain target's personality and give it to you for
+a period.
+
+Effect: -1/+1 personality.
+Duration: 1d60 + willpower.
+Cost: 15 + effect1 + effect2 + duration /2.
+~
+1 ABSORB_LUCK~
+This spell will allow you to drain target's luck and give it to you for a
+period.
+
+Effect -1/+1 luck.
+Duration: 1d60 + willpower.
+Cost: 15 + effect1 + effect2 + duration /2.
+~
+1 ABSORB_HEALTH~
+This spell will allow you to drain target's health and give it to you.
+
+Effect: 1d20 + willpower.
+Cost: 20 + effect.
+~
+1 ABSORB_MAGICKA~
+This spell will allow you to drain target's magicka and give it to you.
+
+Effect: 1d20 + willpower.
+Cost: 20 + effect.
+~
+1 ABSORB_FATIGUE~
+This spell will allow you to drain target's fatigue and give it to you.
+
+Effect: 1d20 + willpower.
+Cost: 20 + effect.
+~
+1 DISPEL_MAGIC~
+This spell will dispel effects from you.
+~
+1 RECALL_(TES)~
+This spell will bring you back to the prison ship.
+~
+1 SOULTRAP~
+This spell will steal victim's soul and create a soulgem in your inventory.
+
+Cost: 15.
+~
+1 DETECT_MAGIC~
+This spell will reveal if an item is magical.
+~
+1 BOUND_BATTLEAXE~
+This spell will create a dremora battleaxe in your inventory. Bound weapons can
+be used even if your are not trained with them. Of course you get the bonus
+damage if you are trained with this kind of weapon.
+
+Duration: About 20.
+Cost: 10.
+
+Dremora battleaxe has the following stats:
+
+Damage: 1-14.
+Weight: 0.
+~
+1 BOUND_DAGGER~
+This spell will create a dremora dagger in your inventory. Bound weapons can
+be used even if your are not trained with them. Of course you get the bonus
+damage if you are trained with this kind of weapon.
+
+Duration: About 20.
+Cost: 10.
+
+Dremora dagger has the following stats:
+
+Damage: 1-7.
+Weight: 0.
+~
+1 BOUND_LONGBOW~
+This spell will create a dremora bongbow in your inventory. Bound weapons can
+be used even if your are not trained with them. Of course you get the bonus
+damage if you are trained with this kind of weapon.
+
+Duration: About 20.
+Cost: 10.
+
+Dremora longbow has the following stats:
+
+Damage: 1-9.
+Weight: 0.
+~
+1 BOUND_LONGSWORD~
+This spell will create a dremora longsword in your inventory. Bound weapons can
+be used even if your are not trained with them. Of course you get the bonus
+damage if you are trained with this kind of weapon.
+
+Duration: About 20.
+Cost: 10.
+
+Dremora longsword has the following stats:
+
+Damage: 1-12.
+Weight: 0.
+~
+1 BOUND_MACE~
+This spell will create a dremora mace in your inventory. Bound weapons can
+be used even if your are not trained with them. Of course you get the bonus
+damage if you are trained with this kind of weapon.
+
+Duration: About 20.
+Cost: 10.
+
+Dremora mace has the following stats:
+
+Damage: 1-12.
+Weight: 0.
+~
+1 BOUND_SPEAR~
+This spell will create a dremora spear in your inventory. Bound weapons can
+be used even if your are not trained with them. Of course you get the bonus
+damage if you are trained with this kind of weapon.
+
+Duration: About 20.
+Cost: 10.
+
+Dremora spear has the following stats:
+
+Damage: 1-15.
+Weight: 0.
+~
+1 SUMMON_SCAMP~
+This spell will allow you to summon a friendly scamp to fight with you for a
+period. After that the scamp is released from control but it will not attack
+you or other friendly characters.
+~
+1 CONJURE_FOOD~
+This spell will create a food item in your inventory that you can eat.
+~
+1 CONJURE_WATER~
+This spell will create water in your inventory that you can drink.
+~
+1 FEATHER~
+This spell will reduce the target's carrying weight allow it to carry more.
+
+Effect: 20 + willpower /2.
+Duration: 1d60 + willpower.
+Cost: 10 + wffect /2.
+~
+1 BURDEN~
+This spell will increase the target's carrying weight.
+
+Effect: 20 + willpower /2
+Duration: 1d60 + willpower
+Cost: 10 + effect /2.
+~
+1 CALM~
+This spell will put target into a calm behaviour adjusting its combat style.
+
+Effect: -4.
+Effect: -20.
+Duration: 1d60 + personality.
+Cost: 10 + duration /2
+~
+1 CHAMELEON~
+This spell will allow you to hide for a period.
+
+Duration: 1d60 + personality.
+Cost: 10 + duration /2.
+~
+1 FIRE_SHIELD~
+This spell will shield you from normal damage and give you fire resistance.
+Plus it will damage enemy per turn.
+
+Effect: -10 amor class.
+Effect: Fire resistance.
+Duration: 1d60 + willpower.
+Cost: 15 + duration /2.
+~
+1 FROST_SHIELD~
+This spell will shield you from normal damage and give you frost resistance.
+Plus it will damage enemy per turn.
+
+Effect: -10 amor class.
+Effect: Frost resistance.
+Duration: 1d60 + willpower.
+Cost: 15 + duration /2.
+~
+1 POISON_SHIELD~
+This spell will shield you from normal damage and give you poison resistance.
+Plus it will damage enemy per turn.
+
+Effect: -10 armor class.
+Effect: Poison resistance.
+Duration: 1d60 + willpower.
+Cost: 15 + duration /2.
+~
+1 SHOCK_SHIELD~
+This spell will shield you from normal damage and give you shock resistance.
+Plus it will damage enemy per turn.
+
+Effect: -10 armor class.
+Effect: Shock resistance.
+Duration: 1d60 + willpower.
+Cost: 15 + duration /2.
+~
+1 FRENZY~
+This spell will put target into a frenzy behaviour adjusting its combat style.
+
+Effect: +8 hitroll.
+Effect: +40 armor class.
+Duration: 1d60 + personality.
+Cost: 10 + duration /2
+~
+1 INVISIBILITY~
+This spell will make you invisible for a period.
+
+Duration: 1d60 + Personality
+Cost: 10 + Duration /2.
+~
+1 LIGHT_(TES)~
+This spell creates a ball of light in your inventory that will allow you to see
+in dark places.
+~
+1 NIGHTEYE~
+This spell will allow you to detect hidden creatures and items.
+
+Duration: 1d60 + personality.
+Cost: 10 + duration /2.
+~
+1 PARALYSIS~
+This spell will paralyze your target for a period.
+
+Duration: 1d6 + personality.
+Cost: 10 + duration /2.
+~
+1 SANCTUARY~
+This spell will protect you from normal damage for a period.
+
+Effect: 20 + personality /2.
+Duration: 1d60 + personality
+Cost: 10 + effect /2 + duration /2.
+~
+1 SILENCE~
+This spell will silence the target make it unable to cast spells for a period.
+
+Duration: 1d60 + personality.
+Cost: 10 + duration /2.
+~
+1 SOUND~
+This spell will drain target's magicka.
+
+Effect: 1d20 + personality /2.
+Cost: 10 + effect /2.
+~
+1 CHARM~
+This spell will charm target to your willings.
+
+Duration: 1d60 + duration /2.
+Cost: 10 + duration /2.
+~
+1 RALLY~
+This spell will put target into a rally behaviour adjusting its combat style.
+
+Effect: -4 damage.
+Effect: -20 armor class.
+Duration: 1d60 + personality.
+Cost: 10 + duration /2
+~
+1 LEVITATE~
+This spell will make you fly and pass exits that require flying.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 LOCK~
+This spell will lock a door.
+~
+1 OPEN~
+This spell will unlock a door.
+~
+1 SHIELD~
+This spell will shield you against normal damage.
+
+Effect: 20 + Willpower/2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect /2 + duration /2.
+~
+1 WATER_BREATHING~
+This spell will allow you to breath underwater.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 BOUND_BOOTS~
+This spell will create a pair of dremora boots in your inventory. Bound armor
+can be used even if your are not trained with it. Of course you get the bonus
+armor if you are trained with this kind of armor.
+
+Duration: About 20 turns.
+Cost: 10 magicka
+
+Dremora boots have the following stats:
+
+Armor: -10
+Weight: 0
+~
+1 BOUND_GAUNTLETS~
+This spell will create a pair of dremora gauntlets in your inventory. Bound
+armor can be used even if your are not trained with it. Of course you get the
+bonus armor if you are trained with this kind of armor.
+
+Duration: About 20 turns.
+Cost: 10 magicka
+
+Dremora gauntlets have the following stats:
+
+Armor: -10 armor class
+Weight: 0
+~
+1 BOUND_CUIRASS~
+This spell will create a dremora cuirass in your inventory. Bound armor can be
+used even if your are not trained with it. Of course you get the bonus armor if
+you are trained with this kind of armor.
+
+Duration: About 20 turns.
+Cost: 10 magicka
+
+Dremora cuirass has the following stats:
+
+Armor: -24 armor class
+Weight: 0
+~
+1 BOUND_HELM~
+This spell will create a dremora helm in your inventory. Bound armor can be
+used even if your are not trained with it. Of course you get the bonus armor if
+you are trained with this kind of armor.
+
+Duration: About 20 turns.
+Cost: 10 magicka
+
+Dremora helm has the following stats:
+
+Armor: -10 armor class
+Weight: 0
+~
+1 BOUND_SHIELD~
+This spell will create a dremora shield in your inventory. Bound armor can be
+used even if your are not trained with it. Of course you get the bonus armor if
+you are trained with this kind of armor.
+
+Duration: About 20 turns.
+Cost: 10 magicka
+
+Dremora shield has the following stats:
+
+Armor: -14 armor class
+Weight: 0
+~
+1 FIRE_DAMAGE~
+This spell will damage your target with fire. If it has immunity, resistance or
+weakness will change the ammount of damage dealt.
+
+Effect: 1d20 + willpower.
+Cost: 10 + effect /2.
+~
+1 FROST_DAMAGE~
+This spell will damage your target with frost. If it has immunity, resistance
+or weakness will change the ammount of damage dealt.
+
+Effect: 1d20 + willpower.
+Cost: 10 + effect /2.
+~
+1 POISON_DAMAGE~
+This spell will damage your target with poison. If it has immunity, resistance
+or weakness will change the ammount of damage dealt.
+
+Effect: 1d20 + willpower.
+Cost: 10 + effect /2.
+~
+1 SHOCK_DAMAGE~
+This spell will damage your target with shock. If it has immunity, resistance
+or weakness will change the ammount of damage dealt.
+
+Effect: 1d20 + willpower.
+Cost: 10 + effect /2.
+~
+1 DAMAGE_STRENGTH~
+This spell will permanenty damage the strength of your target and it will be
+only restored using a potion, scroll, or spell. Magic resistance will affect
+the amount damaged.
+
+Effect: 1-2 points.
+Cost: 10 + effect * 5.
+~
+1 DAMAGE_ENDURANCE~
+This spell will permanenty damage the endurance of your target and it will be
+only restored using a potion, scroll, or spell. Magic resistance will affect
+the amount damaged.
+
+Effect: 1-2 points.
+Cost: 10 + effect * 5.
+~
+1 DAMAGE_AGILITY~
+This spell will permanenty damage the agility of your target and it will be
+only restored using a potion, scroll, or spell. Magic resistance will affect
+the amount damaged.
+
+Effect: 1-2 points.
+Cost: 10 + effect * 5.
+~
+1 DAMAGE_INTELLIGENCE~
+This spell will permanenty damage the intelligence of your target and it will
+be only restored using a potion, scroll, or spell. Magic resistance will affect
+the amount damaged.
+
+Effect: 1-2 points.
+Cost: 10 + effect * 5.
+~
+1 DAMAGE_WILLPOWER~
+This spell will permanenty damage the willpower of your target and it will be
+only restored using a potion, scroll, or spell. Magic resistance will affect
+the amount damaged.
+
+Effect: 1-2 points.
+Cost: 10 + effect * 5.
+~
+1 DAMAGE_PERSONALITY~
+This spell will permanenty damage the personality of your target and it will be
+only restored using a potion, scroll, or spell. Magic resistance will affect
+the amount damaged.
+
+Effect: 1-2 points.
+Cost: 10 + effect * 5.
+~
+1 DAMAGE_LUCK~
+This spell will permanenty damage the luck of your target and it will be only
+restored using a potion, scroll, or spell. Magic resistance will affect the
+amount damaged.
+
+Effect: 1-2 points.
+Cost: 10 + effect * 5.
+~
+1 DISINDEGRADE_ARMOR~
+This spell will damage the armor your target is wearing. Damaged armor provides
+less protection until they will be repaired.
+
+Effect: -2 item condition.
+Cost: 10 + effect * 5.
+~
+1 DISINDEGRADE_WEAPON~
+This spell will damage the weapon your target is wielding. Damaged weapons deal
+less damage until they will be repaired.
+
+Effect: -2 item condition.
+Cost: 10 + effect * 5.
+~
+1 DAMAGE_HEALTH~
+This spell will damage target's health.
+
+Effect: 1d20 + willpower /2.
+Cost: 10 + effect /2.
+~
+1 DAMAGE_MAGICKA~
+This spell will damage target's magicka.
+
+Effect: 1d20 + willpower /2.
+Cost: 10 + effect /2.
+~
+1 DAMAGE_FATIGUE~
+This spell will damage target's fatigue.
+
+Effect: 1d20 + willpower /2.
+Cost: 10 + effect /2.
+~
+1 DRAIN_STRENGTH~
+This spell will drain target's strength for a period. Magic resistance will
+affect the amount drained.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 DRAIN_ENDURANCE~
+This spell will drain target's endurance for a period. Magic resistance will
+affect the amount drained.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 DRAIN_AGILITY~
+This spell will drain target's agility for a period. Magic resistance will
+affect the amount drained.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 DRAIN_INTELLIGENCE~
+This spell will drain target's intelligence for a period. Magic resistance will
+affect the amount drained.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 DRAIN_WILLPOWER~
+This spell will drain target's willpower for a period. Magic resistance will
+affect the amount drained.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 DRAIN_PERSONALITY~
+This spell will drain target's personality for a period. Magic resistance will
+affect the amount drained.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 DRAIN_LUCK~
+This spell will drain target's luck for a period. Magic resistance will affect
+the amount drained.
+
+Effect: 1-2.
+Duration: 1d60 + willpower.
+Cost: 10 + effect + duration /2.
+~
+1 DRAIN_HEALTH~
+This spell will drain target health.
+
+Effect: 1d20 + willpower /2.
+Cost: 10 + effect /2.
+~
+1 DRAIN_MAGICKA~
+This spell will drain target magicka.
+
+Effect: 1d20 + willpower /2.
+Cost: 10 + effect /2.
+~
+1 DRAIN_FATIGUE~
+This spell will drain target fatigue.
+
+Effect: 1d20 + willpower /2.
+Cost: 10 + effect /2.
+~
+1 FIRE_WEAKNESS~
+This spell will affect target with fire weakness making it suffer more damage
+from fire related spells and attacks.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 FROST_WEAKNESS~
+This spell will affect target with frost weakness making it suffer more damage
+from frost related spells and attacks.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 POISON_WEAKNESS~
+This spell will affect target with poison weakness making it suffer more damage
+from poison related spells and attacks.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 SHOCK_WEAKNESS~
+This spell will affect target with shock weakness making it suffer more damage
+from shock related spells and attacks.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 MAGIC_WEAKNESS~
+This spell will affect target with magic weakness making it suffer more damage
+from magic related spells and attacks.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 DISEASE_WEAKNESS~
+This spell will affect target with disease weakness making it suffer more
+damage from disease related spells and attacks.
+
+Duration: 1d60 + willpower.
+Cost: 10 + duration /2.
+~
+1 BREW~
+This skill will allow you to make potions or poisons. Potion are the flasks
+with positive effect while poisons those with negative.
+
+Chance to succeed: Skill % /2 + intelligence.
+Cost: 10.
+~
+1 POISON~
+This skill will allow you to poison a target by throwing him a poison flask.
+Poisons are created by Brew skill or found in dungeons. Poisons are the potions
+with a negative effect.
+
+This skill is always succeesful.
+~
+1 COOK~
+This skill will allow you to cook food items in order to make them offer you
+more hunger satisfaction are remove poisons.
+
+Check to succeed: Skill % /2 + willpower.
+Cost: 10.
+~
+1 AID~
+This skill will allow you to aid the target and improve its condition (if dying
+or unconcious). This is concidered to be a good action and you gain favor.
+
+Check to succeed: Skill % /2 + willpower.
+Cost: 10.
+~
+1 SCRIBE~
+This skill will allow you to create scrolls with positive or negative effect.
+Scrolls can be used from everyone including non casters. You need a soulgem
+you can find in your adventures or buy soutrapping a creature.
+
+Check to succeed: Skill % /2 + intelligence.
+Cost: 10.
+~
+1 MEDITATE~
+You can use this skill to gain magicka by meditating. As more you meditate as
+many of magicka points you will restore.
+
+Check to succeed: Skill % /2 + willpower.
+Cost: 10.
+~
+1 PICKPOCKET~
+This skill will allow you to steal from an npc carrying money. Every time you
+fail, your favor will go down. You have to hide before doing this action.
+
+Check to succeed: Skill % /2 + dexterity.
+Cost: 10.
+~
+1 BACKSTAB~
+This skill will allow you to make a tough first attack that will deal 3 times
+the normal damage. You have to be out of combat and sneak for this action.
+
+Check to succeed: Skill % /2 + agility.
+Cost: 10.
+~
+1 HIDE~
+This skill will allow you to hide out of sight and other players or npcs will
+not be able to see you.
+
+Skill to succeed: Skill % /2 + intelligence.
+Duration: 12 turns.
+Cost: 10
+~
+1 LOCKPICK~
+This skill will allow you to open locked doors and chests. You need a lockpick
+to do this action.
+
+Check to succeed: Skill % /2 + intelligence.
+Cost: 10.
+~
+1 TRACK~
+This skill will allow you to track a creature or npc.
+
+Check to succeed: Skill % /2 + willpower.
+Cost: 10.
+
+~
+1 SCAN~
+This skill will allow you to scan in a direction. It will reveal you areas and
+creatures.
+
+Check to succeed: Skill % /2 + luck.
+Cost: 10.
+~
+1 DETRAP~
+This skill will allow you track for traps. If you are affected with detrap all
+traps will ignore you and not deal damage.
+
+Check to succeed: Skill % /2 + intelligence.
+Cost: 10.
+~
+1 BANISH~
+This automatic action will allow you to paralyze the target for a period.
+
+Check to succeed: Skill % /10 + intelligence.
+Duration: Luck /2.
+Cost: 10 + Duration.
+~
+1 BLINK~
+This automatic action will allow you to protect youself by blinking.
+
+Check to succeed: Skill % /10 + intelligence.
+Effect: Dexterity /2.
+Duration: Willpower /2.
+Cost: 10 + duration.
+~
+1 FADE~
+This automatic action will allow you to protect yourself by fading from battle.
+
+Check to succeed: Skill % /10 + luck.
+Effect: 1d10 + agility /2.
+Duration: Intelligence /2.
+Cost: 10 + effect /2 + duration.
+~
+1 DISENGAGE~
+This automatic skill will allow you to protect yourself by disengaging from
+combat.
+
+Check to succeed: Skill % /10 + willpower.
+Effect: 1d10 + dexterity /2.
+Duration: Dexterity /2.
+Cost: 10 + effect/2 + duration.
+~
+1 DISTRACT~
+This automatic skill will distract your target affecting its hitroll.
+
+Check to succeed: Skill % /10 + intelligence.
+Effect: -2.
+Duration: 3 + personality /2.
+Cost: 10 + effect + duration.
+~
+1 HAMMER~
+This skill will allow you to repair a weapon or armor.
+
+Check to succeed: Skill % /2 + strength.
+Cost: 10.
+~
+1 SHARPEN~
+This skill will allow you to sharpen a weapon and increase its damage. You will
+need a whetstone to do this. If you are not succesful you will damage the item
+more.
+
+Check to succeed: Skill % /2 + strength.
+Cost: 10.
+~
+1 REINFORCE~
+This skill will allow you to reinforce an armor item and increase its armor.
+If not succeesful it will damage the item.
+
+Check to succeed: Skill % /2 + endurance.
+Cost: 10.
+~
+1 EXECUTE~
+This action will allow you to execute the target for a big ammout of damage.
+The target must have under 25% health to do this.
+
+Check to succeed: Skill % /10 + luck.
+Effect: Strength *4.
+Cost: 10 + effect.
+~
+1 GOUGE~
+This automatic action will blind your target and make it less able to hit you
+with normal damage.
+
+Check to succeed: Skill % /10 + intelligence.
+Duration: 2.
+Cost: 10.
+~
+1 PUMMEL~
+This automatic action will damage your target's magicka.
+
+Check to succeed: Skill % /10 + strength.
+Effect: 1d10 + strength /2.
+Cost: 10 + effect/2.
+~
+1 OVERPOWER~
+This automatic action will make you deal more damage per hit.
+
+Skill to succeed: Skill % /10 + strength.
+Effect: +3.
+Duration: Endurance /2.
+Cost: 10 + effect + duration.
+~
+1 BASH~
+This automatic action will damage target's magicka.
+
+Check to succeed: Skill % /10 + endurance.
+Effect: 1d10 + endurance.
+Cost: 10 + effect /2.
+~
+1 DISARM~
+This skill will allow you to disarm a target. Its weapon will drop in ground
+and it will keep fighting unarmed.
+
+Check to succeed: Skill % /2 + strength.
+Cost: 10.
+~
+1 TAUNT~
+This skill allows you to taunt an enemy hitting an other target and focus on
+you. It is very useful if you want to save an other player or npc from dying.
+Just be use that you have enough health to keep yourself alive!
+
+Check to succeed: Skill % /2 + personality.
+Cost: 10.
+~
+1 SLAM~
+This automatic action will damage target's health. This action can be performed
+only by unarmed characters.
+
+Check to succeed: Skill % /10 + endurance.
+Effect: 1d10 + endurance.
+Cost: 10 + effect /2.
+~
+1 KICK~
+This automatic action will damage target's health. This action can be performed
+only by unarmed characters.
+
+Check to succeed: Skill % /10 + dexterity.
+Effect: 1d10 + dexterity.
+Cost: 10 + effect /2.
+~
+1 PUNCH~
+This automatic action will damage target's health. This action can be performed
+only by unarmed characters.
+
+Check to succeed: Skill % /10 + strength.
+Effect: 1d10 + strength.
+Cost: 10 + effect /2.
+~
+1 GRIP~
+This automatic action will protect you from being disarmed. As the enemy tries
+to disarm you, you hold your weapon harder and avoid that.
+
+Check to succeed: Skill % /10 + wisdom.
+Cost: 10.
+~
+1 DUNMER~
+The Dunmer, more commonly referred to as Dark Elves in the rest of Tamriel, are
+the dark skinned elves originating from the province of Morrowind.
+
+Attributes:
+Willpower -2, Intelligence +2, Endurance +1, Personality -1.
+
+Characteristics:
+> Fire resistance.
+> Ancestor guardian (see the spell).~
+1 ORC~
+The Orsimer, commonly known as Orcs, are considered to be barbarians by most of
+the other races on Nirn and they are from the mountainous regions of western
+Tamriel.
+
+Attributes:
+Strength +1, Agility -2, Willpower +1, Intelligence -1, Endurance +3, Personality -2.
+
+Characteristics:
+> Magic resistance.
+> Orcish berserk (see the spell).
+~
+1 BOSMER~
+The Bosmer are the Elven folk of Valenwood, a forested province in Tamriel. In
+the Empire, they are often referred to as Wood Elves.
+
+Attributes:
+Strength -1, Agility +4, Willpower -2, Endurance -1.
+
+Characteristics:
+> Disease resistance.
+> Beast tongue (see the spell)..
+~
+1 LYCANTHROPY~
+Lycanthropy (also known as Sanies Lupinus) is a disease that causes the victim
+to transform into a were-creature and is generally contracted by being bitten
+by a pre-existing one.
+
+Lycanthropes cannot be vampires.
+
+Positives:
+Strength +2, Agility +2, Endurance +2.
+Immunity to Paralysis and Disease.
+Armor class -50.
+
+Negatives:
+Weakness to poison damage.
+Extra damage from silver weapons (1-30 hps).
+
+~
+1 VAMPIRISM~
+Vampirism is a disease that can be contracted during melee combat with anyone
+who is infected. It may also be obtained from searching corpses.. After three
+days the victim's body is overwhelmed and must live as a vampire.
+
+Vampires cannot be lycanthropes.
+
+Positives:
+Strength +2, Agility +2, Willpower +2.
+Immunity to Paralysis and Disease.
+Armor class -50.
+
+Negatives:
+Weakness to fire damage.
+Sun damage outdoors in daytime 30 hps per hour.
+~
+1 FLIRT~
+This skill will allow you to flirt with npcs of the opposite sex. If successful
+your confidence will be boosted gainning advantages for a period.
+
+If successful: +1 Strength, +1 Dexterity, +1 Intelligence.
+Chance to succeed: Skill % /2 + personality.
+Cost: 10.~
+1 ALTMER~
+Altmer are the light-skinned, tall Elves of the Summerset Isles. They consider
+themselves the perfect race.
+
+Attributes:
+Strength -2, Intelligence +3, Endurance -1.
+
+Characteristics:
+> Disease weakness.
+> Shock weakness.
+> Fire weakness.
+> Magic resistance.
+> Starts with 200 magicka.~
+1 IMPERIAL~
+Also known as Cyrodiils, the well-educated and well-spoken Imperials are the
+natives of the civilized, cosmopolitan province of Cyrodiil.
+
+Attributes:
+Agility -2, Willpower -1, Personality +3.
+
+Characteristics:
+> Star of the west (see the spell).
+> Voice of the emperor (see the spell).
+
+~
+1 BRETON~
+Bretons are the human descendants of the Aldmeri-Nedic Manmer of the Merethic
+Era and are now the inhabitants of the province of High Rock.
+
+Attributes:
+Strength -1, Agility -2, Willpower +3, Intelligence +2, Endurance -2.
+
+Characteristics:
+> Dragon skin (see the spell).
+> Magic resistance.
+> Starts with 150 magicka.
+~
+1 NORD~
+The Nords are the children of the sky, a race of tall and fair-haired humans
+from Skyrim.
+
+Attributes:
+Strength +3, Agility -1, Willpower +1, Intelligence -2, Endurance +1, Personality -2.
+
+Characteristics:
+> Thunder fist (see the spell).
+> Woad (see the spell).
+> Shock resistance.
+> Frost immunity.~
+1 REDGUARD~
+Redguards believed to be the most naturally talented warriors in Tamriel. The
+dark-skinned, wiry-haired people of Hammerfell seem born to battle.
+
+Attributes:
+Strength +2, Willpower -2, Intelligence -2, Endurance +3, Personality +1.
+
+Characteristics:
+> Adrenaline rush (see the spell).
+> Poison resistance.
+> Disease resistance.~
+1 KHAJIIT~
+The Khajiit of Elsweyr can vary in appearance from nearly elven to the Cathay-
+Raht "jaguar men" to the great Senche-Tiger. The most common breed found in
+Morrowind, the Suthay-raht, is intelligent, quick, and agile.
+
+Attributes:
+Strength -1, Agility +3, Willpower -2.
+
+Characteristics:
+> Detect hidden constantly.
+> Eye of fear (see the spell).~
+1 ARGONIAN~
+Argonians are the reptilian natives of Black Marsh. In years of defending their
+borders have made the Argonians experts in guerrilla warfare, and their natural
+abilities make them equally at home in water and on land.
+
+Attributes:
+Agility +3, Willpower -1, Intelligence +2, Endurance -2, Personality -2.
+
+Characteristics:
+> Affected from water breathing constantly.
+> Immunity to poison.
+> Disease resistance.~
+1 ANCESTOR_GUARDIAN~
+Ancestor Guardian is a Dunmer racial power.
+
+[Automatic skill]
+Effects: Armor class -50 for 6 turns on self.
+~
+1 ORCISH_BERSERK~
+Berserk is an Orcish racial power.
+
+[Automatic skill]
+-10 Agility for 6 turns on self.
++200 hit points on self.
+Fatigue + 20 on self.
+Hitroll +10 for 6 turns on self.~
+1 BEAST_TONGUE~
+Beast Tongue is a Bosmer racial power.
+
+[Automatic skill]
+
+Hitroll -1 for 6 turns on target.
+Damroll -1 for 6 turns on target.
+Armor class +10 for 6 turns on target.~
+1 STAR_OF_THE_WEST~
+Star of the west is an Imperial racial power.
+
+[Automatic skill]
+
+Fatigue +50 on self.
+Fatigue -50 on enemy.
+~
+1 VOICE_OF_THE_EMPEROR~
+Voice of the emperor is an Imperial racial power.
+
+[Automatic skill]
+
+Effects:
+Hitroll -1 for 6 turns on target.
+Damroll -1 for 6 turns on target.
+Armor class +10 for 6 turns on target.
+~
+1 DRAGON_SKIN~
+Dragon skin is a Breton racial power.
+
+[Automatic skill]
+
+Effects:
+Armor class -50 for 6 turns on self.~
+1 THUNDER_FIST~
+Thunder fist is a Nord racial power.
+
+[Automatic skill]
+
+Effects:
+Frost damage on target 25 points.~
+1 WOAD~
+Woad is a Nord racial power.
+
+[Automatic skill]
+
+Effects:
+Armor class -30 forn 6 turns on self.~
+1 ADRENALINE_RUSH~
+Adrenaline rush a Redguard racial power.
+
+[Automatic skill]
+
+Effects:
+Strength +1 for 6 turns on self.
+Agility +1 for 6 turns on self.
+Endurance +1 for 6 turns on self.~
+1 EYE_OF_FEAR~
+Eye of fear a Khajiit racial power.
+
+[Automatic skill]
+
+Effects:
+Hitroll -1 for 6 turns on target.
+Damroll -1 for 6 turns on target.
+Armor class +10 for 6 turns on target.~
+1 IMBUE~
+Imbue skill will allow you to imbue elemental magic damage to weapons.
+You will need a runestone to do this.
+
+Check to succeed: Skill % /2 + intelligence.
+Cost: 10.
+~
+1 INNERVATE~
+This automatic skill will allow you to gain magicka in battle exchanging it
+with fatigue.
+
+Check to succeed: Skill % /10 + willpower.
+Cost: 10.
+Magicka gain: 10
+~
+1 UNARMORED~
+The unarmored proficiency is used to move and defend while wearing clothing
+items like shirt, pants, robes etc.
+
+Actions: None
+
+Skills: Unarmored
+
+As higher you train these armor skills, the more armor you will receive from
+wearing armor of this category.
+
+About skill:
+The unarmored skill will give you extra armor when wearing clothing instead of
+armor. The higher quality is the clothing item you wear, the more bonus armor
+you will receive.
+~
+1 POUNCE~
+This automatic action will damage target's health.
+
+Check to succeed: Skill % /10 + strength.
+Effect: 1d10 + luck.
+Cost: 10 + effect /2.
+~
+0 $~
+
+#$

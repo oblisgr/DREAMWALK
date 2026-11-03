@@ -1,0 +1,332 @@
+#AREA Abanabi cave~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011201
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011201
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011201
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011202 0
+S
+#5011202
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011201 0
+D2
+South~
+~
+0 0 5011203 0
+S
+#5011203
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011202 0
+D2
+South~
+~
+0 0 5011204 0
+S
+#5011204
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011203 0
+D2
+South~
+~
+0 0 5011205 0
+S
+#5011205
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011204 0
+D3
+West~
+~
+0 0 5011206 0
+S
+#5011206
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011207 0
+D1
+East~
+~
+0 0 5011205 0
+S
+#5011207
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011208 0
+D2
+South~
+~
+0 0 5011206 0
+S
+#5011208
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011207 0
+D3
+West~
+~
+0 0 5011209 0
+S
+#5011209
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011208 0
+D2
+South~
+~
+0 0 5011210 0
+S
+#5011210
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011209 0
+D2
+South~
+~
+0 0 5011211 0
+S
+#5011211
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011210 0
+D2
+South~
+~
+0 0 5011212 0
+S
+#5011212
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011211 0
+D2
+South~
+~
+0 0 5011213 0
+S
+#5011213
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011212 0
+D1
+East~
+~
+0 0 5011214 0
+S
+#5011214
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011215 0
+D3
+West~
+~
+0 0 5011213 0
+S
+#5011215
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011214 0
+D2
+South~
+~
+0 0 5011216 0
+S
+#5011216
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011215 0
+D2
+South~
+~
+0 0 5011219 0
+D3
+West~
+~
+0 0 5011217 0
+S
+#5011217
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011216 0
+D2
+South~
+~
+0 0 5011220 0
+D3
+West~
+~
+0 0 5011218 0
+S
+#5011218
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011217 0
+S
+#5011219
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011216 0
+S
+#5011220
+Azura's coast, Abanabi, cave~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011217 0
+S
+#0
+
+#RESETS
+M 0 2300649 1 5011211  ;  Mob: Draramu Hloran [Npcs] => #5011211 [] Azura's coast, Abanabi, cave
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3003001 1 16  ; -- Equip: Chrysamere [Items] (wield)
+G 1 3401004 1 ; -- Give: Potion of levitate [Items]
+M 0 2301609 1 5011214  ;  Mob: Maranique Jolvanne [Npcs] => #5011214 [] Azura's coast, Abanabi, cave
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3301061 1 3  ; -- Equip: Silver amulet [Items] (neck-1)
+E 1 3203012 1 16  ; -- Equip: Amber shortsword [Items] (wield)
+G 1 3401027 1 ; -- Give: Potion of fortify agility [Items]
+G 1 3401028 1 ; -- Give: Potion of fortify intelligence [Items]
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ABANABI CAVE~
+Abanabi is an island cave east of Tel Fyr beneath three great Emperor Parasols
+where two hidden sorcerers dwell among hostile creatures and flooded passages.
+Raw ebony, diamonds and emeralds gleam on walls beside locked chests and urns.
+A legendary claymore rests in the deepest guarded chamber.~
+0 $~
+
+#$

@@ -1,0 +1,341 @@
+#AREA Abaelun diamond mine~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011001
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011001
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011002 0
+S
+#5011002
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011001 0
+D3
+West~
+~
+0 0 5011003 0
+S
+#5011003
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011004 0
+D1
+East~
+~
+0 0 5011002 0
+S
+#5011004
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011005 0
+D2
+South~
+~
+0 0 5011003 0
+S
+#5011005
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011006 0
+D2
+South~
+~
+0 0 5011004 0
+S
+#5011006
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011007 0
+D2
+South~
+~
+0 0 5011005 0
+S
+#5011007
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011008 0
+D3
+West~
+~
+0 0 5011006 0
+S
+#5011008
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011009 0
+D2
+South~
+~
+0 0 5011007 0
+S
+#5011009
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011008 0
+D3
+West~
+~
+0 0 5011010 0
+S
+#5011010
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011011 0
+D1
+East~
+~
+0 0 5011009 0
+D3
+West~
+~
+0 0 5011012 0
+S
+#5011011
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011010 0
+D3
+West~
+~
+0 0 5011013 0
+S
+#5011012
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011010 0
+D2
+South~
+~
+0 0 5011018 0
+S
+#5011013
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011014 0
+D1
+East~
+~
+0 0 5011011 0
+D3
+West~
+~
+0 0 5011015 0
+S
+#5011014
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011016 0
+D2
+South~
+~
+0 0 5011013 0
+D3
+West~
+~
+0 0 5011019 0
+S
+#5011015
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011013 0
+D2
+South~
+~
+0 0 5011020 0
+S
+#5011016
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011017 0
+D2
+South~
+~
+0 0 5011014 0
+S
+#5011017
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 5011016 0
+S
+#5011018
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011012 0
+S
+#5011019
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011014 0
+S
+#5011020
+West gash, Abaelun, diamond mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011015 0
+S
+#0
+
+#RESETS
+M 0 2300104 1 5011010  ;  Mob: Alvor Andas [Npcs] => #5011010 [Abaelun] West gash, Abaelun, diamond mine
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2300557 1 5011012  ;  Mob: Davas Aralas [Npcs] => #5011012 [Abaelun] West gash, Abaelun, diamond mine
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2301676 1 5011014  ;  Mob: Mervis [Npcs] => #5011014 [Abaelun] West gash, Abaelun, diamond mine
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3235025 1 16  ; -- Equip: Steel pickaxe [Items] (wield)
+G 1 3403103 1 ; -- Give: Diamond [Items]
+M 0 2302062 1 5011016  ;  Mob: Rernel Arano [Npcs] => #5011016 [Abaelun] West gash, Abaelun, diamond mine
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ABAELUN DIAMOND MINE~
+Abaelun Mine is Vvardenfell's single active diamond mine, northeast of Caldera
+where Imperial guards watch Dunmer miners cutting through its winding tunnels.
+The Imperial and Hlaalu venture draws rare gems from seams hidden behind stone
+while little else of value lies within the guarded workings.~
+0 $~
+
+#$

@@ -1,0 +1,1493 @@
+#AREA Wilderness 0703~
+
+#VERSION 1
+
+#CLIMATE 3 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#1070301
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#1070301
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#1070303
+West gash region, wilderness~
+A broad upland path runs between low gravel banks beneath weak afternoon light
+past pale grasses, dried stalks and shallow ruts spread beneath the muted sky.
+Fine grit blows above the hardened earth and dry leaves scrape along the trail
+with cool air sliding between weathered outcrops.~
+0 0 2 0 0 2
+D1
+East~
+~
+0 0 1070304 0
+S
+#1070304
+West gash region, wilderness~
+Rolling stony ground extends over a dry expanse of open earth amid steady wind
+among thin scrub, bare roots and worn soil set across the gently sloping land.
+Pale dust spreads along the exposed slopes as the distant rises fade into haze
+as small stones click along the narrow track.~
+0 0 2 0 0 3
+D1
+East~
+~
+0 0 1070305 0
+D2
+South~
+~
+0 0 1070311 0
+D3
+West~
+~
+0 0 1070303 0
+S
+#1070305
+West gash region, wilderness~
+A dusty winding trail curves along shallow rock-strewn slopes under a pale sky
+beside dark rocks, small stones and low banks rising from the dry ocher earth.
+Upland air moves over the rolling ground as dry roots creak beneath the breeze
+as faint dust settles across distant rises.~
+0 0 2 0 0 4
+D3
+West~
+~
+0 0 1070304 0
+S
+#1070306
+West gash region, wilderness~
+A gently rising track winds over a succession of rounded rises in the cool air
+past flat stones, gray pebbles and dusty hollows scattered over the firm soil.
+Dry wind runs around the weathered rocks and low shrubs stir across the ground
+as wind-bent weeds tremble under the steady breeze.~
+0 0 2 0 0 5
+D2
+South~
+~
+0 0 1070313 0
+S
+#1070308
+West gash region, wilderness~
+Dry foothill terrain spreads across firm ocher-colored earth beneath thin haze
+among low shrubs, dark rocks and thorny scrub clustered beside the worn route.
+Loose grass bends along the dusty trail as small pebbles shift in shallow ruts
+as gray daylight rests over the open ground.~
+0 0 2 0 0 7
+D1
+East~
+~
+0 0 1070309 0
+D3
+Exit description
+~
+~
+0 0 1070528 0
+S
+#1070309
+West gash region, wilderness~
+Low rugged slopes run through a patchwork of grass and soil under muted clouds
+beside thin scrub, dry weeds and bare roots marking the otherwise empty slope.
+Clouded light falls along the dusty trail as faint dust curls behind the rocks
+with loose grit collecting above the quiet terrain.~
+0 0 2 0 0 8
+D1
+East~
+~
+0 0 1070310 0
+D2
+South~
+~
+0 0 1070316 0
+D3
+West~
+~
+0 0 1070308 0
+S
+#1070310
+West gash region, wilderness~
+A sparse grassland slope rises across folded ground under a wide colorless sky
+past low banks, dry weeds and flat stones lining the faint and dusty footpath.
+Muted daylight hangs along the dusty trail and low weeds bend toward the earth
+and thin haze drifts inside shallow hollows.~
+0 0 2 0 0 9
+D1
+East~
+~
+0 0 1070311 0
+D3
+West~
+~
+0 0 1070309 0
+S
+#1070311
+West gash region, wilderness~
+A weathered dirt trail runs through open scrub under slow and clouded daylight
+among dry weeds, shallow ruts and worn soil caught between low banks of stone.
+Fine grit shifts over the rolling ground as thin stalks ripple over the slopes
+as soft light fades across the empty earth.~
+0 0 2 0 0 10
+D0
+North~
+~
+0 0 1070304 0
+D1
+East~
+~
+0 0 1070312 0
+D2
+South~
+~
+0 0 1070318 0
+D3
+West~
+~
+0 0 1070310 0
+S
+#1070312
+West gash region, wilderness~
+An open sweep of dry grass stretches along a shallow hollow in soft gray light
+beside worn soil, pale grasses and stunted brush spread beneath the muted sky.
+A cool breeze drifts along the dusty trail as the distant rises fade into haze
+with faint dust gathering among the low rocks.~
+0 0 2 0 0 11
+D1
+East~
+~
+0 0 1070313 0
+D3
+West~
+~
+0 0 1070311 0
+S
+#1070313
+West gash region, wilderness~
+A shallow upland basin opens across folded ground in the cool and restless air
+past dark rocks, rocky patches and coarse gravel scattered over the firm soil.
+Dry wind runs along the exposed slopes as soft shadows move between the stones
+as the open land recedes beneath the muted sky.~
+0 0 2 0 0 12
+D0
+North~
+~
+0 0 1070306 0
+D2
+South~
+~
+0 0 1070320 0
+D3
+West~
+~
+0 0 1070312 0
+S
+#1070316
+West gash region, wilderness~
+Uneven highland ground rises through open scrub beneath slowly drifting clouds
+among gray pebbles, low shrubs and bare roots clustered beside the worn route.
+Upland air moves along the dusty trail as thin stems rattle over the hard soil
+as dry grass trembles along the dusty slopes.~
+0 0 2 0 0 15
+D0
+North~
+~
+0 0 1070309 0
+D2
+South~
+~
+0 0 1070323 0
+S
+#1070317
+West gash region, wilderness~
+Low rugged slopes run between weathered rocks beneath a veil of thin gray haze
+beside bare roots, worn soil and dried stalks rising from the dry ocher earth.
+Pale dust rises along the dusty trail as loose seeds scatter through the grass
+with wind-bent weeds rattling under the steady breeze.~
+0 0 2 0 0 16
+D1
+East~
+~
+0 0 1070318 0
+D2
+South~
+~
+0 0 1070324 0
+S
+#1070318
+West gash region, wilderness~
+A gently rising track runs over broad rock shelves amid the steady upland wind
+past flat stones, thin scrub and dark rocks marking the otherwise empty slope.
+Loose grass bends along the dusty trail and dry stems brush against the stones
+with gray daylight settling beneath the muted sky.~
+0 0 2 0 0 17
+D0
+North~
+~
+0 0 1070311 0
+D2
+South~
+~
+0 0 1070325 0
+D3
+West~
+~
+0 0 1070317 0
+S
+#1070320
+West gash region, wilderness~
+A sparse grassland slope stretches between low gravel banks beneath weak light
+among dark rocks, dry weeds and thin scrub set across the gently sloping land.
+Upland air moves over the rolling ground as pale grit skitters across the path
+and small stones shift along the dusty slopes.~
+0 0 2 0 0 19
+D0
+North~
+~
+0 0 1070313 0
+D1
+East~
+~
+0 0 1070321 0
+D2
+South~
+~
+0 0 1070327 0
+S
+#1070321
+West gash region, wilderness~
+A dusty winding trail threads along shallow slopes beneath a pale highland sky
+beside dry weeds, thin scrub and bare roots caught between low banks of stone.
+Dry wind runs above the hardened earth as faint tracks soften beneath the dust
+and loose grit shifts between weathered outcrops.~
+0 0 2 0 0 20
+D2
+South~
+~
+0 0 1070328 0
+D3
+West
+~
+~
+0 0 1070320 0
+D1
+Exit description
+~
+~
+0 0 1030115 0
+S
+#1070322
+West gash region, wilderness~
+Dry foothill terrain extends through open scrub in soft light filtered by dust
+past worn soil, low banks and flat stones lining the faint and dusty footpath.
+Pale dust rises over the rolling ground as loose grit gathers behind the rocks
+with thin haze drifting across the empty earth.~
+0 0 2 0 0 21
+D1
+East~
+~
+0 0 1070323 0
+D2
+South~
+~
+0 0 1070329 0
+S
+#1070323
+West gash region, wilderness~
+A broad upland path runs between weathered outcrops of stone under an open sky
+among dried stalks, thorny plants and low shrubs scattered over the firm soil.
+Fine grit blows along the dusty trail as small stones click against each other
+with dry stems shivering across distant rises.~
+0 0 2 0 0 22
+D0
+North~
+~
+0 0 1070316 0
+D1
+East~
+~
+0 0 1070324 0
+D2
+South~
+~
+0 0 1070330 0
+D3
+West~
+~
+0 0 1070322 0
+S
+#1070324
+West gash region, wilderness~
+Rolling stony ground rises through open scrub under broad banks of muted cloud
+beside stunted brush, dry weeds and pale grasses spread beneath the muted sky.
+Clouded light settles along the dusty trail as low weeds bend toward the earth
+and cool air passes inside shallow hollows.~
+0 0 2 0 0 23
+D0
+North~
+~
+0 0 1070317 0
+D1
+East~
+~
+0 0 1070325 0
+D3
+West~
+~
+0 0 1070323 0
+S
+#1070325
+West gash region, wilderness~
+A weathered dirt trail curves across firm ocher-colored earth amid steady wind
+past shallow ruts, gray pebbles and low banks clustered beside the worn route.
+Dry wind runs over the rolling ground as pale seed heads nod close to the soil
+and soft light spreads along the narrow track.~
+0 0 2 0 0 24
+D0
+North~
+~
+0 0 1070318 0
+D1
+East~
+~
+0 0 1070326 0
+D2
+South~
+~
+0 0 1070332 0
+D3
+West~
+~
+0 0 1070324 0
+S
+#1070326
+West gash region, wilderness~
+Uneven highland ground spreads across firm ocher-colored earth in the cool air
+among thin scrub, dark rocks and bare roots marking the otherwise empty slope.
+A cool breeze slides along the dusty trail as the distant rises fade into haze
+and pale dust collects above the quiet terrain.~
+0 0 2 0 0 25
+D1
+East~
+~
+0 0 1070327 0
+D3
+West~
+~
+0 0 1070325 0
+S
+#1070327
+West gash region, wilderness~
+A shallow upland basin opens across firm ocher-colored earth beneath thin haze
+beside low banks, dark rocks and dry weeds set across the gently sloping land.
+Clouded light falls along the dusty trail as low shrubs stir across the ground
+as cool air slides over the open ground.~
+0 0 2 0 0 26
+D0
+North~
+~
+0 0 1070320 0
+D2
+South~
+~
+0 0 1070334 0
+D3
+West~
+~
+0 0 1070326 0
+S
+#1070328
+West gash region, wilderness~
+An open sweep of dry grass stretches through pale grassland under muted clouds
+past thin scrub, worn soil and bare roots lining the faint and dusty footpath.
+Muted daylight falls along the dusty trail and low weeds bend toward the earth
+with soft light resting among the low rocks.~
+0 0 2 0 0 27
+D0
+North~
+~
+0 0 1070321 0
+S
+#1070329
+West gash region, wilderness~
+A gently rising track winds between weathered rocks under a wide colorless sky
+among flat stones, dried stalks and low banks rising from the dry ocher earth.
+Loose grass bends along the dusty trail and thin stalks ripple over the slopes
+with the open land receding across distant rises.~
+0 0 2 0 0 28
+D0
+North~
+~
+0 0 1070322 0
+S
+#1070330
+West gash region, wilderness~
+Low rugged slopes spread through pale grassland beneath slowly drifting clouds
+beside dry weeds, dark rocks and bare roots caught between low banks of stone.
+Fine grit blows over the rolling ground as small pebbles shift in shallow ruts
+as thin haze lingers under the steady breeze.~
+0 0 2 0 0 29
+D0
+North~
+~
+0 0 1070323 0
+D1
+East~
+~
+0 0 1070331 0
+D2
+South~
+~
+0 0 1070337 0
+S
+#1070331
+West gash region, wilderness~
+A broad upland path winds across folded ground under slow and clouded daylight
+past shallow ruts, gray pebbles and pale grasses spread beneath the muted sky.
+Upland air moves along the exposed slopes as faint dust curls behind the rocks
+and dry stems bend across the empty earth.~
+0 0 2 0 0 30
+D3
+West~
+~
+0 0 1070330 0
+S
+#1070332
+West gash region, wilderness~
+A dusty winding trail runs along a shallow hollow in the cool and restless air
+among dry weeds, rocky patches and coarse gravel scattered over the firm soil.
+Pale dust rises along the exposed slopes as dry roots creak beneath the breeze
+with small stones clicking among the low rocks.~
+0 0 2 0 0 31
+D0
+North~
+~
+0 0 1070325 0
+D1
+East~
+~
+0 0 1070333 0
+S
+#1070333
+West gash region, wilderness~
+Dry foothill terrain extends across folded ground beneath weak afternoon light
+beside flat stones, low shrubs and thin scrub clustered beside the worn route.
+Dry wind runs along the dusty trail as dark stones warm beneath the weak light
+as pale dust gathers inside shallow hollows.~
+0 0 2 0 0 32
+D2
+South~
+~
+0 0 1070340 0
+D3
+West~
+~
+0 0 1070332 0
+S
+#1070334
+West gash region, wilderness~
+Rolling stony ground rises along the edge of a shallow hollow under a pale sky
+past worn soil, dry weeds and thorny plants marking the otherwise empty slope.
+Fine grit shifts along the dusty trail as soft shadows move between the stones
+and gray daylight fades between weathered outcrops.~
+0 0 2 0 0 33
+D0
+North~
+~
+0 0 1070327 0
+D2
+South~
+~
+0 0 1070341 0
+S
+#1070337
+West gash region, wilderness~
+A weathered dirt trail winds through open scrub in soft light filtered by dust
+among small stones, bare roots and dark rocks rising from the dry ocher earth.
+A cool breeze passes along the dusty trail as the distant rises fade into haze
+and wind-bent weeds rattle along the narrow track.~
+0 0 2 0 0 36
+D0
+North~
+~
+0 0 1070330 0
+D1
+East~
+~
+0 0 1070338 0
+S
+#1070338
+West gash region, wilderness~
+An open sweep of dry grass stretches through pale grassland beneath weak light
+beside worn soil, low banks and thin scrub set across the gently sloping land.
+Upland air moves over the rolling ground as dry stems brush against the stones
+as loose grit skitters along the dusty slopes.~
+0 0 2 0 0 37
+D2
+South~
+~
+0 0 1070345 0
+D3
+West~
+~
+0 0 1070337 0
+S
+#1070340
+West gash region, wilderness~
+Uneven highland ground rises across firm dry earth amid the steady upland wind
+past worn soil, dark rocks and bare roots lining the faint and dusty footpath.
+Pale dust sweeps along the exposed slopes as dry leaves scrape along the trail
+and the open land stretches beneath the muted sky.~
+0 0 2 0 0 39
+D0
+North~
+~
+0 0 1070333 0
+D1
+East~
+~
+0 0 1070341 0
+D2
+South~
+~
+0 0 1070347 0
+S
+#1070341
+West gash region, wilderness~
+A sparse grassland slope stretches between low gravel banks under muted clouds
+among thin scrub, dry weeds and flat stones caught between low banks of stone.
+Loose grass shivers along the dusty trail as faint dust curls behind the rocks
+with pale dust settling above the quiet terrain.~
+0 0 2 0 0 40
+D0
+North~
+~
+0 0 1070334 0
+D1
+East~
+~
+0 0 1070342 0
+D2
+South~
+~
+0 0 1070348 0
+D3
+West~
+~
+0 0 1070340 0
+S
+#1070342
+West gash region, wilderness~
+Low rugged slopes run over broad rock shelves beneath a veil of thin gray haze
+beside pale grasses, dried stalks and bare roots spread beneath the muted sky.
+Clouded light hangs along the dusty trail as low shrubs stir across the ground
+and faint dust drifts over the open ground.~
+0 0 2 0 0 41
+D2
+South~
+~
+0 0 1070349 0
+D3
+West~
+~
+0 0 1070341 0
+D1
+Exit description
+~
+~
+0 0 1030136 0
+S
+#1070343
+West gash region, wilderness~
+A gently rising track runs between weathered rocks beneath a pale highland sky
+past shallow ruts, dried stalks and gray pebbles scattered over the firm soil.
+Dry wind moves over the rolling ground as faint tracks soften beneath the dust
+and wind-bent weeds shiver across the empty earth.~
+0 0 2 0 0 42
+D2
+South~
+~
+0 0 1070350 0
+D3
+Exit description
+~
+~
+0 0 1070563 0
+S
+#1070344
+West gash region, wilderness~
+A shallow upland basin extends across firm ocher-colored earth in the cool air
+among rocky patches, dry weeds and low shrubs clustered beside the worn route.
+Fine grit shifts along the dusty trail as thin stems rattle over the hard soil
+and small stones tumble under the steady breeze.~
+0 0 2 0 0 43
+D1
+East~
+~
+0 0 1070345 0
+S
+#1070345
+West gash region, wilderness~
+A broad upland path runs over a succession of rounded rises in soft gray light
+beside thin scrub, low banks and dark rocks marking the otherwise empty slope.
+Loose grass bends along the dusty trail and dry roots creak beneath the breeze
+with cool air lingering between weathered outcrops.~
+0 0 2 0 0 44
+D0
+North~
+~
+0 0 1070338 0
+D1
+East~
+~
+0 0 1070346 0
+D2
+South~
+~
+0 0 1070352 0
+D3
+West~
+~
+0 0 1070344 0
+S
+#1070346
+West gash region, wilderness~
+A dusty winding trail curves across firm ocher-colored earth under an open sky
+past low shrubs, bare roots and dark rocks set across the gently sloping land.
+Upland air passes along the dusty trail and pale grit skitters across the path
+and dry grass bends across distant rises.~
+0 0 2 0 0 45
+D3
+West~
+~
+0 0 1070345 0
+S
+#1070347
+West gash region, wilderness~
+Dry foothill terrain rises through open scrub under broad banks of muted cloud
+among gray pebbles, worn soil and flat stones rising from the dry ocher earth.
+A cool breeze drifts along the dusty trail and low weeds bend toward the earth
+with loose grit skittering inside shallow hollows.~
+0 0 2 0 0 46
+D0
+North~
+~
+0 0 1070340 0
+D2
+South~
+~
+0 0 1070354 0
+S
+#1070348
+West gash region, wilderness~
+Rolling stony ground spreads along shallow rock-strewn slopes amid steady wind
+beside low banks, worn soil and dry weeds lining the faint and dusty footpath.
+Pale dust sweeps along the dusty trail and loose grit gathers behind the rocks
+with gray daylight fading along the narrow track.~
+0 0 2 0 0 47
+D0
+North~
+~
+0 0 1070341 0
+D2
+South~
+~
+0 0 1070355 0
+S
+#1070349
+West gash region, wilderness~
+A weathered dirt trail winds along a shallow hollow under a wide colorless sky
+past dry weeds, thin scrub and pale grasses caught between low banks of stone.
+Dry wind runs over the rolling ground as small stones click against each other
+with soft light spreading along the dusty slopes.~
+0 0 2 0 0 48
+D0
+North~
+~
+0 0 1070342 0
+D2
+South~
+~
+0 0 1070356 0
+S
+#1070350
+West gash region, wilderness~
+Uneven highland ground spreads through open scrub in the cool and restless air
+among shallow ruts, coarse gravel and bare roots spread beneath the muted sky.
+Fine grit blows along the dusty trail as loose seeds scatter through the grass
+as thin haze hangs among the low rocks.~
+0 0 2 0 0 49
+D0
+North~
+~
+0 0 1070343 0
+D1
+East~
+~
+0 0 1070351 0
+D2
+South~
+~
+0 0 1070357 0
+S
+#1070351
+West gash region, wilderness~
+An open sweep of dry grass stretches between weathered rocks beneath thin haze
+beside low shrubs, flat stones and stunted brush scattered over the firm soil.
+Pale dust rises over the rolling ground as small pebbles shift in shallow ruts
+with wind-bent weeds trembling beneath the muted sky.~
+0 0 2 0 0 50
+D1
+East~
+~
+0 0 1070352 0
+D3
+West~
+~
+0 0 1070350 0
+S
+#1070352
+West gash region, wilderness~
+A shallow upland basin opens across folded ground beneath weak afternoon light
+past dark rocks, thorny plants and thin scrub clustered beside the worn route.
+Upland air moves above the hardened earth as dry leaves scrape along the trail
+as small stones scatter over the open ground.~
+0 0 2 0 0 51
+D0
+North~
+~
+0 0 1070345 0
+D2
+South~
+~
+0 0 1070359 0
+D3
+West~
+~
+0 0 1070351 0
+S
+#1070353
+West gash region, wilderness~
+Low rugged slopes extend through pale grassland beneath slowly drifting clouds
+among shallow ruts, dark rocks and bare roots rising from the dry ocher earth.
+Clouded light hangs along the dusty trail and the distant rises fade into haze
+as the cool breeze moves above the quiet terrain.~
+0 0 2 0 0 52
+D1
+East~
+~
+0 0 1070354 0
+S
+#1070354
+West gash region, wilderness~
+A gently rising track winds through open scrub under slow and clouded daylight
+beside flat stones, dry weeds and worn soil marking the otherwise empty slope.
+Loose grass rustles along the dusty trail as low shrubs stir across the ground
+with thin haze hanging beneath the muted sky.~
+0 0 2 0 0 53
+D0
+North~
+~
+0 0 1070347 0
+D2
+South~
+~
+0 0 1070361 0
+D3
+West~
+~
+0 0 1070353 0
+S
+#1070355
+West gash region, wilderness~
+A dusty winding trail runs over a succession of rounded rises under a pale sky
+past dry weeds, dried stalks and low banks set across the gently sloping land.
+Fine grit blows along the dusty trail as pale seed heads nod close to the soil
+and gray daylight settles inside shallow hollows.~
+0 0 2 0 0 54
+D0
+North~
+~
+0 0 1070348 0
+S
+#1070356
+West gash region, wilderness~
+A sparse grassland slope rises across firm ocher-colored earth in the cool air
+among thin scrub, low banks and worn soil lining the faint and dusty footpath.
+A cool breeze slides along the dusty trail and low weeds bend toward the earth
+with dry grass rustling along the narrow track.~
+0 0 2 0 0 55
+D0
+North~
+~
+0 0 1070349 0
+S
+#1070357
+West gash region, wilderness~
+Dry foothill terrain rises over broad rock shelves amid the steady upland wind
+beside dark rocks, worn soil and bare roots caught between low banks of stone.
+Pale dust sweeps over the rolling ground as thin stalks ripple over the slopes
+and loose grit gathers between weathered outcrops.~
+0 0 2 0 0 56
+D0
+North~
+~
+0 0 1070350 0
+D2
+South~
+~
+0 0 1070364 0
+D3
+Exit description
+~
+~
+0 0 1070577 0
+S
+#1070358
+West gash region, wilderness~
+A broad upland path runs between low banks of coarse gravel beneath weak light
+past small stones, pale grasses and gray pebbles spread beneath the muted sky.
+Dry wind runs above the hardened earth as thin stems rattle over the hard soil
+as cool air passes along the dusty slopes.~
+0 0 2 0 0 57
+D1
+East~
+~
+0 0 1070359 0
+S
+#1070359
+West gash region, wilderness~
+Rolling stony ground spreads through open scrub in soft light filtered by dust
+among dark rocks, stunted brush and dried stalks scattered over the firm soil.
+Upland air slides along the dusty trail and pale grit skitters across the path
+as dry stems rattle across distant rises.~
+0 0 2 0 0 58
+D0
+North~
+~
+0 0 1070352 0
+D1
+East~
+~
+0 0 1070360 0
+D2
+South~
+~
+0 0 1070366 0
+D3
+West~
+~
+0 0 1070358 0
+S
+#1070360
+West gash region, wilderness~
+A weathered dirt trail curves across folded ground beneath a pale highland sky
+beside thin scrub, dry weeds and gray pebbles clustered beside the worn route.
+Loose grass rustles along the dusty trail as faint dust curls behind the rocks
+and soft light spreads across the empty earth.~
+0 0 2 0 0 59
+D1
+East~
+~
+0 0 1070361 0
+D2
+South~
+~
+0 0 1070367 0
+D3
+West~
+~
+0 0 1070359 0
+S
+#1070361
+West gash region, wilderness~
+An open sweep of dry grass extends between low gravel banks in soft gray light
+past thin scrub, bare roots and flat stones marking the otherwise empty slope.
+Dry wind runs along the exposed slopes as faint tracks soften beneath the dust
+as wind-bent weeds bend under the steady breeze.~
+0 0 2 0 0 60
+D0
+North~
+~
+0 0 1070354 0
+D2
+South~
+~
+0 0 1070368 0
+D3
+West~
+~
+0 0 1070360 0
+S
+#1070363
+West gash region, wilderness~
+Uneven highland ground rises across firm ocher-colored earth under an open sky
+among low shrubs, dry weeds and bare roots set across the gently sloping land.
+Fine grit moves along the exposed slopes as dry stems brush against the stones
+and faint dust collects above the quiet terrain.~
+0 0 2 0 0 62
+D2
+South~
+~
+0 0 1070370 0
+D1
+Exit description
+~
+~
+0 0 1030157 0
+S
+#1070364
+West gash region, wilderness~
+Low rugged slopes rise along a shallow hollow beneath a veil of thin gray haze
+beside dark rocks, pale grasses and worn soil rising from the dry ocher earth.
+Clouded light falls along the dusty trail and the distant rises fade into haze
+with small stones scattering over the open ground.~
+0 0 2 0 0 63
+D0
+North~
+~
+0 0 1070357 0
+S
+#1070365
+West gash region, wilderness~
+A sparse grassland slope extends through open scrub under a wide colorless sky
+past bare roots, low shrubs and dry weeds lining the faint and dusty footpath.
+Pale dust drifts along the dusty trail as soft shadows move between the stones
+as loose grit skitters among the low rocks.~
+0 0 2 0 0 64
+D1
+East~
+~
+0 0 1070366 0
+D2
+South~
+~
+0 0 1070372 0
+S
+#1070366
+West gash region, wilderness~
+A gently rising track runs through open scrub under broad banks of muted cloud
+among worn soil, dark rocks and flat stones caught between low banks of stone.
+A cool breeze passes along the dusty trail and low weeds bend toward the earth
+with pale dust gathering across distant rises.~
+0 0 2 0 0 65
+D0
+North~
+~
+0 0 1070359 0
+D3
+West~
+~
+0 0 1070365 0
+S
+#1070367
+West gash region, wilderness~
+A shallow upland basin extends through open scrub in the cool and restless air
+beside pale grasses, coarse gravel and low banks spread beneath the muted sky.
+Upland air slides along the dusty trail as loose grit gathers behind the rocks
+as gray daylight rests between weathered outcrops.~
+0 0 2 0 0 66
+D0
+North~
+~
+0 0 1070360 0
+D2
+South~
+~
+0 0 1070374 0
+S
+#1070368
+West gash region, wilderness~
+A broad upland path runs between weathered outcrops of stone beneath thin haze
+past gray pebbles, shallow ruts and dried stalks scattered over the firm soil.
+Dry wind runs over the rolling ground as loose seeds scatter through the grass
+with the open land stretching among the low rocks.~
+0 0 2 0 0 67
+D0
+North~
+~
+0 0 1070361 0
+D1
+East~
+~
+0 0 1070369 0
+S
+#1070369
+West gash region, wilderness~
+Dry foothill terrain rises along the edge of a shallow hollow amid steady wind
+among thin scrub, rocky patches and low banks clustered beside the worn route.
+Fine grit moves along the dusty trail as small stones click against each other
+as soft light settles beneath the muted sky.~
+0 0 2 0 0 68
+D1
+East~
+~
+0 0 1070370 0
+D2
+South~
+~
+0 0 1070376 0
+D3
+West~
+~
+0 0 1070368 0
+S
+#1070370
+West gash region, wilderness~
+A dusty winding trail runs along shallow slopes beneath slowly drifting clouds
+beside thin scrub, bare roots and dry weeds marking the otherwise empty slope.
+Loose grass shivers along the dusty trail as low shrubs stir across the ground
+and cool air slides along the narrow track.~
+0 0 2 0 0 69
+D0
+North~
+~
+0 0 1070363 0
+D2
+South~
+~
+0 0 1070377 0
+D3
+West~
+~
+0 0 1070369 0
+S
+#1070371
+West gash region, wilderness~
+Rolling stony ground slopes across firm ocher-colored earth under muted clouds
+past dark rocks, flat stones and dry weeds set across the gently sloping land.
+Pale dust rises above the hardened earth as thin stalks ripple over the slopes
+and the cool breeze moves inside shallow hollows.~
+0 0 2 0 0 70
+D1
+East~
+~
+0 0 1070372 0
+D2
+South~
+~
+0 0 1070378 0
+S
+#1070372
+West gash region, wilderness~
+A weathered dirt trail winds along shallow slopes beneath weak afternoon light
+among thin scrub, thorny plants and worn soil rising from the dry ocher earth.
+Upland air drifts along the dusty trail as small pebbles shift in shallow ruts
+with faint dust drifting under the steady breeze.~
+0 0 2 0 0 71
+D0
+North~
+~
+0 0 1070365 0
+D2
+South~
+~
+0 0 1070379 0
+D3
+West~
+~
+0 0 1070371 0
+S
+#1070373
+West gash region, wilderness~
+An open sweep of dry grass spreads between low gravel banks beneath weak light
+beside bare roots, worn soil and dark rocks caught between low banks of stone.
+A cool breeze moves along the dusty trail and the distant rises fade into haze
+as pale dust drifts across the empty earth.~
+0 0 2 0 0 72
+D1
+East~
+~
+0 0 1070374 0
+D2
+South~
+~
+0 0 1070380 0
+S
+#1070374
+West gash region, wilderness~
+Uneven highland ground slopes across firm ocher-colored earth under a pale sky
+past low shrubs, thin scrub and dry weeds lining the faint and dusty footpath.
+Fine grit moves along the dusty trail as pale seed heads nod close to the soil
+and thin haze hangs above the quiet terrain.~
+0 0 2 0 0 73
+D0
+North~
+~
+0 0 1070367 0
+D2
+South~
+~
+0 0 1070381 0
+D3
+West~
+~
+0 0 1070373 0
+S
+#1070376
+West gash region, wilderness~
+Low rugged slopes run through a patchwork of grass and soil in soft gray light
+among shallow ruts, flat stones and dried stalks spread beneath the muted sky.
+Clouded light spreads along the dusty trail as low weeds bend toward the earth
+as faint dust collects over the open ground.~
+0 0 2 0 0 75
+D0
+North~
+~
+0 0 1070369 0
+D2
+South~
+~
+0 0 1070383 0
+S
+#1070377
+West gash region, wilderness~
+A gently rising track threads across folded ground amid the steady upland wind
+beside pale grasses, gray pebbles and bare roots scattered over the firm soil.
+Dry wind runs above the hardened earth as soft shadows move between the stones
+and pale dust gathers along the dusty slopes.~
+0 0 2 0 0 76
+D0
+North~
+~
+0 0 1070370 0
+D2
+South~
+~
+0 0 1070384 0
+S
+#1070378
+West gash region, wilderness~
+A broad upland path threads through open scrub under slow and clouded daylight
+past low shrubs, dark rocks and stunted brush clustered beside the worn route.
+Pale dust sweeps over the rolling ground as dry roots creak beneath the breeze
+with loose grit shifting beneath the muted sky.~
+0 0 2 0 0 77
+D0
+North~
+~
+0 0 1070371 0
+D1
+East~
+~
+0 0 1070379 0
+D3
+Exit description
+~
+~
+0 0 1070598 0
+S
+#1070379
+West gash region, wilderness~
+A dusty winding trail runs between weathered rocks beneath a pale highland sky
+among shallow ruts, bare roots and thin scrub rising from the dry ocher earth.
+Upland air moves along the exposed slopes as dry leaves scrape along the trail
+with wind-bent weeds bending along the narrow track.~
+0 0 2 0 0 78
+D0
+North~
+~
+0 0 1070372 0
+D2
+South~
+~
+0 0 1070386 0
+D3
+West~
+~
+0 0 1070378 0
+S
+#1070380
+West gash region, wilderness~
+A shallow upland basin opens over low rounded rises under a wide colorless sky
+beside worn soil, dry weeds and flat stones marking the otherwise empty slope.
+Dry wind runs across the open grassland as loose grit gathers behind the rocks
+with thin haze lingering along the dusty slopes.~
+0 0 2 0 0 79
+D0
+North~
+~
+0 0 1070373 0
+S
+#1070381
+West gash region, wilderness~
+Dry foothill terrain rises across folded ground in soft light filtered by dust
+past dark rocks, thin scrub and low shrubs set across the gently sloping land.
+Fine grit blows above the hardened earth as dry stems brush against the stones
+with gray daylight fading between weathered outcrops.~
+0 0 2 0 0 80
+D0
+North~
+~
+0 0 1070374 0
+D2
+South~
+~
+0 0 1070388 0
+S
+#1070383
+West gash region, wilderness~
+A sparse grassland slope rises through open scrub beneath weak afternoon light
+among low banks, dry weeds and dark rocks lining the faint and dusty footpath.
+Pale dust drifts along the dusty trail as thin stems rattle over the hard soil
+with small stones tumbling inside shallow hollows.~
+0 0 2 0 0 82
+D0
+North~
+~
+0 0 1070376 0
+D2
+South~
+~
+0 0 1070390 0
+S
+#1070384
+West gash region, wilderness~
+Rolling stony ground rises through open scrub beneath a veil of thin gray haze
+beside flat stones, dry weeds and worn soil caught between low banks of stone.
+Upland air moves along the dusty trail as faint tracks soften beneath the dust
+with soft light resting across the empty earth.~
+0 0 2 0 0 83
+D0
+North~
+~
+0 0 1070377 0
+D2
+South~
+~
+0 0 1070391 0
+S
+#1070386
+West gash region, wilderness~
+A weathered dirt trail winds across firm ocher-colored earth under an open sky
+past bare roots, rocky patches and coarse gravel spread beneath the muted sky.
+Loose grass bends over the rolling ground and the distant rises fade into haze
+as dry stems shiver among the low rocks.~
+0 0 2 0 0 85
+D0
+North~
+~
+0 0 1070379 0
+D1
+East~
+~
+0 0 1070387 0
+D2
+South~
+~
+0 0 1070393 0
+S
+#1070387
+West gash region, wilderness~
+Low rugged slopes run between weathered rocks under broad banks of muted cloud
+among pale grasses, thin scrub and thorny plants scattered over the firm soil.
+Dry wind sweeps above the hardened earth as pale grit skitters across the path
+with cool air moving across distant rises.~
+0 0 2 0 0 86
+D1
+East~
+~
+0 0 1070388 0
+D3
+West~
+~
+0 0 1070386 0
+S
+#1070388
+West gash region, wilderness~
+An open sweep of dry grass stretches along a shallow hollow under muted clouds
+beside dried stalks, dark rocks and low banks clustered beside the worn route.
+Fine grit moves along the dusty trail as loose seeds scatter through the grass
+as small stones shift under the steady breeze.~
+0 0 2 0 0 87
+D0
+North~
+~
+0 0 1070381 0
+D1
+East~
+~
+0 0 1070389 0
+D2
+South~
+~
+0 0 1070395 0
+D3
+West~
+~
+0 0 1070387 0
+S
+#1070389
+West gash region, wilderness~
+Uneven highland ground slopes across firm ocher-colored earth amid steady wind
+past dry weeds, bare roots and gray pebbles marking the otherwise empty slope.
+Upland air passes over the rolling ground as faint dust curls behind the rocks
+and loose grit shifts above the quiet terrain.~
+0 0 2 0 0 88
+D1
+East~
+~
+0 0 1070390 0
+D2
+South~
+~
+0 0 1070396 0
+D3
+West~
+~
+0 0 1070388 0
+S
+#1070390
+West gash region, wilderness~
+A gently rising track winds along the edge of a shallow hollow in the cool air
+among stunted brush, thin scrub and worn soil rising from the dry ocher earth.
+Pale dust drifts over the rolling ground as thin stalks ripple over the slopes
+and wind-bent weeds tremble over the open ground.~
+0 0 2 0 0 89
+D0
+North~
+~
+0 0 1070383 0
+D1
+East~
+~
+0 0 1070391 0
+D3
+West~
+~
+0 0 1070389 0
+S
+#1070391
+West gash region, wilderness~
+A dusty winding trail curves across folded ground in the cool and restless air
+beside worn soil, low banks and dark rocks set across the gently sloping land.
+Loose grass shivers over the rolling ground as low weeds bend toward the earth
+with dry stems rattling along the narrow track.~
+0 0 2 0 0 90
+D0
+North~
+~
+0 0 1070384 0
+D3
+West~
+~
+0 0 1070390 0
+S
+#1070393
+West gash region, wilderness~
+A broad upland path winds over a succession of rounded rises beneath thin haze
+past flat stones, low banks and dry weeds lining the faint and dusty footpath.
+Dry wind passes along the dusty trail as pale seed heads nod close to the soil
+with the open land stretching inside shallow hollows.~
+0 0 2 0 0 92
+D0
+North~
+~
+0 0 1070386 0
+D1
+East~
+~
+0 0 1070394 0
+D2
+Exit description
+~
+~
+0 0 1070202 0
+S
+#1070394
+West gash region, wilderness~
+Dry foothill terrain spreads through open scrub beneath slowly drifting clouds
+among worn soil, bare roots and flat stones caught between low banks of stone.
+Fine grit moves over the rolling ground as small pebbles shift in shallow ruts
+and thin haze lingers between weathered outcrops.~
+0 0 2 0 0 93
+D1
+East~
+~
+0 0 1070395 0
+D3
+West~
+~
+0 0 1070393 0
+S
+#1070395
+West gash region, wilderness~
+A weathered dirt trail runs through pale grassland amid the steady upland wind
+beside shallow ruts, thin scrub and dried stalks spread beneath the muted sky.
+Pale dust rises above the hardened earth as dry roots creak beneath the breeze
+as soft light fades along the dusty slopes.~
+0 0 2 0 0 94
+D0
+North~
+~
+0 0 1070388 0
+D1
+East~
+~
+0 0 1070396 0
+D3
+West~
+~
+0 0 1070394 0
+D2
+Exit description~
+~
+0 0 1070204 0
+S
+#1070396
+West gash region, wilderness~
+Rolling stony ground slopes through open scrub under slow and clouded daylight
+past gray pebbles, shallow ruts and pale grasses scattered over the firm soil.
+Dry wind sweeps along the dusty trail as small stones click against each other
+and cool air slides across distant rises.~
+0 0 2 0 0 95
+D0
+North~
+~
+0 0 1070389 0
+D3
+West~
+~
+0 0 1070395 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

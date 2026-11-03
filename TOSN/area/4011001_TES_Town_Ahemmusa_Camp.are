@@ -1,0 +1,523 @@
+#AREA Ahemmusa camp~
+
+#VERSION 1
+
+#CLIMATE 2 3 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4011001
+RESERVED~
+RESERVED~
+RESERVED
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4011001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4011001
+Azura's coast, Ahemmusa, ashlander camp~
+Open grasslands spread between hide yurts weathered by sun, winds and dry air,
+with narrow footpaths crossing bare patches of soil marked by countless steps.
+Smoke from low fires drifts above reed baskets, clay urns and bundled supplies
+as wild grasses rustle around the scattered tribal shelters.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4011002 0
+S
+#4011002
+Azura's coast, Ahemmusa, ashlander camp~
+Worn trails pass through coarse grass and patches of hard earth about the camp
+among hide shelters secured with ropes, stakes and poles darkened by long use.
+Wind carries faint smoke across abandoned fire pits and simple camp belongings
+leaving the air scented with ash, leather and sun-warmed soil.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4011003 0
+D2
+South~
+~
+0 0 4011001 0
+S
+#4011003
+Azura's coast, Ahemmusa, ashlander camp~
+A broad patch of trampled ground lies among yurts raised on the open grassland
+with blackened fire stones, woven baskets and clay vessels set near the paths.
+Dry grass bends beneath the wind as loose hide edges stir against their ropes,
+and thin smoke hangs above the quiet settlement.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4011004 0
+D1
+East~
+~
+0 0 4011010 0
+D2
+South~
+~
+0 0 4011002 0
+D3
+West~
+~
+0 0 4011019 0
+S
+#4011004
+Azura's coast, Ahemmusa, ashlander camp~
+Scattered yurts rise from uneven ground covered by pale grass and dusty tracks
+beside tethering posts, dry firewood and bundles protected beneath hide cloth.
+The breeze shifts ash across shallow fire pits while ropes strain against pegs
+carrying smells of cured leather, smoke and dry vegetation.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4011005 0
+D2
+South~
+~
+0 0 4011003 0
+D3
+West~
+~
+0 0 4011017 0
+S
+#4011005
+Azura's coast, Ahemmusa, ashlander camp~
+Dry soil and flat stones form a rough passage between the round hide shelters,
+where old footprints overlap near reed mats, low baskets and older containers.
+Grass seeds spin through the air as wind moves smoke from several dying fires,
+and hide walls creak softly beneath each stronger gust.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4011021 0
+D1
+East~
+~
+0 0 4011006 0
+D2
+South~
+~
+0 0 4011004 0
+S
+#4011006
+Azura's coast, Ahemmusa, ashlander camp~
+Low grass surrounds a cluster of hide yurts pitched across gently uneven earth
+with narrow tracks winding past scattered stone and small circles of fire ash.
+Bleached ropes bind the shelters while baskets and covered bundles sit nearby,
+amid the mixed scents of dust, smoke and worked animal hide.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4011007 0
+D3
+West~
+~
+0 0 4011005 0
+S
+#4011007
+Azura's coast, Ahemmusa, ashlander camp~
+Dry paths cross between hide shelters whose hides bear patches and old repairs
+passing clay pots, reed baskets and bundles set well beyond the low fire pits.
+Soft smoke drifts through the camp as wind drives waves across the rough grass
+and dust gathers in shallow hollows around the worn stakes.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4011015 0
+D1
+East~
+~
+0 0 4011008 0
+D2
+South~
+~
+0 0 4011016 0
+D3
+West~
+~
+0 0 4011006 0
+S
+#4011008
+Azura's coast, Ahemmusa, ashlander camp~
+Weathered yurts stand across open ground broken by tracks, grass and bare soil
+with poles, ropes and heavy hide edges holding firm against the restless wind.
+Cold ashes fill low fire rings beside simple vessels and tightly wrapped packs
+as the camp carries quiet scents of leather, herbs and smoke.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4011013 0
+D1
+East~
+~
+0 0 4011009 0
+D2
+South~
+~
+0 0 4011012 0
+D3
+West~
+~
+0 0 4011007 0
+S
+#4011009
+Azura's coast, Ahemmusa, ashlander camp, Ashkhan's yurt~
+Curved hide walls enclose a warm round shelter held up by smoke-darkened poles
+with woven mats, a simple bedroll and low containers arranged around the edge.
+A small hearth fire casts shifting light over baskets and folded hide blankets
+leaving scents of wood smoke, leather and dried grass.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4011008 0
+S
+#4011010
+Azura's coast, Ahemmusa, ashlander camp, Addammus's yurt~
+A low fire glows beneath the smoke opening of this tightly stretched hide yurt
+near clay urns, reed baskets and bedding laid across layered woven floor mats.
+Bundles hang from the wooden supports as warm shadows move over the hide walls
+and the air holds traces of ash, food and cured animal hide.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4011011 0
+D3
+West~
+~
+0 0 4011003 0
+S
+#4011011
+Azura's coast, Ahemmusa, ashlander camp, Addammus's yurt~
+Weathered hides form a circular room around sturdy poles bound with hide cord,
+with a wooden chest, rolled blankets and clay vessels kept close to the walls.
+Soft lantern light reveals repaired seams and rugs faded by dust and daily use
+amid mild smells of smoke, wool and stored provisions.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4011010 0
+S
+#4011012
+Azura's coast, Ahemmusa, ashlander camp, Assamma-Idan's yurt~
+Thick floor mats soften the earth inside this small and carefully tended yurt,
+where bedding, oil lamps and small wooden tools occupy the space by the walls.
+Firelight warms the hide room as shadows gather beneath the angled roof poles,
+and smoke mingles with scents of leather and dried food.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4011008 0
+S
+#4011013
+Azura's coast, Ahemmusa, ashlander camp, Dutadalk's yurt~
+Layered hides shelter a simple living space lined with reed mats and blankets,
+beside covered baskets, drinking vessels and bundles tied with leather strips.
+A low lamp glows across the hide walls and reveals dust caught along the seams
+while dry herbs and smoke lend a sharp scent to the air.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4011014 0
+D2
+South~
+~
+0 0 4011008 0
+S
+#4011014
+Azura's coast, Ahemmusa, ashlander camp, Dutadalk's yurt~
+A small fire bowl warms this round hide dwelling beneath a dark smoke opening,
+with cooking pots, clay cups and woven containers set safely beyond the coals.
+Bedding and folded coverings rest against the wall between sturdy wooden poles
+as the interior smells of ash, leather and simple meals.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4011013 0
+S
+#4011015
+Azura's coast, Ahemmusa, ashlander camp, Kausi's yurt~
+A small simple table stands near the center of this hidebound circular shelter
+set among woven mats, simple stools and containers filled with daily supplies.
+Dim firelight plays over wooden supports and cords drawn tight along old seams
+leaving warm odors of smoke, cloth and worked hide.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4011007 0
+S
+#4011016
+Azura's coast, Ahemmusa, ashlander camp, Lanabi's yurt~
+Travel packs and wrapped bundles rest along the round edge of this sturdy yurt
+beside rolled bedding, baskets and vessels secured against any rough movement.
+Ropes loop around the wooden poles as the hide walls tremble in passing winds,
+and dust mixes with the scents of leather and stored food.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4011007 0
+S
+#4011017
+Azura's coast, Ahemmusa, ashlander camp, Mamaea's yurt~
+Dried plants hang from the roof poles above a clean floor lined with reed mats
+while clay urns, folded bedding and covered baskets line the curved hide wall.
+A low lamp reveals pale smoke stains around the opening high above the hearth,
+filling the close air with herbs, ash and cured leather.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4011018 0
+D1
+East~
+~
+0 0 4011004 0
+S
+#4011018
+Azura's coast, Ahemmusa, ashlander camp, Mamaea's yurt~
+Folded garments and spare strips of leather lie beside a neatly rolled bed mat
+with simple weapons, wooden bowls and travel goods resting within close reach.
+Firelight catches on worn buckles and leather cords binding every roof support
+as smoke and dry wool scents gather below the hide canopy.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4011017 0
+S
+#4011019
+Azura's coast, Ahemmusa, ashlander camp, Nummu's yurt~
+Woven screens divide part of the rounded yurt into small and sheltered alcoves
+with bedding, storage baskets and clay vessels fitted closely round the walls.
+A central lamp spreads amber light across painted mats and neatly folded hides
+while quiet smoke escapes through the opening overhead.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4011003 0
+D2
+South~
+~
+0 0 4011020 0
+S
+#4011020
+Azura's coast, Ahemmusa, ashlander camp, Nummu's yurt~
+Strong roof poles rise above a packed-earth floor covered by overlapping mats,
+holding hide panels whose stitched seams shift softly whenever the wind rises.
+Low baskets and sealed urns keep daily possessions clear of the central hearth
+amid scents of leather, smoke and sun-dried grass.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4011019 0
+S
+#4011021
+Azura's coast, Ahemmusa, ashlander camp, Wise woman's yurt~
+Simple possessions line the edge of this snug hide shelter without any clutter
+including a bedroll, low chest, clay vessels and bundles bound in woven cloth.
+Warm light from a low fire reveals scuffed mats and poles polished by long use
+while smoke and earthy food scents linger beneath the roof.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4011005 0
+S
+#0
+
+#RESETS
+M 0 2301400 1 4011001  ;  Mob: Kammu [Npcs] => #4011001 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235021 1 16  ; -- Equip: Steel daikatana [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302199 1 4011002  ;  Mob: Sen [Npcs] => #4011002 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302601 1 4011003  ;  Mob: Urshamusa Rapli [Npcs] => #4011003 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302776 1 4011004  ;  Mob: Zallit [Npcs] => #4011004 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300016 1 4011010  ;  Mob: Addammus [Npcs] => #4011010 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Addammus's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302557 1 4011011  ;  Mob: Ulabael [Npcs] => #4011011 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Addammus's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205002 1 16  ; -- Equip: Chitin throwing star [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300216 1 4011012  ;  Mob: Assamma-Idan [Npcs] => #4011012 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Assamma-Idan's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3235017 1 16  ; -- Equip: Steel katana [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300734 1 4011013  ;  Mob: Dutadalk [Npcs] => #4011013 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Dutadalk's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302762 1 4011014  ;  Mob: Yenammu [Npcs] => #4011014 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Dutadalk's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235017 1 16  ; -- Equip: Steel katana [Items] (wield)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301414 1 4011015  ;  Mob: Kausi [Npcs] => #4011015 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Kausi's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301453 1 4011016  ;  Mob: Lanabi [Npcs] => #4011016 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Lanabi's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205027 1 16  ; -- Equip: Chitin club [Items] (wield)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3117005 1 ; -- Give: Chitin bracers [Items]
+G 1 3117003 1 ; -- Give: Chitin jerkin [Items]
+G 1 3205002 1 ; -- Give: Chitin throwing star [Items]
+G 1 3205027 1 ; -- Give: Chitin club [Items]
+G 1 3403306 1 ; -- Give: Saltrice [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301555 1 4011017  ;  Mob: Mabarrabael [Npcs] => #4011017 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Mamaea's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301580 1 4011018  ;  Mob: Mamaea [Npcs] => #4011018 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Mamaea's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3409008 1 ; -- Give: Grilled boar meat [Items]
+G 1 3409017 1 ; -- Give: Grilled dog meat [Items]
+G 1 3403314 1 ; -- Give: scrap metal [Items]
+G 1 3403316 1 ; -- Give: Scrib cabbage [Items]
+G 1 3403294 1 ; -- Give: River betty [Items]
+G 1 3401056 1 ; -- Give: Potion of restore endurance [Items]
+G 1 3401061 1 ; -- Give: Potion of restore luck [Items]
+G 1 3401019 1 ; -- Give: Potion of cure disease [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301636 1 4011019  ;  Mob: Mausur [Npcs] => #4011019 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Nummu's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+G 1 3117008 1 ; -- Give: Chitin buckler [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301899 1 4011020  ;  Mob: Nummu [Npcs] => #4011020 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Nummu's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+G 1 3117008 1 ; -- Give: Chitin buckler [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302277 1 4011021  ;  Mob: Sinnammu Mirpal [Npcs] => #4011021 [Ahemmusa camp] Azura's coast, Ahemmusa, ashlander camp, Wise woman's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3237031 1 16  ; -- Equip: Wooden staff [Items] (wield)
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401019 1 ; -- Give: Potion of cure disease [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3403020 1 ; -- Give: Ash salt [Items]
+G 1 3403095 1 ; -- Give: Crab meat [Items]
+G 1 3403099 1 ; -- Give: Daedra skin [Items]
+G 1 3403164 1 ; -- Give: Green lichen [Items]
+G 1 3403228 1 ; -- Give: Marshmerrow [Items]
+G 1 3403242 1 ; -- Give: Muck [Items]
+G 1 3403291 1 ; -- Give: Resin [Items]
+G 1 3403306 1 ; -- Give: Saltrice [Items]
+G 1 3403309 1 ; -- Give: Scales [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+S
+
+#SHOPS
+2301453 5 9 0 0 0 120 90 0 23 ; Lanabi
+2301580 10 13 0 0 0 120 90 0 23 ; Mamaea
+2302277 10 2 13 8 19 120 90 0 23 ; Sinnammu Mirpal
+0
+
+#REPAIRS
+2301453 9 5 0 100 1 0 23 ; Lanabi
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 AHEMMUSA CAMP~
+Ahemmusa Camp is a quiet Ashlander settlement north of the coastal town of Vos
+where hide yurts stand amid game paths, grazing guar and windswept grasslands.
+The tribal healer, wise woman and elders gather around the camp's open center,
+and herders range across the broad territory claimed by the tribe.~
+0 $~
+
+#$

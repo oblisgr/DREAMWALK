@@ -1,0 +1,504 @@
+#AREA Ald velothi~
+
+#VERSION 1
+
+#CLIMATE 3 1 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4012001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4012001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4012001
+West gash, Ald Velothi, village~
+A weathered village path crosses packed earth between low Dunmer buildings and
+patches of dry grass, with rough stones edging the ground worn smooth by feet.
+Dry wind carries dust through the open settlement as hinges creak on old walls
+and muted voices mingle with the scrape of daily work.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4012002 0
+D1
+East~
+~
+0 0 4012016 0
+D2
+Exit description
+~
+~
+0 0 1070707 0
+S
+#4012002
+West gash, Ald Velothi, village~
+Packed soil spreads between plain dwellings shaped by years of wind and storms
+with baskets, clay jars and basic tools resting close to pale plastered walls.
+Sparse grass bends across the quiet lanes as dust gathers in each small hollow
+and the settlement keeps its steady, unhurried rhythm.~
+0 1024 1 0 0 0
+D0
+North~
+~
+0 0 4012003 0
+D1
+East~
+~
+0 0 4012008 0
+D2
+South~
+~
+0 0 4012001 0
+S
+#4012003
+West gash, Ald Velothi, village~
+Low walls and old footpaths divide the open stretch of the village into modest
+spaces scattered with reed baskets, timber scraps and sun-bleached containers.
+A cool breeze stirs loose grit beneath the eaves, bearing smoke from low fires
+through the subdued murmur of ordinary village life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4012010 0
+D2
+South~
+~
+0 0 4012002 0
+D3
+West~
+~
+0 0 4012004 0
+S
+#4012004
+West gash, Ald Velothi, village~
+The village lane winds over hard ground worn by carts, boots and changing rain
+past plain shelters whose patched surfaces bear the marks of age and hard use.
+Thin weeds rise beside worn ruts as the breeze shifts dust around stacked gear
+and distant conversation passes among the weathered homes.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4012003 0
+D3
+West~
+~
+0 0 4012005 0
+S
+#4012005
+West gash, Ald Velothi, village~
+Uneven ground opens among low village buildings with narrow paths worn between
+doorways, storage jars and simple work areas sheltered under projecting eaves.
+Wind moves through dry grass and rattles loose fittings against the worn walls
+bringing the mixed scents of earth, smoke and worked leather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4012006 0
+D1
+East~
+~
+0 0 4012004 0
+D2
+South~
+~
+0 0 4012007 0
+D3
+West~
+~
+0 0 4012013 0
+S
+#4012006
+West gash, Ald Velothi, village~
+This calm part of the settlement rests on dry soil crossed by wandering tracks
+with low stone borders enclosing small patches of scrub and domestic supplies.
+Worn walls catch the shifting daylight as a dry breeze troubles cloth and rope
+and soft footsteps pass through the sparse village lanes.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4012019 0
+D2
+South~
+~
+0 0 4012005 0
+D3
+West~
+~
+0 0 4012020 0
+S
+#4012007
+West gash, Ald Velothi, village~
+A wide patch of trampled earth lies between simple homes and modest workspaces
+its surface marked by cart grooves, footprints and sparse clumps of dry grass.
+Wooden frames creak beneath the steady wind as dust drifts along the old paths
+and daily tasks continue under the muted northern light.~
+0 0 1 0 0 1
+D0
+North~
+~
+0 0 4012005 0
+D2
+South~
+~
+0 0 4012012 0
+D3
+West~
+~
+0 0 4012009 0
+S
+#4012008
+West gash, Ald Velothi, village, Fevila Bethrano's shack~
+A low ceiling hangs over this small shack, its plastered walls marked by smoke
+from a low hearth set among rough furniture, baskets and worn household goods.
+Worn boards creak beneath each step as lamp light trembles across clay vessels
+and the close air smells of ash, dried herbs and old timber.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4012002 0
+S
+#4012009
+West gash, Ald Velothi, village, Ganus Lloryn's shack~
+The shack offers a bare living space furnished with a bedroll and narrow table
+beside shelves crowded by cooking pots, folded cloth and well-used containers.
+Weak light enters through a small opening, catching dust above the swept floor
+as wind brushes softly against the weathered outer walls.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4012007 0
+S
+#4012010
+West gash, Ald Velothi, village, Ienas Arvel's shack~
+Rough beams support the cramped interior of this simple village dwelling where
+low stools, woven baskets and storage jars stand against uneven plaster walls.
+A soft fire scent clings to old cloth and bundled reeds near the sleeping area
+giving the humble room a dry and serviceable warmth.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4012011 0
+D2
+South~
+~
+0 0 4012003 0
+S
+#4012011
+West gash, Ald Velothi, village, Ienas Arvel's shack~
+This compact room continues the dwelling with bare walls and plain furnishings
+arranged around a narrow aisle worn smooth by years of quiet domestic routine.
+Folded blankets, sealed jars and hand tools occupy shelves beneath heavy beams
+and muted light leaves the corners in gentle shadow.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4012010 0
+S
+#4012012
+West gash, Ald Velothi, village, Lledsea Relas's shack~
+A simple fire warms the shack beneath darkened rafters and soot-marked plaster
+with cookware, water jugs and woven storage tucked neatly around the low room.
+The hard floor bears scuffs from daily chores as soft drafts trouble the flame
+and smoke lingers with the scent of food and dried plants.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4012007 0
+S
+#4012013
+West gash, Ald Velothi, village, Llerar Vinden's shack~
+The modest interior is arranged for daily use, with low tables set close along
+walls lined with baskets, clay crockery and bundles of carefully mended cloth.
+A shutter clicks in the wind above a floor swept clean around the small hearth
+as warm smoke softens the sharper smell of cured leather.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4012005 0
+S
+#4012014
+West gash, Ald Velothi, village, outpost~
+Thick plaster walls enclose a disciplined outpost room lit by covered lanterns
+with weapon racks, storage chests and benches arranged for constant readiness.
+Boots have worn dull paths across the hard floor beneath beams marked by smoke
+as quiet voices and the clink of armor carry through the post.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4012016 0
+D1
+East~
+~
+0 0 4012018 0
+D2
+South~
+~
+0 0 4012015 0
+S
+#4012015
+West gash, Ald Velothi, village, outpost~
+The guarded chamber combines sparse living quarters with practical guard space
+its furnishings set among folded blankets, equipment stands and sealed crates.
+The smell of leather and lamp oil hangs beneath the heavy timber ceiling while
+distant footsteps echo through the sturdy adjoining passages.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4012014 0
+S
+#4012016
+West gash, Ald Velothi, village, outpost~
+This bare outpost room bears the orderly marks of long and watchful occupation
+with polished shields, spare spears and duty gear resting against thick walls.
+Lamp glow falls across one scarred table bearing cups, tools and folded papers
+as the subdued murmur of guards filters through the stonework.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4012017 0
+D2
+South~
+~
+0 0 4012014 0
+D3
+West~
+~
+0 0 4012001 0
+S
+#4012017
+West gash, Ald Velothi, village, outpost~
+Heavy beams and fitted stone give the outpost room a stern defensive character
+among plain bunks, old crates and wall pegs filled with serviceable equipment.
+Cool air moves through the room bearing the smells of dust, steel and dry hide
+while low conversation fades beneath the scrape of shifting gear.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4012018 0
+D3
+West~
+~
+0 0 4012016 0
+S
+#4012018
+West gash, Ald Velothi, village, outpost~
+A practical guard chamber fills the outpost behind thick walls and stout doors
+with bare tables, spare armor and stored provisions kept in disciplined order.
+Soot gathers above the lamps as guards pass over a floor dulled by heavy boots
+and the enclosed air holds the close scent of metal and wool.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4012017 0
+D3
+West~
+~
+0 0 4012014 0
+S
+#4012019
+West gash, Ald Velothi, village, Sathas Rivul's shack~
+Close-set walls enclose a humble room holding little beyond essential comforts
+including one narrow bed, a worn table and containers stacked beneath shelves.
+Lamplight reveals old plaster and rough joinery as the dwelling settles softly
+amid the faint creak of timber and the scent of cooking ash.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4012006 0
+S
+#4012020
+West gash, Ald Velothi, village, Vireveri Darethran's shack~
+A tidy but weathered shack shelters plain furniture beneath heavy wood rafters
+with utensils, folded bedding and clay jars arranged to make use of all space.
+Dust lies thinly across corners as a small lamp casts amber light on the walls
+and the room holds the subdued warmth of regular habitation.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4012006 0
+S
+#0
+
+#RESETS
+M 0 2300131 1 4012001  ;  Mob: Anes Hlaren [Npcs] => #4012001 [Ald velothi] West gash, Ald Velothi, village
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3301025 1 3  ; -- Equip: Golden amulet [Items] (neck-1)
+M 0 2301056 1 4012002  ;  Mob: Garyn Girith [Npcs] => #4012002 [Ald velothi] West gash, Ald Velothi, village
+E 1 3235011 1 16  ; -- Equip: Steel wakizashi [Items] (wield)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302125 1 4012003  ;  Mob: Sadal Doren [Npcs] => #4012003 [Ald velothi] West gash, Ald Velothi, village
+E 1 3223012 1 16  ; -- Equip: Iron shortsword [Items] (wield)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300943 1 4012008  ;  Mob: Fevila Bethrano [Npcs] => #4012008 [Ald velothi] West gash, Ald Velothi, village, Fevila Bethrano's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301045 1 4012009  ;  Mob: Ganus Lloryn [Npcs] => #4012009 [Ald velothi] West gash, Ald Velothi, village, Ganus Lloryn's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301037 1 4012010  ;  Mob: Galyn Arvel [Npcs] => #4012010 [Ald velothi] West gash, Ald Velothi, village, Ienas Arvel's shack
+E 1 3223012 1 16  ; -- Equip: Iron shortsword [Items] (wield)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302208 1 4012011  ;  Mob: Serila Arval [Npcs] => #4012011 [Ald velothi] West gash, Ald Velothi, village, Ienas Arvel's shack
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301505 1 4012012  ;  Mob: Lledsea Relas [Npcs] => #4012012 [Ald velothi] West gash, Ald Velothi, village, Lledsea Relas's shack
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301509 1 4012013  ;  Mob: Llerar Vinden [Npcs] => #4012013 [Ald velothi] West gash, Ald Velothi, village, Llerar Vinden's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301937 1 4012014  ;  Mob: Orero Omothan [Npcs] => #4012014 [Ald velothi] West gash, Ald Velothi, village, outpost
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235028 1 16  ; -- Equip: Steel mace [Items] (wield)
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3205027 1 ; -- Give: Chitin club [Items]
+G 1 3205009 1 ; -- Give: Chitin dagger [Items]
+G 1 3235024 1 ; -- Give: Steel waraxe [Items]
+G 1 3235012 1 ; -- Give: Steel shortsword [Items]
+G 1 3223009 1 ; -- Give: Iron dagger [Items]
+G 1 3223024 1 ; -- Give: Iron waraxe [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301465 1 4012015  ;  Mob: Lauravenya [Npcs] => #4012015 [Ald velothi] West gash, Ald Velothi, village, outpost
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3408034 1 ; -- Give: Petty soulgem [Items]
+G 1 3401027 1 ; -- Give: Potion of fortify agility [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302181 1 4012016  ;  Mob: Sedam Omalen [Npcs] => #4012016 [Ald velothi] West gash, Ald Velothi, village, outpost
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235027 1 16  ; -- Equip: Steel club [Items] (wield)
+G 1 3403368 1 ; -- Give: Troll fat [Items]
+G 1 3139002 1 ; -- Give: Iron pauldrons [Items]
+G 1 3221019 1 ; -- Give: Imperial broadsword [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3406099 1 ; -- Give: Consolations of prayer [Items]
+G 1 3405007 1 ; -- Give: Bamboo candlestick [Items]
+G 1 3407012 1 ; -- Give: Basket [Items]
+G 1 3404085 1 ; -- Give: Pewter plate [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302441 1 4012017  ;  Mob: Theldyn Virith [Npcs] => #4012017 [Ald velothi] West gash, Ald Velothi, village, outpost
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115002 1 10  ; -- Equip: Bonemold armcops [Items] (arms)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302524 1 4012018  ;  Mob: Trivura Arenim [Npcs] => #4012018 [Ald velothi] West gash, Ald Velothi, village, outpost
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3403046 1 ; -- Give: Bloat [Items]
+G 1 3403087 1 ; -- Give: Comberry [Items]
+G 1 3403139 1 ; -- Give: Garlic [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302166 1 4012019  ;  Mob: Sathas Rivul [Npcs] => #4012019 [Ald velothi] West gash, Ald Velothi, village, Sathas Rivul's shack
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302699 1 4012020  ;  Mob: Vireveri Darethran [Npcs] => #4012020 [Ald velothi] West gash, Ald Velothi, village, Vireveri Darethran's shack
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+S
+
+#SHOPS
+2301937 5 9 0 0 0 120 90 0 23
+2302181 5 9 12 8 35 120 90 0 23
+2302524 5 9 12 8 35 120 90 0 23
+0
+
+#REPAIRS
+2301937 9 5 0 100 1 0 23
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 ALD VELOTHI~
+Ald Velothi is a modest Redoran harbor village along the coast north of Gnisis
+where poor traders, a smith and watchful guards serve its few weathered homes.
+A fortified watchtower watches the sea as Ashalmawia rises on the eastern hill
+and an outcast Ashlander camp rests on high ground south of the village.~
+0 $~
+
+#$

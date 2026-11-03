@@ -1,0 +1,1948 @@
+#AREA Gnisis~
+
+#VERSION 1
+
+#CLIMATE 2 3 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4073001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4073001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4073001
+West gash, Gnisis, town~
+Stony public ways wind between dusty homes beneath dry clouds of windblown ash
+beside timber roof supports and wooden handcarts resting on the firmer ground.
+A restless breeze follows the winding settlement lanes and signs sway overhead
+as this hillside town remains active despite the harsh air.~
+0 0 1 0 0 0
+D3
+West~
+~
+0 0 4073055 0
+D0
+Exit description
+~
+~
+0 0 1070693 0
+S
+#4073002
+West gash, Gnisis, town~
+Wind-scoured lanes wander onward past low native structures beneath thin smoke
+beside rough wooden fences and clay storage jars left along the plaster walls.
+Weak sunlight lies across the hard-packed ground as soft footsteps cross stone
+and this quiet quarter endures the dry and dusty weather.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4073057 0
+D3
+West~
+~
+0 0 4073003 0
+S
+#4073003
+West gash, Gnisis, town~
+Dust-covered village pathways run among ochre-walled buildings through dry air
+beside rounded house fronts and wooden handcarts placed clear of passing feet.
+Pale light spreads over the weathered rooftops and tired travelers pass nearby
+as this quiet quarter settles beneath the muted daylight.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073004 0
+D1
+East~
+~
+0 0 4073002 0
+D2
+South~
+~
+0 0 4073064 0
+D3
+West~
+~
+0 0 4073009 0
+S
+#4073004
+West gash, Gnisis, town~
+Broad hillside tracks wind through the close-set settlement amid drifting dust
+among simple open thresholds and tethering posts placed clear of passing feet.
+Weak sunlight lies across the hard-packed ground and rough signs sway overhead
+as the weathered street settles beneath the muted daylight.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073005 0
+D2
+South~
+~
+0 0 4073003 0
+S
+#4073005
+West gash, Gnisis, town~
+Ash-streaked footpaths stretch among ochre walls under drifting sheets of dust
+past weathered doorways and clay storage jars gathered near raised thresholds.
+Dry wind carries grit between the rounded buildings as heavy cart wheels grind
+and the earthen roadway settles beneath the muted daylight.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073006 0
+D1
+East~
+~
+0 0 4073036 0
+D2
+South~
+~
+0 0 4073004 0
+S
+#4073006
+West gash, Gnisis, town~
+Wind-scoured lanes stretch between dusty homes through cool air from the hills
+with weathered doorways and clay storage jars gathered near raised thresholds.
+Thin woodsmoke drifts above the low plaster roofs as faint voices carry nearby
+and this hillside town feels old but firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073007 0
+D2
+South~
+~
+0 0 4073005 0
+S
+#4073007
+West gash, Gnisis, town~
+Hard-packed roads run onward between rounded plaster buildings through dry air
+past simple open thresholds and rough benches scattered across the dusty soil.
+Pale light spreads over the weathered rooftops as nearby boots scrape on stone
+and this hillside town bears the marks of wind and ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073008 0
+D2
+South~
+~
+0 0 4073006 0
+D3
+West~
+~
+0 0 4073077 0
+S
+#4073008
+West gash, Gnisis, town~
+Uneven earthen ways wander among ochre walls beneath banks of heavy gray cloud
+past dust-stained steps and covered supply crates grouped under shallow eaves.
+Loose ash shifts along the narrow village paths as tired travelers pass nearby
+and this wind-scoured lane feels old but firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073076 0
+D1
+East~
+~
+0 0 4073025 0
+D2
+South~
+~
+0 0 4073007 0
+D3
+West~
+~
+0 0 4073074 0
+S
+#4073009
+West gash, Gnisis, town~
+Beaten town paths curve gently between low plastered houses beneath thin smoke
+among simple open thresholds and drying racks scattered across the dusty soil.
+A restless breeze follows the winding settlement lanes and shadows cross walls
+as this quiet quarter carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4073003 0
+D3
+West~
+~
+0 0 4073010 0
+S
+#4073010
+West gash, Gnisis, town~
+Dry winding paths thread among timbered walls amid the smell of earth and fire
+beside timber roof supports and clay storage jars grouped under shallow eaves.
+Weak sunlight lies across the hard-packed ground as busy workers move supplies
+and the weathered street bears the marks of wind and ash.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4073009 0
+D2
+South~
+~
+0 0 4073011 0
+D3
+West~
+~
+0 0 4073013 0
+S
+#4073011
+West gash, Gnisis, town~
+Weather-beaten village paths cross between weathered native homes in dusty air
+beside ochre building walls and rough benches gathered near raised thresholds.
+The dry hillside wind stirs hanging cloth and rope as small fires glow indoors
+and this quiet quarter settles beneath the muted daylight.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073010 0
+D2
+South~
+~
+0 0 4073012 0
+S
+#4073012
+West gash, Gnisis, town~
+Rocky village roads curve past native buildings under a haze of windblown dust
+past simple open thresholds and wooden handcarts placed clear of passing feet.
+The dry hillside wind stirs hanging cloth and rope and heavy cart wheels grind
+as the weathered street carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073011 0
+D2
+Exit description
+~
+~
+0 0 1070507 0
+S
+#4073013
+West gash, Gnisis, town~
+Hard and dusty village roads wander onward between low houses under gray skies
+with shallow covered porches and drying racks gathered near raised thresholds.
+Faint sunlight crosses the packed ground as villagers move between their homes
+and this hillside town remains active despite the harsh air.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073014 0
+D1
+East~
+~
+0 0 4073010 0
+S
+#4073014
+West gash, Gnisis, town~
+Narrow streets of packed earth stretch gently among earthen homes in dusty air
+beside ochre building walls and wooden handcarts resting on the firmer ground.
+A restless breeze follows the winding settlement lanes and voices carry nearby
+as this hillside town settles beneath the muted daylight.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073015 0
+D2
+South~
+~
+0 0 4073013 0
+D3
+West~
+~
+0 0 4073085 0
+S
+#4073015
+West gash, Gnisis, town~
+Worn settlement lanes stretch gently between plaster houses amid drifting dust
+with weathered doorways and covered supply crates grouped under shallow eaves.
+Loose ash shifts along the narrow village paths and busy workers move supplies
+as the earthen roadway carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073016 0
+D2
+South~
+~
+0 0 4073014 0
+D3
+West~
+~
+0 0 4073048 0
+S
+#4073016
+West gash, Gnisis, town~
+Ash-streaked footpaths wind through simple homes in dry air scented with smoke
+past shallow covered porches and tethering posts placed clear of passing feet.
+Thin woodsmoke drifts above the low plaster roofs as rough signs sway overhead
+and the weathered street feels old but firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073017 0
+D1
+East~
+~
+0 0 4073079 0
+D2
+South~
+~
+0 0 4073015 0
+D3
+West~
+~
+0 0 4073032 0
+S
+#4073017
+West gash, Gnisis, town~
+Dusty village paths cross between low houses beneath banks of heavy gray cloud
+with weathered doorways and stacked water vessels grouped under shallow eaves.
+Faint sunlight crosses the packed ground and doors creak in the passing breeze
+as this wind-scoured lane feels old but firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073018 0
+D2
+South~
+~
+0 0 4073016 0
+S
+#4073018
+West gash, Gnisis, town~
+Old ash-covered settlement ways thread through the village under clouded light
+beside simple open thresholds and tethering posts grouped under shallow eaves.
+Faint sunlight crosses the packed ground as travelers follow the clearest path
+and this hillside town endures the dry and dusty weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073019 0
+D1
+East~
+~
+0 0 4073078 0
+D2
+South~
+~
+0 0 4073017 0
+S
+#4073019
+West gash, Gnisis, town~
+Long weathered village pathways stretch among earthen homes amid drifting dust
+beside simple open thresholds and split firewood placed clear of passing feet.
+Weak sunlight lies across the hard-packed ground and faint shadows cross walls
+as this quiet quarter feels old but firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073063 0
+D2
+South~
+~
+0 0 4073018 0
+D3
+West~
+~
+0 0 4073020 0
+S
+#4073020
+West gash, Gnisis, town~
+Narrow dusty tracks stretch through the village beneath a pale and clouded sky
+with ochre building walls and covered supply crates set beside the worn paths.
+Weak sunlight lies across the hard-packed ground and faint voices carry nearby
+as the earthen roadway bears the marks of wind and ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073033 0
+D1
+East~
+~
+0 0 4073019 0
+D3
+West~
+~
+0 0 4073021 0
+S
+#4073021
+West gash, Gnisis, town~
+Winding hard-packed pathways stretch gently past native buildings in dusty air
+beside rough wooden fences and split firewood gathered near raised thresholds.
+Thin woodsmoke drifts above the low plaster roofs as faint shadows cross walls
+and the open neighborhood winds onward between humble homes.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073075 0
+D1
+East~
+~
+0 0 4073020 0
+D2
+South~
+~
+0 0 4073022 0
+D3
+West~
+~
+0 0 4073034 0
+S
+#4073022
+West gash, Gnisis, town~
+Hard-packed roads thread past stone foundations beneath a pale and clouded sky
+past timber roof supports and covered supply crates set beside the worn paths.
+Cool air moves through the dust-streaked streets and smoke rises from chimneys
+as this wind-scoured lane winds onward between humble homes.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073021 0
+D2
+South~
+~
+0 0 4073023 0
+S
+#4073023
+West gash, Gnisis, town~
+Hard-packed roads stretch through clusters of simple homes under clouded light
+past low plaster walls and covered supply crates resting on the firmer ground.
+Cool air moves through the dust-streaked streets and rough signs sway overhead
+as this hillside town bears the marks of wind and ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073022 0
+D2
+South~
+~
+0 0 4073024 0
+S
+#4073024
+West gash, Gnisis, town~
+Hard-packed roads wind between dusty homes beneath dry clouds of windblown ash
+past shallow covered porches and drying racks gathered near raised thresholds.
+Thin woodsmoke drifts above the low plaster roofs and small fires glow indoors
+as the earthen roadway remains active despite the harsh air.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073023 0
+D3
+West~
+~
+0 0 4073083 0
+S
+#4073025
+West gash, Gnisis, town, mining site~
+Worn mining routes run past timber-braced workings beneath thin drifting smoke
+past deep wheel ruts and coiled hauling rope arranged beside the loading ways.
+Dusty air carries the smell of rock and lamp oil as loaded baskets wait nearby
+and the rocky site serves the nearby excavations.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4073026 0
+D3
+West~
+~
+0 0 4073008 0
+S
+#4073026
+West gash, Gnisis, town, mining site~
+Rutted hauling tracks stretch through the open mining ground beneath pale dust
+beside timber support frames and ore baskets left among chips of broken stone.
+Hammer blows echo from the nearby workings and wooden braces creak in the wind
+as the rocky site echoes with steady labor.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073027 0
+D2
+South~
+~
+0 0 4073030 0
+D3
+West~
+~
+0 0 4073025 0
+D1
+Exit description
+~
+~
+0 0 1070664 0
+S
+#4073027
+West gash, Gnisis, town, mining site~
+Uneven quarry paths curve among sorting platforms through gusts from the hills
+beside timber support frames and ore baskets grouped near the active workings.
+Dusty air carries the smell of rock and lamp oil and gravel shifts under boots
+as the mining ground bears the scars of constant digging.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073028 0
+D2
+South~
+~
+0 0 4073026 0
+S
+#4073028
+West gash, Gnisis, town, mining site~
+Dusty haulage lanes curve between broken rock amid constant scraping and blows
+among rough sorting tables and worn pickaxes arranged beside the loading ways.
+Dry wind moves between the timber support frames and tools strike buried stone
+as this hauling path echoes with steady labor.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073029 0
+D2
+South~
+~
+0 0 4073027 0
+D5
+Down~
+~
+0 0 4073045 0
+S
+#4073029
+West gash, Gnisis, town, mining site~
+Gravel-covered ways thread through dusty work enclosures amid steady hammering
+with rough sorting tables and wooden shovels grouped near the active workings.
+Dry wind moves between the timber support frames as loaded baskets wait nearby
+and the rocky site smells of grit and worked stone.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4073028 0
+D0
+Exit description
+~
+~
+0 0 1070790 0
+S
+#4073030
+West gash, Gnisis, town, mining site~
+Excavated work paths stretch between broken rock under the dry and clouded sky
+with cut earthen banks and heavy lifting poles resting on the trampled ground.
+Hammer blows echo from the nearby workings and loose gravel shifts under boots
+as the open excavation bears the scars of constant digging.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073026 0
+D2
+South~
+~
+0 0 4073031 0
+D5
+Down~
+~
+0 0 4073049 0
+S
+#4073031
+West gash, Gnisis, town, mining site~
+Rocky mining tracks run past sheds and scaffolds under weak and dusty daylight
+beside deep wheel ruts and heavy lifting poles resting on the trampled ground.
+Dry wind moves between the timber support frames and gravel shifts under boots
+as this hauling path bears the scars of constant digging.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4073030 0
+S
+#4073032
+West gash, Gnisis, town, Abelmawia's hut~
+Curved plaster walls enclose a quiet domestic room beneath dark timber rafters
+with a woven sleeping mat and plain wooden stools stored in well-used corners.
+Amber lamplight plays upon the nearby shelves while muted voices rise and fall
+and this humble home contains only practical comforts.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4073016 0
+S
+#4073033
+West gash, Gnisis, town, Almu's cave dwelling~
+A humble rock-cut home opens within close rocky walls under pale lantern light
+past folded bedding, clay vessels and dried provisions kept within easy reach.
+Muted firelight drifts beneath the heavy rafters as soft footsteps pass nearby
+and the cave dwelling holds the quiet rhythm of daily life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4073020 0
+S
+#4073034
+West gash, Gnisis, town, Arvs-Drelen's velothi tower~
+Thick tower walls frame this solemn stone gallery beneath dark timber supports
+past a narrow curving stair and woven floor rugs resting in well-used corners.
+Pale lamplight moves between the darkened beams and muted voices rise and fall
+as the upper gallery retains the gravity of an earlier age.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073035 0
+D1
+East~
+~
+0 0 4073021 0
+S
+#4073035
+West gash, Gnisis, town, Arvs-Drelen's velothi tower~
+A solemn stone gallery opens within thick tower walls under steady red candles
+with a narrow curving stair and woven floor rugs resting in well-used corners.
+Muted firelight shines beneath the heavy rafters and a dry draft stirs the air
+as the weathered interior rises in austere Dunmeri fashion.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4073034 0
+S
+#4073036
+West gash, Gnisis, town, barracks~
+Austere interior walls enclose a crowded duty room beneath stout ceiling beams
+with plain sleeping cots and uniform shelves arranged for practical daily use.
+A cool draft passes across the orderly bunkroom and troops tend weapons nearby
+as the bunkroom offers discipline rather than comfort.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073037 0
+D2
+South~
+~
+0 0 4073038 0
+D3
+West~
+~
+0 0 4073005 0
+S
+#4073037
+West gash, Gnisis, town, barracks~
+Thick mortared walls enclose a well-kept duty room beneath dark timber rafters
+with plain sleeping cots and locked foot chests set between the narrow aisles.
+Low voices drift through the guarded quarters and armor catches the amber glow
+as the bunkroom smells of leather, lamp oil and steel.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4073036 0
+D4
+Up~
+~
+0 0 4073039 0
+D5
+Down~
+~
+0 0 4073042 0
+S
+#4073038
+West gash, Gnisis, town, barracks~
+Heavy fortress walls enclose a crowded duty room beneath broad wooden supports
+among plain sleeping cots and uniform shelves kept clear of the central aisle.
+Armor buckles sound through the guarded quarters as troops tend weapons nearby
+and the bunkroom remains ready for the next sounding bell.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073036 0
+D4
+Up~
+~
+0 0 4073041 0
+D5
+Down~
+~
+0 0 4073044 0
+S
+#4073039
+West gash, Gnisis, town, barracks~
+Solid defensive walls frame this austere duty room beneath stout ceiling beams
+past stacked bedrolls, armor stands and oil lanterns placed within easy reach.
+A cool draft moves through the guarded quarters and troops tend weapons nearby
+as the bunkroom holds the plain necessities of service.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4073040 0
+D5
+Down~
+~
+0 0 4073037 0
+S
+#4073040
+West gash, Gnisis, town, barracks~
+Plain masonry walls frame this orderly duty room beneath thick overhead braces
+beside wooden troop beds and locked foot chests set between the narrow aisles.
+A cool draft moves around the stored equipment as armor catches the amber glow
+and the bunkroom offers discipline rather than comfort.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073039 0
+D2
+South~
+~
+0 0 4073041 0
+S
+#4073041
+West gash, Gnisis, town, barracks~
+A crowded duty room opens within heavy fortress walls under pale lantern light
+past rows of narrow bunks and locked foot chests resting in well-used corners.
+Bootsteps pass around the stored equipment as the next patrol gathers its gear
+and the bunkroom holds the plain necessities of service.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073040 0
+D5
+Down~
+~
+0 0 4073038 0
+S
+#4073042
+West gash, Gnisis, town, barracks~
+A guarded duty room opens within heavy fortress walls under steady red candles
+beside wooden troop beds and locked foot chests stored beneath sturdy shelves.
+Bootsteps pass across the orderly bunkroom as the next patrol gathers its gear
+and the garrison room offers discipline rather than comfort.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4073043 0
+D4
+Up~
+~
+0 0 4073037 0
+S
+#4073043
+West gash, Gnisis, town, barracks~
+Sturdy rendered walls frame this guarded duty room beneath dark timber rafters
+past plain sleeping cots and locked foot chests set between the narrow aisles.
+Bootsteps echo across the orderly bunkroom as the next patrol gathers its gear
+and the bunkroom supports the garrison's daily routine.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073042 0
+D2
+South~
+~
+0 0 4073044 0
+S
+#4073044
+West gash, Gnisis, town, barracks~
+Broad fitted stone walls frame this guarded duty room beneath heavy roof beams
+with rows of narrow bunks and uniform shelves kept clear of the central aisle.
+A cool draft slips around the stored equipment as armor catches the amber glow
+and the bunkroom smells of leather, lamp oil and steel.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073043 0
+D4
+Up~
+~
+0 0 4073038 0
+S
+#4073045
+West gash, Gnisis, town, bethamez cave~
+Old riveted walls enclose a cold ruin corridor beneath an arched stone ceiling
+among silent brass machinery and broken gears set beside abandoned mechanisms.
+Dim amber light moves through buried halls and metal fragments shift underfoot
+as the machine passage feels uneasy among the dead machines.~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 4073046 0
+D4
+Up~
+~
+0 0 4073028 0
+S
+#4073046
+West gash, Gnisis, town, bethamez cave~
+Brass-banded walls frame this dusty ruin corridor beneath heavy metal supports
+beside massive stone pillars and broken gears set beside abandoned mechanisms.
+Ancient machinery shudders across the silent gallery as old pipes knock nearby
+and the buried ruin feels uneasy among the dead machines.~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 4073047 0
+D3
+West~
+~
+0 0 4073045 0
+S
+#4073047
+West gash, Gnisis, town, bethamez cave~
+Corroded metal walls enclose a shadowed ruin corridor beneath broad stone ribs
+among heavy bronze doors and old valve wheels standing amid long-settled dust.
+Loose gears rattle across the silent gallery and low echoes answer from beyond
+as the buried ruin retains the chill of forgotten industry.~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 4073046 0
+D1
+East~
+~
+0 0 4073082 0
+S
+#4073048
+West gash, Gnisis, town, Dinadad's hut~
+Rounded ochre walls enclose a quiet household room beneath aged overhead beams
+beside a simple bedroll and earthen water jars placed beside the small hearth.
+Dusty golden light plays over the worn floor as the enclosed air remains still
+and the compact chamber contains only practical comforts.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4073015 0
+S
+#4073049
+West gash, Gnisis, town, eggmine~
+Resinous walls enclose a humid nesting gallery beneath a shadowed natural roof
+with fresh claw marks and wooden carrying frames resting in well-used corners.
+Distant scraping continues along the hive passage and pale shells gleam nearby
+as the working chamber echoes with muted labor and movement.~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 4073050 0
+D4
+Up~
+~
+0 0 4073030 0
+S
+#4073050
+West gash, Gnisis, town, eggmine~
+Damp hive walls frame this humid working passage beneath heavy resinous arches
+beside fresh claw marks and coiled hauling rope ordered across the hard floor.
+Moist air hangs through the rounded nesting tunnel as pale shells gleam nearby
+and the mine passage echoes with muted labor and movement.~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 4073052 0
+D1
+East~
+~
+0 0 4073051 0
+D2
+South~
+~
+0 0 4073054 0
+D3
+West~
+~
+0 0 4073049 0
+S
+#4073051
+West gash, Gnisis, town, eggmine~
+The busy hive passage rests within moist natural walls beneath a rough ceiling
+with bulging resin sacs and woven egg baskets kept clear of the central aisle.
+Resinous odors gather across the humid chamber as the colony shifts farther on
+and the humid gallery bears the marks of regular harvesting.~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 4073050 0
+S
+#4073052
+West gash, Gnisis, town, eggmine~
+Moist natural walls frame this busy egg-mine passage beneath rounded hive ribs
+with bulging resin sacs and coiled hauling rope set neatly around the chamber.
+Soft chittering travels among resinous hollows as the colony shifts farther on
+and the humid gallery echoes with muted labor and movement.~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 4073053 0
+D2
+South~
+~
+0 0 4073050 0
+S
+#4073053
+West gash, Gnisis, town, eggmine~
+Rough excavated walls enclose a humid nesting gallery beneath a damp rock roof
+past clusters of pale eggs and woven egg baskets resting in well-used corners.
+Distant scraping echoes among resinous hollows as the colony shifts farther on
+and the mine passage bears the marks of regular harvesting.~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 4073052 0
+S
+#4073054
+West gash, Gnisis, town, eggmine~
+The humid working passage rests within resinous walls beneath a damp rock roof
+past bulging resin sacs and woven egg baskets kept clear of the central aisle.
+Distant scraping echoes through the nesting tunnel as workers sort eggs nearby
+and the mine passage continues deeper into the colony.~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 4073050 0
+S
+#4073055
+West gash, Gnisis, town, fort darius~
+Solid defensive walls enclose a guarded garrison hall beneath heavy roof beams
+beside rows of sturdy chairs and weapon racks kept clear of the central aisle.
+Quiet voices drift across the fitted stone floor and sentries exchange reports
+as the fortified room reflects strict Imperial discipline.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4073001 0
+D3
+West~
+~
+0 0 4073056 0
+S
+#4073056
+West gash, Gnisis, town, fort darius~
+Plain masonry walls enclose a formal military room beneath stout ceiling beams
+with Imperial banners and sealed dispatch boxes set between the narrow aisles.
+Muted orders echo around the broad campaign tables and dispatches await review
+as the orderly hall serves the daily needs of the garrison.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073058 0
+D1
+East~
+~
+0 0 4073055 0
+D2
+South~
+~
+0 0 4073059 0
+D3
+West~
+~
+0 0 4073057 0
+S
+#4073057
+West gash, Gnisis, town, fort darius~
+Thick mortared walls enclose a guarded stone corridor beneath heavy roof beams
+beside broad campaign tables and armor stands kept clear of the central aisle.
+Quiet voices carry among the ordered furnishings and sentries exchange reports
+as the fortified room remains prepared for immediate duty.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4073056 0
+D3
+West~
+~
+0 0 4073002 0
+S
+#4073058
+West gash, Gnisis, town, fort darius~
+Austere interior walls enclose a formal garrison hall beneath heavy roof beams
+past plain military benches and weapon racks arranged for practical daily use.
+Muted orders carry across the stone floor and sentries exchange patrol reports
+as the fortified room offers strength with little ornament.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4073056 0
+D4
+Up~
+~
+0 0 4073061 0
+S
+#4073059
+West gash, Gnisis, town, fort darius~
+Limewashed stone walls enclose a formal garrison hall beneath heavy roof beams
+with plain military benches and stacked shields set neatly around the chamber.
+Muted orders travel along the fortified corridor and sentries exchange reports
+as the guarded interior reflects strict Imperial discipline.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073056 0
+D4
+Up~
+~
+0 0 4073062 0
+S
+#4073060
+West gash, Gnisis, town, fort darius~
+Sturdy rendered walls enclose a guarded garrison hall beneath heavy roof beams
+past Imperial banners, weapon racks and duty rosters placed within easy reach.
+A cool draft passes along the inner corridor as sealed dispatches await review
+and the fortified room offers strength with little ornament.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073061 0
+D2
+South~
+~
+0 0 4073062 0
+S
+#4073061
+West gash, Gnisis, town, fort darius~
+Plain masonry walls enclose a practical military room beneath heavy roof beams
+among rows of sturdy chairs and stacked shields set between the narrow aisles.
+A cool draft moves through the guarded inner halls and dispatches await review
+as the orderly hall remains prepared for immediate duty.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4073060 0
+D5
+Down~
+~
+0 0 4073058 0
+S
+#4073062
+West gash, Gnisis, town, fort darius~
+Sturdy rendered walls enclose a guarded military room beneath heavy roof beams
+among Imperial banners and locked supply chests arranged in disciplined order.
+Measured footsteps pass along the inner corridor and sentries exchange reports
+as the orderly hall stays watchful through every long shift.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073060 0
+D5
+Down~
+~
+0 0 4073059 0
+S
+#4073063
+West gash, Gnisis, town, Lasamsi's cave dwelling~
+Damp rock-cut walls enclose a quiet cave dwelling beneath heavy natural arches
+with a low sleeping pallet and plain cooking pots gathered around the chamber.
+Amber lamplight glimmers upon the nearby shelves and a dry draft stirs the air
+as the stone interior offers simple shelter and privacy.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4073019 0
+S
+#4073064
+West gash, Gnisis, town, Madach's tradehouse~
+A lively common room opens within rounded ochre walls under steady red candles
+among a broad serving counter and food platters set between the narrow aisles.
+Warm firelight glows through the trading hall and chairs scrape over the floor
+as this public chamber keeps useful goods within easy reach.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073003 0
+D2
+South~
+~
+0 0 4073065 0
+S
+#4073065
+West gash, Gnisis, town, Madach's tradehouse~
+Smooth rendered walls enclose a lively common room beneath dark timber rafters
+among a broad serving counter and clay tankards arranged in disciplined order.
+Lantern smoke lingers over wooden benches and the lamps give off steady warmth
+as the warm interior offers trade, food and simple shelter.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073064 0
+D2
+South~
+~
+0 0 4073066 0
+S
+#4073066
+West gash, Gnisis, town, Madach's tradehouse~
+Rounded ochre walls enclose a warm merchant hall beneath stout timber supports
+among long common tables and stacked meal bowls ordered across the hard floor.
+Amber lamplight moves around the serving counter and chairs scrape over boards
+as the crowded room remains lively through most of the day.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073065 0
+D1
+East~
+~
+0 0 4073069 0
+D2
+South~
+~
+0 0 4073067 0
+D3
+West~
+~
+0 0 4073068 0
+S
+#4073067
+West gash, Gnisis, town, Madach's tradehouse~
+A smoky common room opens within curved plaster walls under muted hearth light
+beside scarred display tables and food platters arranged in disciplined order.
+Lively voices rise through the warm trading hall and chairs scrape over boards
+as the busy tradehouse keeps useful goods within easy reach.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073066 0
+D5
+Down~
+~
+0 0 4073070 0
+S
+#4073068
+West gash, Gnisis, town, Madach's tradehouse~
+Curved plaster walls frame this warm busy interior beneath aged overhead beams
+beside long common tables and stacked meal bowls resting in well-used corners.
+Muted conversation spreads over wooden benches as cups knock against tabletops
+and the crowded room offers trade, food and simple shelter.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4073066 0
+S
+#4073069
+West gash, Gnisis, town, Madach's tradehouse~
+Thick earth-toned walls enclose a warm common room beneath aged overhead beams
+beside scarred display tables and food platters set neatly around the chamber.
+Lively voices drift through the trading hall and coins ring across the counter
+as the crowded room holds the scents of ale, smoke and stew.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4073066 0
+S
+#4073070
+West gash, Gnisis, town, Madach's tradehouse~
+Weathered native walls frame this warm common room beneath aged overhead beams
+with scarred display tables and sealed drink barrels placed within easy reach.
+Lively voices mingle around the serving counter and cups knock together nearby
+as the crowded room offers trade, food and simple shelter.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073071 0
+D4
+Up~
+~
+0 0 4073067 0
+S
+#4073071
+West gash, Gnisis, town, Madach's tradehouse~
+A warm merchant hall opens within rounded ochre walls under steady red candles
+among sturdy wooden benches and sealed drink barrels placed within easy reach.
+Amber lamplight flickers across the common room and cups knock together nearby
+as the warm interior remains lively through most of the day.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073072 0
+D2
+South~
+~
+0 0 4073070 0
+S
+#4073072
+West gash, Gnisis, town, Madach's tradehouse~
+Close-set earthen walls enclose a warm common room beneath aged overhead beams
+beside scarred display tables and food platters ordered across the hard floor.
+Lively voices drift around the serving counter as cups knock against tabletops
+and the crowded room keeps useful goods within easy reach.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4073073 0
+D2
+South~
+~
+0 0 4073071 0
+S
+#4073073
+West gash, Gnisis, town, Madach's tradehouse~
+A warm common room opens within smooth rendered walls under pale lantern light
+past a broad serving counter and food platters gathered beneath hanging lamps.
+Muted conversation drifts among crowded tables as cups knock against tabletops
+and the warm interior keeps useful goods within easy reach.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4073072 0
+S
+#4073074
+West gash, Gnisis, town, Man-llu's hut~
+Rounded ochre walls enclose a plain domestic room beneath smoke-darkened beams
+beside a woven sleeping mat and clay cooking pots stored in well-used corners.
+Low amber light drifts upon the nearby shelves while a dry draft stirs the air
+and the quiet interior bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4073008 0
+S
+#4073075
+West gash, Gnisis, town, Mantiti's cave dwelling~
+Close rocky walls enclose a cool cave dwelling beneath a shadowed rock ceiling
+beside a low sleeping pallet and hanging baskets stored in dry stone recesses.
+Soft lantern glow moves over the worn floor as the lamps give off faint warmth
+and the compact home holds the quiet rhythm of daily life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4073021 0
+S
+#4073076
+West gash, Gnisis, town, Shand's hut~
+Curved plaster walls enclose a plain domestic room beneath aged overhead beams
+among a woven sleeping mat and earthen water jars stored in well-used corners.
+Muted firelight moves upon the nearby shelves while soft footsteps pass nearby
+and the quiet interior holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4073008 0
+S
+#4073077
+West gash, Gnisis, town, Shishara's hut~
+Rounded ochre walls frame this quiet domestic room beneath dark timber rafters
+with folded bedding and woven storage baskets resting near the sleeping space.
+A shifting glow plays upon the nearby shelves while muted voices rise and fall
+and this humble home holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4073007 0
+S
+#4073078
+West gash, Gnisis, town, Tansumiran's cave dwelling~
+A humble cave dwelling opens within close rocky walls under muted hearth light
+beside a simple bedroll, clay vessels and common tools kept within easy reach.
+Amber lamplight moves upon the nearby shelves and dust turns slowly in the air
+as the compact home holds the quiet rhythm of daily life.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4073018 0
+S
+#4073079
+West gash, Gnisis, town, temple~
+A quiet sacred hall opens within broad stone walls under several covered lamps
+among low prayer benches and sealed reliquaries resting upon woven floor mats.
+Votive flames flicker over the ritual vessels and worshippers murmur devotions
+as the solemn interior holds the calm of enduring faith.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073080 0
+D2
+South~
+~
+0 0 4073081 0
+D3
+West~
+~
+0 0 4073016 0
+S
+#4073080
+West gash, Gnisis, town, temple~
+Broad stone walls enclose a quiet temple chamber beneath carved overhead beams
+among painted sacred panels, folded prayer cloths and polished ritual vessels.
+Filtered light spreads across the shrine room and worshippers murmur devotions
+as the devotional hall holds the calm of enduring faith.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4073079 0
+S
+#4073081
+West gash, Gnisis, town, temple~
+An orderly sacred hall opens within broad stone walls under pale lantern light
+beside carved shrine stones and folded prayer cloths kept in ceremonial order.
+Quiet footsteps pass around the offering space and wax scents the enclosed air
+as this quiet temple holds the calm of enduring faith.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4073079 0
+S
+#4073082
+West gash, Gnisis, town, underground stream~
+A low stream cavern opens within close rocky walls under warm hanging lanterns
+past shallow mineral pools and fallen gravel lying beneath the dripping stone.
+Damp air moves through the water-cut passage as soft echoes fade into darkness
+and the hidden stream shines beneath faint reflected light.~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 4073047 0
+S
+#4073083
+West gash, Gnisis, town, Vabdas's hut~
+Curved plaster walls enclose a plain domestic room beneath dark timber rafters
+with a simple bedroll and worn household tools placed beside the small hearth.
+Amber lamplight plays between the darkened beams as soft footsteps pass nearby
+and this humble home bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4073024 0
+D5
+Down~
+~
+0 0 4073084 0
+S
+#4073084
+West gash, Gnisis, town, Vabdas's hut~
+Rounded ochre walls enclose a plain domestic room beneath broad wooden rafters
+beside a simple bedroll and clay cooking pots resting near the sleeping space.
+Dim red candlelight falls upon the nearby shelves as a dry draft stirs the air
+and the quiet interior contains only practical comforts.~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4073083 0
+S
+#4073085
+West gash, Gnisis, town, Yahaz's hut~
+Curved plaster walls enclose a quiet domestic room beneath aged overhead beams
+among a plain sleeping cot and earthen water jars stored in well-used corners.
+Pale lamplight falls along the plastered surfaces as a dry draft stirs the air
+and the modest dwelling holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4073014 0
+S
+#0
+
+#RESETS
+M 0 2300709 1 4073005  ;  Mob: Dul gro-Dush [Npcs] => #4073005 [Gnisis] West gash, Gnisis, town
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302656 1 4073006  ;  Mob: Vatollia Apo [Npcs] => #4073006 [Gnisis] West gash, Gnisis, town
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301213 1 4073007  ;  Mob: Hentus Yansurnummu [Npcs] => #4073007 [Gnisis] West gash, Gnisis, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301978 1 4073008  ;  Mob: Punibi Yahaz [Npcs] => #4073008 [Gnisis] West gash, Gnisis, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300209 1 4073009  ;  Mob: Ashuma-Nud Matluberib [Npcs] => #4073009 [Gnisis] West gash, Gnisis, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3104005 1 9  ; -- Equip: Expensive gloves [Items] (hands)
+E 1 3301056 1 1  ; -- Equip: Ruby ring [Items] (finger-r)
+E 1 3235032 1 16  ; -- Equip: Steel warhammer [Items] (wield)
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3223019 1 ; -- Give: Iron broadsword [Items]
+G 1 3223036 1 ; -- Give: Iron halberd [Items]
+G 1 3231024 1 ; -- Give: Silver waraxe [Items]
+G 1 3235026 1 ; -- Give: Steel battleaxe [Items]
+G 1 3235019 1 ; -- Give: Steel broadsword [Items]
+G 1 3235032 1 ; -- Give: Steel warhammer [Items]
+M 0 2301178 1 4073010  ;  Mob: Hainab Lasamsi [Npcs] => #4073010 [Gnisis] West gash, Gnisis, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301192 1 4073011  ;  Mob: Hannabi Zabynatus [Npcs] => #4073011 [Gnisis] West gash, Gnisis, town
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3104005 1 9  ; -- Equip: Expensive gloves [Items] (hands)
+E 1 3301068 1 1  ; -- Equip: Topaz ring [Items] (finger-r)
+E 1 3235028 1 16  ; -- Equip: Steel mace [Items] (wield)
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3135001 1 ; -- Give: Imperial silver helm [Items]
+G 1 3139003 1 ; -- Give: Iron cuirass [Items]
+G 1 3139002 1 ; -- Give: Iron pauldrons [Items]
+G 1 3149001 1 ; -- Give: Nordic fur coif [Items]
+G 1 3159007 1 ; -- Give: Steel sabatons [Items]
+G 1 3159001 1 ; -- Give: Steel helm [Items]
+M 0 2301458 1 4073012  ;  Mob: Largakh gro-Bulfim [Npcs] => #4073012 [Gnisis] West gash, Gnisis, town
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301565 1 4073013  ;  Mob: Maeonius Man-llu [Npcs] => #4073013 [Gnisis] West gash, Gnisis, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3403242 1 ; -- Give: Muck [Items]
+M 0 2301743 1 4073014  ;  Mob: Molvirian Palenix [Npcs] => #4073014 [Gnisis] West gash, Gnisis, town
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130002 1 10  ; -- Equip: Imperial chain armcops [Items] (arms)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3130007 1 8  ; -- Equip: Imperial chain boots [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302262 1 4073015  ;  Mob: Shulki Ashunbabi [Npcs] => #4073015 [Gnisis] West gash, Gnisis, town
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3104005 1 9  ; -- Equip: Expensive gloves [Items] (hands)
+E 1 3301056 1 1  ; -- Equip: Ruby ring [Items] (finger-r)
+E 1 3205002 1 16  ; -- Equip: Chitin throwing star [Items] (wield)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3205002 1 ; -- Give: Chitin throwing star [Items]
+G 1 3104004 1 ; -- Give: Expensive sash [Items]
+G 1 3104009 1 ; -- Give: Expensive skirt [Items]
+G 1 3301056 1 ; -- Give: Ruby ring [Items]
+G 1 3403235 1 ; -- Give: Moon sugar [Items]
+G 1 3403213 1 ; -- Give: Large kwama egg [Items]
+M 0 2302554 1 4073016  ;  Mob: Ughash gro-Batul [Npcs] => #4073016 [Gnisis] West gash, Gnisis, town
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+G 1 3405023 1 ; -- Give: Torch [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302754 1 4073017  ;  Mob: Yashnarz gro-Ufthamph [Npcs] => #4073017 [Gnisis] West gash, Gnisis, town
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3405023 1 0  ; -- Equip: Torch [Items] (take)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302783 1 4073018  ;  Mob: Zebba Benamamat [Npcs] => #4073018 [Gnisis] West gash, Gnisis, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301056 1 1  ; -- Equip: Ruby ring [Items] (finger-r)
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3104004 1 ; -- Give: Expensive sash [Items]
+G 1 3301020 1 ; -- Give: Emerald ring [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+M 0 2301216 1 4073032  ;  Mob: Hetman Abelmawia [Npcs] => #4073032 [Gnisis] West gash, Gnisis, town, Abelmawia's hut
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3402062 1 0  ; -- Equip: Scroll of disease resistance [Items] (take)
+G 1 3404079 1 ; -- Give: Paper [Items]
+G 1 3406010 1 ; -- Give: Ancestors and the dunmer [Items]
+G 1 3402062 1 ; -- Give: Scroll of disease resistance [Items]
+M 0 2300205 1 4073033  ;  Mob: Asharapli Almu [Npcs] => #4073033 [Gnisis] West gash, Gnisis, town, Almu's cave dwelling
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3403213 1 ; -- Give: Large kwama egg [Items]
+M 0 2300261 1 4073034  ;  Mob: Baladas Demnevanni [Npcs] => #4073034 [Gnisis] West gash, Gnisis, town, Arvs-Drelen's velothi tower
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+G 1 3408035 1 ; -- Give: Lesser soulgem [Items]
+G 1 3401064 1 ; -- Give: Potion of restore magicka [Items]
+M 0 2301998 1 4073035  ;  Mob: Ragash gra-Shuzgub [Npcs] => #4073035 [Gnisis] West gash, Gnisis, town, Arvs-Drelen's velothi tower
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300084 1 4073036  ;  Mob: Allian Carbo [Npcs] => #4073036 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3132003 1 5  ; -- Equip: Imperial iron cuirass [Items] (body)
+E 1 3132002 1 10  ; -- Equip: Imperial iron pauldrons [Items] (arms)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3132007 1 8  ; -- Equip: Imperial iron sabatons [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300174 1 4073037  ;  Mob: Arius Rulician [Npcs] => #4073037 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+M 0 2300717 1 4073038  ;  Mob: Dumbuk gro-Bolak [Npcs] => #4073038 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3301017 1 3  ; -- Equip: Emerald amulet [Items] (neck-1)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301934 1 4073039  ;  Mob: Optio Bologra [Npcs] => #4073039 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136006 1 7  ; -- Equip: Imperial steel greaves [Items] (legs)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301938 1 4073040  ;  Mob: Oritius Maro [Npcs] => #4073040 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+M 0 2302334 1 4073041  ;  Mob: Strillian Macro [Npcs] => #4073041 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3132003 1 5  ; -- Equip: Imperial iron cuirass [Items] (body)
+E 1 3132002 1 10  ; -- Equip: Imperial iron pauldrons [Items] (arms)
+E 1 3132006 1 7  ; -- Equip: Imperial iron greaves [Items] (legs)
+E 1 3132007 1 8  ; -- Equip: Imperial iron sabatons [Items] (feet)
+E 1 3132005 1 9  ; -- Equip: Imperial iron gauntlets [Items] (hands)
+E 1 3132008 1 17  ; -- Equip: Imperial iron bulwark [Items] (hold)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302643 1 4073042  ;  Mob: Vantustius Pundus [Npcs] => #4073042 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302647 1 4073043  ;  Mob: Varian Angius [Npcs] => #4073043 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130002 1 10  ; -- Equip: Imperial chain armcops [Items] (arms)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302679 1 4073044  ;  Mob: Vertilvius Cines [Npcs] => #4073044 [Gnisis] West gash, Gnisis, town, barracks
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302625 1 4073048  ;  Mob: Vabbar Dinadad [Npcs] => #4073048 [Gnisis] West gash, Gnisis, town, Dinadad's hut
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3403213 1 ; -- Give: Large kwama egg [Items]
+G 1 3404079 1 ; -- Give: Paper [Items]
+G 1 3407012 1 ; -- Give: Basket [Items]
+G 1 3404009 1 ; -- Give: Bottle [Items]
+G 1 3404020 1 ; -- Give: Clay bowl [Items]
+G 1 3404099 1 ; -- Give: Red glass pot [Items]
+M 0 2301441 1 4073049  ;  Mob: Kummi-Namus Almu [Npcs] => #4073049 [Gnisis] West gash, Gnisis, town, eggmine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+E 1 3403213 1 0  ; -- Equip: Large kwama egg [Items] (take)
+M 0 2301542 1 4073050  ;  Mob: Lugrub gro-Ogdum [Npcs] => #4073050 [Gnisis] West gash, Gnisis, town, eggmine
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3223024 1 16  ; -- Equip: Iron waraxe [Items] (wield)
+M 0 2301604 1 4073051  ;  Mob: Mansilamat Vabdas [Npcs] => #4073051 [Gnisis] West gash, Gnisis, town, eggmine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301637 1 4073052  ;  Mob: Mausur Ababael [Npcs] => #4073052 [Gnisis] West gash, Gnisis, town, eggmine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+M 0 2302235 1 4073053  ;  Mob: Shanud Ududnabia [Npcs] => #4073053 [Gnisis] West gash, Gnisis, town, eggmine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+E 1 3403213 1 0  ; -- Equip: Large kwama egg [Items] (take)
+M 0 2302784 1 4073054  ;  Mob: Zebdusipal Mantiti [Npcs] => #4073054 [Gnisis] West gash, Gnisis, town, eggmine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+E 1 3403213 1 0  ; -- Equip: Large kwama egg [Items] (take)
+M 0 2300256 1 4073055  ;  Mob: Bagamul gro-Dumul [Npcs] => #4073055 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300351 1 4073056  ;  Mob: Bogdub gra-Gurakh [Npcs] => #4073056 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300458 1 4073057  ;  Mob: Chaplain Ogrul [Npcs] => #4073057 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3403021 1 ; -- Give: Ash yam [Items]
+G 1 3403095 1 ; -- Give: Crab meat [Items]
+G 1 3403228 1 ; -- Give: Marshmerrow [Items]
+G 1 3403279 1 ; -- Give: Rat meat [Items]
+G 1 3403306 1 ; -- Give: Saltrice [Items]
+G 1 3403393 1 ; -- Give: Wickwheat [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401056 1 ; -- Give: Potion of restore endurance [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401055 1 ; -- Give: Potion of restore strength [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2301762 1 4073058  ;  Mob: Mug gro-Dulob [Npcs] => #4073058 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3130003 1 ; -- Give: Imperial chain jack [Items]
+G 1 3144007 1 ; -- Give: Netch leather striders [Items]
+G 1 3221019 1 ; -- Give: Imperial broadsword [Items]
+G 1 3221012 1 ; -- Give: Imperial shortsword [Items]
+G 1 3223034 1 ; -- Give: Iron spear [Items]
+G 1 3235036 1 ; -- Give: Steel halberd [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302241 1 4073059  ;  Mob: Sharkub gro-Khashnar [Npcs] => #4073059 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302570 1 4073060  ;  Mob: Uloth gra-Ushar [Npcs] => #4073060 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302572 1 4073061  ;  Mob: Ulumpha gra-Sharob [Npcs] => #4073061 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+G 1 3403056 1 ; -- Give: Bonemeal [Items]
+G 1 3403136 1 ; -- Give: Frost salt [Items]
+G 1 3403188 1 ; -- Give: Hound meat [Items]
+G 1 3403213 1 ; -- Give: Large kwama egg [Items]
+G 1 3408012 1 ; -- Give: Apprentice's mortar and pestle [Items]
+G 1 3408013 1 ; -- Give: Apprentice's alembic [Items]
+G 1 3408014 1 ; -- Give: Apprentice's calcinator [Items]
+G 1 3408015 1 ; -- Give: Apprentice's retort [Items]
+G 1 3401034 1 ; -- Give: Potion of fortify magicka [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302743 1 4073062  ;  Mob: Yambul gro-Bogrol [Npcs] => #4073062 [Gnisis] West gash, Gnisis, town, fort darius
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300203 1 4073064  ;  Mob: Asha-Ammu Kutebani [Npcs] => #4073064 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300228 1 4073065  ;  Mob: Athal Nerano [Npcs] => #4073065 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3404068 1 ; -- Give: Metal goblet [Items]
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300482 1 4073066  ;  Mob: Clilias Pullia [Npcs] => #4073066 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300542 1 4073067  ;  Mob: Darius [Npcs] => #4073067 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3137003 1 5  ; -- Equip: Imperial templar cuirass [Items] (body)
+E 1 3137002 1 10  ; -- Equip: Imperial templar pauldrons [Items] (arms)
+E 1 3137007 1 8  ; -- Equip: Imperial templar sabatons [Items] (feet)
+E 1 3137005 1 9  ; -- Equip: Imperial templar gauntlets [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300827 1 4073068  ;  Mob: Ertius Fulbenus [Npcs] => #4073068 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3130001 1 6  ; -- Equip: Imperial chain scullcap [Items] (head)
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300925 1 4073069  ;  Mob: Fenas Madach [Npcs] => #4073069 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301820 1 4073070  ;  Mob: Nash gro-Khazor [Npcs] => #4073070 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3132003 1 5  ; -- Equip: Imperial iron cuirass [Items] (body)
+E 1 3132002 1 10  ; -- Equip: Imperial iron pauldrons [Items] (arms)
+E 1 3132006 1 7  ; -- Equip: Imperial iron greaves [Items] (legs)
+E 1 3132007 1 8  ; -- Equip: Imperial iron sabatons [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302297 1 4073071  ;  Mob: Snakha gro-Marob [Npcs] => #4073071 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3130006 1 7  ; -- Equip: Imperial chain guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3221012 1 16  ; -- Equip: Imperial shortsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302365 1 4073072  ;  Mob: Talms Dralor [Npcs] => #4073072 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302617 1 4073073  ;  Mob: Utadeek [Npcs] => #4073073 [Gnisis] West gash, Gnisis, town, Madach's tradehouse
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+M 0 2301808 1 4073074  ;  Mob: Nammu Man-llu [Npcs] => #4073074 [Gnisis] West gash, Gnisis, town, Man-llu's hut
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3237027 1 16  ; -- Equip: Wooden club [Items] (wield)
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+M 0 2300223 1 4073075  ;  Mob: Assumanu Mantiti [Npcs] => #4073075 [Gnisis] West gash, Gnisis, town, Mantiti's cave dwelling
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2300010 1 4073076  ;  Mob: Abishpulu Shand [Npcs] => #4073076 [Gnisis] West gash, Gnisis, town, Shand's hut
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2301227 1 4073077  ;  Mob: Hinammu Shishara [Npcs] => #4073077 [Gnisis] West gash, Gnisis, town, Shishara's hut
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+G 1 3403213 1 ; -- Give: Large kwama egg [Items]
+M 0 2301301 1 4073078  ;  Mob: Ilasour Tansumiran [Npcs] => #4073078 [Gnisis] West gash, Gnisis, town, Tansumiran's cave dwelling
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+M 0 2300840 1 4073079  ;  Mob: Esib-Nummu Assunudadnud [Npcs] => #4073079 [Gnisis] West gash, Gnisis, town, temple
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301653 1 4073080  ;  Mob: Mehra Drora [Npcs] => #4073080 [Gnisis] West gash, Gnisis, town, temple
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3403110 1 ; -- Give: Dreugh wax [Items]
+G 1 3403046 1 ; -- Give: Bloat [Items]
+G 1 3403140 1 ; -- Give: Ghoul heart [Items]
+G 1 3403173 1 ; -- Give: Hackle-lo leaf [Items]
+G 1 3403128 1 ; -- Give: Fire petal [Items]
+G 1 3403347 1 ; -- Give: Stoneflower petal [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302779 1 4073081  ;  Mob: Zanmulk Sammalamus [Npcs] => #4073081 [Gnisis] West gash, Gnisis, town, temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3403035 1 ; -- Give: Bittergreen petal [Items]
+G 1 3403021 1 ; -- Give: Ash yam [Items]
+G 1 3403279 1 ; -- Give: Rat meat [Items]
+G 1 3403188 1 ; -- Give: Hound meat [Items]
+G 1 3403213 1 ; -- Give: Large kwama egg [Items]
+G 1 3401057 1 ; -- Give: Potion of restore agility [Items]
+G 1 3401061 1 ; -- Give: Potion of restore luck [Items]
+G 1 3401060 1 ; -- Give: Potion of restore personality [Items]
+G 1 3401030 1 ; -- Give: Potion of fortify personality [Items]
+G 1 3401033 1 ; -- Give: Potion of fortify fatigue [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302264 1 4073083  ;  Mob: Shullay Vabdas [Npcs] => #4073083 [Gnisis] West gash, Gnisis, town, Vabdas's hut
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+M 0 2302726 1 4073084  ;  Mob: Widow Vabdas [Npcs] => #4073084 [Gnisis] West gash, Gnisis, town, Vabdas's hut
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+M 0 2301778 1 4073085  ;  Mob: Musa Yahaz [Npcs] => #4073085 [Gnisis] West gash, Gnisis, town, Yahaz's hut
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+G 1 3403279 1 ; -- Give: Rat meat [Items]
+S
+
+#SHOPS
+2300209 5 9 0 0 0 120 90 0 23
+2301192 5 9 0 0 0 120 90 0 23
+2301762 5 9 0 0 0 120 90 0 23
+2300925 13 5 0 0 0 120 90 0 23
+2301216 5 9 12 8 35 120 90 0 23
+2302262 5 9 12 8 35 120 90 0 23
+2302783 9 0 0 0 0 120 90 0 23
+2300458 10 13 0 0 0 120 90 0 23
+2302779 10 13 0 0 0 120 90 0 23
+2301653 10 0 0 0 0 120 90 0 23
+2302572 10 13 0 0 0 120 90 0 23
+0
+
+#REPAIRS
+2300209 9 5 0 100 1 0 23
+2301192 9 5 0 100 1 0 23
+2301762 9 5 0 100 1 0 23
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 GNISIS~
+Gnisis is the largest settlement in northwest Vvardenfell, built on a hillside
+under an egg mine where Redoran homes gather around a busy riverside crossing.
+A Tribunal Temple, tradehouse and tiny Imperial fort serve locals and visitors
+as ash winds sweep the plain beyond its crowded streets.~
+0 $~
+
+#$

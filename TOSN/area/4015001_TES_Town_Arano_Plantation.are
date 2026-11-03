@@ -1,0 +1,159 @@
+#AREA Arano plantation~
+
+#VERSION 1
+
+#CLIMATE 2 4 2
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4015001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4015001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4015001
+Ascadian isles, Arano, plantation, fields~
+Orderly crop rows spread across moist brown ground beneath warm southern light
+with narrow watercourses winding among seedlings, wide leaves and low furrows.
+The quiet field smells of damp loam as baskets gather beside wooden hand tools
+and every planted row shows the patient rhythm of careful seasonal labor.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4015002 0
+S
+#4015002
+Ascadian isles, Arano, plantation, fields~
+Fresh green growth covers a cultivated plot divided by shallow irrigation cuts
+among rich soil, woven hampers and pathways pressed firm by passing footsteps.
+A gentle breeze moves through the leaves as quiet work continues under the sun
+and clear water glimmers between rows of carefully tended plants.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4015003 0
+D2
+South~
+~
+0 0 4015001 0
+S
+#4015003
+Ascadian isles, Arano, plantation, manor~
+Smooth ochre plaster encloses a modest manor chamber beneath sturdy wood beams
+with woven rugs, polished furniture and painted ceramics set in careful order.
+Dim lantern glow settles across the clean floor as household sounds drift near
+and the comfortable interior favors simple quality over lavish display.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4015005 0
+D2
+South~
+~
+0 0 4015002 0
+D3
+West~
+~
+0 0 4015004 0
+S
+#4015004
+Ascadian isles, Arano, plantation, manor~
+Rounded native walls form a quiet household room under a shadowed beam ceiling
+among sturdy tables, folded cloth and glazed vessels arranged along the walls.
+Dim lamplight softens the plaster as distant movement passes through the manor
+and the calm interior bears the marks of peaceful and prosperous country life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4015003 0
+S
+#4015005
+Ascadian isles, Arano, plantation, manor~
+Curved plastered walls shelter a refined manor chamber beneath curved supports
+with carved cabinets, cushioned chairs and tasteful hangings placed around it.
+Amber light gleams on well-kept furnishings as muted conversation carries past
+and the room maintains a restrained air of comfort and rural dignity.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4015003 0
+S
+#0
+
+#RESETS
+M 0 2300563 1 4015003  ;  Mob: Daynasa Telandas [Npcs] => #4015003 [Arano plantation] Ascadian isles, Arano, plantation, manor
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300608 1 4015004  ;  Mob: Direr Arano [Npcs] => #4015004 [Arano plantation] Ascadian isles, Arano, plantation, manor
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3301056 1 1  ; -- Equip: Ruby ring [Items] (finger-r)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301513 1 4015005  ;  Mob: Llerusa Hlaalu [Npcs] => #4015005 [Arano plantation] Ascadian isles, Arano, plantation, manor
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3301017 1 3  ; -- Equip: Emerald amulet [Items] (neck-1)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ARANO PLANTATION~
+Arano Plantation is a quiet Hlaalu estate amid these fertile Ascadian lowlands
+west of Suran with cultivated fields surrounding a modest manor and farmstead.
+Unlike other plantations, its fields employ free labor instead of bound slaves
+though a servant's secret loyalty disturbs its quiet order.~
+0 $~
+
+#$

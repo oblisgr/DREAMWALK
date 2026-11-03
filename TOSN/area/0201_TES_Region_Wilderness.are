@@ -1,0 +1,1761 @@
+#AREA Wilderness 0201~
+
+#VERSION 1
+
+#CLIMATE 3 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#1020101
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#1020101
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#1020102
+Ascadian isles region, wilderness~
+A gently rolling path winds through tall green grass amid a warm steady breeze
+past wild grasses, flowering shrubs and smooth stones lining the narrow trail.
+Upland wind moves across the rich earth and thin haze blurs the farthest hills
+and pale blossoms sway above the fertile ground.~
+0 0 2 0 0 1
+D1
+East~
+~
+0 0 1020103 0
+S
+#1020103
+Ascadian isles region, wilderness~
+Low rounded hills rise between patches of bright moss in the mild and open air
+among bare roots, young saplings and dry seed heads scattered over warm earth.
+Thin haze hangs along the narrow trail and small insects hover above the herbs
+and green foliage stirs under the leafy branches.~
+0 0 2 0 0 2
+D2
+South~
+~
+0 0 1020110 0
+D3
+West~
+~
+0 0 1020102 0
+S
+#1020104
+Ascadian isles region, wilderness~
+Soft fertile ground stretches between flowering shrubs beneath a pale blue sky
+beside low stones, wind-bent weeds and fallen twigs rising from the rich soil.
+Warm air moves across the open grassland as loose petals drift among the roots
+and wild grass trembles along the narrow trail.~
+0 0 2 0 0 3
+D1
+East~
+~
+0 0 1020105 0
+D2
+South~
+~
+0 0 1020111 0
+S
+#1020105
+Ascadian isles region, wilderness~
+A green upland trail runs between scattered trees beneath a veil of high cloud
+past fern clusters, bare roots and small boulders lying amid the sunlit grass.
+Warm air passes over the grassy ground and dry twigs scrape against the stones
+as mild wind slides over the gentle hills.~
+0 0 6 0 0 4
+D2
+South~
+~
+0 0 1020112 0
+D3
+West~
+~
+0 0 1020104 0
+S
+#1020106
+Ascadian isles region, wilderness~
+A broad grassy trail winds along a shallow hollow beneath warm afternoon light
+among fern clusters, fallen twigs and low stones resting beneath the pale sky.
+Upland wind drifts across the rich earth as seed heads nod above the soft soil
+with cloud shadows drifting over the open grassland.~
+0 0 2 0 0 5
+D2
+South
+~
+~
+0 0 1020113 0
+D0
+Exit description
+~
+~
+0 0 4021099 0
+S
+#1020107
+Ascadian isles region, wilderness~
+A flower-lined trail winds across rich ocher soil under soft filtered sunlight
+beside low stones, bare roots and wild grasses crowding the edges of the path.
+Thin haze hangs over the grassy ground and bright patches cross over the grass
+and warm air lingers inside shallow hollows.~
+0 0 2 0 0 6
+D2
+South~
+~
+0 0 1020114 0
+S
+#1020108
+Ascadian isles region, wilderness~
+A sunlit earthen track curves between low stony ridges beneath a pale blue sky
+past fallen twigs, fern clusters and bare roots gathered beneath leafy growth.
+Warm air slides along the narrow trail and wild grasses ripple over the slopes
+with soft light spreading across the rich earth.~
+0 0 2 0 0 7
+D1
+East
+~
+~
+0 0 1020109 0
+D2
+South
+~
+~
+0 0 1020115 0
+D3
+Exit description
+~
+~
+0 0 1080114 0
+S
+#1020109
+Ascadian isles region, wilderness~
+Low rounded hills run across a wide open meadow beneath slowly drifting clouds
+among bare roots, low stones and wild grasses set within gentle folds of land.
+Thin haze spreads across the rich earth as pale blossoms turn toward the light
+and cloud shadows pass between the grassy slopes.~
+0 0 2 0 0 8
+D2
+South~
+~
+0 0 1020116 0
+D3
+West~
+~
+0 0 1020108 0
+S
+#1020110
+Ascadian isles region, wilderness~
+A sunlit earthen track threads along a shallow hollow in the mild and open air
+beside gentle hollows, wind-bent weeds and low stones lining the narrow trail.
+Upland wind moves over the grassy ground as low plants bend beside the pathway
+with thin haze settling beneath the pale sky.~
+0 0 2 0 0 9
+D0
+North~
+~
+0 0 1020103 0
+D2
+South~
+~
+0 0 1020117 0
+S
+#1020111
+Ascadian isles region, wilderness~
+Soft fertile ground spreads over broad grassy slopes amid a warm steady breeze
+past bare roots, low stones and wild grasses clustered beside shallow hollows.
+Thin haze settles across the rich earth as warm light glances from the pebbles
+with green foliage rustling through the mild undergrowth.~
+0 0 2 0 0 10
+D0
+North~
+~
+0 0 1020104 0
+D1
+East~
+~
+0 0 1020112 0
+S
+#1020112
+Ascadian isles region, wilderness~
+An overgrown country path runs between scattered trees beneath a pale blue sky
+among sunlit pebbles, small boulders and bare roots rising from the rich soil.
+Warm air moves along the narrow trail as clear light reaches the exposed roots
+and thin haze spreads among the low shrubs.~
+0 0 6 0 0 11
+D0
+North~
+~
+0 0 1020105 0
+D2
+South~
+~
+0 0 1020119 0
+D3
+West~
+~
+0 0 1020111 0
+S
+#1020113
+Ascadian isles region, wilderness~
+Low rounded hills run over gently rolling earth under slow-moving white clouds
+beside bare roots, fern clusters and fallen twigs lying amid the sunlit grass.
+Thin haze hangs over the grassy ground and warm soil yields beneath every step
+as soft light fades around the sunlit stones.~
+0 0 2 0 0 12
+D0
+North~
+~
+0 0 1020106 0
+D2
+South~
+~
+0 0 1020120 0
+S
+#1020114
+Ascadian isles region, wilderness~
+A flower-lined trail winds across rich ocher soil beneath a veil of high cloud
+past fallen twigs, bare roots and low stones spread across the fertile ground.
+Warm air slides across the rich earth as small leaves tremble on thin branches
+with wild grass stirring between the grassy slopes.~
+0 0 2 0 0 13
+D0
+North~
+~
+0 0 1020107 0
+D2
+South~
+~
+0 0 1020121 0
+S
+#1020115
+Ascadian isles region, wilderness~
+A gently rolling path runs along a shallow hollow under soft filtered sunlight
+among young saplings, wild grasses and fallen twigs scattered over warm earth.
+Upland wind drifts across the rich earth as low plants bend beside the pathway
+with pale blossoms trembling around the sunlit stones.~
+0 0 6 0 0 14
+D0
+North~
+~
+0 0 1020108 0
+D1
+East~
+~
+0 0 1020116 0
+D2
+South~
+~
+0 0 1020122 0
+S
+#1020116
+Ascadian isles region, wilderness~
+A broad grassy trail runs between scattered trees beneath warm afternoon light
+beside bare roots, dry seed heads and low stones resting beneath the pale sky.
+Upland wind passes across the rich earth as thin haze blurs the farthest hills
+as green foliage bends inside shallow hollows.~
+0 0 6 0 0 15
+D0
+North~
+~
+0 0 1020109 0
+D1
+East~
+~
+0 0 1020117 0
+D2
+South~
+~
+0 0 1020123 0
+D3
+West~
+~
+0 0 1020115 0
+S
+#1020117
+Ascadian isles region, wilderness~
+Low rounded hills rise between flowering shrubs in air scented with wild herbs
+past wild grasses, fallen twigs and low stones caught among the exposed roots.
+Thin haze spreads along the narrow trail as seed heads nod above the soft soil
+and mild wind moves under the leafy branches.~
+0 0 6 0 0 16
+D0
+North~
+~
+0 0 1020110 0
+D1
+East~
+~
+0 0 1020118 0
+D2
+South~
+~
+0 0 1020124 0
+D3
+West~
+~
+0 0 1020116 0
+S
+#1020118
+Ascadian isles region, wilderness~
+A green upland trail curves between flowering shrubs amid a warm steady breeze
+among gentle hollows, low stones and bare roots gathered beneath leafy growth.
+Warm air drifts over the grassy ground and wild grasses ripple over the slopes
+as thin haze settles across the rich earth.~
+0 0 6 0 0 17
+D1
+East~
+~
+0 0 1020119 0
+D2
+South~
+~
+0 0 1020125 0
+D3
+West~
+~
+0 0 1020117 0
+S
+#1020119
+Ascadian isles region, wilderness~
+A shallow grassy hollow opens through tall green grass beneath a pale blue sky
+beside wild grasses, low stones and bare roots crowding the edges of the path.
+Upland wind slides across the rich earth as loose petals drift among the roots
+as warm air passes over the gentle hills.~
+0 0 6 0 0 18
+D0
+North~
+~
+0 0 1020112 0
+D3
+West~
+~
+0 0 1020118 0
+S
+#1020120
+Ascadian isles region, wilderness~
+A sunlit earthen track threads across rich ocher soil in the mild and open air
+past bare roots, low stones and fern clusters set within gentle folds of land.
+Thin haze drifts along the narrow trail as pale blossoms turn toward the light
+as cloud shadows move above the fertile ground.~
+0 0 4 0 0 19
+D0
+North~
+~
+0 0 1020113 0
+D1
+East~
+~
+0 0 1020121 0
+D2
+South~
+~
+0 0 1020127 0
+S
+#1020121
+Ascadian isles region, wilderness~
+Low rounded hills run over broad grassy slopes under clear and gentle daylight
+among sunlit pebbles, wild grasses and small boulders lining the narrow trail.
+Warm air moves around the sunlit stones as bright patches cross over the grass
+and soft light rests over the open grassland.~
+0 0 2 0 0 20
+D0
+North~
+~
+0 0 1020114 0
+D2
+South~
+~
+0 0 1020128 0
+D3
+West~
+~
+0 0 1020120 0
+S
+#1020122
+Ascadian isles region, wilderness~
+A flower-lined trail winds along a shallow hollow beneath a veil of high cloud
+beside low stones, young saplings and fern clusters rising from the rich soil.
+Warm air passes over the grassy ground and small insects hover above the herbs
+as wild grass rustles beneath the pale sky.~
+0 0 6 0 0 21
+D0
+North~
+~
+0 0 1020115 0
+D2
+South~
+~
+0 0 1020129 0
+S
+#1020123
+Ascadian isles region, wilderness~
+A green upland trail winds across rich ocher soil under soft filtered sunlight
+past bare roots, fallen twigs and low stones spread across the fertile ground.
+Thin haze hangs over the grassy ground and warm light glances from the pebbles
+as pale blossoms stir through the mild undergrowth.~
+0 0 2 0 0 22
+D0
+North~
+~
+0 0 1020116 0
+D2
+South~
+~
+0 0 1020130 0
+S
+#1020124
+Ascadian isles region, wilderness~
+A broad grassy trail winds across rich ocher soil beneath warm afternoon light
+among fallen twigs, young saplings and wild grasses scattered over warm earth.
+Upland wind slides across the rich earth as low plants bend beside the pathway
+with warm air moving among the low shrubs.~
+0 0 2 0 0 23
+D0
+North~
+~
+0 0 1020117 0
+D2
+South~
+~
+0 0 1020131 0
+S
+#1020125
+Ascadian isles region, wilderness~
+Soft fertile ground extends over gently rolling earth in the mild and open air
+beside fallen twigs, fern clusters and bare roots lying amid the sunlit grass.
+Thin haze drifts along the narrow trail as dry twigs scrape against the stones
+with mild wind sliding along the narrow trail.~
+0 0 4 0 0 24
+D0
+North~
+~
+0 0 1020118 0
+D1
+East~
+~
+0 0 1020126 0
+D2
+South~
+~
+0 0 1020132 0
+S
+#1020126
+Ascadian isles region, wilderness~
+Low rounded hills rise between scattered trees amid the smell of fertile earth
+past bare roots, wild grasses and low stones clustered beside shallow hollows.
+Upland wind passes across the rich earth as seed heads nod above the soft soil
+with thin haze hanging along the narrow trail.~
+0 0 4 0 0 25
+D1
+East~
+~
+0 0 1020127 0
+D2
+South~
+~
+0 0 1020133 0
+D3
+West~
+~
+0 0 1020125 0
+S
+#1020127
+Ascadian isles region, wilderness~
+A gently rolling path curves between scattered trees amid a warm steady breeze
+among low stones, fern clusters and fallen twigs resting beneath the pale sky.
+Warm air passes across the rich earth as clear light reaches the exposed roots
+as cloud shadows drift over the gentle hills.~
+0 0 2 0 0 26
+D0
+North~
+~
+0 0 1020120 0
+D2
+South~
+~
+0 0 1020134 0
+D3
+West~
+~
+0 0 1020126 0
+S
+#1020128
+Ascadian isles region, wilderness~
+A shallow grassy hollow opens between low stony ridges beneath a pale blue sky
+beside fern clusters, bare roots and low stones gathered beneath leafy growth.
+Upland wind moves across the rich earth and loose petals drift among the roots
+with soft light resting over the open grassland.~
+0 0 2 0 0 27
+D0
+North~
+~
+0 0 1020121 0
+D2
+South~
+~
+0 0 1020135 0
+S
+#1020129
+Ascadian isles region, wilderness~
+Low rounded hills rise between flowering shrubs under a broad ceiling of light
+past low stones, fallen twigs and wild grasses caught among the exposed roots.
+Thin haze settles across the rich earth as warm soil yields beneath every step
+with green foliage bending between the grassy slopes.~
+0 0 6 0 0 28
+D0
+North~
+~
+0 0 1020122 0
+D2
+South
+~
+~
+0 0 1020136 0
+D3
+Exit description
+~
+~
+0 0 1080135 0
+S
+#1020130
+Ascadian isles region, wilderness~
+A green upland trail winds across rich ocher soil beneath a veil of high cloud
+among fern clusters, bare roots and low stones crowding the edges of the path.
+Warm air drifts across the rich earth as small leaves tremble on thin branches
+with wild grass trembling inside shallow hollows.~
+0 0 4 0 0 29
+D0
+North~
+~
+0 0 1020123 0
+D1
+East~
+~
+0 0 1020131 0
+D2
+South~
+~
+0 0 1020137 0
+S
+#1020131
+Ascadian isles region, wilderness~
+Soft fertile ground slopes across a wide open meadow amid a warm steady breeze
+beside small boulders, fern clusters and wild grasses lining the narrow trail.
+Upland wind slides across the rich earth as thin haze blurs the farthest hills
+and pale blossoms bend among the low shrubs.~
+0 0 4 0 0 30
+D0
+North~
+~
+0 0 1020124 0
+D1
+East~
+~
+0 0 1020132 0
+D3
+West~
+~
+0 0 1020130 0
+S
+#1020132
+Ascadian isles region, wilderness~
+A flower-lined trail threads between flowering shrubs in the mild and open air
+past wild grasses, bare roots and low stones spread across the fertile ground.
+Thin haze settles across the rich earth as bright patches cross over the grass
+with cloud shadows passing under the leafy branches.~
+0 0 4 0 0 31
+D0
+North~
+~
+0 0 1020125 0
+D2
+South~
+~
+0 0 1020139 0
+D3
+West~
+~
+0 0 1020131 0
+S
+#1020133
+Ascadian isles region, wilderness~
+A shallow grassy hollow extends across rich ocher soil beneath a pale blue sky
+among fallen twigs, low stones and bare roots set within gentle folds of land.
+Warm air passes along the narrow trail and wild grasses ripple over the slopes
+with mild wind lingering above the fertile ground.~
+0 0 4 0 0 32
+D0
+North~
+~
+0 0 1020126 0
+D1
+East~
+~
+0 0 1020134 0
+S
+#1020134
+Ascadian isles region, wilderness~
+A green upland trail winds along a shallow hollow beneath warm afternoon light
+beside fern clusters, bare roots and dry seed heads rising from the rich soil.
+Warm air moves around the sunlit stones as small insects hover above the herbs
+and thin haze drifts through the mild undergrowth.~
+0 0 2 0 0 33
+D0
+North~
+~
+0 0 1020127 0
+D2
+South~
+~
+0 0 1020141 0
+D3
+West~
+~
+0 0 1020133 0
+S
+#1020135
+Ascadian isles region, wilderness~
+A broad grassy trail winds across rich ocher soil beneath a veil of high cloud
+past low stones, bare roots and fallen twigs clustered beside shallow hollows.
+Thin haze hangs along the narrow trail and pale blossoms turn toward the light
+as warm air passes around the sunlit stones.~
+0 0 2 0 0 34
+D0
+North~
+~
+0 0 1020128 0
+D2
+South~
+~
+0 0 1020142 0
+S
+#1020136
+Ascadian isles region, wilderness~
+Low rounded hills rise through tall green grass under slow-moving white clouds
+among young saplings, sunlit pebbles and bare roots scattered over warm earth.
+Upland wind slides across the rich earth as seed heads nod above the soft soil
+and cloud shadows gather beneath the pale sky.~
+0 0 4 0 0 35
+D0
+North~
+~
+0 0 1020129 0
+D1
+East~
+~
+0 0 1020137 0
+D2
+South~
+~
+0 0 1020143 0
+S
+#1020137
+Ascadian isles region, wilderness~
+A sunlit earthen track runs over gently rolling earth in the mild and open air
+beside wild grasses, low stones and fallen twigs resting beneath the pale sky.
+Thin haze hangs over the grassy ground and dry twigs scrape against the stones
+and soft light fades across the rich earth.~
+0 0 4 0 0 36
+D0
+North~
+~
+0 0 1020130 0
+D1
+East~
+~
+0 0 1020138 0
+D3
+West~
+~
+0 0 1020136 0
+S
+#1020138
+Ascadian isles region, wilderness~
+A gently rolling path runs across a wide open meadow amid a warm steady breeze
+past wind-bent weeds, low stones and wild grasses lying amid the sunlit grass.
+Upland wind passes across the rich earth as loose petals drift among the roots
+as green foliage stirs under the leafy branches.~
+0 0 4 0 0 37
+D1
+East~
+~
+0 0 1020139 0
+D3
+West~
+~
+0 0 1020137 0
+S
+#1020139
+Ascadian isles region, wilderness~
+Low rounded hills spread along a shallow hollow beneath slowly drifting clouds
+among wild grasses, bare roots and fallen twigs gathered beneath leafy growth.
+Warm air drifts across the rich earth as clear light reaches the exposed roots
+as thin haze hangs around the sunlit stones.~
+0 0 2 0 0 38
+D0
+North
+~
+~
+0 0 1020132 0
+D1
+East
+~
+~
+0 0 1020140 0
+D2
+South
+~
+~
+0 0 1020146 0
+D3
+West
+~
+~
+0 0 1020138 0
+S
+#1020140
+Ascadian isles region, wilderness~
+A shallow grassy hollow opens along a low rounded rise beneath a pale blue sky
+beside low stones, fallen twigs and bare roots crowding the edges of the path.
+Upland wind moves across the rich earth and low plants bend beside the pathway
+and wild grass bends over the open grassland.~
+0 0 2 0 0 39
+D1
+East~
+~
+0 0 1020141 0
+D2
+South~
+~
+0 0 1020147 0
+D3
+West~
+~
+0 0 1020139 0
+S
+#1020141
+Ascadian isles region, wilderness~
+A green upland trail winds across rich ocher soil beneath warm afternoon light
+past fern clusters, low stones and bare roots set within gentle folds of land.
+Warm air moves across the rich earth and small leaves tremble on thin branches
+with pale blossoms swaying between the grassy slopes.~
+0 0 2 0 0 40
+D0
+North~
+~
+0 0 1020134 0
+D1
+East~
+~
+0 0 1020142 0
+D2
+South~
+~
+0 0 1020148 0
+D3
+West~
+~
+0 0 1020140 0
+S
+#1020142
+Ascadian isles region, wilderness~
+Soft fertile ground stretches between scattered trees in the mild and open air
+among wild grasses, dry seed heads and small boulders lining the narrow trail.
+Thin haze spreads across the rich earth as warm soil yields beneath every step
+and green foliage trembles over the gentle hills.~
+0 0 2 0 0 41
+D0
+North~
+~
+0 0 1020135 0
+D3
+West~
+~
+0 0 1020141 0
+S
+#1020143
+Ascadian isles region, wilderness~
+A flower-lined trail curves between flowering shrubs amid a warm steady breeze
+beside young saplings, fern clusters and low stones rising from the rich soil.
+Upland wind drifts across the rich earth as thin haze blurs the farthest hills
+as wild grass rustles inside shallow hollows.~
+0 0 4 0 0 42
+D0
+North~
+~
+0 0 1020136 0
+D1
+East~
+~
+0 0 1020144 0
+D2
+South~
+~
+0 0 1020150 0
+S
+#1020144
+Ascadian isles region, wilderness~
+Low rounded hills run through tall green grass amid the smell of fertile earth
+past fallen twigs, bare roots and low stones clustered beside shallow hollows.
+Thin haze spreads across the rich earth as warm light glances from the pebbles
+as mild wind lingers along the narrow trail.~
+0 0 4 0 0 43
+D2
+South~
+~
+0 0 1020151 0
+D3
+West~
+~
+0 0 1020143 0
+S
+#1020145
+Ascadian isles region, wilderness~
+A sunlit earthen track threads between scattered trees beneath a pale blue sky
+among bare roots, dry seed heads and small boulders scattered over warm earth.
+Warm air slides over the grassy ground and bright patches cross over the grass
+as soft light settles among the low shrubs.~
+0 0 4 0 0 44
+D1
+East~
+~
+0 0 1020146 0
+D2
+South~
+~
+0 0 1020152 0
+S
+#1020146
+Ascadian isles region, wilderness~
+A gently rolling path curves between flowering shrubs in the mild and open air
+beside low stones, fern clusters and wild grasses lying amid the sunlit grass.
+Thin haze hangs over the grassy ground and small insects hover above the herbs
+as pale blossoms tremble across the rich earth.~
+0 0 2 0 0 45
+D0
+North~
+~
+0 0 1020139 0
+D1
+East~
+~
+0 0 1020147 0
+D3
+West~
+~
+0 0 1020145 0
+S
+#1020147
+Ascadian isles region, wilderness~
+Low rounded hills extend along a shallow hollow in air scented with wild herbs
+past fallen twigs, low stones and bare roots spread across the fertile ground.
+Warm air slides along the narrow trail and pale blossoms turn toward the light
+and mild wind moves beneath the pale sky.~
+0 0 2 0 0 46
+D0
+North~
+~
+0 0 1020140 0
+D2
+South~
+~
+0 0 1020154 0
+D3
+West~
+~
+0 0 1020146 0
+S
+#1020148
+Ascadian isles region, wilderness~
+A broad grassy trail threads between scattered trees amid a warm steady breeze
+among bare roots, wild grasses and fern clusters resting beneath the pale sky.
+Upland wind passes across the rich earth as low plants bend beside the pathway
+and warm air slides above the fertile ground.~
+0 0 2 0 0 47
+D0
+North~
+~
+0 0 1020141 0
+D1
+East~
+~
+0 0 1020149 0
+D2
+South~
+~
+0 0 1020155 0
+S
+#1020149
+Ascadian isles region, wilderness~
+Low rounded hills run across a wide open meadow under a broad ceiling of light
+beside bare roots, fern clusters and low stones gathered beneath leafy growth.
+Warm air drifts along the narrow trail and wild grasses ripple over the slopes
+with warm air moving through the mild undergrowth.~
+0 0 2 0 0 48
+D3
+West~
+~
+0 0 1020148 0
+S
+#1020150
+Ascadian isles region, wilderness~
+A sunlit earthen track runs through beds of soft grass beneath a pale blue sky
+past low stones, bare roots and gentle hollows crowding the edges of the path.
+Thin haze drifts over the grassy ground as dry twigs scrape against the stones
+with cloud shadows gathering across the rich earth.~
+0 0 4 0 0 49
+D0
+North~
+~
+0 0 1020143 0
+D1
+East~
+~
+0 0 1020151 0
+D3
+Exit description
+~
+~
+0 0 1080156 0
+S
+#1020151
+Ascadian isles region, wilderness~
+Soft fertile ground spreads through tall green grass amid a warm steady breeze
+among fallen twigs, bare roots and low stones set within gentle folds of land.
+Upland wind moves across the rich earth and seed heads nod above the soft soil
+with thin haze hanging inside shallow hollows.~
+0 0 4 0 0 50
+D0
+North~
+~
+0 0 1020144 0
+D1
+East~
+~
+0 0 1020152 0
+D2
+South~
+~
+0 0 1020158 0
+D3
+West~
+~
+0 0 1020150 0
+S
+#1020152
+Ascadian isles region, wilderness~
+A gently rolling path threads between scattered trees in the mild and open air
+beside fern clusters, sunlit pebbles and wild grasses lining the narrow trail.
+Warm air moves across the rich earth and clear light reaches the exposed roots
+with green foliage stirring over the gentle hills.~
+0 0 2 0 0 51
+D0
+North~
+~
+0 0 1020145 0
+D1
+East~
+~
+0 0 1020153 0
+D3
+West~
+~
+0 0 1020151 0
+S
+#1020153
+Ascadian isles region, wilderness~
+A flower-lined trail curves through beds of soft grass beneath a pale blue sky
+past wild grasses, low stones and bare roots spread across the fertile ground.
+Thin haze drifts across the rich earth and warm light glances from the pebbles
+as cloud shadows move between the grassy slopes.~
+0 0 2 0 0 52
+D2
+South~
+~
+0 0 1020160 0
+D3
+West~
+~
+0 0 1020152 0
+S
+#1020154
+Ascadian isles region, wilderness~
+Low rounded hills spread along a shallow hollow under slow-moving white clouds
+among fallen twigs, small boulders and wild grasses rising from the rich soil.
+Thin haze drifts across the rich earth and warm soil yields beneath every step
+with soft light fading around the sunlit stones.~
+0 0 2 0 0 53
+D0
+North~
+~
+0 0 1020147 0
+D2
+South~
+~
+0 0 1020161 0
+S
+#1020155
+Ascadian isles region, wilderness~
+A broad grassy trail curves between flowering shrubs amid a warm steady breeze
+beside wind-bent weeds, fallen twigs and low stones scattered over warm earth.
+Warm air moves above the shallow hollows as loose petals drift among the roots
+with wild grass rustling over the open grassland.~
+0 0 2 0 0 54
+D0
+North~
+~
+0 0 1020148 0
+D1
+East~
+~
+0 0 1020156 0
+S
+#1020156
+Ascadian isles region, wilderness~
+Low rounded hills extend along a shallow hollow beneath slowly drifting clouds
+past bare roots, low stones and fallen twigs clustered beside shallow hollows.
+Warm air slides along the narrow trail and bright patches cross over the grass
+as thin haze spreads under the leafy branches.~
+0 0 2 0 0 55
+D2
+South~
+~
+0 0 1020163 0
+D3
+West~
+~
+0 0 1020155 0
+S
+#1020157
+Ascadian isles region, wilderness~
+Soft fertile ground spreads over gently rolling earth in the mild and open air
+among bare roots, wild grasses and young saplings lying amid the sunlit grass.
+Thin haze hangs along the narrow trail and wild grasses ripple over the slopes
+as green foliage trembles among the low shrubs.~
+0 0 4 0 0 56
+D1
+East~
+~
+0 0 1020158 0
+D2
+South~
+~
+0 0 1020164 0
+S
+#1020158
+Ascadian isles region, wilderness~
+A sunlit earthen track curves between flowering shrubs beneath a pale blue sky
+beside fern clusters, low stones and bare roots gathered beneath leafy growth.
+Warm air passes along the narrow trail and small insects hover above the herbs
+and soft light rests through the mild undergrowth.~
+0 0 4 0 0 57
+D0
+North~
+~
+0 0 1020151 0
+D3
+West~
+~
+0 0 1020157 0
+S
+#1020160
+Ascadian isles region, wilderness~
+A flower-lined trail threads between scattered trees amid a warm steady breeze
+past fallen twigs, low stones and sunlit pebbles resting beneath the pale sky.
+Thin haze settles across the rich earth as pale blossoms turn toward the light
+and wild grass rustles above the fertile ground.~
+0 0 2 0 0 59
+D0
+North~
+~
+0 0 1020153 0
+D2
+South~
+~
+0 0 1020167 0
+S
+#1020161
+Ascadian isles region, wilderness~
+A gently rolling path runs through beds of soft grass in the mild and open air
+among low stones, fern clusters and bare roots crowding the edges of the path.
+Warm air drifts over the grassy ground and dry twigs scrape against the stones
+with pale blossoms swaying along the narrow trail.~
+0 0 2 0 0 60
+D0
+North~
+~
+0 0 1020154 0
+D1
+East~
+~
+0 0 1020162 0
+D2
+South~
+~
+0 0 1020168 0
+S
+#1020162
+Ascadian isles region, wilderness~
+Low rounded hills spread along a shallow hollow under a broad ceiling of light
+beside young saplings, bare roots and wind-bent weeds lining the narrow trail.
+Thin haze hangs around the sunlit stones as low plants bend beside the pathway
+with warm air sliding beneath the pale sky.~
+0 0 2 0 0 61
+D2
+South~
+~
+0 0 1020169 0
+D3
+West~
+~
+0 0 1020161 0
+S
+#1020163
+Ascadian isles region, wilderness~
+Low rounded hills extend across rich ocher soil in air scented with wild herbs
+past bare roots, fern clusters and low stones set within gentle folds of land.
+Warm air moves across the open grassland as thin haze blurs the farthest hills
+and cloud shadows pass inside shallow hollows.~
+0 0 2 0 0 62
+D0
+North~
+~
+0 0 1020156 0
+D2
+South~
+~
+0 0 1020170 0
+S
+#1020164
+Ascadian isles region, wilderness~
+A green upland trail threads across a wide open meadow beneath a pale blue sky
+among small boulders, wild grasses and fallen twigs rising from the rich soil.
+Thin haze hangs around the sunlit stones as loose petals drift among the roots
+and warm air passes among the low shrubs.~
+0 0 4 0 0 63
+D0
+North~
+~
+0 0 1020157 0
+D1
+East~
+~
+0 0 1020165 0
+D3
+Exit description
+~
+~
+0 0 1080170 0
+S
+#1020165
+Ascadian isles region, wilderness~
+A broad grassy trail threads between flowering shrubs in the mild and open air
+beside fern clusters, low stones and dry seed heads scattered over warm earth.
+Thin haze hangs over the grassy ground and wild grasses ripple over the slopes
+as soft light fades over the gentle hills.~
+0 0 4 0 0 64
+D1
+East~
+~
+0 0 1020166 0
+D2
+South~
+~
+0 0 1020172 0
+D3
+West~
+~
+0 0 1020164 0
+S
+#1020166
+Ascadian isles region, wilderness~
+A sunlit earthen track runs between low stony ridges amid a warm steady breeze
+past low stones, bare roots and wild grasses spread across the fertile ground.
+Warm air moves across the open grassland as seed heads nod above the soft soil
+and thin haze drifts along the narrow trail.~
+0 0 2 0 0 65
+D1
+East~
+~
+0 0 1020167 0
+D2
+South~
+~
+0 0 1020173 0
+D3
+West~
+~
+0 0 1020165 0
+S
+#1020167
+Ascadian isles region, wilderness~
+Low rounded hills run over broad grassy slopes amid the smell of fertile earth
+among wild grasses, small boulders and bare roots lying amid the sunlit grass.
+Warm air passes along the narrow trail and dry twigs scrape against the stones
+with mild wind passing under the leafy branches.~
+0 0 2 0 0 66
+D0
+North~
+~
+0 0 1020160 0
+D1
+East~
+~
+0 0 1020168 0
+D2
+South~
+~
+0 0 1020174 0
+D3
+West~
+~
+0 0 1020166 0
+S
+#1020168
+Ascadian isles region, wilderness~
+Soft fertile ground stretches through tall green grass beneath a pale blue sky
+beside young saplings, low stones and bare roots resting beneath the pale sky.
+Thin haze drifts over the grassy ground as small insects hover above the herbs
+as warm air slides across the rich earth.~
+0 0 2 0 0 67
+D0
+North~
+~
+0 0 1020161 0
+D2
+South~
+~
+0 0 1020175 0
+D3
+West~
+~
+0 0 1020167 0
+S
+#1020169
+Ascadian isles region, wilderness~
+A gently rolling path winds between flowering shrubs amid a warm steady breeze
+past wild grasses, bare roots and low stones clustered beside shallow hollows.
+Warm air passes over the grassy ground and bright patches cross over the grass
+and green foliage stirs over the open grassland.~
+0 0 2 0 0 68
+D0
+North~
+~
+0 0 1020162 0
+D2
+South~
+~
+0 0 1020176 0
+S
+#1020170
+Ascadian isles region, wilderness~
+A flower-lined trail threads between low stony ridges in the mild and open air
+among fallen twigs, wild grasses and bare roots gathered beneath leafy growth.
+Thin haze drifts across the rich earth and pale blossoms turn toward the light
+as wild grass bends around the sunlit stones.~
+0 0 2 0 0 69
+D0
+North~
+~
+0 0 1020163 0
+D2
+South~
+~
+0 0 1020177 0
+S
+#1020171
+Ascadian isles region, wilderness~
+Low rounded hills extend between flowering shrubs under soft filtered sunlight
+beside bare roots, low stones and fallen twigs crowding the edges of the path.
+Warm air moves above the shallow hollows as thin haze blurs the farthest hills
+as pale blossoms stir between the grassy slopes.~
+0 0 4 0 0 70
+D1
+East~
+~
+0 0 1020172 0
+D2
+South~
+~
+0 0 1020178 0
+S
+#1020172
+Ascadian isles region, wilderness~
+A green upland trail threads between scattered trees amid a warm steady breeze
+past low stones, bare roots and fern clusters set within gentle folds of land.
+Thin haze spreads over the grassy ground as low plants bend beside the pathway
+and mild wind lingers beneath the pale sky.~
+0 0 2 0 0 71
+D0
+North~
+~
+0 0 1020165 0
+D2
+South~
+~
+0 0 1020179 0
+D3
+West~
+~
+0 0 1020171 0
+S
+#1020173
+Ascadian isles region, wilderness~
+A broad grassy trail curves through beds of soft grass beneath a pale blue sky
+among dry seed heads, fallen twigs and sunlit pebbles lining the narrow trail.
+Warm air slides around the sunlit stones as loose petals drift among the roots
+as mild wind moves above the fertile ground.~
+0 0 2 0 0 72
+D0
+North~
+~
+0 0 1020166 0
+S
+#1020174
+Ascadian isles region, wilderness~
+Low rounded hills spread across rich ocher soil beneath slowly drifting clouds
+beside fern clusters, wild grasses and fallen twigs scattered over warm earth.
+Thin haze hangs around the sunlit stones as seed heads nod above the soft soil
+and pale blossoms tremble through the mild undergrowth.~
+0 0 2 0 0 73
+D0
+North~
+~
+0 0 1020167 0
+D1
+East~
+~
+0 0 1020175 0
+D2
+South~
+~
+0 0 1020181 0
+S
+#1020175
+Ascadian isles region, wilderness~
+A sunlit earthen track winds through tall green grass in the mild and open air
+past low stones, bare roots and fallen twigs spread across the fertile ground.
+Warm air drifts along the narrow trail and bright patches cross over the grass
+with soft light fading across the rich earth.~
+0 0 2 0 0 74
+D0
+North~
+~
+0 0 1020168 0
+D3
+West~
+~
+0 0 1020174 0
+S
+#1020176
+Ascadian isles region, wilderness~
+A gently rolling path threads between flowering shrubs beneath a pale blue sky
+among small boulders, low stones and young saplings rising from the rich soil.
+Thin haze settles across the rich earth as wild grasses ripple over the slopes
+and cloud shadows drift over the open grassland.~
+0 0 2 0 0 75
+D0
+North~
+~
+0 0 1020169 0
+D1
+East~
+~
+0 0 1020177 0
+D2
+South~
+~
+0 0 1020183 0
+S
+#1020177
+Ascadian isles region, wilderness~
+Low rounded hills extend across rich ocher soil under slow-moving white clouds
+beside bare roots, wild grasses and fern clusters lying amid the sunlit grass.
+Warm air slides along the narrow trail and dry twigs scrape against the stones
+as thin haze hangs inside shallow hollows.~
+0 0 2 0 0 76
+D0
+North~
+~
+0 0 1020170 0
+D3
+West~
+~
+0 0 1020176 0
+S
+#1020178
+Ascadian isles region, wilderness~
+Soft fertile ground stretches along a shallow hollow amid a warm steady breeze
+past low stones, wild grasses and bare roots clustered beside shallow hollows.
+Thin haze spreads across the rich earth as small insects hover above the herbs
+with green foliage bending along the narrow trail.~
+0 0 4 0 0 77
+D0
+North~
+~
+0 0 1020171 0
+D2
+South~
+~
+0 0 1020185 0
+S
+#1020179
+Ascadian isles region, wilderness~
+A flower-lined trail curves over gently rolling earth in the mild and open air
+among low stones, fallen twigs and fern clusters resting beneath the pale sky.
+Warm air slides over the grassy ground and pale blossoms turn toward the light
+with wild grass rustling over the gentle hills.~
+0 0 2 0 0 78
+D0
+North~
+~
+0 0 1020172 0
+D1
+East~
+~
+0 0 1020180 0
+D2
+South~
+~
+0 0 1020186 0
+S
+#1020180
+Ascadian isles region, wilderness~
+Low rounded hills extend along a shallow hollow under a broad ceiling of light
+beside bare roots, low stones and fern clusters gathered beneath leafy growth.
+Thin haze settles along the narrow trail as low plants bend beside the pathway
+with warm air lingering between the grassy slopes.~
+0 0 2 0 0 79
+D1
+East~
+~
+0 0 1020181 0
+D2
+South~
+~
+0 0 1020187 0
+D3
+West~
+~
+0 0 1020179 0
+S
+#1020181
+Ascadian isles region, wilderness~
+A green upland trail curves through beds of soft grass beneath a pale blue sky
+past bare roots, low stones and small boulders crowding the edges of the path.
+Warm air passes around the sunlit stones as thin haze blurs the farthest hills
+as cloud shadows gather under the leafy branches.~
+0 0 2 0 0 80
+D0
+North~
+~
+0 0 1020174 0
+D1
+East~
+~
+0 0 1020182 0
+D2
+South~
+~
+0 0 1020188 0
+D3
+West~
+~
+0 0 1020180 0
+S
+#1020182
+Ascadian isles region, wilderness~
+A broad grassy trail winds across a wide open meadow amid a warm steady breeze
+among wild grasses, low stones and bare roots set within gentle folds of land.
+Thin haze settles over the grassy ground as loose petals drift among the roots
+as soft light rests beneath the pale sky.~
+0 0 2 0 0 81
+D2
+South~
+~
+0 0 1020189 0
+D3
+West~
+~
+0 0 1020181 0
+S
+#1020183
+Ascadian isles region, wilderness~
+A sunlit earthen track winds over broad grassy slopes in the mild and open air
+beside fallen twigs, fern clusters and young saplings lining the narrow trail.
+Warm air moves around the sunlit stones as wild grasses ripple over the slopes
+with thin haze drifting among the low shrubs.~
+0 0 2 0 0 82
+D0
+North~
+~
+0 0 1020176 0
+D1
+East~
+~
+0 0 1020184 0
+S
+#1020184
+Ascadian isles region, wilderness~
+Low rounded hills spread along a shallow hollow in air scented with wild herbs
+past bare roots, wind-bent weeds and sunlit pebbles rising from the rich soil.
+Thin haze settles along the narrow trail as seed heads nod above the soft soil
+and green foliage rustles through the mild undergrowth.~
+0 0 2 0 0 83
+D2
+South~
+~
+0 0 1020191 0
+D3
+West~
+~
+0 0 1020183 0
+S
+#1020185
+Ascadian isles region, wilderness~
+Soft fertile ground stretches between low stony ridges beneath a pale blue sky
+among gentle hollows, wild grasses and fallen twigs scattered over warm earth.
+Warm air drifts over the grassy ground and bright patches cross over the grass
+with cloud shadows gathering around the sunlit stones.~
+0 0 2 0 0 84
+D0
+North~
+~
+0 0 1020178 0
+D2
+South~
+~
+0 0 1020192 0
+S
+#1020186
+Ascadian isles region, wilderness~
+A flower-lined trail runs through beds of soft grass amid a warm steady breeze
+beside low stones, dry seed heads and bare roots resting beneath the pale sky.
+Thin haze settles across the rich earth as small insects hover above the herbs
+as green foliage stirs above the fertile ground.~
+0 0 2 0 0 85
+D0
+North~
+~
+0 0 1020179 0
+S
+#1020187
+Ascadian isles region, wilderness~
+A gently rolling path curves through tall green grass in the mild and open air
+past low stones, young saplings and fern clusters lying amid the sunlit grass.
+Warm air passes over the grassy ground and pale blossoms turn toward the light
+and thin haze settles along the narrow trail.~
+0 0 2 0 0 86
+D0
+North~
+~
+0 0 1020180 0
+D2
+South~
+~
+0 0 1020194 0
+S
+#1020188
+Ascadian isles region, wilderness~
+Low rounded hills spread across rich ocher soil under slow-moving white clouds
+among bare roots, wild grasses and fallen twigs gathered beneath leafy growth.
+Thin haze spreads across the rich earth as dry twigs scrape against the stones
+and warm air moves over the open grassland.~
+0 0 2 0 0 87
+D0
+North~
+~
+0 0 1020181 0
+S
+#1020189
+Ascadian isles region, wilderness~
+A green upland trail threads over gently rolling earth beneath a pale blue sky
+beside fallen twigs, bare roots and low stones crowding the edges of the path.
+Warm air slides around the sunlit stones as thin haze blurs the farthest hills
+and wild grass bends inside shallow hollows.~
+0 0 2 0 0 88
+D0
+North~
+~
+0 0 1020182 0
+D1
+East~
+~
+0 0 1020190 0
+D2
+South~
+~
+0 0 1020196 0
+S
+#1020190
+Ascadian isles region, wilderness~
+A broad grassy trail runs through beds of soft grass amid a warm steady breeze
+among wild grasses, bare roots and low stones set within gentle folds of land.
+Thin haze spreads along the narrow trail as low plants bend beside the pathway
+as pale blossoms sway across the rich earth.~
+0 0 2 0 0 89
+D1
+East~
+~
+0 0 1020191 0
+D2
+South~
+~
+0 0 1020197 0
+D3
+West~
+~
+0 0 1020189 0
+S
+#1020191
+Ascadian isles region, wilderness~
+Low rounded hills spread between flowering shrubs under soft filtered sunlight
+past small boulders, fern clusters and sunlit pebbles lining the narrow trail.
+Warm air passes around the sunlit stones as loose petals drift among the roots
+as wild grass trembles between the grassy slopes.~
+0 0 2 0 0 90
+D0
+North~
+~
+0 0 1020184 0
+D2
+South~
+~
+0 0 1020198 0
+D3
+West~
+~
+0 0 1020190 0
+S
+#1020192
+Ascadian isles region, wilderness~
+A flower-lined trail threads over broad grassy slopes in the mild and open air
+beside low stones, fallen twigs and wind-bent weeds rising from the rich soil.
+Thin haze spreads across the rich earth as bright patches cross over the grass
+and soft light rests under the leafy branches.~
+0 0 2 0 0 91
+D0
+North~
+~
+0 0 1020185 0
+S
+#1020193
+Ascadian isles region, wilderness~
+A sunlit earthen track winds between scattered trees amid a warm steady breeze
+past smooth stones, young saplings and wild grasses scattered over warm earth.
+Warm air drifts along the narrow trail and pale blossoms turn toward the light
+with mild wind passing among the low shrubs.~
+0 0 2 0 0 92
+D1
+East~
+~
+0 0 1020194 0
+S
+#1020194
+Ascadian isles region, wilderness~
+Low rounded hills extend across rich ocher soil beneath slowly drifting clouds
+among wild grasses, bare roots and gentle hollows lying amid the sunlit grass.
+Thin haze settles over the grassy ground as seed heads nod above the soft soil
+as warm air slides through the mild undergrowth.~
+0 0 2 0 0 93
+D0
+North~
+~
+0 0 1020187 0
+D1
+East~
+~
+0 0 1020195 0
+D3
+West~
+~
+0 0 1020193 0
+S
+#1020195
+Ascadian isles region, wilderness~
+A gently rolling path curves across a wide open meadow beneath a pale blue sky
+beside low stones, small boulders and bare roots resting beneath the pale sky.
+Warm air slides along the narrow trail and small insects hover above the herbs
+as mild wind lingers over the gentle hills.~
+0 0 2 0 0 94
+D3
+West~
+~
+0 0 1020194 0
+S
+#1020196
+Ascadian isles region, wilderness~
+A green upland trail threads between low stony ridges in the mild and open air
+past fern clusters, fallen twigs and bare roots gathered beneath leafy growth.
+Thin haze spreads across the rich earth as wild grasses ripple over the slopes
+and pale blossoms bend around the sunlit stones.~
+0 0 2 0 0 95
+D0
+North~
+~
+0 0 1020189 0
+S
+#1020197
+Ascadian isles region, wilderness~
+Soft fertile ground extends through tall green grass amid a warm steady breeze
+among fern clusters, low stones and bare roots crowding the edges of the path.
+Warm air drifts along the narrow trail and dry twigs scrape against the stones
+and mild wind passes beneath the pale sky.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1020190 0
+S
+#1020198
+Ascadian isles region, wilderness~
+Low rounded hills spread across rich ocher soil under a broad ceiling of light
+beside fallen twigs, fern clusters and dry seed heads lining the narrow trail.
+Thin haze spreads over the grassy ground as loose petals drift among the roots
+with pale blossoms swaying above the fertile ground.~
+0 0 2 0 0 97
+D0
+North~
+~
+0 0 1020191 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

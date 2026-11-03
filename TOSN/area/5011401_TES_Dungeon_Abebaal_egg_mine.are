@@ -1,0 +1,335 @@
+#AREA Abebaal egg mine~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011401
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011401
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011401
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011402 0
+S
+#5011402
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011403 0
+D2
+South~
+~
+0 0 5011401 0
+S
+#5011403
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011404 0
+D3
+West~
+~
+0 0 5011402 0
+S
+#5011404
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011405 0
+D2
+South~
+~
+0 0 5011403 0
+S
+#5011405
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 5011404 0
+S
+#5011406
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011407 0
+S
+#5011407
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011408 0
+D3
+West~
+~
+0 0 5011406 0
+S
+#5011408
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011409 0
+D2
+South~
+~
+0 0 5011407 0
+S
+#5011409
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011410 0
+D2
+South~
+~
+0 0 5011408 0
+S
+#5011410
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011411 0
+D2
+South~
+~
+0 0 5011409 0
+S
+#5011411
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011412 0
+D2
+South~
+~
+0 0 5011410 0
+S
+#5011412
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011411 0
+D3
+West~
+~
+0 0 5011413 0
+S
+#5011413
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011412 0
+D2
+South~
+~
+0 0 5011414 0
+S
+#5011414
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011413 0
+D2
+South~
+~
+0 0 5011415 0
+S
+#5011415
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011414 0
+D2
+South~
+~
+0 0 5011416 0
+S
+#5011416
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011415 0
+D3
+West~
+~
+0 0 5011417 0
+S
+#5011417
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011419 0
+D1
+East~
+~
+0 0 5011416 0
+D2
+South~
+~
+0 0 5011420 0
+D3
+West~
+~
+0 0 5011418 0
+S
+#5011418
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011417 0
+S
+#5011419
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011417 0
+S
+#5011420
+Azura's coast, Abebaal, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011417 0
+S
+#0
+
+#RESETS
+M 0 2300053 1 5011407  ;  Mob: Ahnarra [Npcs] => #5011407 [] Azura's coast, Abebaal, egg mine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3237027 1 16  ; -- Equip: Wooden club [Items] (wield)
+M 0 2300520 1 5011413  ;  Mob: Dan-Ru [Npcs] => #5011413 [] Azura's coast, Abebaal, egg mine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3237027 1 16  ; -- Equip: Wooden club [Items] (wield)
+M 0 2300693 1 5011410  ;  Mob: Dro'Zah [Npcs] => #5011410 [] Azura's coast, Abebaal, egg mine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3237027 1 16  ; -- Equip: Wooden club [Items] (wield)
+M 0 2300761 1 5011415  ;  Mob: Eleedal-Lei [Npcs] => #5011415 [] Azura's coast, Abebaal, egg mine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3237027 1 16  ; -- Equip: Wooden club [Items] (wield)
+M 0 2301352 1 5011416  ;  Mob: J'Dato [Npcs] => #5011416 [] Azura's coast, Abebaal, egg mine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3237027 1 16  ; -- Equip: Wooden club [Items] (wield)
+M 0 2302185 1 5011419  ;  Mob: Seen-Rei [Npcs] => #5011419 [] Azura's coast, Abebaal, egg mine
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3237027 1 16  ; -- Equip: Wooden club [Items] (wield)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ABEBAAL EGG MINE~
+Abebaal Egg Mine is a Telvanni holding carved under the isle off Azura's Coast
+where enslaved workers harvest kwama eggs throughout damp and winding tunnels.
+The mine yields many eggs but offers little wealth beyond its guarded entrance
+as harsh demands have driven exhausted workers into revolt.~
+0 $~
+
+#$

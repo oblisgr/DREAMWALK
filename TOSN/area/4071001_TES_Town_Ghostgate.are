@@ -1,0 +1,914 @@
+#AREA Ghostgate~
+
+#VERSION 1
+
+#CLIMATE 4 1 4
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4071001
+RESERVED~
+RESERVED~
+RESERVED
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4071001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4071001
+Red mountain, Ghostgate, fortress, outside~
+Open stone yards thread over dark volcanic ground under constant volcanic wind
+past low defensive walls and empty weapon stands placed clear of passing feet.
+Red light falls over the paving as cloth banners pull against their fastenings
+before another ash cloud passes overhead.~
+0 0 2 0 0 0
+D3
+West~
+~
+0 0 4071002 0
+D0
+Exit description~
+~
+0 0 1070993 0
+S
+#4071002
+Red mountain, Ghostgate, fortress, outside~
+Hard-packed roads curve beneath severe battlements through bitter mountain air
+past weathered guard posts and iron railings lined along the broad approaches.
+Cold braziers stand beside the paths whenever ash gathers around the low walls
+beneath the restless glow of distant magic.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 4071001 0
+D3
+West~
+~
+0 0 4071003 0
+D0
+Exit description~
+~
+0 0 1070992 0
+S
+#4071003
+Red mountain, Ghostgate, fortress, outside~
+Ash-covered approaches run past heavy walls and towers beneath a turbulent sky
+among tall signal poles and blackened fire bowls set beside the open walkways.
+A harsh wind crosses the stone enclosure as loose chains tap against the gates
+with ash settling along the fortified ground.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4071004 0
+D1
+East~
+~
+0 0 4071002 0
+D2
+South~
+~
+0 0 4071005 0
+D3
+West~
+~
+0 0 4071006 0
+S
+#4071004
+Red mountain, Ghostgate, fortress, outside~
+Broad paved ways pass across the guarded enclosure amid drifting sheets of ash
+among heavy gate fittings and coiled chains resting beneath projecting ledges.
+Hot ash turns across the open ground and the dark masonry retains faint warmth
+with the high walls enduring the bitter wind.~
+0 0 2 0 0 0
+D2
+South~
+~
+0 0 4071003 0
+S
+#4071005
+Red mountain, Ghostgate, fortress, outside~
+Fortified grounds extend between ash-stained buildings beneath a turbulent sky
+beside iron braziers and covered supply crates kept beside sheltered recesses.
+Iron fittings tremble in the wind whenever distant magic gives off a faint hum
+and the dark stone retains a trace of warmth.~
+0 0 2 0 0 0
+D0
+North
+~
+~
+0 0 4071003 0
+S
+#4071006
+Red mountain, Ghostgate, fortress, corridor~
+Heavy fortress walls enclose a broad stone passage lit by a faint magical glow
+with iron-banded doors and empty armor stands kept beneath the shallow arches.
+Muted red light moves across the worn floor and the enclosed air remains still
+as faint vibrations pass through the stone.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4071003 0
+D3
+West~
+~
+0 0 4071007 0
+S
+#4071007
+Red mountain, Ghostgate, fortress, corridor~
+A narrow corridor opens inside weathered masonry walls under dim wall lanterns
+beside reinforced doorframes and plain stone benches placed within easy reach.
+Lantern glow spreads between the sealed doorways as iron fittings creak softly
+and the fortified hall feels cold and austere.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071009 0
+D1
+East~
+~
+0 0 4071006 0
+D2
+South~
+~
+0 0 4071010 0
+D3
+West~
+~
+0 0 4071008 0
+S
+#4071008
+Red mountain, Ghostgate, fortress, corridor~
+Solid mortared walls frame this echoing corridor beneath a soot-darkened vault
+beside deep wall alcoves and heavy iron railings resting in shadowed recesses.
+Loose ash drifts through the empty passage as distant echoes fade into silence
+beneath the dull glow of shielded lamps.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4071007 0
+D3
+West~
+~
+0 0 4071017 0
+S
+#4071009
+Red mountain, Ghostgate, fortress, corridor~
+A silent corridor extends between black volcanic walls and carved ceiling ribs
+past narrow stairways and covered supply boxes arranged for regular daily use.
+A dry draft passes around the dark recesses and small lamps release thin smoke
+as dust settles across the worn floor.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071007 0
+D4
+Up~
+~
+0 0 4071019 0
+S
+#4071010
+Red mountain, Ghostgate, fortress, corridor~
+This broad corridor lies behind thick defensive walls under steady red candles
+beside narrow stairways and shielded wall lamps set between the narrow aisles.
+Faint firelight falls beneath the heavy arches as dust shifts across the floor
+and the passage remains quiet beneath the vault.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071007 0
+D5
+Down~
+~
+0 0 4071023 0
+S
+#4071011
+Red mountain, Ghostgate, fortress, corridor~
+Tall ash-stained walls enclose a broad fortress hall lit by shielded oil lamps
+past iron-banded doors and covered supply boxes ordered across the hard floor.
+A deep shadow gathers around the dark recesses as the heavy masonry stays cold
+until another draft stirs the hanging chains.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4071017 0
+D3
+West~
+~
+0 0 4071012 0
+S
+#4071012
+Red mountain, Ghostgate, fortress, corridor~
+Thick defensive walls surround a narrow corridor beneath heavy arched ceilings
+with broad stone arches and plain stone benches stored beneath sturdy shelves.
+Lamp smoke settles across the worn floor as faint heat rises from the braziers
+and the heavy masonry keeps out the ash.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071014 0
+D1
+East~
+~
+0 0 4071011 0
+D2
+South~
+~
+0 0 4071015 0
+D3
+West~
+~
+0 0 4071013 0
+S
+#4071013
+Red mountain, Ghostgate, fortress, corridor~
+Black volcanic walls enclose a silent vaulted hallway lit by dim wall lanterns
+with shallow side recesses and empty armor stands arranged in practical order.
+Loose ash settles beneath the heavy arches as shadows gather beneath each arch
+with distant echoes fading into the stonework.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4071012 0
+S
+#4071014
+Red mountain, Ghostgate, fortress, corridor~
+Dark fitted stone walls frame this austere corridor beneath broad stone arches
+with narrow stairways and carved directional markers placed within easy reach.
+A low vibration passes through the empty passage as iron fittings creak softly
+with deep shadows filling every recess.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071012 0
+D4
+Up~
+~
+0 0 4071026 0
+S
+#4071015
+Red mountain, Ghostgate, fortress, corridor~
+A shadowed corridor opens inside solid mortared walls under shielded oil lamps
+past deep wall alcoves and heavy iron railings resting along the fitted stone.
+Lantern glow moves through the empty passage as the enclosed air remains still
+before the corridor returns to silence.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071012 0
+D5
+Down~
+~
+0 0 4071031 0
+S
+#4071016
+Red mountain, Ghostgate, fortress, temple~
+Dark devotional walls enclose a quiet shrine room beneath painted ceiling ribs
+past a broad stone altar and red votive candles stored beneath sturdy shelves.
+Incense smoke moves over the prayer benches as the enclosed hall remains still
+and the chamber holds a deep devotional calm.~
+0 1032 0 0 0 0
+S
+#4071017
+Red mountain, Ghostgate, fortress, temple~
+A solemn prayer hall opens inside broad sacred walls under rows of red candles
+beside woven kneeling mats and ceremonial vessels arranged in practical order.
+Fragrant haze gathers across the carved altar as warm wax scents the quiet air
+with candle flames trembling above the offerings.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4071008 0
+D3
+West~
+~
+0 0 4071011 0
+S
+#4071018
+Red mountain, Ghostgate, fortress, temple~
+Carved temple walls enclose a solemn temple chamber lit by steady altar flames
+with rows of prayer benches and small offering bowls placed within easy reach.
+Soft red light glows across the carved altar and warm wax scents the quiet air
+beneath the lingering fragrance of incense.~
+0 1032 0 0 0 0
+S
+#4071019
+Red mountain, Ghostgate, fortress, tower of dawn, upper level~
+An austere tower gallery extends between high tower walls and heavy roof beams
+among a steep inner stair and stacked arrow cases arranged in practical order.
+Fine ash gathers along the observation ledges as shadows cross the upper floor
+with pale light entering through narrow openings.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071020 0
+D1
+East~
+~
+0 0 4071022 0
+D3
+West~
+~
+0 0 4071021 0
+D5
+Down~
+~
+0 0 4071009 0
+S
+#4071020
+Red mountain, Ghostgate, fortress, tower of dawn, upper level~
+Thick upper walls enclose a narrow elevated chamber lit by small wall braziers
+past broad observation ledges and covered map tables placed within easy reach.
+Pale daylight moves around the signal equipment as the roof beams creak softly
+before fine ash gathers along the window ledges.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071019 0
+S
+#4071021
+Red mountain, Ghostgate, fortress, tower of dawn, upper level~
+High tower walls surround a watchful tower gallery beneath dark wooden rafters
+with reinforced upper doors and signal lanterns set between the narrow aisles.
+Cold air passes along the observation ledges and dust gathers beside the stair
+as the tower settles beneath the drifting ash.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4071019 0
+S
+#4071022
+Red mountain, Ghostgate, fortress, tower of dawn, upper level~
+A narrow tower gallery extends between high tower walls and a high timber roof
+with shallow lookout alcoves and signal lanterns resting in shadowed recesses.
+Fine ash falls beneath the heavy rafters and small braziers release faint heat
+beneath the muted creak of timber and stone.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4071019 0
+S
+#4071023
+Red mountain, Ghostgate, fortress, tower of dawn, lower level~
+Thick tower walls enclose a fortified stone duty room lit by steady fire bowls
+with plain wooden benches and sealed food jars arranged for regular daily use.
+Amber lamplight moves beneath the heavy beams and the enclosed air remains dry
+until the inner stair settles into silence.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071024 0
+D4
+Up~
+~
+0 0 4071010 0
+S
+#4071024
+Red mountain, Ghostgate, fortress, tower of dawn, lower level~
+Solid tower walls surround an orderly tower passage beneath heavy timber beams
+past scarred duty tables and empty armor stands set between the narrow aisles.
+A deep shadow falls across the lower chamber and the inner stair creaks softly
+and the fitted walls shut out the bitter wind.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071023 0
+D2
+South~
+~
+0 0 4071025 0
+S
+#4071025
+Red mountain, Ghostgate, fortress, tower of dawn, lower level~
+Ash-stained walls enclose a shadowed lower guard hall lit by muted amber lamps
+with broad supply counters and covered supply chests placed within easy reach.
+Lamp smoke moves through the enclosed room as iron fittings stay cold to touch
+with every useful object kept close at hand.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071024 0
+S
+#4071026
+Red mountain, Ghostgate, fortress, tower of dusk, upper level~
+A narrow high watch room extends between high tower walls and heavy roof beams
+with a steep inner stair and empty weapon racks ordered across the hard floor.
+A thin shadow moves across the upper chamber as signal ropes sway in the draft
+with dimness lingering below the heavy rafters.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071027 0
+D5
+Down~
+~
+0 0 4071014 0
+S
+#4071027
+Red mountain, Ghostgate, fortress, tower of dusk, upper level~
+An exposed tower gallery extends between high tower walls and heavy roof beams
+with narrow window slits and empty weapon racks stored beneath sturdy shelves.
+A faint glow spreads across the upper chamber as shadows cross the upper floor
+and the signal equipment remains close at hand.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071028 0
+D1
+East~
+~
+0 0 4071030 0
+D2
+South~
+~
+0 0 4071026 0
+D3
+West~
+~
+0 0 4071029 0
+S
+#4071028
+Red mountain, Ghostgate, fortress, tower of dusk, upper level~
+A watchful tower gallery extends between high tower walls and heavy roof beams
+beside narrow window slits and bundled warning flags placed within easy reach.
+Cold air drifts around the signal equipment and signal ropes sway in the draft
+and the high chamber bears the force of the wind.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071027 0
+S
+#4071029
+Red mountain, Ghostgate, fortress, tower of dusk, upper level~
+Thick upper walls enclose a narrow upper guard hall lit by small wall braziers
+with broad observation ledges and signal lanterns arranged in practical order.
+Muted red light falls beneath the heavy rafters as the high masonry stays cold
+until another gust moves across the upper floor.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4071027 0
+S
+#4071030
+Red mountain, Ghostgate, fortress, tower of dusk, upper level~
+High tower walls frame this exposed high watch room beneath a high timber roof
+past reinforced upper doors and signal lanterns ordered across the hard floor.
+Pale daylight falls beneath the heavy rafters as dust gathers beside the stair
+as cold air slips between the heavy shutters.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4071027 0
+S
+#4071031
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+Ash-stained walls frame this austere defensive room beneath heavy timber beams
+with low storage shelves and stacked clay vessels arranged in practical order.
+Lamp smoke drifts between the broad arches as dust rests upon the stored goods
+with practical stores filling the heavy room.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071032 0
+D4
+Up~
+~
+0 0 4071015 0
+S
+#4071032
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+Dark stone walls enclose a well-used tower passage lit by low-burning braziers
+past sturdy equipment racks and sealed food jars resting in shadowed recesses.
+A low draft moves beneath the heavy beams as shadows gather around the shelves
+beneath the dry scent of leather and lamp oil.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071031 0
+D1
+East~
+~
+0 0 4071033 0
+D3
+West~
+~
+0 0 4071034 0
+S
+#4071033
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+A shadowed tower passage opens inside dark stone walls under muted amber lamps
+past low storage shelves and empty armor stands ordered across the hard floor.
+Thin firelight falls across the lower chamber as the inner stair creaks softly
+and the old floor bears the marks of daily use.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071037 0
+D2
+South~
+~
+0 0 4071038 0
+D3
+West~
+~
+0 0 4071032 0
+S
+#4071034
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+Heavy lower walls enclose an orderly lower guard hall lit by steady fire bowls
+among broad supply counters and folded wool blankets placed within easy reach.
+Lamp smoke settles around the stored equipment as the enclosed air remains dry
+beneath the quiet weight of the tower masonry.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071035 0
+D1
+East~
+~
+0 0 4071032 0
+D2
+South~
+~
+0 0 4071036 0
+S
+#4071035
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+Ash-stained walls surround an austere tower passage beneath heavy timber beams
+with scarred duty tables and sealed food jars kept beneath the shallow arches.
+Dry warmth spreads along the fitted walls as shadows gather around the shelves
+with deep shade surrounding the stored gear.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071034 0
+S
+#4071036
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+An orderly tower passage opens inside dark stone walls under steady fire bowls
+past plain wooden benches and sealed food jars gathered beneath hanging lamps.
+Dry warmth gathers beneath the heavy beams as dust rests upon the stored goods
+and the lower chamber remains firmly enclosed.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071034 0
+S
+#4071037
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+Broad fortress walls enclose a shadowed tower passage lit by muted amber lamps
+among simple sleeping pallets and empty armor stands placed within easy reach.
+Thin firelight moves across the lower chamber as the inner stair creaks softly
+before another draft passes beneath the door.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4071033 0
+S
+#4071038
+Red mountain, Ghostgate, fortress, tower of dusk, lower level~
+An austere tower passage opens inside dark stone walls under steady fire bowls
+with sturdy equipment racks and folded wool blankets placed within easy reach.
+Lamp smoke gathers beneath the heavy beams as iron fittings stay cold to touch
+as faint warmth lingers around the braziers.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4071033 0
+S
+#0
+
+#RESETS
+M 0 2300217 1 4071001  ;  Mob: Assantus Hansar [Npcs] => #4071001 [Ghostgate] Red mountain, Ghostgate, fortress, outside
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3205027 1 16  ; -- Equip: Chitin club [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302538 1 4071002  ;  Mob: Tunipy Shamirbasour [Npcs] => #4071002 [Ghostgate] Red mountain, Ghostgate, fortress, outside
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302777 1 4071003  ;  Mob: Zallit Assattadaishah [Npcs] => #4071003 [Ghostgate] Red mountain, Ghostgate, fortress, outside
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+M 0 2301871 1 4071016  ;  Mob: Nilvyn Drothan [Npcs] => #4071016 [Ghostgate] Red mountain, Ghostgate, fortress, temple
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3019024 1 16  ; -- Equip: Silver staff of chastening [Items] (wield)
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401034 1 ; -- Give: Potion of fortify magicka [Items]
+G 1 3401025 1 ; -- Give: Potion of fortify strength [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302623 1 4071017  ;  Mob: Uvoo Llaren [Npcs] => #4071017 [Ghostgate] Red mountain, Ghostgate, fortress, temple
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302010 1 4071019  ;  Mob: Ralyn Othravel [Npcs] => #4071019 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dawn, upper level
+E 1 3138003 1 5  ; -- Equip: Indoril jack [Items] (body)
+E 1 3138002 1 10  ; -- Equip: Indoril armcops [Items] (arms)
+E 1 3138007 1 8  ; -- Equip: Indoril boots [Items] (feet)
+E 1 3138005 1 9  ; -- Equip: Indoril wristguards [Items] (hands)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3001005 1 16  ; -- Equip: Auriel's bow [Items] (wield)
+G 1 3007004 1 ; -- Give: Gavel of the ordinator [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302079 1 4071020  ;  Mob: Rilvase Avani [Npcs] => #4071020 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dawn, upper level
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401057 1 ; -- Give: Potion of restore agility [Items]
+G 1 3401059 1 ; -- Give: Potion of restore willpower [Items]
+G 1 3401060 1 ; -- Give: Potion of restore personality [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302195 1 4071021  ;  Mob: Selmen Relas [Npcs] => #4071021 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dawn, upper level
+E 1 3138001 1 6  ; -- Equip: Indoril scullcap [Items] (head)
+E 1 3138003 1 5  ; -- Equip: Indoril jack [Items] (body)
+E 1 3138002 1 10  ; -- Equip: Indoril armcops [Items] (arms)
+E 1 3138007 1 8  ; -- Equip: Indoril boots [Items] (feet)
+E 1 3138005 1 9  ; -- Equip: Indoril wristguards [Items] (hands)
+E 1 3138008 1 17  ; -- Equip: Indoril shield [Items] (hold)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3235018 1 16  ; -- Equip: Steel longsword [Items] (wield)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302420 1 4071022  ;  Mob: Teril Savani [Npcs] => #4071022 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dawn, upper level
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3401039 1 ; -- Give: Potion of magic resistance [Items]
+G 1 3401038 1 ; -- Give: Potion of poison resistance [Items]
+G 1 3401008 1 ; -- Give: Potion of light [Items]
+G 1 3401034 1 ; -- Give: Potion of fortify magicka [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401033 1 ; -- Give: Potion of fortify fatigue [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401019 1 ; -- Give: Potion of cure disease [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2300884 1 4071023  ;  Mob: Faras Thirano [Npcs] => #4071023 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dawn, lower level
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3236044 1 16  ; -- Equip: Steel throwing knife of frost [Items] (wield)
+G 1 3402059 1 ; -- Give: Scroll of shock resistance [Items]
+G 1 3402058 1 ; -- Give: Scroll of frost resistance [Items]
+G 1 3402057 1 ; -- Give: Scroll of fire resistance [Items]
+G 1 3402060 1 ; -- Give: Scroll of poison resistance [Items]
+G 1 3402046 1 ; -- Give: Scroll of fortify attack [Items]
+G 1 3402084 1 ; -- Give: Scroll of restore health [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2300937 1 4071024  ;  Mob: Ferone Veran [Npcs] => #4071024 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dawn, lower level
+E 1 3138003 1 5  ; -- Equip: Indoril jack [Items] (body)
+E 1 3138002 1 10  ; -- Equip: Indoril armcops [Items] (arms)
+E 1 3138007 1 8  ; -- Equip: Indoril boots [Items] (feet)
+E 1 3138005 1 9  ; -- Equip: Indoril wristguards [Items] (hands)
+E 1 3138008 1 17  ; -- Equip: Indoril shield [Items] (hold)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3213028 1 16  ; -- Equip: Ebony mace [Items] (wield)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302567 1 4071025  ;  Mob: Ulmiso Maloren [Npcs] => #4071025 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dawn, lower level
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2300673 1 4071026  ;  Mob: Drelyne Llenim [Npcs] => #4071026 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, upper level
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3236012 1 16  ; -- Equip: Steel shortsword of fire [Items] (wield)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2300968 1 4071027  ;  Mob: Fonas Retheran [Npcs] => #4071027 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, upper level
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3231012 1 16  ; -- Equip: Silver shortsword [Items] (wield)
+G 1 3117008 1 ; -- Give: Chitin buckler [Items]
+G 1 3122008 1 ; -- Give: Dwarven bulwark [Items]
+G 1 3231020 1 ; -- Give: Silver claymore [Items]
+G 1 3231009 1 ; -- Give: Silver dagger [Items]
+G 1 3301017 1 ; -- Give: Emerald amulet [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3405023 1 ; -- Give: Torch [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301014 1 4071028  ;  Mob: Galdal Omayn [Npcs] => #4071028 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, upper level
+E 1 3120001 1 6  ; -- Equip: Daedric helm [Items] (head)
+E 1 3126003 1 5  ; -- Equip: Glass jerkin [Items] (body)
+E 1 3126002 1 10  ; -- Equip: Glass epaulets [Items] (arms)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+E 1 3126006 1 7  ; -- Equip: Glass breeches [Items] (legs)
+E 1 3126007 1 8  ; -- Equip: Glass striders [Items] (feet)
+E 1 3126008 1 17  ; -- Equip: Glass buckler [Items] (hold)
+E 1 3023006 1 1  ; -- Equip: Warden's ring [Items] (finger-r)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301024 1 4071029  ;  Mob: Galore Salvi [Npcs] => #4071029 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, upper level
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3012004 1 1  ; -- Equip: Lifestone [Items] (finger-r)
+E 1 3231012 1 16  ; -- Equip: Silver shortsword [Items] (wield)
+G 1 3410007 1 ; -- Give: Shein [Items]
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410008 1 ; -- Give: Mazte [Items]
+G 1 3410009 1 ; -- Give: Greef [Items]
+G 1 3410016 1 ; -- Give: Ashfire mead [Items]
+G 1 3410021 1 ; -- Give: Emberbrand wine [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302732 1 4071030  ;  Mob: Wulf [Npcs] => #4071030 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, upper level
+E 1 3135003 1 5  ; -- Equip: Imperial silver cuirass [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3235019 1 16  ; -- Equip: Steel broadsword [Items] (wield)
+G 1 3403235 1 ; -- Give: Moon sugar [Items]
+M 0 2300318 1 4071031  ;  Mob: Berela Andrano [Npcs] => #4071031 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3301017 1 3  ; -- Equip: Emerald amulet [Items] (neck-1)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+G 1 3406123 1 ; -- Give: Decree of monument [Items]
+G 1 3406179 1 ; -- Give: Great houses of Morrowind [Items]
+G 1 3406007 1 ; -- Give: Aedra and daedra [Items]
+G 1 3406088 1 ; -- Give: Cake and the diamond [Items]
+G 1 3406197 1 ; -- Give: Healer's tale [Items]
+G 1 3406231 1 ; -- Give: Less rude song [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300699 1 4071032  ;  Mob: Dronos Llervu [Npcs] => #4071032 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3236033 1 16  ; -- Equip: Steel maul of fire [Items] (wield)
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408041 1 ; -- Give: Master armorer's hammer [Items]
+G 1 3117001 1 ; -- Give: Chitin coif [Items]
+G 1 3117003 1 ; -- Give: Chitin jerkin [Items]
+G 1 3117007 1 ; -- Give: Chitin striders [Items]
+G 1 3126002 1 ; -- Give: Glass epaulets [Items]
+G 1 3126008 1 ; -- Give: Glass buckler [Items]
+G 1 3126006 1 ; -- Give: Glass breeches [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300779 1 4071033  ;  Mob: Elvasea Thalas [Npcs] => #4071033 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3236059 1 16  ; -- Equip: Steel longsword of frost [Items] (wield)
+G 1 3403021 1 ; -- Give: Ash yam [Items]
+G 1 3403060 1 ; -- Give: Bread [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300788 1 4071034  ;  Mob: Enar Dralor [Npcs] => #4071034 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3120001 1 6  ; -- Equip: Daedric helm [Items] (head)
+E 1 3126003 1 5  ; -- Equip: Glass jerkin [Items] (body)
+E 1 3126002 1 10  ; -- Equip: Glass epaulets [Items] (arms)
+E 1 3126006 1 7  ; -- Equip: Glass breeches [Items] (legs)
+E 1 3126007 1 8  ; -- Equip: Glass striders [Items] (feet)
+E 1 3126008 1 17  ; -- Equip: Glass buckler [Items] (hold)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301590 1 4071035  ;  Mob: Mandran Indrano [Npcs] => #4071035 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3144008 1 17  ; -- Equip: Netch leather buckler [Items] (hold)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3205027 1 16  ; -- Equip: Chitin club [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301674 1 4071036  ;  Mob: Mertis Falandas [Npcs] => #4071036 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3126003 1 5  ; -- Equip: Glass jerkin [Items] (body)
+E 1 3126002 1 10  ; -- Equip: Glass epaulets [Items] (arms)
+E 1 3126006 1 7  ; -- Equip: Glass breeches [Items] (legs)
+E 1 3126007 1 8  ; -- Equip: Glass striders [Items] (feet)
+E 1 3126008 1 17  ; -- Equip: Glass buckler [Items] (hold)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+M 0 2302146 1 4071037  ;  Mob: Salyn Sarethi [Npcs] => #4071037 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3126003 1 5  ; -- Equip: Glass jerkin [Items] (body)
+E 1 3126002 1 10  ; -- Equip: Glass epaulets [Items] (arms)
+E 1 3126006 1 7  ; -- Equip: Glass breeches [Items] (legs)
+E 1 3126007 1 8  ; -- Equip: Glass striders [Items] (feet)
+E 1 3126008 1 17  ; -- Equip: Glass buckler [Items] (hold)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302369 1 4071038  ;  Mob: Taluro Athren [Npcs] => #4071038 [Ghostgate] Red mountain, Ghostgate, fortress, tower of dusk, lower level
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223018 1 16  ; -- Equip: Iron longsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+S
+
+#SHOPS
+2300699 5 9 0 0 0 120 90 0 23
+2300884 9 5 41 2 0 120 90 0 23
+2300968 5 9 12 8 35 120 90 0 23
+2301024 17 19 0 0 0 120 90 0 23
+2302420 10 13 19 0 0 120 90 0 23
+2302079 10 13 0 0 0 120 90 0 23
+2302567 10 13 0 0 0 120 90 0 23
+2301871 10 0 0 0 0 120 90 0 23
+2300318 35 0 0 0 0 120 90 0 23
+0
+
+#REPAIRS
+2300699 9 5 0 100 1 0 23
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 GHOSTGATE~
+Ghostgate is the fortified gateway through the old Ghostfence to Red Mountain,
+where Ordinators and Buoyant Armigers protect the pass from Blighted monsters.
+The Towers of Dawn and Dusk rise beside the great Tribunal Temple and barracks
+while the glowing barrier stretches across the ashen wastes.~
+0 $~
+
+#$

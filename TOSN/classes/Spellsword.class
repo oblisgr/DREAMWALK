@@ -1,0 +1,179 @@
+Name		Spellsword~
+Class		34
+AttrPrime		2
+AttrSecond	2
+AttrDeficient	1
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		11
+Hpmin		1
+Hpmax		8
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Taunt' 1 95
+Skill 'Bash' 1 95
+Skill 'Block' 1 95
+Skill 'Revenge' 1 95
+Skill 'Defend' 1 95
+Skill 'Rebuff' 1 95
+Skill 'Shelter' 1 95
+Skill 'Shroud' 1 95
+Skill 'Thrust' 1 95
+Skill 'Destabilize' 1 95
+Skill 'Cool' 1 90
+Skill 'Warm' 1 90
+Skill 'Ground' 1 90
+Skill 'Detoxify' 1 90
+Skill 'Unjinx' 1 90
+Skill 'Vaccinate' 1 90
+Skill 'Cleanse' 1 90
+Skill 'Stabilize' 1 90
+Skill 'Steady' 1 90
+Skill 'Toughen' 1 90
+Skill 'Strengthen' 1 90
+Skill 'Fortitude' 1 90
+Skill 'Quicken' 1 90
+Skill 'Outsmart' 1 90
+Skill 'Embolden' 1 90
+Skill 'Inspire' 1 90
+Skill 'Favor' 1 90
+Skill 'Rejuvenate' 1 90
+Skill 'Empower' 1 90
+Skill 'Refresh' 1 90
+Skill 'Rebuild' 1 90
+Skill 'Revitalize' 1 90
+Skill 'Rebalance' 1 90
+Skill 'Clarify' 1 90
+Skill 'Reassure' 1 90
+Skill 'Uplift' 1 90
+Skill 'Redeem' 1 90
+Skill 'Heal' 1 90
+Skill 'Replenish' 1 90
+Skill 'Renew' 1 90
+Skill 'Rapier' 1 85
+Skill 'Cutlass' 1 85
+Skill 'Saber' 1 85
+Skill 'Falchion' 1 85
+Skill 'Katana' 1 85
+Skill 'Longsword' 1 85
+Skill 'Broadsword' 1 85
+Skill 'Claymore' 1 85
+Skill 'Daikatana' 1 85
+Skill 'Charge' 1 85
+Skill 'Disarm' 1 85
+Skill 'Skirmish' 1 85
+Skill 'Slice' 1 85
+Skill 'Overkill' 1 85
+Skill 'Strike' 1 85
+Skill 'Burn' 1 80
+Skill 'Freeze' 1 80
+Skill 'Shock' 1 80
+Skill 'Poison' 1 80
+Skill 'Blast' 1 80
+Skill 'Sear' 1 80
+Skill 'Chill' 1 80
+Skill 'Electrify' 1 80
+Skill 'Sensitize' 1 80
+Skill 'Expose' 1 80
+Skill 'Contaminate' 1 80
+Skill 'Taint' 1 80
+Skill 'Corrupt' 1 80
+Skill 'Disable' 1 80
+Skill 'Soften' 1 80
+Skill 'Leech' 1 80
+Skill 'Enervate' 1 80
+Skill 'Slow' 1 80
+Skill 'Stultify' 1 80
+Skill 'Temptate' 1 80
+Skill 'Spite' 1 80
+Skill 'Jinx' 1 80
+Skill 'Hinder' 1 80
+Skill 'Drain' 1 80
+Skill 'Deplete' 1 80
+Skill 'Weary' 1 80
+Skill 'Weaken' 1 80
+Skill 'Emasculate' 1 80
+Skill 'Stumble' 1 80
+Skill 'Fuddle' 1 80
+Skill 'Woe' 1 80
+Skill 'Degrade' 1 80
+Skill 'Hex' 1 80
+Skill 'Wound' 1 80
+Skill 'Disrupt' 1 80
+Skill 'Doze' 1 80
+Skill 'Corrode' 1 80
+Skill 'Erode' 1 80
+Skill 'Open' 1 75
+Skill 'Lock' 1 75
+Skill 'Ignite' 1 75
+Skill 'Frost' 1 75
+Skill 'Storm' 1 75
+Skill 'Coat' 1 75
+Skill 'Levitate' 1 75
+Skill 'Breath' 1 75
+Skill 'Burden' 1 75
+Skill 'Feather' 1 75
+Skill 'Shield' 1 75
+Skill 'Club' 1 70
+Skill 'Mace' 1 70
+Skill 'Flail' 1 70
+Skill 'Morningstar' 1 70
+Skill 'Staff' 1 70
+Skill 'Warhammer' 1 70
+Skill 'Maul' 1 70
+Skill 'Safeguard' 1 70
+Skill 'Stun' 1 70
+Skill 'Pummel' 1 70
+Skill 'Doorbash' 1 70
+Skill 'Smash' 1 70
+Skill 'Crush' 1 70
+Skill 'Punish' 1 70
+Skill 'Clobber' 1 70
+Skill 'Payback' 1 70
+Skill 'Bleed' 1 70
+Skill 'Splinter' 1 70
+Skill 'Bludgeon' 1 70
+Skill 'Waste' 1 70
+Skill 'Scribe' 1 65
+Skill 'Imbue' 1 65
+Skill 'Enchant' 1 65
+Skill 'Meditate' 1 65
+Skill 'Banish' 1 65
+Skill 'Innervate' 1 65
+Skill 'Blink' 1 65
+Skill 'Entangle' 1 65
+Skill 'Sleep' 1 65
+Skill 'Envenom' 1 60
+Skill 'Brew' 1 60
+Skill 'Cook' 1 60
+Skill 'Bandage' 1 60
+Skill 'Fade' 1 60
+Skill 'Aid' 1 60
+Skill 'Mail' 1 55
+Skill 'Enrage' 1 55
+Skill 'Trammel' 1 55
+Skill 'Spurn' 1 55
+Skill 'Cover' 1 55
+Skill 'Sickle' 1 50
+Skill 'Handaxe' 1 50
+Skill 'Waraxe' 1 50
+Skill 'Pickaxe' 1 50
+Skill 'Battleaxe' 1 50
+Skill 'Berserk' 1 50
+Skill 'Execute' 1 50
+Skill 'Overpower' 1 50
+Skill 'Cleave' 1 50
+Skill 'Wirlwind' 1 50
+Skill 'Mutilate' 1 50
+Skill 'Cripple' 1 50
+Skill 'Slaughter' 1 50
+Skill 'Sever' 1 50
+Skill 'Chop' 1 50
+Skill 'Swing' 1 50
+Skill 'Hack' 1 50
+End	

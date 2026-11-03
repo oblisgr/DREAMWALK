@@ -1,0 +1,1678 @@
+#AREA Caldera~
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#4031001
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4031001
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4031001
+West gash, Caldera, ebony mine, company office~
+Heavy fortress walls enclose a formal ledger room beneath a low wooden ceiling
+with scarred office tables and sealed contracts arranged in disciplined order.
+Pale lamplight plays between the darkened beams and muted voices rise and fall
+while the guarded chamber smells of ink and sealing wax.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031002 0
+D1
+East~
+~
+0 0 4031015 0
+D2
+South~
+~
+0 0 4031003 0
+S
+#4031002
+West gash, Caldera, ebony mine, company office~
+Plain rendered walls frame this well-kept ledger room beneath heavy roof beams
+past scarred office tables and sealed contracts arranged in disciplined order.
+Dusty golden light drifts over the worn floor while muted voices rise and fall
+and the guarded chamber serves the mine's daily business.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4031001 0
+S
+#4031003
+West gash, Caldera, ebony mine, company office~
+A formal ledger room opens within timber-framed walls under steady red candles
+with broad writing desks and production tallies set neatly around the chamber.
+Pale lamplight moves along the plastered surfaces as a dry draft stirs the air
+and the office guards each account and contract.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031001 0
+S
+#4031004
+West gash, Caldera, ebony mine, slave shack~
+Patched timber walls enclose a crowded laborers' shack beneath dark roof beams
+beside rough straw pallets and plain meal bowls arranged in disciplined order.
+Soft lantern glow plays upon the nearby shelves and muted voices rise and fall
+as the bare shelter remains heavy with dust and stale air.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4031017 0
+S
+#4031005
+West gash, Caldera, ebony mine, slave shack~
+Patched timber walls enclose a cramped laborers' shack beneath dark roof beams
+among rough straw pallets and small food baskets resting in well-used corners.
+Nearby lantern light moves over the worn floor while a dry draft stirs the air
+and this crowded room remains heavy with dust and stale air.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4031018 0
+S
+#4031006
+West gash, Caldera, ebony mine, tunnels~
+Rough stone walls frame this dim working gallery beneath heavy timber supports
+among fresh pick marks and worn mining tools arranged for practical daily use.
+Amber lamplight plays upon the nearby shelves and dust turns slowly in the air
+while the passage continues farther into darkness.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4031016 0
+D5
+Down~
+~
+0 0 4031007 0
+S
+#4031007
+West gash, Caldera, ebony mine, tunnels~
+Damp fractured walls frame this dusty ore passage beneath a jagged stone vault
+among dark ebony seams and wooden sorting trays arranged in disciplined order.
+Muted firelight glimmers upon the nearby shelves as soft footsteps pass nearby
+and this tunnel echoes with distant mining work.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4031008 0
+D4
+Up~
+~
+0 0 4031006 0
+S
+#4031008
+West gash, Caldera, ebony mine, tunnels~
+A dim rock-cut chamber opens within rough stone walls under muted hearth light
+among fresh pick marks and wooden sorting trays arranged in disciplined order.
+A shifting glow falls between the darkened beams and a dry draft stirs the air
+while the passage echoes with distant mining work.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031007 0
+D1
+East~
+~
+0 0 4031011 0
+D2
+South~
+~
+0 0 4031009 0
+S
+#4031009
+West gash, Caldera, ebony mine, tunnels~
+A deep ore passage opens within rough stone walls under low-burning clay lamps
+with heavy timber supports and worn mining tools resting in well-used corners.
+Muted firelight trembles upon the nearby shelves and a dry draft stirs the air
+while the narrow gallery continues farther into darkness.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031008 0
+D1
+East~
+~
+0 0 4031012 0
+D2
+South~
+~
+0 0 4031010 0
+S
+#4031010
+West gash, Caldera, ebony mine, tunnels~
+Rough stone walls enclose a dim ore passage beneath splintered overhead braces
+among dark ebony seams and wooden sorting trays set between the narrow aisles.
+A shifting glow plays over the worn floor while distant movement sounds beyond
+and this tunnel continues farther into darkness.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031009 0
+S
+#4031011
+West gash, Caldera, ebony mine, tunnels~
+A deep working gallery opens within rough stone walls under pale lantern light
+among fresh pick marks and wooden sorting trays ordered across the hard floor.
+Muted firelight trembles upon the nearby shelves as soft footsteps pass nearby
+and the passage echoes with distant mining work.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4031008 0
+S
+#4031012
+West gash, Caldera, ebony mine, tunnels~
+Rough stone walls frame this shadowed ore passage beneath a low uneven ceiling
+among jagged rock pillars and worn mining tools set neatly around the chamber.
+Faint candlelight falls upon the nearby shelves as the room settles into quiet
+and the narrow gallery continues farther into darkness.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4031009 0
+S
+#4031013
+West gash, Caldera, ebony mine, guard tower~
+Rough defensive walls frame this fortified guard room beneath heavy roof beams
+beside a steep wooden stair and stacked shields set between the narrow aisles.
+Dim red candlelight plays over the worn floor while muted voices rise and fall
+and the watch chamber offers protection with little comfort.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031018 0
+S
+#4031014
+West gash, Caldera, ebony mine, bunkhouse~
+Rough stone walls enclose an orderly sleeping room beneath stout ceiling beams
+past rows of wooden bunks and hanging leather aprons placed within easy reach.
+Muted firelight plays over the worn floor while distant movement sounds beyond
+and the bunkhouse holds the weariness of hard labor.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031017 0
+S
+#4031015
+West gash, Caldera, ebony mine, outside~
+Open mine yards run across a dry and rocky hollow beneath warm afternoon light
+past stacked supply crates and iron mining tools placed clear of passing feet.
+Thin lamp smoke drifts over the trampled ground while workers unload the carts
+and the guarded site feels harsh but strongly productive.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031030 0
+D2
+South~
+~
+0 0 4031016 0
+D3
+West~
+~
+0 0 4031001 0
+S
+#4031016
+West gash, Caldera, ebony mine, outside~
+Dusty work yards spread between rough mineral slopes in a steady upland breeze
+among heavy timber braces and iron mining tools grouped beneath shallow eaves.
+Pale powdered stone sweeps over the trampled ground and guards watch the carts
+while the open worksite bears the marks of constant labor.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031015 0
+D1
+East~
+~
+0 0 4031006 0
+D2
+South~
+~
+0 0 4031017 0
+S
+#4031017
+West gash, Caldera, ebony mine, outside~
+Rocky work areas open around timber mining buildings in a steady upland breeze
+past guarded work sheds and covered water barrels resting near the worn track.
+Thin lamp smoke passes across the hard-packed yard as miners enter the tunnels
+and the dusty enclosure remains busy through every shift.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031016 0
+D1
+East~
+~
+0 0 4031004 0
+D2
+South~
+~
+0 0 4031018 0
+D3
+West~
+~
+0 0 4031014 0
+S
+#4031018
+West gash, Caldera, ebony mine, outside~
+Rocky work areas spread between rough mineral slopes in a steady upland breeze
+with heavy timber braces and coiled hauling ropes resting near the worn track.
+Loose yard grit swirls over the trampled ground while miners enter the tunnels
+and the open worksite stays active beneath drifting dust.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031017 0
+D1
+East~
+~
+0 0 4031005 0
+D3
+West~
+~
+0 0 4031013 0
+D2
+Exit description
+~
+~
+0 0 1030107 0
+S
+#4031019
+West gash, Caldera, road, to the mine~
+Winding cart roads run between scrub-covered ridges under warm afternoon light
+beside deep wagon ruts and weathered wooden posts resting near the worn track.
+Fine ochre grit passes along the exposed hillside while boots cross the stones
+and the open route winds onward through the western hills.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031020 0
+D2
+South~
+~
+0 0 4031072 0
+S
+#4031020
+West gash, Caldera, road, to the mine~
+Worn wagon routes run across the dry western uplands in a mild mountain breeze
+among trampled patches of grass and broken chunks of rock set beside the road.
+Fine ochre grit passes between the low rocky ridges and boots cross the stones
+while the dusty trail shows the marks of steady traffic.~
+0 0 2 0 0 0
+D2
+South
+~
+~
+0 0 4031019 0
+D3
+West~
+~
+0 0 4031021 0
+D0
+Exit description
+~
+~
+0 0 1010398 0
+S
+#4031021
+West gash, Caldera, road, to the mine~
+Dusty mine roads run through sparse brush and stone under warm afternoon light
+with deep wagon ruts and small piles of gravel lying among the roadside scrub.
+A mild western wind drifts along the exposed hillside and loaded carts pass by
+while this upland track shows the marks of steady traffic.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 4031020 0
+D3
+West~
+~
+0 0 4031022 0
+S
+#4031022
+West gash, Caldera, road, to the mine~
+Rutted mining roads curve along rough mineral slopes in a mild mountain breeze
+among trampled patches of grass, discarded cart boards and covered containers.
+Warm upland light moves through the scattered brush and boots cross the stones
+while the open route feels well used but poorly maintained.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 4031021 0
+D3
+West~
+~
+0 0 4031023 0
+S
+#4031023
+West gash, Caldera, road, to the mine~
+Winding cart roads run between low weathered hills through drifting ochre dust
+past deep wagon ruts and hardy upland shrubs scattered across the hard ground.
+A mild western wind swirls along the exposed hillside as guards pass on patrol
+and the worn pathway crosses dry and open country.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 4031022 0
+D2
+South~
+~
+0 0 4031024 0
+S
+#4031024
+West gash, Caldera, road, to the mine~
+Rocky western paths curve along rough mineral slopes in a mild mountain breeze
+past deep wagon ruts and broken chunks of rock lying among the roadside scrub.
+Pale drifting dust swirls over the hard-packed earth and mine traffic rolls on
+while the worn pathway crosses dry and open country.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031023 0
+D3
+West~
+~
+0 0 4031025 0
+S
+#4031025
+West gash, Caldera, road, to the mine~
+Worn wagon routes climb between low weathered hills under warm afternoon light
+among trampled patches of grass, broken chunks of rock and covered containers.
+Pale drifting dust swirls through the scattered brush as mine traffic rolls on
+and the rough road feels well used but poorly maintained.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 4031024 0
+D2
+South~
+~
+0 0 4031026 0
+D0
+Exit description
+~
+~
+0 0 1010394 0
+S
+#4031026
+West gash, Caldera, road, to the mine~
+Hard-packed roads curve across the dry western uplands beneath a pale open sky
+past deep wagon ruts and discarded cart boards lying among the roadside scrub.
+Fine ochre grit settles between the low rocky ridges as boots cross the stones
+and the worn pathway remains exposed to wind and dust.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031025 0
+D2
+South~
+~
+0 0 4031027 0
+S
+#4031027
+West gash, Caldera, road, to the mine~
+Worn wagon routes climb through sparse brush and stone beneath a pale open sky
+with trampled patches of grass and weathered wooden posts set beside the road.
+Warm upland light settles between the low rocky ridges while travelers move on
+and the dusty trail winds onward through the western hills.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031026 0
+D3
+West~
+~
+0 0 4031028 0
+S
+#4031028
+West gash, Caldera, road, to the mine~
+Rutted mining roads climb between scrub-covered ridges beneath a pale open sky
+with low roadside markers and hardy upland shrubs resting near the worn track.
+A mild western wind drifts through the scattered brush while travelers move on
+and the dusty trail shows the marks of steady traffic.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 4031027 0
+D2
+South~
+~
+0 0 4031029 0
+D3
+Exit description~
+~
+0 0 1070691 0
+S
+#4031029
+West gash, Caldera, road, to the mine~
+Worn wagon routes climb along rough mineral slopes through drifting ochre dust
+past trampled patches of grass and weathered wooden posts set beside the road.
+Warm upland light settles over the hard-packed earth as boots cross the stones
+and this upland track feels well used but poorly maintained.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031028 0
+D2
+South~
+~
+0 0 4031030 0
+S
+#4031030
+West gash, Caldera, road, to the mine~
+Rutted mining roads pass between low weathered hills in a mild mountain breeze
+among trampled patches of grass, small piles of gravel and covered containers.
+Warm upland light rolls through the scattered brush as dust rises behind carts
+and the open route feels well used but poorly maintained.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4031029 0
+D2
+South~
+~
+0 0 4031015 0
+S
+#4031031
+West gash, Caldera, town, mainstreet~
+Open market roads run through the busy charter town under warm afternoon light
+among stone-fronted houses and covered handcarts placed clear of passing feet.
+Loose street grit passes between the plastered buildings as guards pass nearby
+and the public way feels practical and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031032 0
+D2
+South~
+~
+0 0 4031077 0
+S
+#4031032
+West gash, Caldera, town, mainstreet~
+Worn public ways cross past timbered shops and homes in the mild upland breeze
+with stone-fronted houses and clay storage jars grouped beneath shallow eaves.
+Warm afternoon light passes across the hard-packed road as workers carry goods
+and the main street carries the rhythm of ordinary trade.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031033 0
+D1
+East~
+~
+0 0 4031071 0
+D2
+South~
+~
+0 0 4031031 0
+D3
+West~
+~
+0 0 4031074 0
+S
+#4031033
+West gash, Caldera, town, mainstreet~
+Broad town streets run past timbered shops and homes in the mild upland breeze
+past stone-fronted houses and clay storage jars arranged along the shopfronts.
+Fine valley dust settles across the hard-packed road while workers carry goods
+and the public way carries the rhythm of ordinary trade.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031034 0
+D2
+South~
+~
+0 0 4031032 0
+D3
+West~
+~
+0 0 4031037 0
+S
+#4031034
+West gash, Caldera, town, mainstreet~
+Dusty town avenues run between shops, homes and inns in the mild upland breeze
+with timbered upper walls and clay storage jars grouped beneath shallow eaves.
+Thin chimney smoke rolls across the hard-packed road as trade continues nearby
+and the main street stays busy with work and conversation.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031035 0
+D1
+East~
+~
+0 0 4031053 0
+D2
+South~
+~
+0 0 4031033 0
+D3
+West~
+~
+0 0 4031080 0
+S
+#4031035
+West gash, Caldera, town, mainstreet~
+Busy central roads run past timbered shops and homes in the mild upland breeze
+with stone-fronted houses and covered handcarts arranged along the shopfronts.
+Fine valley dust swirls between the plastered buildings and guards pass nearby
+while the main street carries the rhythm of ordinary trade.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031036 0
+D2
+South~
+~
+0 0 4031034 0
+S
+#4031036
+West gash, Caldera, town, mainstreet~
+Worn public ways pass among sturdy plastered houses under warm afternoon light
+past timbered upper walls and covered handcarts grouped beneath shallow eaves.
+A pale dusty haze moves along the busy shopfronts while trade continues nearby
+and the main street feels practical and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031048 0
+D1
+East~
+~
+0 0 4031038 0
+D2
+South~
+~
+0 0 4031035 0
+D3
+West~
+~
+0 0 4031039 0
+S
+#4031037
+West gash, Caldera, town, mainstreet~
+Busy central roads run among sturdy plastered houses in the mild upland breeze
+beside painted shop signs and covered handcarts grouped beneath shallow eaves.
+Fine valley dust settles through the open market street and guards pass nearby
+while the public way feels practical and firmly established.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4031033 0
+D3
+West~
+~
+0 0 4031049 0
+S
+#4031038
+West gash, Caldera, town, mainstreet~
+Open market roads pass among sturdy plastered houses in the mild upland breeze
+with painted shop signs and stacked trade crates resting near the worn street.
+Fine valley dust rolls beneath the timbered upper walls as traders call nearby
+and this part of town stays busy with work and conversation.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031051 0
+D1
+East~
+~
+0 0 4031068 0
+D3
+West~
+~
+0 0 4031036 0
+S
+#4031039
+West gash, Caldera, town, mainstreet~
+Broad town streets run among sturdy plastered houses in the mild upland breeze
+with timbered upper walls and covered handcarts arranged along the shopfronts.
+A pale dusty haze sweeps across the hard-packed road as trade continues nearby
+and the public way serves the daily needs of the settlement.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031040 0
+D1
+East~
+~
+0 0 4031036 0
+D2
+South~
+~
+0 0 4031069 0
+D3
+West~
+~
+0 0 4031044 0
+S
+#4031040
+West gash, Caldera, town, mainstreet~
+Dusty town avenues run among sturdy plastered houses in the mild upland breeze
+with timbered upper walls and covered handcarts grouped beneath shallow eaves.
+Thin chimney smoke settles along the busy shopfronts and townsfolk pass nearby
+while this public road carries the rhythm of ordinary trade.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031041 0
+D2
+South~
+~
+0 0 4031039 0
+D3
+West~
+~
+0 0 4031078 0
+S
+#4031041
+West gash, Caldera, town, mainstreet~
+Busy central roads run between shops, homes and inns in the mild upland breeze
+past stone-fronted houses and covered handcarts arranged along the shopfronts.
+Loose street grit drifts beneath the timbered upper walls and shoppers pass by
+while the public way carries the rhythm of ordinary trade.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031042 0
+D2
+South~
+~
+0 0 4031040 0
+D3
+West~
+~
+0 0 4031070 0
+S
+#4031042
+West gash, Caldera, town, mainstreet~
+Open market roads pass through the busy charter town in the mild upland breeze
+past broad wooden doorways and clay storage jars placed clear of passing feet.
+Thin chimney smoke settles beneath the timbered upper walls as carts roll past
+and this public road carries the rhythm of ordinary trade.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031043 0
+D2
+South~
+~
+0 0 4031041 0
+S
+#4031043
+West gash, Caldera, town, mainstreet~
+Worn public ways curve past timbered shops and homes in the mild upland breeze
+with broad wooden doorways and clay storage jars placed clear of passing feet.
+Fine valley dust drifts between the plastered buildings while shoppers pass by
+and this part of town carries the rhythm of ordinary trade.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031058 0
+D2
+South~
+~
+0 0 4031042 0
+S
+#4031044
+West gash, Caldera, town, mainstreet~
+Broad town streets run between shops, homes and inns in the mild upland breeze
+among stone-fronted houses and clay storage jars placed clear of passing feet.
+Thin chimney smoke drifts across the hard-packed road as townsfolk pass nearby
+and the public way stays busy with work and conversation.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4031039 0
+D2
+South~
+~
+0 0 4031073 0
+D3
+West~
+~
+0 0 4031045 0
+S
+#4031045
+West gash, Caldera, town, mainstreet~
+Dusty town avenues run past timbered shops and homes in the mild upland breeze
+past broad wooden doorways and covered handcarts resting near the worn street.
+Warm afternoon light drifts across the hard-packed road while wagons move past
+and this public road feels practical and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031046 0
+D1
+East~
+~
+0 0 4031044 0
+D2
+South~
+~
+0 0 4031052 0
+D3
+West~
+~
+0 0 4031063 0
+S
+#4031046
+West gash, Caldera, town, mainstreet~
+Worn public ways wind among sturdy plastered houses under warm afternoon light
+past broad wooden doorways and covered handcarts placed clear of passing feet.
+Fine valley dust rolls beneath the timbered upper walls while shoppers pass by
+and this public road stays busy with work and conversation.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031047 0
+D2
+South~
+~
+0 0 4031045 0
+D3
+West~
+~
+0 0 4031079 0
+S
+#4031047
+West gash, Caldera, town, mainstreet~
+Open market roads run among sturdy plastered houses under warm afternoon light
+with painted shop signs and wooden rain barrels arranged along the shopfronts.
+Loose street grit swirls beneath the timbered upper walls and shoppers pass by
+while the public way stays busy with work and conversation.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4031072 0
+D2
+South~
+~
+0 0 4031046 0
+D3
+West~
+~
+0 0 4031050 0
+S
+#4031048
+West gash, Caldera, town, Bashuk gra-Bat's house~
+Solid masonry walls enclose a compact living room beneath a low wooden ceiling
+beside folded bedding and woven storage baskets set between the narrow aisles.
+A shifting glow moves upon the nearby shelves while muted voices rise and fall
+and this quiet home bears the marks of careful daily use.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4031036 0
+S
+#4031049
+West gash, Caldera, town, Canodia Felannus's house~
+A tidy private room opens within thick mortared walls under muted hearth light
+with a simple bedroll and woven storage baskets set between the narrow aisles.
+Faint candlelight moves over the worn floor as low conversation carries softly
+and the plain interior bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031037 0
+S
+#4031050
+West gash, Caldera, town, Dro'Shavir's house~
+Timber-framed walls frame this tidy private room beneath broad wooden supports
+among a simple bedroll and clay cooking pots arranged for practical daily use.
+A shifting glow falls over the worn floor while ordinary work continues nearby
+and this quiet home holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031047 0
+S
+#4031051
+West gash, Caldera, town, Elmussa Damori's house~
+Rough stone walls frame this modest living room beneath smoke-darkened rafters
+with a simple bedroll and woven storage baskets ordered across the hard floor.
+Pale lamplight falls upon the nearby shelves as ordinary work continues nearby
+and the plain interior holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4031038 0
+S
+#4031052
+West gash, Caldera, town, Falanaamo's clothing shop~
+Sturdy plaster walls frame this warm garment shop beneath aged timber supports
+with folded common clothes and spools of thread ordered across the hard floor.
+Amber lamplight drifts upon the nearby shelves while a dry draft stirs the air
+and the busy interior keeps its wares carefully sorted.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031045 0
+S
+#4031053
+West gash, Caldera, town, Ghorak's manor~
+Broad masonry walls enclose a cluttered manor chamber beneath heavy roof beams
+with battered storage chests, old household goods and scattered gaming pieces.
+Warm hearth light drifts over the worn floor as the enclosed air remains still
+and this rambling room retains traces of faded prosperity.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031054 0
+D2
+South~
+~
+0 0 4031055 0
+D3
+West~
+~
+0 0 4031034 0
+D4
+Up~
+~
+0 0 4031056 0
+S
+#4031054
+West gash, Caldera, town, Ghorak's manor~
+Thick manor walls enclose a weathered old family room beneath heavy roof beams
+past broad stone hearths and patched bedrolls kept clear of the central aisle.
+Muted firelight plays upon the nearby shelves while soft footsteps pass nearby
+and the worn manor feels occupied but poorly maintained.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4031053 0
+S
+#4031055
+West gash, Caldera, town, Ghorak's manor~
+Broad masonry walls frame this shadowed manor chamber beneath heavy roof beams
+with mismatched chairs and stacks of dented cookware placed within easy reach.
+Nearby lantern light flickers over the worn floor as a dry draft stirs the air
+and this rambling room feels occupied but poorly maintained.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031053 0
+S
+#4031056
+West gash, Caldera, town, Ghorak's manor~
+Thick manor walls enclose an untidy rambling interior beneath heavy roof beams
+among mismatched chairs and old household goods ordered across the hard floor.
+Pale lamplight trembles upon the nearby shelves and muted voices rise and fall
+while the worn manor feels occupied but poorly maintained.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4031057 0
+D5
+Down~
+~
+0 0 4031053 0
+S
+#4031057
+West gash, Caldera, town, Ghorak's manor~
+Broad masonry walls enclose a weathered manor chamber beneath heavy roof beams
+beside mismatched chairs and old household goods resting in well-used corners.
+Muted firelight drifts over the worn floor and low conversation carries softly
+while this rambling room retains traces of faded prosperity.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031056 0
+S
+#4031058
+West gash, Caldera, town, Governor's hall~
+Rough stone walls enclose an orderly formal office beneath dark timber rafters
+among broad writing tables and sealed petitions arranged in disciplined order.
+Pale lamplight moves between the darkened beams and muted voices rise and fall
+while this civic chamber awaits the next official matter.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031059 0
+D2
+South~
+~
+0 0 4031043 0
+S
+#4031059
+West gash, Caldera, town, Governor's hall~
+Rough stone walls enclose a spacious formal office beneath dark timber rafters
+among high-backed chairs and rolled survey maps set between the narrow aisles.
+Warm hearth light plays upon the nearby shelves as the room settles into quiet
+and this civic chamber reflects firm civic authority.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031060 0
+D2
+South~
+~
+0 0 4031058 0
+S
+#4031060
+West gash, Caldera, town, Governor's hall~
+Timber-framed walls enclose a dignified civic chamber beneath heavy roof beams
+among broad writing tables and sealed petitions ordered across the hard floor.
+Pale lamplight plays upon the nearby shelves as distant movement sounds beyond
+and the guarded office awaits the next official matter.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4031059 0
+D4
+Up~
+~
+0 0 4031061 0
+S
+#4031061
+West gash, Caldera, town, Governor's hall~
+Rough stone walls enclose a spacious civic chamber beneath dark timber rafters
+among high-backed chairs and rolled survey maps arranged in disciplined order.
+A shifting glow glimmers upon the nearby shelves as muted voices rise and fall
+and the formal room serves the business of local government.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4031062 0
+D5
+Down~
+~
+0 0 4031060 0
+S
+#4031062
+West gash, Caldera, town, Governor's hall~
+Plain rendered walls enclose a formal government room beneath heavy roof beams
+with high-backed chairs and sealed petitions arranged for practical daily use.
+Pale lamplight drifts upon the nearby shelves while muted voices rise and fall
+and the guarded office reflects firm civic authority.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031061 0
+S
+#4031063
+West gash, Caldera, town, guild of mages~
+Heavy fortress walls frame this warded spell room beneath a low wooden ceiling
+with padded study chairs, stacked reference books and small enchanted objects.
+Amber lamplight moves over the worn floor while the enclosed air remains still
+and the arcane chamber keeps dangerous workings controlled.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4031045 0
+D2
+South~
+~
+0 0 4031064 0
+S
+#4031064
+West gash, Caldera, town, guild of mages~
+Solid masonry walls frame this dim guild chamber beneath broad wooden supports
+beside crowded bookcases and rolled spell notes set between the narrow aisles.
+Dusty golden light plays over the worn floor while the room settles into quiet
+and the warded study keeps dangerous workings controlled.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031063 0
+D2
+South~
+~
+0 0 4031065 0
+S
+#4031065
+West gash, Caldera, town, guild of mages~
+Timber-framed walls enclose a warded arcane study beneath a low wooden ceiling
+with crowded bookcases and rolled spell notes kept clear of the central aisle.
+Nearby lantern light glimmers over the worn floor as a dry draft stirs the air
+and this spell room keeps dangerous workings controlled.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031064 0
+D4
+Up~
+~
+0 0 4031067 0
+S
+#4031066
+West gash, Caldera, town, guild of mages~
+Heavy fortress walls frame this quiet arcane study beneath stout ceiling beams
+beside broad writing desks and sealed soul gems arranged in disciplined order.
+Soft lantern glow flickers over the worn floor while a dry draft stirs the air
+and this spell room smells of parchment and dried herbs.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4031067 0
+S
+#4031067
+West gash, Caldera, town, guild of mages~
+Sturdy plaster walls frame this dim scholarly room beneath stout ceiling beams
+past padded study chairs and rolled spell notes ordered across the hard floor.
+Amber lamplight plays upon the nearby shelves and dust turns slowly in the air
+while the warded study supports patient magical study.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031066 0
+D5
+Down~
+~
+0 0 4031065 0
+S
+#4031068
+West gash, Caldera, town, Hodlismod's armory~
+Heavy fortress walls enclose a well-stocked armory beneath dark timber rafters
+beside polished shields and assorted iron tools set neatly around the chamber.
+Dusty golden light plays over the worn floor as ordinary work continues nearby
+and the martial shop keeps practical gear close at hand.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4031038 0
+S
+#4031069
+West gash, Caldera, town, Irgola's pawnshop~
+A busy pawnshop opens within thick mortared walls under soft amber candlelight
+among crowded wooden shelves and old weapons arranged for practical daily use.
+Smoky yellow light glimmers over the worn floor and muted voices rise and fall
+while this trade room keeps each pledged valuable secure.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031039 0
+S
+#4031070
+West gash, Caldera, town, Keel-Raniur's house~
+Rough stone walls frame this quiet modest dwelling beneath dark timber rafters
+among a plain sleeping cot, worn household tools and small personal keepsakes.
+Low amber light plays upon the nearby shelves while soft footsteps pass nearby
+and the modest room bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031041 0
+S
+#4031071
+West gash, Caldera, town, Nedhelas's house~
+Rough stone walls enclose a sheltered private room beneath stout ceiling beams
+with a simple bedroll and woven storage baskets arranged in disciplined order.
+Amber lamplight flickers upon the nearby shelves as soft footsteps pass nearby
+and the modest room holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4031032 0
+S
+#4031072
+West gash, Caldera, town, north guard tower~
+An elevated guard room opens within thick stone walls under steady red candles
+past narrow ladder steps, arrow slits and oil flasks placed within easy reach.
+A shifting glow plays upon the nearby shelves while muted voices rise and fall
+and the watch chamber remains ready to sound an alarm.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031019 0
+D2
+South~
+~
+0 0 4031047 0
+S
+#4031073
+West gash, Caldera, town, Odairan Ashummi-Ammus's house~
+A modest living room opens within timber-framed walls under muted hearth light
+among a simple bedroll and worn household tools ordered across the hard floor.
+Pale lamplight moves beneath the heavy rafters as dust turns slowly in the air
+while the plain interior holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4031044 0
+S
+#4031074
+West gash, Caldera, town, Shenk shovel's inn~
+Sturdy plaster walls enclose a lively common room beneath a low wooden ceiling
+with small dining tables and sealed ale barrels set neatly around the chamber.
+Nearby lantern light flickers over the worn floor as a dry draft stirs the air
+and the warm interior stays noisy well into the evening.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031032 0
+D4
+Up~
+~
+0 0 4031076 0
+D5
+Down~
+~
+0 0 4031075 0
+S
+#4031075
+West gash, Caldera, town, Shenk shovel's inn~
+Plain rendered walls frame this welcoming public room beneath heavy roof beams
+with small dining tables and sealed ale barrels set between the narrow aisles.
+Smoky yellow light moves upon the nearby shelves as soft footsteps pass nearby
+and the lively inn offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4031074 0
+S
+#4031076
+West gash, Caldera, town, Shenk shovel's inn~
+Plain rendered walls frame this lively taproom beneath a shallow plaster vault
+with small dining tables and stacked meal bowls set neatly around the chamber.
+Soft lantern glow falls over the worn floor and the enclosed air remains still
+while the warm interior stays noisy well into the evening.~
+0 8 0 0 0 0
+D5
+Down~
+~
+0 0 4031074 0
+S
+#4031077
+West gash, Caldera, town, south guard tower~
+Heavy mortared walls frame this elevated sentry post beneath a low timber roof
+beside a tight central stair and stacked shields resting in well-used corners.
+Smoky yellow light falls over the worn floor as the enclosed air remains still
+and the guarded tower offers protection with little comfort.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4031031 0
+D2
+Exit description
+~
+~
+0 0 1030301 0
+S
+#4031078
+West gash, Caldera, town, Surane Leoriane's house~
+Solid masonry walls frame this tidy living room beneath smoke-darkened rafters
+among a plain sleeping cot and wooden stools arranged for practical daily use.
+Amber lamplight trembles upon the nearby shelves as muted voices rise and fall
+while this quiet home holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031040 0
+S
+#4031079
+West gash, Caldera, town, Valvius Mevureius's house~
+Sturdy plaster walls enclose a plain private room beneath a low wooden ceiling
+beside a simple bedroll and worn household tools resting in well-used corners.
+Pale lamplight plays upon the nearby shelves as the enclosed air remains still
+while this quiet home bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031046 0
+S
+#4031080
+West gash, Caldera, town, Verick Gemain's trading shop~
+Rough stone walls enclose an orderly general store beneath dark timber rafters
+among sturdy display tables and simple tools arranged for practical daily use.
+A shifting glow plays between the darkened beams as soft footsteps pass nearby
+and this busy store keeps useful goods within easy reach.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4031034 0
+S
+#0
+
+#RESETS
+M 0 2300781 1 4031001  ;  Mob: Elynea Norvayn [Npcs] => #4031001 [Caldera] West gash, Caldera, ebony mine, company office
+E 1 3139003 1 5  ; -- Equip: Iron cuirass [Items] (body)
+E 1 3139002 1 10  ; -- Equip: Iron pauldrons [Items] (arms)
+E 1 3139006 1 7  ; -- Equip: Iron greaves [Items] (legs)
+E 1 3139007 1 8  ; -- Equip: Iron sabatons [Items] (feet)
+E 1 3139005 1 9  ; -- Equip: Iron gauntlets [Items] (hands)
+E 1 3139008 1 17  ; -- Equip: Iron bulwark [Items] (hold)
+E 1 3236141 1 16  ; -- Equip: Steel longsword of poison [Items] (wield)
+M 0 2301643 1 4031002  ;  Mob: Meanen [Npcs] => #4031002 [Caldera] West gash, Caldera, ebony mine, company office
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3001003 1 3  ; -- Equip: Amulet of light [Items] (neck-1)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+M 0 2302331 1 4031003  ;  Mob: Stlennius Vibato [Npcs] => #4031003 [Caldera] West gash, Caldera, ebony mine, company office
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3236155 1 16  ; -- Equip: Steel warhammer of poison [Items] (wield)
+M 0 2301430 1 4031004  ;  Mob: Kiseena [Npcs] => #4031004 [Caldera] West gash, Caldera, ebony mine, slave shack
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+M 0 2300507 1 4031005  ;  Mob: Dahleena [Npcs] => #4031005 [Caldera] West gash, Caldera, ebony mine, slave shack
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+M 0 2300045 1 4031006  ;  Mob: Ahanabi Assullinbanud [Npcs] => #4031006 [Caldera] West gash, Caldera, ebony mine, tunnels
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3003003 1 3  ; -- Equip: Crimson despair amulet [Items] (neck-1)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2300719 1 4031007  ;  Mob: Dun-Ilu Assurnumausur [Npcs] => #4031007 [Caldera] West gash, Caldera, ebony mine, tunnels
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3003003 1 3  ; -- Equip: Crimson despair amulet [Items] (neck-1)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2301089 1 4031008  ;  Mob: Gilm [Npcs] => #4031008 [Caldera] West gash, Caldera, ebony mine, tunnels
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2301328 1 4031009  ;  Mob: Inorra [Npcs] => #4031009 [Caldera] West gash, Caldera, ebony mine, tunnels
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2301423 1 4031010  ;  Mob: Khazura [Npcs] => #4031010 [Caldera] West gash, Caldera, ebony mine, tunnels
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2301834 1 4031011  ;  Mob: Neesha [Npcs] => #4031011 [Caldera] West gash, Caldera, ebony mine, tunnels
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2301912 1 4031012  ;  Mob: Ohibaal Assintashiran [Npcs] => #4031012 [Caldera] West gash, Caldera, ebony mine, tunnels
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3003003 1 3  ; -- Equip: Crimson despair amulet [Items] (neck-1)
+E 1 3223025 1 16  ; -- Equip: Iron pickaxe [Items] (wield)
+M 0 2301416 1 4031031  ;  Mob: Keel-Raniur [Npcs] => #4031031 [Caldera] West gash, Caldera, town, mainstreet
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2301832 1 4031032  ;  Mob: Nedhelas [Npcs] => #4031032 [Caldera] West gash, Caldera, town, mainstreet
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2300288 1 4031048  ;  Mob: Bashuk gra-Bat [Npcs] => #4031048 [Caldera] West gash, Caldera, town, Bashuk gra-Bat's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+M 0 2300442 1 4031049  ;  Mob: Canodia Felannus [Npcs] => #4031049 [Caldera] West gash, Caldera, town, Canodia Felannus's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3301048 1 1  ; -- Equip: Pewter ring [Items] (finger-r)
+G 1 3408034 1 ; -- Give: Petty soulgem [Items]
+M 0 2300691 1 4031050  ;  Mob: Dro'Shavir [Npcs] => #4031050 [Caldera] West gash, Caldera, town, Dro'Shavir's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300771 1 4031051  ;  Mob: Elmussa Damori [Npcs] => #4031051 [Caldera] West gash, Caldera, town, Elmussa Damori's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2300862 1 4031052  ;  Mob: Falanaamo [Npcs] => #4031052 [Caldera] West gash, Caldera, town, Falanaamo's clothing shop
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+G 1 3301009 1 ; -- Give: Copper amulet [Items]
+G 1 3102004 1 ; -- Give: Common sash [Items]
+G 1 3102005 1 ; -- Give: Common gloves [Items]
+G 1 3102009 1 ; -- Give: Common robe [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3301015 1 ; -- Give: Diamond circlet [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+G 1 3104008 1 ; -- Give: Expensive robe [Items]
+G 1 3104003 1 ; -- Give: Expensive shirt [Items]
+G 1 3105007 1 ; -- Give: Extravagant shoes [Items]
+G 1 3105010 1 ; -- Give: Extravagant skirt [Items]
+M 0 2300716 1 4031053  ;  Mob: Duma gro-Lag [Npcs] => #4031053 [Caldera] West gash, Caldera, town, Ghorak's manor
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2301079 1 4031054  ;  Mob: Ghoragdush gro-Kashug [Npcs] => #4031054 [Caldera] West gash, Caldera, town, Ghorak's manor
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3235026 1 16  ; -- Equip: Steel battleaxe [Items] (wield)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3304023 1 1  ; -- Equip: Copper ring of resist poison [Items] (finger-r)
+M 0 2301164 1 4031055  ;  Mob: Gulfim gra-Borbul [Npcs] => #4031055 [Caldera] West gash, Caldera, town, Ghorak's manor
+E 1 3149003 1 5  ; -- Equip: Nordic fur jerkin [Items] (body)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3235026 1 16  ; -- Equip: Steel battleaxe [Items] (wield)
+E 1 3002007 1 3  ; -- Equip: Balm amulet [Items] (neck-1)
+M 0 2301537 1 4031056  ;  Mob: Lorzub gro-Bogla [Npcs] => #4031056 [Caldera] West gash, Caldera, town, Ghorak's manor
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3212040 1 16  ; -- Equip: Dwarven longbow of fire [Items] (wield)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3002007 1 3  ; -- Equip: Balm amulet [Items] (neck-1)
+M 0 2302605 1 4031057  ;  Mob: Urul gro-Ghorak [Npcs] => #4031057 [Caldera] West gash, Caldera, town, Ghorak's manor
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3019019 1 13  ; -- Equip: Second barrier belt [Items] (waist)
+E 1 3304022 1 1  ; -- Equip: Copper ring of resist shock [Items] (finger-r)
+E 1 3213018 1 16  ; -- Equip: Ebony longsword [Items] (wield)
+M 0 2300503 1 4031058  ;  Mob: Cunius Pelelius [Npcs] => #4031058 [Caldera] West gash, Caldera, town, Governor's hall
+E 1 3106006 1 7  ; -- Equip: Exquisite pants [Items] (legs)
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3301036 1 1  ; -- Equip: Jeweled ring [Items] (finger-r)
+E 1 3236091 1 16  ; -- Equip: Steel dagger of shock [Items] (wield)
+G 1 3408047 1 ; -- Give: Master's lockpick [Items]
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300979 1 4031059  ;  Mob: Foves Arenim [Npcs] => #4031059 [Caldera] West gash, Caldera, town, Governor's hall
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3236091 1 16  ; -- Equip: Steel dagger of shock [Items] (wield)
+G 1 3009002 1 ; -- Give: Imperial netch blade [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3236091 1 ; -- Give: Steel dagger of shock [Items]
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301495 1 4031060  ;  Mob: Llaros Uvayn [Npcs] => #4031060 [Caldera] West gash, Caldera, town, Governor's hall
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3236132 1 16  ; -- Equip: Steel dagger of poison [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301909 1 4031061  ;  Mob: Odral Helvi [Npcs] => #4031061 [Caldera] West gash, Caldera, town, Governor's hall
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3018008 1 1  ; -- Equip: Ring of stormhand [Items] (finger-r)
+E 1 3019020 1 16  ; -- Equip: Steel staff of peace [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301923 1 4031062  ;  Mob: Olumba gro-Boglar [Npcs] => #4031062 [Caldera] West gash, Caldera, town, Governor's hall
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3019017 1 16  ; -- Equip: Silver staff of divine judgement [Items] (wield)
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2300961 1 4031063  ;  Mob: Folms Mirel [Npcs] => #4031063 [Caldera] West gash, Caldera, town, guild of mages
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3236084 1 16  ; -- Equip: Steel throwing star of shock [Items] (wield)
+G 1 3402143 1 ; -- Give: Scroll of soultrap [Items]
+G 1 3402062 1 ; -- Give: Scroll of disease resistance [Items]
+G 1 3402010 1 ; -- Give: Scroll of open [Items]
+G 1 3402009 1 ; -- Give: Scroll of lock [Items]
+G 1 3402043 1 ; -- Give: Scroll of recall [Items]
+G 1 3402114 1 ; -- Give: Scroll of magic damage [Items]
+G 1 3402112 1 ; -- Give: Scroll of shock damage [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2300820 1 4031064  ;  Mob: Ernand Thierry [Npcs] => #4031064 [Caldera] West gash, Caldera, town, guild of mages
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+G 1 3408012 1 ; -- Give: Apprentice's mortar and pestle [Items]
+G 1 3408013 1 ; -- Give: Apprentice's alembic [Items]
+G 1 3408014 1 ; -- Give: Apprentice's calcinator [Items]
+G 1 3408015 1 ; -- Give: Apprentice's retort [Items]
+G 1 3403005 1 ; -- Give: Alit hide [Items]
+G 1 3403090 1 ; -- Give: Corkbulb root [Items]
+G 1 3403012 1 ; -- Give: Ampoule pod [Items]
+G 1 3403224 1 ; -- Give: Luminous russula [Items]
+G 1 3403343 1 ; -- Give: Spore pod [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2300805 1 4031065  ;  Mob: Eraamion [Npcs] => #4031065 [Caldera] West gash, Caldera, town, guild of mages
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3019003 1 16  ; -- Equip: Steel spider blade [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301647 1 4031066  ;  Mob: Medila Indaren [Npcs] => #4031066 [Caldera] West gash, Caldera, town, guild of mages
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3019021 1 16  ; -- Equip: Steel dagger of swiftblade [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2300783 1 4031067  ;  Mob: Emelia Duronia [Npcs] => #4031067 [Caldera] West gash, Caldera, town, guild of mages
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3236009 1 16  ; -- Equip: Steel dagger of fire [Items] (wield)
+E 1 3013001 1 1  ; -- Equip: Mage ring [Items] (finger-r)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301249 1 4031068  ;  Mob: Hodlismod [Npcs] => #4031068 [Caldera] West gash, Caldera, town, Hodlismod's armory
+E 1 3139003 1 5  ; -- Equip: Iron cuirass [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3235032 1 16  ; -- Equip: Steel warhammer [Items] (wield)
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3408041 1 ; -- Give: Master armorer's hammer [Items]
+G 1 3235003 1 ; -- Give: Steel throwing knife [Items]
+G 1 3235001 1 ; -- Give: Steel throwing dart [Items]
+G 1 3231039 1 ; -- Give: Silver shortbow [Items]
+G 1 3231040 1 ; -- Give: Silver longbow [Items]
+G 1 3231041 1 ; -- Give: Silver crossbow [Items]
+G 1 3137006 1 ; -- Give: Imperial templar greaves [Items]
+G 1 3135001 1 ; -- Give: Imperial silver helm [Items]
+G 1 3130001 1 ; -- Give: Imperial chain scullcap [Items]
+G 1 3136007 1 ; -- Give: Imperial steel sabatons [Items]
+G 1 3139008 1 ; -- Give: Iron bulwark [Items]
+M 0 2301334 1 4031069  ;  Mob: Irgola [Npcs] => #4031069 [Caldera] West gash, Caldera, town, Irgola's pawnshop
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3231031 1 16  ; -- Equip: Silver staff [Items] (wield)
+G 1 3136006 1 ; -- Give: Imperial steel greaves [Items]
+G 1 3236009 1 ; -- Give: Steel dagger of fire [Items]
+G 1 3236012 1 ; -- Give: Steel shortsword of fire [Items]
+G 1 3227020 1 ; -- Give: Nordic claymore [Items]
+G 1 3232132 1 ; -- Give: Silver dagger of poison [Items]
+G 1 3003003 1 ; -- Give: Crimson despair amulet [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102009 1 ; -- Give: Common robe [Items]
+M 0 2301906 1 4031073  ;  Mob: Odairan Ashummi-Ammus [Npcs] => #4031073 [Caldera] West gash, Caldera, town, Odairan Ashummi-Ammus's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302070 1 4031074  ;  Mob: Ri'Shajirr [Npcs] => #4031074 [Caldera] West gash, Caldera, town, Shenk shovel's inn
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3304001 1 3  ; -- Equip: Copper amulet of health [Items] (neck-1)
+E 1 3235036 1 16  ; -- Equip: Steel halberd [Items] (wield)
+M 0 2302250 1 4031075  ;  Mob: Shenk [Npcs] => #4031075 [Caldera] West gash, Caldera, town, Shenk shovel's inn
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3205027 1 16  ; -- Equip: Chitin club [Items] (wield)
+G 1 3410005 1 ; -- Give: Sujamma [Items]
+G 1 3410009 1 ; -- Give: Greef [Items]
+G 1 3410007 1 ; -- Give: Shein [Items]
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410014 1 ; -- Give: Alto wine [Items]
+G 1 3410010 1 ; -- Give: Flin [Items]
+M 0 2301331 1 4031076  ;  Mob: Iratian Albarnian [Npcs] => #4031076 [Caldera] West gash, Caldera, town, Shenk shovel's inn
+E 1 3130003 1 5  ; -- Equip: Imperial chain jack [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3128007 1 8  ; -- Equip: Heavy leather striders [Items] (feet)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302344 1 4031078  ;  Mob: Surane Leoriane [Npcs] => #4031078 [Caldera] West gash, Caldera, town, Surane Leoriane's house
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3232132 1 16  ; -- Equip: Silver dagger of poison [Items] (wield)
+E 1 3320007 1 2  ; -- Equip: Blades' insignia [Items] (finger-l)
+M 0 2302638 1 4031079  ;  Mob: Valvius Mevureius [Npcs] => #4031079 [Caldera] West gash, Caldera, town, Valvius Mevureius's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+M 0 2302677 1 4031080  ;  Mob: Verick Gemain [Npcs] => #4031080 [Caldera] West gash, Caldera, town, Verick Gemain's trading shop
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3212196 1 16  ; -- Equip: Dwarven warhammer of magic [Items] (wield)
+G 1 3130001 1 ; -- Give: Imperial chain scullcap [Items]
+G 1 3159008 1 ; -- Give: Steel bulwark [Items]
+G 1 3221012 1 ; -- Give: Imperial shortsword [Items]
+G 1 3223024 1 ; -- Give: Iron waraxe [Items]
+G 1 3231002 1 ; -- Give: Silver throwing star [Items]
+G 1 3235040 1 ; -- Give: Steel longbow [Items]
+G 1 3104003 1 ; -- Give: Expensive shirt [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+G 1 3403077 1 ; -- Give: Chokeweed [Items]
+G 1 3403347 1 ; -- Give: Stoneflower petal [Items]
+S
+
+#SHOPS
+2300979 13 5 0 0 0 120 90 0 23
+2300820 10 13 19 0 0 120 90 0 23
+2300961 9 5 41 2 0 120 90 0 23
+2300862 9 0 0 0 0 120 90 0 23
+2301334 5 9 12 1 8 120 90 0 23
+2301249 5 9 0 0 0 120 90 0 23
+2302677 5 9 12 8 35 120 90 0 23
+2302250 17 19 0 0 0 120 90 0 23
+0
+
+#REPAIRS
+2301249 9 5 0 100 1 0 23
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 CALDERA~
+Caldera is an Imperial charter town built north of Balmora near its ebony mine
+where Nordic and Imperial buildings line a main road between two guard towers.
+Miners, merchants and guild mages fill its shops, tavern and stone-paved roads
+under the watch of a wealthy mining company fortress nearby.~
+0 $~
+
+#$

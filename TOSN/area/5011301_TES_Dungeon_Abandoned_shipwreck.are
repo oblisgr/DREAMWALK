@@ -1,0 +1,126 @@
+#AREA Abandoned shipwreck~
+
+#VERSION 1
+
+#CLIMATE 1 3 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011301
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011301
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011301
+Sheogorad, Abandoned, shipwreck, cabin~
+~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 5011305 0
+S
+#5011302
+Sheogorad, Abandoned, shipwreck, lower deck~
+~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 5011303 0
+S
+#5011303
+Sheogorad, Abandoned, shipwreck, lower deck~
+~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 5011302 0
+D3
+West~
+~
+0 0 5011304 0
+S
+#5011304
+Sheogorad, Abandoned, shipwreck, lower deck~
+~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 5011303 0
+S
+#5011305
+Sheogorad, Abandoned, shipwreck, upper deck~
+~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 5011306 0
+D3
+West~
+~
+0 0 5011301 0
+S
+#5011306
+Sheogorad, Abandoned, shipwreck, upper deck~
+~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 5011305 0
+S
+#0
+
+#SPECIALS
+S
+
+#HELPS
+1 ABANDONED SHIPWRECK~
+The Abandoned Shipwreck is a grounded vessel off the northeastern coast of Vas
+with its broken stern submerged beneath cold water, while the bow rests above.
+Crates of liquor, alchemical goods and forty pillows remain stowed below deck,
+beside an invoice and key to the captain's locked cabin.~
+0 $~
+
+#$

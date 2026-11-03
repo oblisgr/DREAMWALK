@@ -1,0 +1,648 @@
+#AREA Erabenimsun camp~
+
+#VERSION 1
+
+#CLIMATE 2 3 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4052001
+RESERVED~
+RESERVED~
+RESERVED
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4052001
+RESERVED~
+RESERVED~
+RESERVED
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4052001
+Molag amur, Erabenimsun, ashlander camp~
+Hard-packed tracks pass between weathered shelters beneath drifting ash clouds
+past blackened cookfires and shallow water bowls placed clear of passing feet.
+Smoke drifts between the low hide shelters and dust gathers around the hearths
+with sparse grass bending against the black soil.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052002 0
+S
+#4052002
+Molag amur, Erabenimsun, ashlander camp~
+Narrow tribal paths cross over dark volcanic ground in the bitter highland air
+past hide drying racks and worn household tools arranged outside the shelters.
+Ash swirls along the trampled paths whenever dry hides shift upon their frames
+with the low shelters offering modest protection.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052003 0
+D2
+South~
+~
+0 0 4052001 0
+S
+#4052003
+Molag amur, Erabenimsun, ashlander camp~
+Ash-covered footpaths wind through scattered hide yurts beneath muted daylight
+among rolled sleeping mats and patched guar hides spread beneath the open sky.
+The scent of leather hangs in the warm air as loose grass bends close to earth
+beneath a sky dulled by drifting volcanic ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052004 0
+D1
+East~
+~
+0 0 4052026 0
+D2
+South~
+~
+0 0 4052002 0
+S
+#4052004
+Molag amur, Erabenimsun, ashlander camp~
+Wind-scoured trails run across the open encampment under the open volcanic sky
+beside rough wooden frames and small bone charms kept near the low tent flaps.
+A bitter breeze crosses the open encampment as woven coverings stir and settle
+and the camp endures beneath the ashen sky.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052005 0
+D1
+East~
+~
+0 0 4052015 0
+D2
+South~
+~
+0 0 4052003 0
+D3
+West~
+~
+0 0 4052013 0
+S
+#4052005
+Molag amur, Erabenimsun, ashlander camp~
+Bare earthen paths weave through the sparse tribal camp under a pale ashen sky
+with tethering stakes and covered food baskets set beside the narrow walkways.
+Faint voices carry between the hide dwellings as hide walls shiver in the wind
+until embers glow within the shallow hearths.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052006 0
+D2
+South~
+~
+0 0 4052004 0
+S
+#4052006
+Molag amur, Erabenimsun, ashlander camp~
+Winding trails stretch among smoke-stained yurts through the dry afternoon air
+past weathered storage pots and clay vessels scattered across the hard ground.
+Muted daylight slowly fades across volcanic earth as smoke trails through camp
+with hide walls straining against their ropes.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052014 0
+D2
+South~
+~
+0 0 4052005 0
+D3
+West~
+~
+0 0 4052007 0
+S
+#4052007
+Molag amur, Erabenimsun, ashlander camp~
+Dry footways thread through clusters of hide shelters in the harsh upland wind
+among woven baskets and stacked fuel bundles resting near sheltered entrances.
+Hot wind sweeps through the scattered shelters as embers glow beneath grey ash
+with tent cords humming softly in the bitter air.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4052006 0
+D2
+South~
+~
+0 0 4052027 0
+D3
+West~
+~
+0 0 4052008 0
+S
+#4052008
+Molag amur, Erabenimsun, ashlander camp~
+Ash-covered footpaths stretch across hard volcanic earth amid the restless ash
+among hide water skins and coiled hide ropes gathered close to the hide walls.
+Loose dust turns around the low fire pits as the shelters endure the harsh air
+and smoke thins above the scattered dwellings.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052023 0
+D1
+East~
+~
+0 0 4052007 0
+D2
+South~
+~
+0 0 4052011 0
+D3
+West~
+~
+0 0 4052009 0
+S
+#4052009
+Molag amur, Erabenimsun, ashlander camp~
+Hard-packed tracks curve through the sparse tribal camp beneath muted daylight
+past ash-darkened hearths and plain wooden stools spread beneath the open sky.
+Tent cords creak across the quiet encampment and hide walls shiver in the wind
+before another veil of ash crosses the hard ground.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052021 0
+D1
+East~
+~
+0 0 4052008 0
+D2
+South~
+~
+0 0 4052010 0
+D3
+West~
+~
+0 0 4052016 0
+S
+#4052010
+Molag amur, Erabenimsun, ashlander camp~
+Crooked footpaths weave across the open encampment beneath drifting ash clouds
+among low fire pits and packed storage sacks resting near sheltered entrances.
+Thin smoke rises above the hidebound dwellings as dry hides shift close nearby
+beneath the ceaseless breath of volcanic wind.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052009 0
+D2
+South~
+~
+0 0 4052025 0
+D3
+West~
+~
+0 0 4052018 0
+S
+#4052011
+Molag amur, Erabenimsun, ashlander camp~
+Dusty walking paths curve among smoke-stained yurts in the bitter highland air
+past tethering stakes and simple cooking frames arranged outside the shelters.
+Fine ash gathers beside the shallow hearths as woven coverings stir and settle
+with the yurts shifting softly around the camp.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052008 0
+D2
+South~
+~
+0 0 4052012 0
+S
+#4052012
+Molag amur, Erabenimsun, ashlander camp~
+Wind-scoured trails pass through clusters of hide shelters beneath a smoky sky
+beside bundled travel packs and clay vessels scattered across the hard ground.
+Low voices drift between the clustered shelters as small cookfires crackle low
+and dust settles over every worn possession.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4052011 0
+D1
+East~
+~
+0 0 4052013 0
+S
+#4052013
+Molag amur, Erabenimsun, ashlander camp~
+Trampled camp paths thread across the open encampment in the harsh upland wind
+with blackened cookfires and small bone charms set beside the narrow walkways.
+Charcoal smoke mingles with the dusty air as embers glow beneath a veil of ash
+until the dry ground loses its fading warmth.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4052004 0
+D2
+South~
+~
+0 0 4052019 0
+D3
+West~
+~
+0 0 4052012 0
+S
+#4052014
+Molag amur, Erabenimsun, ashlander camp, Addut-Lamanu's yurt~
+Curving hide walls enclose a plain private shelter beneath sturdy angled poles
+with plain hide bedding and bundles of dry herbs stored beneath hanging lamps.
+A soft shadow falls inside the rounded yurt and wind presses against the hides
+with the quiet room bearing signs of daily life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4052006 0
+S
+#4052015
+Molag amur, Erabenimsun, ashlander camp, Ainab's yurt~
+Smoke-darkened hides enclose a modest family yurt beneath a low hidebound roof
+past patched floor rugs and worn household tools spread across the woven rugs.
+A dry herbal scent drifts around low furnishings and embers glow in the hearth
+before smoke escapes through the narrow roof vent.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4052004 0
+S
+#4052016
+Molag amur, Erabenimsun, ashlander camp, Ashkhan's yurt~
+Curving hide walls enclose an orderly tribal hall beneath a low hidebound roof
+among broad woven rugs and carefully stored arms resting along the hide walls.
+Soft lamplight falls beneath the roof poles and wind presses against the hides
+and the chamber carries quiet tribal authority.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4052017 0
+D1
+East~
+~
+0 0 4052009 0
+S
+#4052017
+Molag amur, Erabenimsun, ashlander camp, Ashkhan's yurt~
+Smoke-darkened hides enclose a formal command yurt beneath sturdy angled poles
+with carved weapon racks and ceremonial spears arranged around the low hearth.
+A faint draft slips inside the rounded yurt as the small fire gives off warmth
+beneath an air of guarded and dignified counsel.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4052016 0
+S
+#4052018
+Molag amur, Erabenimsun, ashlander camp, Ashu-Ahhe's yurt~
+Sturdy hide panels enclose a warm compact yurt beneath crossed timber supports
+among low wooden tables and stacked storage urns set beside the sleeping area.
+Faint firelight spreads across woven floor mats as the roof poles creak softly
+and the small hearth lends comfort to the room.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4052010 0
+S
+#4052019
+Molag amur, Erabenimsun, ashlander camp, Assemmus's yurt~
+Layered hide walls enclose a quiet round dwelling beneath a low hidebound roof
+with folded bedrolls and covered food baskets ordered around the living space.
+Amber lamplight glimmers over the hide walls and the room settles into silence
+beneath the muted creak of leather and rope.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4052013 0
+D2
+South~
+~
+0 0 4052020 0
+S
+#4052020
+Molag amur, Erabenimsun, ashlander camp, Assemmus's yurt~
+Tightly stretched hides enclose a warm family yurt beneath sturdy angled poles
+with woven sleeping mats and clay cooking pots resting beneath the roof poles.
+A faint draft moves among the clay vessels and the small fire gives off warmth
+until warm embers settle beneath a coat of ash.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4052019 0
+S
+#4052021
+Molag amur, Erabenimsun, ashlander camp, Han-Ammu's yurt~
+Stitched hide panels enclose a warm humble shelter beneath sturdy angled poles
+past folded bedrolls and worn household tools arranged for ordinary daily use.
+Thin hearth smoke gathers along the curved hides as the tent cords stir gently
+and every possession serves a practical purpose.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4052022 0
+D2
+South~
+~
+0 0 4052009 0
+S
+#4052022
+Molag amur, Erabenimsun, ashlander camp, Han-Ammu's yurt~
+Thick guar-hide walls enclose a quiet family yurt beneath a low hidebound roof
+with patched floor rugs and clay cooking pots placed around the round shelter.
+Warm firelight plays between the wooden poles as shadows gather near the floor
+and the shelter remains calm against the wind.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4052021 0
+S
+#4052023
+Molag amur, Erabenimsun, ashlander camp, Massarapal's yurt~
+Weathered hide walls enclose a plain compact yurt beneath a low hidebound roof
+past low wooden tables and stacked storage urns kept within comfortable reach.
+The scent of leather lingers over the hide walls and soft smoke rises overhead
+and the modest dwelling feels carefully tended.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4052024 0
+D2
+South~
+~
+0 0 4052008 0
+S
+#4052024
+Molag amur, Erabenimsun, ashlander camp, Massarapal's yurt~
+Smoke-darkened hides enclose a warm round dwelling beneath sturdy angled poles
+past plain hide bedding and covered food baskets resting along the hide walls.
+A muted glow flickers inside the rounded yurt as the room settles into silence
+leaving the hidebound shelter secure from dry wind.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4052023 0
+S
+#4052025
+Molag amur, Erabenimsun, ashlander camp, Ranabi's yurt~
+Sturdy hide panels surround this plain family yurt beneath sturdy angled poles
+among folded bedrolls and bundles of dry herbs kept beside the central hearth.
+Pale lamp glow glimmers around low furnishings as the outer hides shift softly
+with simple comforts filling the enclosed space.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4052010 0
+S
+#4052026
+Molag amur, Erabenimsun, ashlander camp, Salattanat's yurt~
+Curving hide walls enclose a warm compact yurt beneath a smoke-darkened canopy
+among woven sleeping mats and stacked storage urns gathered near the low fire.
+Amber lamplight flickers among the clay vessels and the tent cords stir gently
+as wind brushes softly across the outer hides.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4052003 0
+S
+#4052027
+Molag amur, Erabenimsun, ashlander camp, Wise Woman's yurt~
+Layered hide walls enclose a mystic sacred yurt beneath dark wooden roof poles
+past rows of clay vessels and stoppered remedies resting along the hide walls.
+Amber lamplight plays inside the rounded yurt as shadows gather near the floor
+and the fragrant chamber rests in sacred calm.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4052007 0
+S
+#0
+
+#RESETS
+M 0 2300212 1 4052001  ;  Mob: Assaba-Bentus [Npcs] => #4052001 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3205039 1 16  ; -- Equip: Chitin shortbow [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301179 1 4052002  ;  Mob: Hairan [Npcs] => #4052002 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp
+E 1 3003004 1 6  ; -- Equip: Chitin mask helm [Items] (head)
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301230 1 4052003  ;  Mob: Hirarend [Npcs] => #4052003 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235017 1 16  ; -- Equip: Steel katana [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301442 1 4052004  ;  Mob: Kummu [Npcs] => #4052004 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205039 1 16  ; -- Equip: Chitin shortbow [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301446 1 4052005  ;  Mob: Kushishi [Npcs] => #4052005 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302477 1 4052006  ;  Mob: Tinti [Npcs] => #4052006 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp
+E 1 3003004 1 6  ; -- Equip: Chitin mask helm [Items] (head)
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3008003 1 3  ; -- Equip: Hex charm [Items] (neck-1)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300020 1 4052014  ;  Mob: Addut-Lamanu [Npcs] => #4052014 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Addut-Lamanu's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3401057 1 ; -- Give: Potion of restore agility [Items]
+G 1 3401056 1 ; -- Give: Potion of restore endurance [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401058 1 ; -- Give: Potion of restore intelligence [Items]
+G 1 3401061 1 ; -- Give: Potion of restore luck [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300060 1 4052015  ;  Mob: Ainab [Npcs] => #4052015 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Ainab's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300047 1 4052016  ;  Mob: Ahaz [Npcs] => #4052016 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Ashkhan's yurt
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3019023 1 3  ; -- Equip: Sanit-Kil's Heart of Fire [Items] (neck-1)
+E 1 3023004 1 16  ; -- Equip: Wind of Ahaz [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302559 1 4052017  ;  Mob: Ulath-Pal [Npcs] => #4052017 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Ashkhan's yurt
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3023005 1 16  ; -- Equip: War axe of Airan Ammu [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300208 1 4052018  ;  Mob: Ashu-Ahhe [Npcs] => #4052018 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Ashu-Ahhe's yurt
+E 1 3013004 1 5  ; -- Equip: Mountain spirit [Items] (body)
+E 1 3125002 1 10  ; -- Equip: Gah julan bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3205024 1 16  ; -- Equip: Chitin waraxe [Items] (wield)
+G 1 3401061 1 ; -- Give: Potion of restore luck [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2300219 1 4052019  ;  Mob: Assemmus [Npcs] => #4052019 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Assemmus's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235017 1 16  ; -- Equip: Steel katana [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302781 1 4052020  ;  Mob: Zebba [Npcs] => #4052020 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Assemmus's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301189 1 4052021  ;  Mob: Han-Ammu [Npcs] => #4052021 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Han-Ammu's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302750 1 4052022  ;  Mob: Yantus [Npcs] => #4052022 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Han-Ammu's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301626 1 4052023  ;  Mob: Massarapal [Npcs] => #4052023 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Massarapal's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+G 1 3205039 1 ; -- Give: Chitin shortbow [Items]
+G 1 3205002 1 ; -- Give: Chitin throwing star [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3409006 1 ; -- Give: Boiled ash hopper legs [Items]
+G 1 3403020 1 ; -- Give: Ash salt [Items]
+G 1 3403021 1 ; -- Give: Ash yam [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302564 1 4052024  ;  Mob: Ulibabi [Npcs] => #4052024 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Massarapal's yurt
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302011 1 4052025  ;  Mob: Ranabi [Npcs] => #4052025 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Ranabi's yurt
+E 1 3018012 1 5  ; -- Equip: Robe of Erur-Dan the wise [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3002012 1 9  ; -- Equip: Boneweave gauntlets [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3018011 1 16  ; -- Equip: Racerbeak [Items] (wield)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2302138 1 4052026  ;  Mob: Salattanat [Npcs] => #4052026 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Salattanat's yurt
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205034 1 16  ; -- Equip: Chitin spear [Items] (wield)
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+M 0 2301597 1 4052027  ;  Mob: Manirai [Npcs] => #4052027 [Erabenimsun camp] Molag amur, Erabenimsun, ashlander camp, Wise Woman's yurt
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3403020 1 ; -- Give: Ash salt [Items]
+G 1 3403095 1 ; -- Give: Crab meat [Items]
+G 1 3403228 1 ; -- Give: Marshmerrow [Items]
+G 1 3403291 1 ; -- Give: Resin [Items]
+G 1 3403306 1 ; -- Give: Saltrice [Items]
+E 1 3320021 1 2  ; -- Equip: Ashlanders' insignia [Items] (finger-l)
+S
+
+#SHOPS
+2300020 10 13 0 0 0 120 90 0 23 ; Addut-Lamanu
+2301626 5 9 12 8 35 120 90 0 23 ; Massarapal
+2301597 10 2 13 8 19 120 90 0 23 ; Manirai
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 ERABENIMSUN CAMP~
+Erabenimsun Camp is a hostile Ashlander settlement in the center of Molag Amur
+where hide yurts stand amid ashen hills claimed by a fierce and warlike tribe.
+A trader, healer and wise woman serve the camp under the gaze of armed hunters
+as divisions between peace and violence trouble tribal life.~
+0 $~
+
+#$

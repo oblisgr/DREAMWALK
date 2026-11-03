@@ -1,0 +1,766 @@
+#AREA Dren plantation~
+
+#VERSION 1
+
+#CLIMATE 2 2 1
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4042001
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4042001
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4042001
+Ascadian isles, Dren, plantation, fields~
+Orderly plantation rows run gently across cultivated land in mild southern air
+with damp narrow furrows, low stacks of crates and a few simple farming tools.
+Warm sunlight crosses the open fields and dry stalks brush against one another
+as this growing plot carries the scent of growing leaves.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4042006 0
+D2
+South~
+~
+0 0 4042002 0
+S
+#4042002
+Ascadian isles, Dren, plantation, fields~
+Broad plantation paths cross beside low furrows beneath slowly drifting clouds
+past fresh green leaves and covered supply sacks left beside the planted rows.
+Soft daylight glints upon the water while dry stalks brush against one another
+and the worked earth holds the warmth of the open day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042001 0
+D2
+South~
+~
+0 0 4042003 0
+S
+#4042003
+Ascadian isles, Dren, plantation, fields~
+Worn agricultural paths extend onward between tilled plots beneath a clear sky
+with broad crop leaves and folded work cloths resting along the worked ground.
+Daylight flashes across shallow water and dry stalks brush against one another
+as the ordered field shows the care of repeated cultivation.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042002 0
+D2
+South~
+~
+0 0 4042004 0
+S
+#4042004
+Ascadian isles, Dren, plantation, fields~
+Narrow field tracks run steadily beside low furrows under clear southern light
+among broad crop leaves and folded work cloths left near the cultivated plots.
+Pale sunlight warms the open ground while dry stalks brush against one another
+and the open farmland smells of water and rich soil.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042003 0
+D2
+South~
+~
+0 0 4042005 0
+S
+#4042005
+Ascadian isles, Dren, plantation, fields~
+Cultivated strips of ground extend onward among green crops beneath open skies
+with water-darkened soil, tied bundles of rope and a few simple farming tools.
+Loose leaves stir along the field paths and thin shadows move between the rows
+as this cultivated land holds the warmth of the open day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042004 0
+D2
+South~
+~
+0 0 4042031 0
+S
+#4042006
+Ascadian isles, Dren, plantation, fields~
+Well-tended growing plots run across cultivated land in the mild and humid air
+past fresh plant shoots and covered supply sacks left beside the planted rows.
+The smell of wet soil rises in the warmth as water moves between the low banks
+and the fertile ground carries the scent of growing leaves.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042015 0
+D1
+East~
+~
+0 0 4042007 0
+D2
+South~
+~
+0 0 4042026 0
+D3
+West~
+~
+0 0 4042001 0
+S
+#4042007
+Ascadian isles, Dren, plantation, fields~
+Level stretches of farmland continue among green crops in soft afternoon light
+past fresh plant shoots and folded work cloths left near the cultivated plots.
+Humid air settles over the dark soil as water glides along the narrow channels
+and the ordered field carries the scent of growing leaves.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042030 0
+D1
+East~
+~
+0 0 4042008 0
+D2
+South~
+~
+0 0 4042027 0
+D3
+West~
+~
+0 0 4042006 0
+S
+#4042008
+Ascadian isles, Dren, plantation, fields~
+Long plots of worked soil stretch gently among green crops beneath a clear sky
+past broad crop leaves and folded work cloths resting along the worked ground.
+A light breeze moves over the fields while low banks crumble into the channels
+and the open farmland holds the warmth of the open day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042025 0
+D1
+East~
+~
+0 0 4042009 0
+D2
+South~
+~
+0 0 4042032 0
+D3
+West~
+~
+0 0 4042007 0
+S
+#4042009
+Ascadian isles, Dren, plantation, fields~
+Low paths among the crops curve gently over darkened earth under warm daylight
+with fresh green leaves, empty harvest baskets and a few simple farming tools.
+Small insects hum above the furrows while dry stalks brush against one another
+and this growing plot holds the warmth of the open day.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042013 0
+D1
+East~
+~
+0 0 4042021 0
+D2
+South~
+~
+0 0 4042010 0
+D3
+West~
+~
+0 0 4042008 0
+S
+#4042010
+Ascadian isles, Dren, plantation, fields~
+Firm paths through the fields wind onward among green crops under the open sky
+with water-darkened soil and plain digging tools left beside the planted rows.
+Rich earthy scents rise from the furrows as insects hover above the moist soil
+and the fertile ground rests beneath the humid southern air.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042009 0
+D1
+East~
+~
+0 0 4042022 0
+D2
+South~
+~
+0 0 4042011 0
+S
+#4042011
+Ascadian isles, Dren, plantation, fields~
+Hard-packed earthen paths run steadily between tilled plots under the open sky
+with fresh green leaves and folded work cloths left near the cultivated plots.
+A mild breeze passes over the crops while water trickles between the low banks
+and the worked earth shows the care of repeated cultivation.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042010 0
+D2
+South~
+~
+0 0 4042012 0
+S
+#4042012
+Ascadian isles, Dren, plantation, fields~
+Open areas of tilled earth extend beside low furrows in the mild and humid air
+among fresh green leaves, tied bundles of rope and a few simple farming tools.
+Moist air settles across the planted rows as the narrow furrows glisten softly
+and this cultivated land smells of water and rich soil.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042011 0
+D2
+South~
+~
+0 0 4042017 0
+D3
+West~
+~
+0 0 4042028 0
+S
+#4042013
+Ascadian isles, Dren, plantation, fields~
+Worn agricultural paths curve steadily over darkened earth under warm daylight
+past fresh green leaves and weathered hand tools left beside the planted rows.
+Warm air drifts over the carefully tended rows and the open fields remain calm
+as the fertile ground smells of water and rich soil.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4042014 0
+D2
+South~
+~
+0 0 4042009 0
+S
+#4042014
+Ascadian isles, Dren, plantation, fields~
+Low paths among the crops pass onward over darkened earth in mild southern air
+past fresh green leaves and folded work cloths left near the cultivated plots.
+Daylight flashes across shallow water and the open land rests beneath the heat
+as the open farmland shows the care of repeated cultivation.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4042013 0
+S
+#4042015
+Ascadian isles, Dren, plantation, Dove's shack~
+Simple timber walls frame this quiet domestic room beneath aged overhead beams
+beside plain wooden cots and earthen water jars ordered across the hard floor.
+Muted firelight flickers over the worn sleeping mats and dust hangs in the air
+as the modest shelter holds only the needs of ordinary life.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042016 0
+D2
+South~
+~
+0 0 4042006 0
+S
+#4042016
+Ascadian isles, Dren, plantation, Dove's shack~
+Patched wooden walls frame this dusty utility room beneath aged overhead beams
+beside stacks of empty sacks and clay food jars arranged in disciplined order.
+Muted firelight shines across the crowded shelves as the air holds a dry scent
+and the practical room uses every corner for modest storage.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4042015 0
+S
+#4042017
+Ascadian isles, Dren, plantation, Dren's villa~
+A guarded entrance hall opens within warm ochre walls under muted hearth light
+with carved support pillars and waiting benches set between the narrow aisles.
+A shifting glow trembles across the polished floor as wax scents the quiet air
+and the formal hall sets a sober tone for the rooms beyond.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042012 0
+D2
+South~
+~
+0 0 4042018 0
+S
+#4042018
+Ascadian isles, Dren, plantation, Dren's villa~
+Curved plaster walls enclose a quiet reception room beneath broad wooden beams
+among padded resting chairs and fine ceramic vessels placed within easy reach.
+Soft candlelight falls over the woven floor rugs and lamp smoke curls overhead
+as the refined room feels removed from the working grounds.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042017 0
+D4
+Up~
+~
+0 0 4042020 0
+S
+#4042019
+Ascadian isles, Dren, plantation, Dren's villa~
+Warm ochre walls enclose a secluded writing chamber beneath broad wooden beams
+among locked record chests and bound account ledgers placed within easy reach.
+Muted firelight falls across the open ledgers as the rafters hold deep shadows
+and the study smells of ink, wax and parchment.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4042020 0
+S
+#4042020
+Ascadian isles, Dren, plantation, Dren's villa~
+Broad plaster walls enclose a quiet resting room beneath heavy decorated beams
+past a carved wooden bed and polished storage chests placed within easy reach.
+Warm lamplight falls along the heavy curtains as shadows gather in the corners
+and this private room holds an air of restrained refinement.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042019 0
+D5
+Down~
+~
+0 0 4042018 0
+S
+#4042021
+Ascadian isles, Dren, plantation, guardhouse~
+Thick plaster walls frame this disciplined watch room beneath heavy roof beams
+beside polished shields and sealed supply chests resting in well-used corners.
+Warm lamplight plays across the weapon racks as the wooden floor remains still
+and the guarded chamber remains prepared for sudden alarms.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4042009 0
+D4
+Up~
+~
+0 0 4042023 0
+S
+#4042022
+Ascadian isles, Dren, plantation, guardhouse~
+Thick plaster walls enclose a plain barracks room beneath a low timber ceiling
+among rows of wooden bunks and heavy work boots ordered across the hard floor.
+A shifting glow falls across the wooden bunks as shadows gather in the corners
+and this plain room keeps every necessity within easy reach.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4042010 0
+D4
+Up~
+~
+0 0 4042024 0
+S
+#4042023
+Ascadian isles, Dren, plantation, guardhouse roof~
+A flat defensive roof rests above thick supporting walls under steady daylight
+beside covered water jars and small oil braziers set safely below the parapet.
+Soft shadows cross the stonework and loose straps tap against the weapon racks
+as the exposed post keeps its equipment close at hand.~
+0 0 1 0 0 0
+D5
+Down~
+~
+0 0 4042021 0
+S
+#4042024
+Ascadian isles, Dren, plantation, guardhouse roof~
+This weathered rooftop lies beneath the wide southern sky in the warm open air
+among warning horns and small oil braziers placed within quick and easy reach.
+Pale light falls across the roof while the parapets cast narrow bands of shade
+and this raised platform keeps its equipment close at hand.~
+0 0 1 0 0 0
+D5
+Down~
+~
+0 0 4042022 0
+S
+#4042025
+Ascadian isles, Dren, plantation, Helvi's shack~
+Patched wooden walls enclose a quiet domestic room beneath aged overhead beams
+past narrow sleeping mats and earthen water jars resting in well-used corners.
+Muted firelight drifts around the simple bedding and the air holds a dry scent
+as the plain interior keeps its few comforts close at hand.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4042008 0
+S
+#4042026
+Ascadian isles, Dren, plantation, Hlevala's shack~
+Rough plank walls enclose a plain sleeping chamber beneath aged overhead beams
+among simple bedrolls and earthen water jars arranged for practical daily use.
+Warm lamplight falls across the wooden walls and the enclosed room stays quiet
+as this humble room retains the warmth of the small hearth.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042006 0
+S
+#4042027
+Ascadian isles, Dren, plantation, Rethan's shack~
+Patched wooden walls enclose a compact shared shelter beneath heavy crossbeams
+past low straw pallets and woven storage baskets resting in well-used corners.
+Warm lamplight drifts over the worn sleeping mats as lamp smoke curls overhead
+and this humble room bears the marks of constant daily use.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042007 0
+S
+#4042028
+Ascadian isles, Dren, plantation, shipping house~
+Patched wooden walls enclose a crowded receiving room beneath heavy roof beams
+among stacked produce sacks and bundled packing rope placed within easy reach.
+Warm lamplight glimmers across the loading tables as lamp smoke curls overhead
+and the busy chamber bears the wear of constant handling.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4042012 0
+D3
+West~
+~
+0 0 4042029 0
+S
+#4042029
+Ascadian isles, Dren, plantation, shipping house~
+Smoke-darkened walls frame this dusty cargo store beneath broad wooden rafters
+with rows of sealed barrels and marked packing cases placed within easy reach.
+Muted firelight plays beneath the high roof beams as the air holds a dry scent
+and the crowded store remains arranged for quick inspection.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4042028 0
+S
+#4042030
+Ascadian isles, Dren, plantation, storage shack~
+Smoke-darkened walls frame this dusty tool store beneath stout wooden supports
+among rows of supply sacks and coils of hauling rope placed within easy reach.
+Muted firelight moves across the equipment shelves while dust hangs in the air
+and the practical room shows the wear of repeated fieldwork.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4042007 0
+S
+#4042031
+Ascadian isles, Dren, plantation, tower shack~
+Aged wooden walls enclose a weathered lookout chamber beneath heavy crossbeams
+with small shuttered windows, folded weather cloaks and spare lengths of rope.
+Warm lamplight shines along the steep inner stair as lamp smoke curls overhead
+and the raised shelter holds only the needs of a long watch.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042005 0
+S
+#4042032
+Ascadian isles, Dren, plantation, Varethi and Dralor's shack~
+Simple timber walls frame this plain sleeping chamber beneath rough roof beams
+among low straw pallets and clay cooking pots kept clear of the central aisle.
+Muted firelight plays across the wooden walls as a light draft stirs the cloth
+and the modest shelter keeps its few comforts close at hand.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042008 0
+D2
+South~
+~
+0 0 4042033 0
+S
+#4042033
+Ascadian isles, Dren, plantation, Varethi and Dralor's shack~
+A crowded workroom opens within rough plank walls under soft amber candlelight
+beside stacks of empty sacks and clay food jars stored beneath sturdy shelves.
+Low golden light drifts over the scarred worktable while dust hangs in the air
+as this narrow chamber uses every corner for modest storage.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4042032 0
+S
+#0
+
+#RESETS
+M 0 2300031 1 4042001  ;  Mob: Aebondeius Jucanis [Npcs] => #4042001 [Dren plantation] Ascadian isles, Dren, plantation, fields
+E 1 3150001 1 6  ; -- Equip: Nordic iron helm [Items] (head)
+E 1 3139003 1 5  ; -- Equip: Iron cuirass [Items] (body)
+E 1 3139002 1 10  ; -- Equip: Iron pauldrons [Items] (arms)
+E 1 3139006 1 7  ; -- Equip: Iron greaves [Items] (legs)
+E 1 3132007 1 8  ; -- Equip: Imperial iron sabatons [Items] (feet)
+E 1 3139005 1 9  ; -- Equip: Iron gauntlets [Items] (hands)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+G 1 3401056 1 ; -- Give: Potion of restore endurance [Items]
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300058 1 4042002  ;  Mob: Ahzini [Npcs] => #4042002 [Dren plantation] Ascadian isles, Dren, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301601 1 4042006  ;  Mob: Manos Othreleth [Npcs] => #4042006 [Dren plantation] Ascadian isles, Dren, plantation, fields
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3020002 1 1  ; -- Equip: Third barrier ring [Items] (finger-r)
+E 1 3213019 1 16  ; -- Equip: Ebony broadsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301641 1 4042007  ;  Mob: Mavus Ules [Npcs] => #4042007 [Dren plantation] Ascadian isles, Dren, plantation, fields
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301835 1 4042008  ;  Mob: Neetinei [Npcs] => #4042008 [Dren plantation] Ascadian isles, Dren, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2301006 1 4042009  ;  Mob: Gah Julan [Npcs] => #4042009 [Dren plantation] Ascadian isles, Dren, plantation, fields
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300154 1 4042015  ;  Mob: Arabhi [Npcs] => #4042015 [Dren plantation] Ascadian isles, Dren, plantation, Dove's shack
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302347 1 4042016  ;  Mob: Suvryn Doves [Npcs] => #4042016 [Dren plantation] Ascadian isles, Dren, plantation, Dove's shack
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3235021 1 16  ; -- Equip: Steel daikatana [Items] (wield)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301025 1 4042017  ;  Mob: Galos Farethi [Npcs] => #4042017 [Dren plantation] Ascadian isles, Dren, plantation, Dren's villa
+E 1 3154006 1 7  ; -- Equip: Orcish guards [Items] (legs)
+E 1 3123007 1 8  ; -- Equip: Ebony sabatons [Items] (feet)
+E 1 3120008 1 17  ; -- Equip: Daedric bulwark [Items] (hold)
+E 1 3207017 1 16  ; -- Equip: Daedric katana [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301829 1 4042018  ;  Mob: Navil Ienith [Npcs] => #4042018 [Dren plantation] Ascadian isles, Dren, plantation, Dren's villa
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3218135 1 16  ; -- Equip: Glass shortsword of poison [Items] (wield)
+M 0 2301944 1 4042019  ;  Mob: Orvas Dren [Npcs] => #4042019 [Dren plantation] Ascadian isles, Dren, plantation, Dren's villa
+E 1 3154003 1 5  ; -- Equip: Orcish jack [Items] (body)
+E 1 3154002 1 10  ; -- Equip: Orcish armcops [Items] (arms)
+E 1 3154006 1 7  ; -- Equip: Orcish guards [Items] (legs)
+E 1 3154007 1 8  ; -- Equip: Orcish boots [Items] (feet)
+E 1 3154005 1 9  ; -- Equip: Orcish wristguards [Items] (hands)
+E 1 3213034 1 16  ; -- Equip: Ebony spear [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302012 1 4042020  ;  Mob: Ranes Ienith [Npcs] => #4042020 [Dren plantation] Ascadian isles, Dren, plantation, Dren's villa
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+E 1 3301040 1 1  ; -- Equip: Malachite ring [Items] (finger-r)
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+M 0 2301061 1 4042021  ;  Mob: Gathal Llethri [Npcs] => #4042021 [Dren plantation] Ascadian isles, Dren, plantation, guardhouse
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3207020 1 16  ; -- Equip: Daedric claymore [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302698 1 4042022  ;  Mob: Virene Mene [Npcs] => #4042022 [Dren plantation] Ascadian isles, Dren, plantation, guardhouse
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3231020 1 16  ; -- Equip: Silver claymore [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300195 1 4042023  ;  Mob: Arver Rethul [Npcs] => #4042023 [Dren plantation] Ascadian isles, Dren, plantation, guardhouse roof
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3159007 1 8  ; -- Equip: Steel sabatons [Items] (feet)
+E 1 3002009 1 17  ; -- Equip: Blessed shield [Items] (hold)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3207018 1 16  ; -- Equip: Daedric longsword [Items] (wield)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302657 1 4042024  ;  Mob: Vaval Orethi [Npcs] => #4042024 [Dren plantation] Ascadian isles, Dren, plantation, guardhouse roof
+E 1 3003007 1 6  ; -- Equip: Chitin watchman's helm [Items] (head)
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3002010 1 16  ; -- Equip: Bonemold longbow [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301629 1 4042025  ;  Mob: Mathesa Helvi [Npcs] => #4042025 [Dren plantation] Ascadian isles, Dren, plantation, Helvi's shack
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2301242 1 4042026  ;  Mob: Hlevala Madalvel [Npcs] => #4042026 [Dren plantation] Ascadian isles, Dren, plantation, Hlevala's shack
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3213018 1 16  ; -- Equip: Ebony longsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300352 1 4042027  ;  Mob: Bolayn Rethan [Npcs] => #4042027 [Dren plantation] Ascadian isles, Dren, plantation, Rethan's shack
+E 1 3157003 1 5  ; -- Equip: Silver cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3159006 1 7  ; -- Equip: Steel greaves [Items] (legs)
+E 1 3159007 1 8  ; -- Equip: Steel sabatons [Items] (feet)
+E 1 3159005 1 9  ; -- Equip: Steel gauntlets [Items] (hands)
+E 1 3231024 1 16  ; -- Equip: Silver waraxe [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301624 1 4042028  ;  Mob: Mash gro-Burol [Npcs] => #4042028 [Dren plantation] Ascadian isles, Dren, plantation, shipping house
+E 1 3125003 1 5  ; -- Equip: Gah julan bonemold jack [Items] (body)
+E 1 3125002 1 10  ; -- Equip: Gah julan bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3235017 1 16  ; -- Equip: Steel katana [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302614 1 4042029  ;  Mob: Ushamph gro-Shamub [Npcs] => #4042029 [Dren plantation] Ascadian isles, Dren, plantation, shipping house
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115002 1 10  ; -- Equip: Bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300249 1 4042030  ;  Mob: Avus Belvilo [Npcs] => #4042030 [Dren plantation] Ascadian isles, Dren, plantation, storage shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301494 1 4042031  ;  Mob: Llaro Llethri [Npcs] => #4042031 [Dren plantation] Ascadian isles, Dren, plantation, tower shack
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3207021 1 16  ; -- Equip: Daedric daikatana [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301162 1 4042032  ;  Mob: Guldrise Dralor [Npcs] => #4042032 [Dren plantation] Ascadian isles, Dren, plantation, Varethi and Dralor's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3217009 1 16  ; -- Equip: Glass dagger [Items] (wield)
+G 1 3406183 1 ; -- Give: Guide to Vivec [Items]
+G 1 3406022 1 ; -- Give: Adabal-a [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301350 1 4042033  ;  Mob: Ivrosa Verethi [Npcs] => #4042033 [Dren plantation] Ascadian isles, Dren, plantation, Varethi and Dralor's shack
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3126008 1 17  ; -- Equip: Glass buckler [Items] (hold)
+E 1 3217018 1 16  ; -- Equip: Glass longsword [Items] (wield)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 DREN PLANTATION~
+Dren Plantation is a large netch farm spread across the fertile Ascadian Isles
+where guarded fields, slave shacks and docks support its wealthy noble master.
+Dunmer and Nord guards patrol among Khajiit and Argonian workers in the fields
+as hidden moon sugar crates show a thriving smuggling trade.~
+0 $~
+
+#$

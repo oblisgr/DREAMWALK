@@ -1,0 +1,316 @@
+#AREA Abinabi_sixth_house_base~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011601
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011601
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011601
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011602 0
+S
+#5011602
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011603 0
+D2
+South~
+~
+0 0 5011601 0
+S
+#5011603
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011604 0
+D2
+South~
+~
+0 0 5011602 0
+S
+#5011604
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011605 0
+D2
+South~
+~
+0 0 5011603 0
+S
+#5011605
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011606 0
+D2
+South~
+~
+0 0 5011604 0
+S
+#5011606
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011607 0
+D2
+South~
+~
+0 0 5011605 0
+S
+#5011607
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011608 0
+D2
+South~
+~
+0 0 5011606 0
+S
+#5011608
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011609 0
+D2
+South~
+~
+0 0 5011607 0
+S
+#5011609
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011610 0
+D2
+South~
+~
+0 0 5011608 0
+S
+#5011610
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011609 0
+D3
+West~
+~
+0 0 5011611 0
+S
+#5011611
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011610 0
+D2
+South~
+~
+0 0 5011612 0
+D3
+West~
+~
+0 0 5011613 0
+S
+#5011612
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011611 0
+S
+#5011613
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011611 0
+D2
+South~
+~
+0 0 5011614 0
+D3
+West~
+~
+0 0 5011615 0
+S
+#5011614
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011613 0
+S
+#5011615
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011613 0
+D2
+South~
+~
+0 0 5011616 0
+S
+#5011616
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011615 0
+D2
+South~
+~
+0 0 5011617 0
+S
+#5011617
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011616 0
+D2
+South~
+~
+0 0 5011618 0
+S
+#5011618
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011617 0
+D1
+East~
+~
+0 0 5011620 0
+D2
+South~
+~
+0 0 5011619 0
+S
+#5011619
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011618 0
+S
+#5011620
+Ashlands, Abinabi, sixth house base~
+~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 5011618 0
+S
+#0
+
+#SPECIALS
+S
+
+#HELPS
+1 ABINABI SIXTH HOUSE BASE~
+Abinabi is a blighted cavern in the northwestern Ashlands, west of Falasmaryon
+where Sixth House cultists and warped creatures gather around a hidden shrine.
+Dreamers keep watch among ash statues, corprus hunks and soot-blackened altars
+as a heavy bell hammer rests within the corrupted depths.~
+0 $~
+
+#$

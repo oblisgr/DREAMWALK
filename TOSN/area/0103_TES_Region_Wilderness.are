@@ -1,0 +1,1525 @@
+#AREA Wilderness 0103~
+
+#VERSION 1
+
+#CLIMATE 3 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#1010301
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#1010301
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#1010301
+Ashlands region, wilderness~
+A dry channel through ash runs along a dusty hollow under a colorless open sky
+past low earthen banks, loose cinders and blackened ridges in shallow hollows.
+Gray dust blows above the powdery earth as brittle stems bow close to the soil
+as small stones tumble across distant slopes.~
+0 0 2 0 0 0
+D2
+South~
+~
+0 0 1010308 0
+S
+#1010303
+Ashlands region, wilderness~
+A wind-scoured path curves across an ashen plain under a veil of drifting dust
+among cracked lava slabs, twisted roots and sparse scrub over the barren soil.
+Fine ash sweeps across the open waste and low plants rattle against the gravel
+as gray light fades across the empty ground.~
+0 0 2 0 0 2
+D2
+South~
+~
+0 0 1010310 0
+S
+#1010304
+Ashlands region, wilderness~
+Dark volcanic ground spreads along broken slopes beneath muted afternoon light
+beside weathered stones, black shards and dry grass clumps on the ashen plain.
+Cold air drifts along the empty trail as loose flakes scrape across the basalt
+and silence deepens along the barren ridges.~
+0 0 2 0 0 3
+D1
+East~
+~
+0 0 1010305 0
+D2
+South~
+~
+0 0 1010311 0
+S
+#1010305
+Ashlands region, wilderness~
+An ash-covered track winds over hard cinder soil under a broad ceiling of haze
+among ash drifts, scattered pebbles and wind-carved rocks along the worn path.
+Thin grit shifts around the dark outcrops as dry roots creak beneath the gusts
+as brittle plants rattle along the dusty trail.~
+0 0 2 0 0 4
+D1
+East~
+~
+0 0 1010306 0
+D2
+South~
+~
+0 0 1010312 0
+D3
+West~
+~
+0 0 1010304 0
+S
+#1010306
+Ashlands region, wilderness~
+Uneven shelves of lava rise over cracked earth beneath slow-moving gray clouds
+beside jagged boulders, brittle shrubs and dusty weeds across the open ground.
+Dry wind runs across the barren slopes as shallow eddies form behind the rocks
+and ash settles beneath the volcanic haze.~
+0 0 2 0 0 5
+D1
+East~
+~
+0 0 1010307 0
+D3
+West~
+~
+0 0 1010305 0
+S
+#1010307
+Ashlands region, wilderness~
+A shallow stony basin opens along the base of a barren ridge beneath low cloud
+past pale thorn bushes, dark basalt shards and bare roots over the gray earth.
+Pale dust rises over the broken ground as dim light glances across the cinders
+and dry brush bends under the steady wind.~
+0 0 2 0 0 6
+D3
+West~
+~
+0 0 1010306 0
+S
+#1010308
+Ashlands region, wilderness~
+A narrow cinder trail threads between dark rocks amid the chill of steady wind
+past dust-filled hollows, flat stones and shallow gullies against the horizon.
+Volcanic haze hangs across the open waste as dark pebbles roll down the slopes
+as fine cinders collect beneath the clouded sky.~
+0 0 2 0 0 7
+D0
+North~
+~
+0 0 1010301 0
+D2
+South~
+~
+0 0 1010315 0
+S
+#1010309
+Ashlands region, wilderness~
+An exposed ash plain stretches through open wastes in the dry and restless air
+among patches of gray lichen, dark rocks and loose grit along the dusty track.
+Pale dust rises along the empty trail as weathered rock faces lose their edges
+as the mineral scent hangs inside shallow hollows.~
+0 0 2 0 0 8
+D2
+South~
+~
+0 0 1010316 0
+S
+#1010310
+Ashlands region, wilderness~
+Rugged volcanic slopes run across a broad expanse of cinders beneath dim light
+beside brittle shrubs, low rock shelves and sparse scrub beneath the pale sky.
+Cold air moves along the exposed ridges as scattered grit dances over the path
+with weathered stones scattering over the open waste.~
+0 0 2 0 0 9
+D0
+North~
+~
+0 0 1010303 0
+D1
+East~
+~
+0 0 1010311 0
+D2
+South~
+~
+0 0 1010317 0
+S
+#1010311
+Ashlands region, wilderness~
+Old fields of cooled lava extend over cracked earth under banks of ashen cloud
+beside jagged boulders, scattered pebbles and ash drifts over the barren soil.
+Dry wind passes over the broken ground as thin grasses shiver among the stones
+as loose grit gathers among the rocks.~
+0 0 2 0 0 10
+D0
+North~
+~
+0 0 1010304 0
+D3
+West~
+~
+0 0 1010310 0
+S
+#1010312
+Ashlands region, wilderness~
+Gray dust-covered ground rises through shallow folds in the land amid dry wind
+past low banks, loose grit and bare roots marking the otherwise empty terrain.
+Fine ash swirls along the exposed ridges as faded plants bend toward the earth
+as silence spreads between the dark outcrops.~
+0 0 2 0 0 11
+D0
+North~
+~
+0 0 1010305 0
+D2
+South~
+~
+0 0 1010319 0
+S
+#1010315
+Ashlands region, wilderness~
+A desolate sweep of ash extends along broken slopes beneath pale volcanic haze
+among blackened ridges, dust-filled hollows and dry scrub along the worn path.
+Gray dust spreads across the open waste as small drifts gather along the stone
+with the empty land fading above the barren earth.~
+0 0 2 0 0 14
+D0
+North~
+~
+0 0 1010308 0
+D1
+East~
+~
+0 0 1010316 0
+S
+#1010316
+Ashlands region, wilderness~
+Black cinder earth rises along a dusty hollow amid fine grit borne on the wind
+among shallow gullies, flat stones and cracked lava slabs against the horizon.
+Clouded light falls along the empty trail as dry roots creak beneath the gusts
+as pale haze drifts among the rocks.~
+0 0 2 0 0 15
+D0
+North~
+~
+0 0 1010309 0
+D1
+East~
+~
+0 0 1010317 0
+D2
+South~
+~
+0 0 1010323 0
+D3
+West~
+~
+0 0 1010315 0
+S
+#1010317
+Ashlands region, wilderness~
+A faint volcanic trail curves between dark rocks beneath a dim and clouded sky
+beside dusty weeds, black shards and pale thorn bushes across the open ground.
+Thin grit blows across the barren slopes as brittle twigs rasp over the gravel
+and the dry air slides inside shallow hollows.~
+0 0 2 0 0 16
+D0
+North~
+~
+0 0 1010310 0
+D1
+East~
+~
+0 0 1010318 0
+D3
+West~
+~
+0 0 1010316 0
+S
+#1010318
+Ashlands region, wilderness~
+Dry broken terrain rises between low ridges of weathered stone in the open air
+past loose cinders, dark rocks and ash drifts spread over hard volcanic earth.
+Loose cinders shift along the empty trail as dark pebbles roll down the slopes
+with powdered grit skittering under the steady wind.~
+0 0 2 0 0 17
+D1
+East~
+~
+0 0 1010319 0
+D2
+South~
+~
+0 0 1010325 0
+D3
+West~
+~
+0 0 1010317 0
+S
+#1010319
+Ashlands region, wilderness~
+A broad field of cinders spreads between dark rocks under banks of ashen cloud
+past twisted roots, blackened ridges and dry grass clumps over the gray earth.
+Cold air slides over the broken ground and tiny stones rattle into the gullies
+as ash collects beneath the clouded sky.~
+0 0 2 0 0 18
+D0
+North~
+~
+0 0 1010312 0
+D1
+East~
+~
+0 0 1010320 0
+D2
+South~
+~
+0 0 1010326 0
+D3
+West~
+~
+0 0 1010318 0
+S
+#1010320
+Ashlands region, wilderness~
+A wind-scoured path threads across barren ground under a veil of drifting dust
+among jagged boulders, brittle shrubs and weathered stones on the ashen plain.
+Fine ash sweeps above the powdery earth as low eddies circle behind each ridge
+with gray light spreading across distant slopes.~
+0 0 2 0 0 19
+D1
+East~
+~
+0 0 1010321 0
+D2
+South~
+~
+0 0 1010327 0
+D3
+West~
+~
+0 0 1010319 0
+S
+#1010321
+Ashlands region, wilderness~
+An ash-covered track winds through shallow folds in the land under muted light
+beside scattered pebbles, low banks and wind-carved rocks against the horizon.
+Dry wind runs around the dark outcrops as gray shrubs tremble across the plain
+with fine dust collecting along the dusty trail.~
+0 0 2 0 0 20
+D2
+South~
+~
+0 0 1010328 0
+D3
+West~
+~
+0 0 1010320 0
+S
+#1010322
+Ashlands region, wilderness~
+Uneven shelves of lava spread along the base of a barren ridge in the open air
+past sparse scrub, bare roots and black shards clustered along the worn route.
+Thin grit moves along the exposed ridges as the distant ground fades into haze
+with brittle plants bending between the dark outcrops.~
+0 0 2 0 0 21
+D1
+East~
+~
+0 0 1010323 0
+D2
+South~
+~
+0 0 1010329 0
+S
+#1010323
+Ashlands region, wilderness~
+A shallow stony basin opens over cracked earth beneath slow-moving gray clouds
+beside loose grit, dusty weeds and dust-filled hollows across the open ground.
+Pale dust rises along the empty trail as small stones click against the basalt
+with ash settling beneath the volcanic haze.~
+0 0 2 0 0 22
+D0
+North~
+~
+0 0 1010316 0
+D3
+West~
+~
+0 0 1010322 0
+S
+#1010325
+Ashlands region, wilderness~
+An exposed ash plain extends through open wastes amid the chill of steady wind
+among wind-carved rocks, flat stones and shallow gullies beneath the pale sky.
+Gray dust spreads over the broken ground as loose grit gathers in every hollow
+with silence returning along the barren ridges.~
+0 0 2 0 0 24
+D0
+North~
+~
+0 0 1010318 0
+D2
+South~
+~
+0 0 1010332 0
+S
+#1010326
+Ashlands region, wilderness~
+A narrow cinder trail winds along a dusty hollow beneath a dim and clouded sky
+among ash drifts, scattered pebbles and low rock shelves over the barren soil.
+Cold air moves across the open waste as coarse sand whispers against the rocks
+with dry brush shivering across the empty ground.~
+0 0 2 0 0 25
+D0
+North~
+~
+0 0 1010319 0
+D1
+East~
+~
+0 0 1010327 0
+S
+#1010327
+Ashlands region, wilderness~
+A faint volcanic trail runs over old lava fields under a veil of drifting dust
+past brittle shrubs, jagged boulders and blackened ridges along the worn path.
+Fine ash blows across the open waste as thin shadows stretch beneath the rocks
+and small stones scatter above the barren earth.~
+0 0 2 0 0 26
+D0
+North~
+~
+0 0 1010320 0
+D3
+West~
+~
+0 0 1010326 0
+S
+#1010328
+Ashlands region, wilderness~
+Rugged volcanic slopes run across a broad expanse of cinders beneath low cloud
+beside dry scrub, ash drifts and patches of gray lichen along the dusty track.
+Thin grit shifts along the empty trail as faint tracks vanish beneath the dust
+and weathered stones click over the open waste.~
+0 0 2 0 0 27
+D0
+North~
+~
+0 0 1010321 0
+S
+#1010329
+Ashlands region, wilderness~
+Dry broken terrain extends over hard cinder soil beneath muted afternoon light
+past twisted roots, cracked lava slabs and loose cinders beneath the pale sky.
+Gray dust blows across the open waste as shallow cracks fill with drifting ash
+as powdered grit shifts among the rocks.~
+0 0 2 0 0 28
+D0
+North~
+~
+0 0 1010322 0
+D1
+East~
+~
+0 0 1010330 0
+D2
+South~
+~
+0 0 1010336 0
+S
+#1010330
+Ashlands region, wilderness~
+A desolate sweep of ash spreads through open wastes under banks of ashen cloud
+beside weathered stones, shallow gullies and black shards against the horizon.
+Dry wind runs around the dark outcrops and powdered earth lifts from the trail
+and fine cinders settle beneath the clouded sky.~
+0 0 2 0 0 29
+D2
+South~
+~
+0 0 1010337 0
+D3
+West~
+~
+0 0 1010329 0
+S
+#1010332
+Ashlands region, wilderness~
+Gray dust-covered ground rises along a dusty hollow beneath pale volcanic haze
+among low banks, scattered pebbles and dust-filled hollows on the ashen plain.
+Clouded light hangs across the open waste as dry roots creak beneath the gusts
+with windblown ash gathering across distant slopes.~
+0 0 2 0 0 31
+D0
+North~
+~
+0 0 1010325 0
+D1
+East~
+~
+0 0 1010333 0
+S
+#1010333
+Ashlands region, wilderness~
+Black cinder earth spreads between scattered mounds of dark rock amid dry wind
+past dusty weeds, brittle shrubs and bare roots set amid broad reaches of ash.
+Pale dust sweeps along the empty trail as gray haze closes over distant ground
+with loose grit shifting over the open waste.~
+0 0 2 0 0 32
+D1
+East~
+~
+0 0 1010334 0
+D3
+West~
+~
+0 0 1010332 0
+S
+#1010334
+Ashlands region, wilderness~
+Old fields of cooled lava extend between dark rocks under a colorless open sky
+among jagged boulders, sparse scrub and blackened ridges over the barren soil.
+Volcanic haze hangs along the empty trail as dark pebbles roll down the slopes
+and brittle plants shiver inside shallow hollows.~
+0 0 2 0 0 33
+D1
+East~
+~
+0 0 1010335 0
+D2
+South~
+~
+0 0 1010341 0
+D3
+West~
+~
+0 0 1010333 0
+S
+#1010335
+Ashlands region, wilderness~
+A broad field of cinders extends over cracked earth beneath pale volcanic haze
+beside dark rocks, flat stones and loose grit caught in shallow folds of land.
+Cold air moves over the broken ground as dry branches scrape against the stone
+and gray light rests along the dusty trail.~
+0 0 2 0 0 34
+D3
+West~
+~
+0 0 1010334 0
+D1
+Exit description
+~
+~
+0 0 1010643 0
+S
+#1010336
+Ashlands region, wilderness~
+A dry channel through ash runs across barren ground under banks of ashen cloud
+past dusty weeds, black shards and patches of gray lichen along the worn path.
+Thin grit blows above the powdery earth as pale dust curls around the boulders
+with small stones tumbling between the dark outcrops.~
+0 0 2 0 0 35
+D0
+North~
+~
+0 0 1010329 0
+D2
+South~
+~
+0 0 1010343 0
+D3
+Exit description~
+~
+0 0 1070607 0
+S
+#1010337
+Ashlands region, wilderness~
+Dark volcanic ground slopes along the base of a barren ridge beneath dim light
+among dust-filled hollows, low banks and dry grass clumps against the horizon.
+Loose cinders shift across the open waste as dry roots creak beneath the gusts
+with pale haze lingering under the steady wind.~
+0 0 2 0 0 36
+D0
+North~
+~
+0 0 1010330 0
+D2
+South~
+~
+0 0 1010344 0
+S
+#1010341
+Ashlands region, wilderness~
+A wind-scoured path threads through shallow folds in the land under a gray sky
+beside pale thorn bushes, loose cinders and dark rocks across the open ground.
+Fine ash swirls along the empty trail as dark gravel slides from exposed banks
+as dry brush trembles beneath the volcanic haze.~
+0 0 2 0 0 40
+D0
+North~
+~
+0 0 1010334 0
+D1
+East~
+~
+0 0 1010342 0
+D2
+South~
+~
+0 0 1010348 0
+S
+#1010342
+Ashlands region, wilderness~
+An ash-covered track curves along a dusty hollow amid the chill of steady wind
+past sparse scrub, shallow gullies and cracked lava slabs over the gray earth.
+Dry wind runs across the open waste as loose fragments knock against the stone
+and powdered grit skitters across the empty ground.~
+0 0 2 0 0 41
+D3
+West~
+~
+0 0 1010341 0
+S
+#1010343
+Ashlands region, wilderness~
+Uneven shelves of lava rise through gray cinders under a veil of drifting dust
+among blackened ridges, brittle shrubs and twisted roots over the barren soil.
+Clouded light falls across the open waste as dark pebbles roll down the slopes
+as windblown ash drifts above the barren earth.~
+0 0 2 0 0 42
+D0
+North~
+~
+0 0 1010336 0
+D2
+South~
+~
+0 0 1010350 0
+S
+#1010344
+Ashlands region, wilderness~
+A shallow stony basin opens along the base of a barren ridge under muted light
+beside weathered stones, ash drifts and scattered pebbles along the worn path.
+Pale dust rises along the exposed ridges as brittle twigs rasp over the gravel
+and loose grit gathers along the barren ridges.~
+0 0 2 0 0 43
+D0
+North~
+~
+0 0 1010337 0
+D2
+South~
+~
+0 0 1010351 0
+S
+#1010345
+Ashlands region, wilderness~
+An exposed ash plain stretches along broken slopes in the dry and restless air
+among jagged boulders, low banks and wind-carved rocks across the open ground.
+Gray dust rises above the powdery earth as brittle stems bow close to the soil
+as weathered stones shift under the steady wind.~
+0 0 2 0 0 44
+D2
+South~
+~
+0 0 1010352 0
+S
+#1010346
+Ashlands region, wilderness~
+A narrow cinder trail runs across an ashen plain under a broad ceiling of haze
+past dry scrub, loose grit and bare roots marking the otherwise empty terrain.
+Cold air moves across the open waste as fine cinders collect in shallow cracks
+and windblown ash settles among the rocks.~
+0 0 2 0 0 45
+D1
+East~
+~
+0 0 1010347 0
+D2
+South~
+~
+0 0 1010353 0
+S
+#1010347
+Ashlands region, wilderness~
+Black cinder earth rises between low ridges of weathered stone in the open air
+beside dust-filled hollows, brittle shrubs and flat stones on the ashen plain.
+Fine ash blows across the barren slopes as scattered grit dances over the path
+and pale haze lingers beneath the clouded sky.~
+0 0 2 0 0 46
+D1
+East~
+~
+0 0 1010348 0
+D3
+West~
+~
+0 0 1010346 0
+S
+#1010348
+Ashlands region, wilderness~
+Rugged volcanic slopes run over cracked earth amid fine grit borne on the wind
+past black shards, low rock shelves and jagged boulders along the dusty track.
+Pale dust drifts over the broken ground as tiny stones rattle into the gullies
+with the mineral scent deepening over the open waste.~
+0 0 2 0 0 47
+D0
+North~
+~
+0 0 1010341 0
+D3
+West~
+~
+0 0 1010347 0
+S
+#1010349
+Ashlands region, wilderness~
+Dry broken terrain extends through open wastes beneath slow-moving gray clouds
+among blackened ridges, black shards and shallow gullies beneath the pale sky.
+Thin grit moves across the barren slopes as faded plants bend toward the earth
+as silence returns between the dark outcrops.~
+0 0 2 0 0 48
+D2
+South~
+~
+0 0 1010356 0
+S
+#1010350
+Ashlands region, wilderness~
+Old fields of cooled lava spread between dark rocks under banks of ashen cloud
+beside scattered pebbles, ash drifts and dry grass clumps over the gray earth.
+Dry wind runs along the exposed ridges and low eddies circle behind each ridge
+with fine dust drifting inside shallow hollows.~
+0 0 2 0 0 49
+D0
+North~
+~
+0 0 1010343 0
+S
+#1010351
+Ashlands region, wilderness~
+A faint volcanic trail runs along a dusty hollow beneath a dim and clouded sky
+among loose cinders, twisted roots and cracked lava slabs against the horizon.
+Gray dust rises over the broken ground and small drifts gather along the stone
+with silence deepening across distant slopes.~
+0 0 2 0 0 50
+D0
+North~
+~
+0 0 1010344 0
+D1
+East~
+~
+0 0 1010352 0
+D2
+South~
+~
+0 0 1010358 0
+S
+#1010352
+Ashlands region, wilderness~
+A desolate sweep of ash spreads between dark rocks in the dry and restless air
+past sparse scrub, flat stones and dusty weeds clustered along the worn route.
+Volcanic haze hangs along the empty trail as dry roots creak beneath the gusts
+as the mineral scent deepens along the barren ridges.~
+0 0 2 0 0 51
+D0
+North~
+~
+0 0 1010345 0
+D1
+East~
+~
+0 0 1010353 0
+D3
+West~
+~
+0 0 1010351 0
+S
+#1010353
+Ashlands region, wilderness~
+A broad field of cinders spreads over cracked earth under a colorless open sky
+beside shallow gullies, dark rocks and pale thorn bushes over the barren soil.
+Loose cinders shift across the open waste as dark pebbles roll down the slopes
+and the empty land recedes along the dusty trail.~
+0 0 2 0 0 52
+D0
+North~
+~
+0 0 1010346 0
+D1
+East~
+~
+0 0 1010354 0
+D3
+West~
+~
+0 0 1010352 0
+S
+#1010354
+Ashlands region, wilderness~
+Gray dust-covered ground rises along a dusty hollow under banks of ashen cloud
+past twisted roots, loose grit and ash drifts spread over hard volcanic earth.
+Cold air passes along the empty trail as weathered rock faces lose their edges
+with brittle plants trembling beneath the volcanic haze.~
+0 0 2 0 0 53
+D1
+East~
+~
+0 0 1010355 0
+D2
+South~
+~
+0 0 1010361 0
+D3
+West~
+~
+0 0 1010353 0
+S
+#1010355
+Ashlands region, wilderness~
+A dry channel through ash winds along broken slopes beneath pale volcanic haze
+beside wind-carved rocks, brittle shrubs and low banks across the open ground.
+Thin grit shifts along the empty trail as dim light glances across the cinders
+and silence returns above the barren earth.~
+0 0 2 0 0 54
+D1
+East~
+~
+0 0 1010356 0
+D3
+West~
+~
+0 0 1010354 0
+S
+#1010356
+Ashlands region, wilderness~
+Dark volcanic ground rises through shallow folds in the land under muted light
+among dust-filled hollows, dusty weeds and jagged boulders on the ashen plain.
+Fine ash swirls along the exposed ridges as loose grit gathers in every hollow
+with dry brush rattling across the empty ground.~
+0 0 2 0 0 55
+D0
+North~
+~
+0 0 1010349 0
+D3
+West~
+~
+0 0 1010355 0
+D1
+Exit description
+~
+~
+0 0 1010664 0
+S
+#1010357
+Ashlands region, wilderness~
+A wind-scoured path curves over hard cinder soil under a veil of drifting dust
+past black shards, weathered stones and scattered pebbles against the horizon.
+Dry wind passes over the broken ground as gray shrubs tremble across the plain
+and fine cinders drift among the rocks.~
+0 0 2 0 0 56
+D1
+East~
+~
+0 0 1010358 0
+D2
+South~
+~
+0 0 1010364 0
+D3
+Exit description~
+~
+0 0 1070628 0
+S
+#1010358
+Ashlands region, wilderness~
+An ash-covered track winds through a maze of low stony rises under muted light
+among blackened ridges, dry grass clumps and sparse scrub along the worn path.
+Pale dust sweeps above the powdery earth as the distant ground fades into haze
+with ash collecting beneath the clouded sky.~
+0 0 2 0 0 57
+D0
+North~
+~
+0 0 1010351 0
+D1
+East~
+~
+0 0 1010359 0
+D3
+West~
+~
+0 0 1010357 0
+S
+#1010359
+Ashlands region, wilderness~
+Uneven shelves of lava run across an ashen plain amid the chill of steady wind
+beside patches of gray lichen, bare roots and dark rocks over the barren soil.
+Gray dust blows over the broken ground as thin grasses shiver among the stones
+as fine cinders gather inside shallow hollows.~
+0 0 2 0 0 58
+D2
+South~
+~
+0 0 1010366 0
+D3
+West~
+~
+0 0 1010358 0
+S
+#1010360
+Ashlands region, wilderness~
+A shallow stony basin opens along the base of a barren ridge beneath dim light
+past loose grit, ash drifts and low banks marking the otherwise empty terrain.
+Cold air moves around the dark outcrops as powdered earth lifts from the trail
+as brittle plants tremble under the steady wind.~
+0 0 2 0 0 59
+D1
+East~
+~
+0 0 1010361 0
+D2
+South~
+~
+0 0 1010367 0
+S
+#1010361
+Ashlands region, wilderness~
+An exposed ash plain opens across a broad expanse of cinders beneath low cloud
+among cracked lava slabs, dusty weeds and brittle shrubs beneath the pale sky.
+Dry wind runs around the dark outcrops as shallow eddies form behind the rocks
+with gray light resting over the open waste.~
+0 0 2 0 0 60
+D0
+North~
+~
+0 0 1010354 0
+D1
+East~
+~
+0 0 1010362 0
+D3
+West~
+~
+0 0 1010360 0
+S
+#1010362
+Ashlands region, wilderness~
+A narrow cinder trail curves through open wastes under a veil of drifting dust
+beside black shards, flat stones and dust-filled hollows beneath the pale sky.
+Fine ash blows over the broken ground as loose flakes scrape across the basalt
+and gray light rests across distant slopes.~
+0 0 2 0 0 61
+D2
+South~
+~
+0 0 1010369 0
+D3
+West~
+~
+0 0 1010361 0
+S
+#1010364
+Ashlands region, wilderness~
+Rugged volcanic slopes rise over cracked earth beneath slow-moving gray clouds
+past jagged boulders, sparse scrub and shallow gullies across the open ground.
+Clouded light hangs along the empty trail as dry roots creak beneath the gusts
+and ash collects between the dark outcrops.~
+0 0 2 0 0 63
+D0
+North~
+~
+0 0 1010357 0
+D2
+South~
+~
+0 0 1010371 0
+S
+#1010366
+Ashlands region, wilderness~
+A desolate sweep of ash extends between dark rocks in the dry and restless air
+beside bare roots, scattered pebbles and blackened ridges along the worn path.
+Thin grit shifts across the open waste as low plants rattle against the gravel
+with weathered stones clicking along the dusty trail.~
+0 0 2 0 0 65
+D0
+North~
+~
+0 0 1010359 0
+D2
+South~
+~
+0 0 1010373 0
+S
+#1010367
+Ashlands region, wilderness~
+Old fields of cooled lava spread over cracked earth under a colorless open sky
+among loose cinders, brittle shrubs and wind-carved rocks against the horizon.
+Pale dust rises along the empty trail as shallow cracks fill with drifting ash
+as dry brush shivers beneath the volcanic haze.~
+0 0 2 0 0 66
+D0
+North~
+~
+0 0 1010360 0
+D2
+South~
+~
+0 0 1010374 0
+S
+#1010368
+Ashlands region, wilderness~
+Dry broken terrain spreads through shallow folds in the land beneath low cloud
+past dark rocks, dust-filled hollows and weathered stones over the gray earth.
+Gray dust rises across the open waste as small stones click against the basalt
+with powdered grit gathering across the empty ground.~
+0 0 2 0 0 67
+D1
+East~
+~
+0 0 1010369 0
+D2
+South~
+~
+0 0 1010375 0
+S
+#1010369
+Ashlands region, wilderness~
+A faint volcanic trail runs along a dusty hollow under a broad ceiling of haze
+among low rock shelves, shallow gullies and sparse scrub over the barren soil.
+Cold air moves along the exposed ridges as pale dust curls around the boulders
+as ash settles above the barren earth.~
+0 0 2 0 0 68
+D0
+North~
+~
+0 0 1010362 0
+D1
+East~
+~
+0 0 1010370 0
+D3
+West~
+~
+0 0 1010368 0
+S
+#1010370
+Ashlands region, wilderness~
+Black cinder earth extends across an ashen plain amid the chill of steady wind
+beside ash drifts, blackened ridges and jagged boulders along the dusty track.
+Volcanic haze hangs across the open waste as dry roots creak beneath the gusts
+and brittle plants bend along the barren ridges.~
+0 0 2 0 0 69
+D2
+South~
+~
+0 0 1010377 0
+D3
+West~
+~
+0 0 1010369 0
+S
+#1010371
+Ashlands region, wilderness~
+Gray dust-covered ground rises along a dusty hollow under a colorless open sky
+past dry grass clumps, twisted roots and scattered pebbles on the ashen plain.
+Fine ash blows above the powdery earth as faint tracks vanish beneath the dust
+and small stones tumble among the rocks.~
+0 0 2 0 0 70
+D0
+North~
+~
+0 0 1010364 0
+D1
+East~
+~
+0 0 1010372 0
+D2
+South~
+~
+0 0 1010378 0
+S
+#1010372
+Ashlands region, wilderness~
+A broad field of cinders extends between dark rocks beneath pale volcanic haze
+beside cracked lava slabs, black shards and loose grit across the open ground.
+Dry wind runs along the empty trail and coarse sand whispers against the rocks
+as gray light fades beneath the clouded sky.~
+0 0 2 0 0 71
+D3
+West~
+~
+0 0 1010371 0
+S
+#1010373
+Ashlands region, near Caldera town~
+Low rugged slopes spread along the edge of a shallow hollow under muted clouds
+among worn soil, dried stalks and flat stones rising from the dry ocher earth.
+Fine grit shifts along the dusty trail as faint tracks soften beneath the dust
+as thin haze lingers across distant rises.~
+0 0 2 0 0 72
+D0
+North
+~
+~
+0 0 1010366 0
+D1
+East~
+~
+0 0 1010374 0
+D2
+South~
+~
+0 0 1010380 0
+S
+#1010374
+Ashlands region, wilderness~
+A dry channel through ash winds along broken slopes under banks of ashen cloud
+among pale thorn bushes, weathered stones and dusty weeds over the gray earth.
+Clouded light falls along the empty trail as dark pebbles roll down the slopes
+as loose grit skitters inside shallow hollows.~
+0 0 2 0 0 73
+D0
+North~
+~
+0 0 1010367 0
+D3
+West~
+~
+0 0 1010373 0
+S
+#1010375
+Ashlands region, wilderness~
+Dark volcanic ground slopes along the base of a barren ridge under muted light
+past bare roots, jagged boulders and low banks clustered along the worn route.
+Thin grit moves across the open waste as dry branches scrape against the stone
+with pale haze hanging along the dusty trail.~
+0 0 2 0 0 74
+D0
+North~
+~
+0 0 1010368 0
+D2
+South~
+~
+0 0 1010382 0
+S
+#1010376
+Ashlands region, wilderness~
+A wind-scoured path threads along the base of a barren ridge beneath dim light
+among loose cinders, dry scrub and patches of gray lichen against the horizon.
+Pale dust rises across the open waste as dark gravel slides from exposed banks
+with small stones tumbling across distant slopes.~
+0 0 2 0 0 75
+D1
+East~
+~
+0 0 1010377 0
+D2
+South~
+~
+0 0 1010383 0
+S
+#1010377
+Ashlands region, wilderness~
+An ash-covered track threads through open wastes under a veil of drifting dust
+beside shallow gullies, wind-carved rocks and ash drifts over the barren soil.
+Gray dust spreads over the broken ground as brittle twigs rasp over the gravel
+and dry brush rattles under the steady wind.~
+0 0 2 0 0 76
+D0
+North~
+~
+0 0 1010370 0
+D3
+West~
+~
+0 0 1010376 0
+D1
+Exit description
+~
+~
+0 0 1010685 0
+S
+#1010378
+Ashlands region, wilderness~
+Uneven shelves of lava rise along a dusty hollow amid the chill of steady wind
+past dust-filled hollows, brittle shrubs and low banks across the open ground.
+Cold air moves along the empty trail as thin shadows stretch beneath the rocks
+and loose grit shifts between the dark outcrops.~
+0 0 2 0 0 77
+D0
+North~
+~
+0 0 1010371 0
+D1
+East~
+~
+0 0 1010379 0
+D2
+South~
+~
+0 0 1010385 0
+D3
+Exit description~
+~
+0 0 1070649 0
+S
+#1010379
+Ashlands region, near Caldera town~
+Rolling stony ground rises through pale grassland beneath weak afternoon light
+beside low banks, thin scrub and patches of moss spread beneath the muted sky.
+Dry wind runs above the hardened earth and small pebbles shift in shallow ruts
+as the open land stretches along the dusty slopes.~
+0 0 2 0 0 78
+D2
+South~
+~
+0 0 1010386 0
+D3
+West~
+~
+0 0 1010378 0
+S
+#1010380
+Ashlands region, near Caldera town~
+A broad upland path winds through open stretches of dry scrub amid steady wind
+past thorny plants, bare roots and dark rocks clustered beside the worn route.
+Loose grass bends along the exposed slopes as the distant rises fade into haze
+and the cool breeze moves beneath the muted sky.~
+0 0 2 0 0 79
+D0
+North~
+~
+0 0 1010373 0
+D1
+East~
+~
+0 0 1010381 0
+S
+#1010381
+Ashlands region, near Caldera town~
+A weathered dirt trail threads across firm ocher-colored earth in the cool air
+past low shrubs, dry weeds and pale grasses marking the otherwise empty slope.
+Upland air moves over the rolling ground as thin stalks ripple over the slopes
+as small stones click inside shallow hollows.~
+0 0 2 0 0 80
+D1
+East~
+~
+0 0 1010382 0
+D2
+South~
+~
+0 0 1010388 0
+D3
+West~
+~
+0 0 1010380 0
+S
+#1010382
+Ashlands region, near Caldera town~
+A gently rising track runs between low gravel banks under a wide colorless sky
+among flat stones, shallow ruts and gray pebbles scattered over the firm soil.
+Clouded light hangs along the dusty trail as faint dust curls behind the rocks
+as dry stems bend above the quiet terrain.~
+0 0 2 0 0 81
+D0
+North~
+~
+0 0 1010375 0
+D1
+East~
+~
+0 0 1010383 0
+D2
+South~
+~
+0 0 1010389 0
+D3
+West~
+~
+0 0 1010381 0
+S
+#1010383
+Ashlands region, near Caldera town~
+Dry foothill terrain rises through open scrub beneath a veil of thin gray haze
+beside dusty hollows, low banks and small stones spread beneath the muted sky.
+Pale dust sweeps around the weathered rocks as low weeds bend toward the earth
+with loose grit skittering along the narrow track.~
+0 0 2 0 0 82
+D0
+North~
+~
+0 0 1010376 0
+D1
+East~
+~
+0 0 1010384 0
+D2
+South~
+~
+0 0 1010390 0
+D3
+West~
+~
+0 0 1010382 0
+S
+#1010384
+Ashlands region, near Caldera town~
+A dusty winding trail runs across folded ground beneath slowly drifting clouds
+past stunted brush, coarse gravel and dark rocks scattered over the firm soil.
+A cool breeze moves along the dusty trail as low shrubs stir across the ground
+with wind-bent weeds bending across the empty earth.~
+0 0 2 0 0 83
+D2
+South~
+~
+0 0 1010391 0
+D3
+West~
+~
+0 0 1010383 0
+S
+#1010385
+Ashlands region, wilderness~
+A shallow stony basin opens through gray cinders beneath a dim and clouded sky
+among scattered pebbles, blackened ridges and flat stones along the worn path.
+Dry wind runs along the empty trail as loose fragments knock against the stone
+with windblown ash settling over the open waste.~
+0 0 2 0 0 84
+D0
+North~
+~
+0 0 1010378 0
+S
+#1010386
+Ashlands region, near Caldera town~
+Uneven highland ground extends across firm ocher-colored earth in the cool air
+among thin scrub, dry weeds and bare roots set across the gently sloping land.
+Fine grit blows along the dusty trail and soft shadows move between the stones
+as pale dust gathers among the low rocks.~
+0 0 2 0 0 85
+D0
+North~
+~
+0 0 1010379 0
+D1
+East~
+~
+0 0 1010387 0
+S
+#1010387
+Ashlands region, near Caldera town~
+A shallow upland basin opens through pale grassland under a wide colorless sky
+beside dark rocks, low banks and dried stalks clustered beside the worn route.
+Dry wind runs along the exposed slopes as thin stems rattle over the hard soil
+with gray daylight resting between weathered outcrops.~
+0 0 2 0 0 86
+D2
+South~
+~
+0 0 1010394 0
+D3
+West~
+~
+0 0 1010386 0
+S
+#1010388
+Ashlands region, near Caldera town~
+An open sweep of dry grass stretches over broad rock shelves beneath thin haze
+past pale grasses, shallow ruts and gray pebbles spread beneath the muted sky.
+Upland air passes along the dusty trail as loose grit gathers behind the rocks
+as soft light spreads under the steady breeze.~
+0 0 2 0 0 87
+D0
+North~
+~
+0 0 1010381 0
+D2
+South~
+~
+0 0 1010395 0
+S
+#1010389
+Ashlands region, near Caldera town~
+A sparse grassland slope stretches between low gravel banks in soft gray light
+among dusty hollows, rocky patches and dry weeds scattered over the firm soil.
+Pale dust drifts over the rolling ground as dry roots creak beneath the breeze
+with cool air sliding over the open ground.~
+0 0 2 0 0 88
+D0
+North~
+~
+0 0 1010382 0
+D1
+East~
+~
+0 0 1010390 0
+S
+#1010390
+Ashlands region, near Caldera town~
+Low rugged slopes rise between weathered rocks under slow and clouded daylight
+beside worn soil, bare roots and thin scrub marking the otherwise empty slope.
+Loose grass bends over the rolling ground as dry leaves scrape along the trail
+as faint dust drifts along the narrow track.~
+0 0 2 0 0 89
+D0
+North~
+~
+0 0 1010383 0
+D2
+South~
+~
+0 0 1010397 0
+D3
+West~
+~
+0 0 1010389 0
+S
+#1010391
+Ashlands region, near Caldera town~
+A broad upland path curves over a succession of rounded rises amid steady wind
+past thorny plants, stunted brush and low shrubs spread beneath the muted sky.
+Muted daylight falls along the dusty trail as the distant rises fade into haze
+and dry grass shivers inside shallow hollows.~
+0 0 2 0 0 90
+D0
+North~
+~
+0 0 1010384 0
+D2
+South~
+~
+0 0 1010398 0
+S
+#1010394
+Ashlands region, near Caldera town~
+A gently rising track runs between weathered outcrops of stone in the cool air
+among coarse gravel, bare roots and small stones scattered over the firm soil.
+Dry wind passes above the hardened earth as pale grit skitters across the path
+as gray daylight settles across distant rises.~
+0 0 2 0 0 93
+D0
+North~
+~
+0 0 1010387 0
+D1
+East~
+~
+0 0 1010395 0
+D2
+Exit description~
+~
+0 0 4031025 0
+S
+#1010395
+Ashlands region, near Caldera town~
+A dusty winding trail curves across folded ground beneath weak afternoon light
+beside low banks, shallow ruts and dark rocks rising from the dry ocher earth.
+Fine grit blows along the exposed slopes as dry stems brush against the stones
+with thin haze settling beneath the muted sky.~
+0 0 2 0 0 94
+D0
+North~
+~
+0 0 1010388 0
+D3
+West~
+~
+0 0 1010394 0
+S
+#1010396
+Ashlands region, near Caldera town~
+Dry foothill terrain spreads along shallow rock-strewn slopes amid steady wind
+past thin scrub, gray pebbles and flat stones clustered beside the worn route.
+Clouded light hangs over the rolling ground as low weeds bend toward the earth
+as loose grit collects between weathered outcrops.~
+0 0 2 0 0 95
+D1
+East~
+~
+0 0 1010397 0
+S
+#1010397
+Ashlands region, near Caldera town~
+Rolling stony ground extends through open scrub in soft light filtered by dust
+among stunted brush, rocky patches and dry weeds spread beneath the muted sky.
+Pale dust rises along the dusty trail as small stones click against each other
+as cool air passes across the empty earth.~
+0 0 2 0 0 96
+D0
+North
+~
+~
+0 0 1010390 0
+D3
+West~
+~
+0 0 1010396 0
+S
+#1010398
+Ashlands region, near Caldera town~
+A weathered dirt trail winds across firm ocher-colored earth beneath thin haze
+beside low shrubs, pale grasses and dried stalks spread beneath the muted sky.
+A cool breeze moves along the dusty trail as faint dust curls behind the rocks
+with small stones clicking over the open ground.~
+0 0 2 0 0 97
+D0
+North~
+~
+0 0 1010391 0
+D2
+Exit description~
+~
+0 0 4031020 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

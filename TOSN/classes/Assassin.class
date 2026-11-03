@@ -1,0 +1,93 @@
+Name		Assassin~
+Class		15
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Pickpocket' 1 95
+Skill 'Sneak' 1 95
+Skill 'Hide' 1 95
+Skill 'Peek' 1 95
+Skill 'Backstab' 1 95
+Skill 'Creep' 1 95
+Skill 'Dart' 1 90
+Skill 'Ninjaku' 1 90
+Skill 'Knife' 1 90
+Skill 'Shortbow' 1 90
+Skill 'Longbow' 1 90
+Skill 'Crossbow' 1 90
+Skill 'Barrage' 1 90
+Skill 'Leather' 1 85
+Skill 'Suppress' 1 85
+Skill 'Unchain' 1 85
+Skill 'Dirk' 1 80
+Skill 'Dagger' 1 80
+Skill 'Tanto' 1 80
+Skill 'Wakizashi' 1 80
+Skill 'Shortsword' 1 80
+Skill 'Fight' 1 80
+Skill 'Gouge' 1 80
+Skill 'Grip' 1 80
+Skill 'Razor' 1 80
+Skill 'Outplay' 1 80
+Skill 'Riposte' 1 80
+Skill 'Stab' 1 80
+Skill 'Sting' 1 80
+Skill 'Tumble' 1 75
+Skill 'Climb' 1 75
+Skill 'Slip' 1 75
+Skill 'Twist' 1 75
+Skill 'Poise' 1 75
+Skill 'Lockpick' 1 70
+Skill 'Search' 1 70
+Skill 'Detect' 1 70
+Skill 'Detrap' 1 70
+Skill 'Scan' 1 70
+Skill 'Track' 1 70
+Skill 'Rapier' 1 65
+Skill 'Cutlass' 1 65
+Skill 'Saber' 1 65
+Skill 'Falchion' 1 65
+Skill 'Katana' 1 65
+Skill 'Longsword' 1 65
+Skill 'Broadsword' 1 65
+Skill 'Claymore' 1 65
+Skill 'Daikatana' 1 65
+Skill 'Charge' 1 65
+Skill 'Disarm' 1 65
+Skill 'Skirmish' 1 65
+Skill 'Slice' 1 65
+Skill 'Overkill' 1 65
+Skill 'Strike' 1 65
+Skill 'Envenom' 1 60
+Skill 'Brew' 1 60
+Skill 'Cook' 1 60
+Skill 'Bandage' 1 60
+Skill 'Fade' 1 60
+Skill 'Aid' 1 60
+Skill 'Taunt' 1 55
+Skill 'Bash' 1 55
+Skill 'Block' 1 55
+Skill 'Revenge' 1 55
+Skill 'Defend' 1 55
+Skill 'Rebuff' 1 55
+Skill 'Shelter' 1 55
+Skill 'Shroud' 1 55
+Skill 'Thrust' 1 55
+Skill 'Destabilize' 1 55
+Skill 'Dodge' 1 50
+Skill 'Lunge' 1 50
+Skill 'Sweep' 1 50
+Skill 'Assault' 1 50
+End	

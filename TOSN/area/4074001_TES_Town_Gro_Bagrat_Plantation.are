@@ -1,0 +1,296 @@
+#AREA Gro Bagrat plantation~
+
+#VERSION 1
+
+#CLIMATE 2 2 1
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4074001
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4074001
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4074001
+Ascadian Isles, Gro-Bagrat, plantation, fields~
+Low paths among the crops wind gently through planted rows beneath a clear sky
+with water-darkened soil, tied bundles of rope and a few simple farming tools.
+A light breeze moves over the fields and small birds circle above the farmland
+as the fertile ground holds the warmth of the open day.~
+0 8 2 0 0 0
+D3
+West~
+~
+0 0 4074002 0
+S
+#4074002
+Ascadian Isles, Gro-Bagrat, plantation, fields~
+Broad plantation paths curve gently beside low furrows under a bright open sky
+past fresh green leaves and folded work cloths left near the cultivated plots.
+Humid air settles over the dark soil and shadows drift across the planted rows
+as the worked earth shows the care of repeated cultivation.~
+0 8 2 0 0 0
+D0
+North~
+~
+0 0 4074003 0
+D1
+East~
+~
+0 0 4074001 0
+D2
+South~
+~
+0 0 4074004 0
+D3
+West~
+~
+0 0 4074005 0
+S
+#4074003
+Ascadian Isles, Gro-Bagrat, plantation, fields~
+Hard-packed earthen paths pass between tilled plots under clear southern light
+among broad crop leaves and low stacks of crates left beside the planted rows.
+The smell of wet soil rises in the warmth as the narrow furrows glisten softly
+and the worked earth carries the scent of growing leaves.~
+0 8 2 0 0 0
+D2
+South~
+~
+0 0 4074002 0
+S
+#4074004
+Ascadian Isles, Gro-Bagrat, plantation, fields~
+Narrow field tracks stretch steadily across cultivated land beneath open skies
+with broad crop leaves and folded work cloths resting along the worked ground.
+Rich earthy scents rise from the furrows as thin shadows move between the rows
+and this growing plot smells of water and rich soil.~
+0 8 2 0 0 0
+D0
+North~
+~
+0 0 4074002 0
+S
+#4074005
+Ascadian Isles, Gro-Bagrat, plantation, manor~
+Thick rendered walls frame this spacious manor room beneath broad wooden beams
+among low storage chests and covered baskets arranged for practical daily use.
+A shifting glow shines over the woven floor rugs and lamp smoke curls overhead
+as the chamber settles into domestic quiet.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4074002 0
+D3
+West~
+~
+0 0 4074006 0
+S
+#4074006
+Ascadian Isles, Gro-Bagrat, plantation, manor~
+Carved earth-toned walls enclose a quiet manor room beneath broad wooden beams
+beside low storage chests and covered baskets kept clear of the central aisle.
+Warm lamplight moves along the orderly shelves as wax and timber scent the air
+with simple comforts arranged in careful order.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4074007 0
+D1
+East~
+~
+0 0 4074005 0
+D2
+South~
+~
+0 0 4074008 0
+S
+#4074007
+Ascadian Isles, Gro-Bagrat, plantation, manor~
+A warm domestic room opens within broad plaster walls under pale lantern light
+with carved wooden tables and woven floor rugs gathered beneath hanging lamps.
+Muted firelight plays between the heavy rafters as the enclosed air stays warm
+and the chamber holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4074006 0
+D4
+Up~
+~
+0 0 4074010 0
+S
+#4074008
+Ascadian Isles, Gro-Bagrat, plantation, manor~
+Warm ochre walls enclose a quiet household chamber beneath dark carved rafters
+past sturdy benches, covered baskets and sealed jars placed within easy reach.
+A shifting glow moves across the plaster walls as old floorboards creak softly
+with muted colors giving the room a settled tone.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4074006 0
+D4
+Up~
+~
+0 0 4074011 0
+S
+#4074009
+Ascadian Isles, Gro-Bagrat, plantation, manor~
+Polished interior walls frame this warm manor room beneath dark carved rafters
+beside broad side tables and covered baskets arranged for practical daily use.
+Warm lamplight falls across the plaster walls as dust turns slowly in the glow
+and the furnished room stays calm and orderly.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4074010 0
+D2
+South~
+~
+0 0 4074011 0
+S
+#4074010
+Ascadian Isles, Gro-Bagrat, plantation, manor~
+Thick rendered walls frame this warm quiet interior beneath broad wooden beams
+among sturdy benches, plain crockery and sealed jars placed within easy reach.
+Warm lamplight plays across the plaster walls as a light draft stirs the cloth
+and the enclosed space bears signs of daily use.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4074009 0
+D5
+Down~
+~
+0 0 4074007 0
+S
+#4074011
+Ascadian Isles, Gro-Bagrat, plantation, manor~
+Curved plaster walls frame this refined manor room beneath dark carved rafters
+with sturdy benches, ceramic vessels and sealed jars placed within easy reach.
+Warm lamplight falls across the plaster walls as faint household sounds recede
+with a settled stillness resting over the chamber.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4074009 0
+D5
+Down~
+~
+0 0 4074008 0
+S
+#0
+
+#RESETS
+M 0 2300668 1 4074005  ;  Mob: Dreggs [Npcs] => #4074005 [Gro Bagrat plantation] Ascadian Isles, Gro-Bagrat, plantation, manor
+E 1 3125003 1 5  ; -- Equip: Gah julan bonemold jack [Items] (body)
+E 1 3125002 1 10  ; -- Equip: Gah julan bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3232053 1 16  ; -- Equip: Silver shortsword of frost [Items] (wield)
+M 0 2300942 1 4074006  ;  Mob: Fevasa Saryon [Npcs] => #4074006 [Gro Bagrat plantation] Ascadian Isles, Gro-Bagrat, plantation, manor
+E 1 3114001 1 6  ; -- Equip: Boiled netch leather coif [Items] (head)
+E 1 3114002 1 10  ; -- Equip: Boiled netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3223037 1 16  ; -- Equip: Iron lance [Items] (wield)
+M 0 2301007 1 4074007  ;  Mob: Gakkenfeld [Npcs] => #4074007 [Gro Bagrat plantation] Ascadian Isles, Gro-Bagrat, plantation, manor
+E 1 3111003 1 5  ; -- Equip: Armun an bonemold jack [Items] (body)
+E 1 3111002 1 10  ; -- Equip: Armun an bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3232020 1 16  ; -- Equip: Silver claymore of fire [Items] (wield)
+G 1 3403060 1 ; -- Give: Bread [Items]
+M 0 2301168 1 4074008  ;  Mob: Gurak gro-Bagrat [Npcs] => #4074008 [Gro Bagrat plantation] Ascadian Isles, Gro-Bagrat, plantation, manor
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3114002 1 10  ; -- Equip: Boiled netch leather epaulets [Items] (arms)
+E 1 3154006 1 7  ; -- Equip: Orcish guards [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3154005 1 9  ; -- Equip: Orcish wristguards [Items] (hands)
+E 1 3229032 1 16  ; -- Equip: Orcish warhammer [Items] (wield)
+M 0 2301338 1 4074009  ;  Mob: Irvama Othrelas [Npcs] => #4074009 [Gro Bagrat plantation] Ascadian Isles, Gro-Bagrat, plantation, manor
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3223037 1 16  ; -- Equip: Iron lance [Items] (wield)
+M 0 2301503 1 4074010  ;  Mob: Llaynasa Othran [Npcs] => #4074010 [Gro Bagrat plantation] Ascadian Isles, Gro-Bagrat, plantation, manor
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3301014 1 3  ; -- Equip: Diamond necklace [Items] (neck-1)
+E 1 3232012 1 16  ; -- Equip: Silver shortsword of fire [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302669 1 4074011  ;  Mob: Velsa Salaron [Npcs] => #4074011 [Gro Bagrat plantation] Ascadian Isles, Gro-Bagrat, plantation, manor
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 GRO BAGRAT PLANTATION~
+Gro-Bagrat Plantation is a guarded rural estate set north of the city of Vivec
+where fields of willow anther surround a manor watched by many armed sentries.
+No farmers work the fertile fields despite the rows of carefully tended shrubs
+for a hidden basement serves as an illegal skooma workshop.~
+0 $~
+
+#$

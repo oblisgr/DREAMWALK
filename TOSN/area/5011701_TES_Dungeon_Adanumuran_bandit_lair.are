@@ -1,0 +1,347 @@
+#AREA Abinabi_sixth_house_base~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011701
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011701
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011701
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 5011702 0
+S
+#5011702
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011701 0
+D3
+West~
+~
+0 0 5011703 0
+S
+#5011703
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011704 0
+D1
+East~
+~
+0 0 5011702 0
+S
+#5011704
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011705 0
+D2
+South~
+~
+0 0 5011703 0
+S
+#5011705
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011706 0
+D2
+South~
+~
+0 0 5011704 0
+S
+#5011706
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011706 0
+D2
+South~
+~
+0 0 5011705 0
+S
+#5011707
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011708 0
+D2
+South~
+~
+0 0 5011706 0
+S
+#5011708
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011709 0
+D3
+West~
+~
+0 0 5011707 0
+S
+#5011709
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011710 0
+D2
+South~
+~
+0 0 5011708 0
+S
+#5011710
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011711 0
+D2
+South~
+~
+0 0 5011709 0
+D3
+West~
+~
+0 0 5011713 0
+S
+#5011711
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011712 0
+D2
+South~
+~
+0 0 5011710 0
+S
+#5011712
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011714 0
+D2
+South~
+~
+0 0 5011711 0
+S
+#5011713
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011710 0
+S
+#5011714
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011715 0
+D3
+West~
+~
+0 0 5011712 0
+S
+#5011715
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011716 0
+D3
+West~
+~
+0 0 5011714 0
+S
+#5011716
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011715 0
+D2
+South~
+~
+0 0 5011717 0
+S
+#5011717
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011716 0
+D2
+South~
+~
+0 0 5011718 0
+S
+#5011718
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011717 0
+D2
+South~
+~
+0 0 5011719 0
+S
+#5011719
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011718 0
+D3
+West~
+~
+0 0 5011720 0
+S
+#5011720
+Ascadian isles, Adanumuran, bandit lair~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011719 0
+S
+#0
+
+#RESETS
+M 0 2300926 1 5011704  ;  Mob: Fendel Alam [Npcs] => #5011704 [] Ascadian isles, Adanumuran, bandit lair
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205024 1 16  ; -- Equip: Chitin waraxe [Items] (wield)
+M 0 2301096 1 5011706  ;  Mob: Gilyn Drobar [Npcs] => #5011706 [] Ascadian isles, Adanumuran, bandit lair
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+M 0 2301483 1 5011709  ;  Mob: Llaalsa Dralor [Npcs] => #5011709 [] Ascadian isles, Adanumuran, bandit lair
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3205027 1 16  ; -- Equip: Chitin club [Items] (wield)
+M 0 2301619 1 5011712  ;  Mob: Marilia Saram [Npcs] => #5011712 [] Ascadian isles, Adanumuran, bandit lair
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+G 1 3404038 1 ; -- Give: Fat lute [Items]
+M 0 2302464 1 5011716  ;  Mob: Thurisea Thando [Npcs] => #5011716 [] Ascadian isles, Adanumuran, bandit lair
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3223018 1 16  ; -- Equip: Iron longsword [Items] (wield)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ADANUMURAN BANDIT LAIR~
+Adanumuran is a bandit cave against the hills by Lake Amaya's northwest shore,
+where Dunmer outlaws and wild nix-hounds guard their stolen goods and shelter.
+Crates, weapons and stolen loot fill the dark chambers beyond its hidden mouth
+including an old skill book and an unusually broad lute.
+~
+0 $~
+
+#$

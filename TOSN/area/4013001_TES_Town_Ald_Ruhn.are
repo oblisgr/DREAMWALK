@@ -1,0 +1,3738 @@
+#AREA Ald'ruhn~
+
+#VERSION 1
+
+#CLIMATE 4 0 4
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4013001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4013001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4013001
+Ashlands, Ald'ruhn, town, upper district~
+Winding streets run among tall Redoran buildings in the restless mountain wind
+with arched entrances and shielded wall lanterns grouped near sheltered walls.
+Fine grey ash sweeps across the worn paths and doors open onto the busy street
+while the sheltered street endures beneath the restless mountain weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013006 0
+D1
+East~
+~
+0 0 4013002 0
+D2
+South~
+~
+0 0 4013022 0
+D3
+West~
+~
+0 0 4013037 0
+S
+#4013002
+Ashlands, Ald'ruhn, town, upper district~
+High stone paths thread among tall Redoran buildings below a sky veiled by ash
+with broad stone steps and stacked household goods resting beneath deep eaves.
+Fine grey ash sweeps across the worn paths as footsteps cross the dusty ground
+and the district retains a stern and practical Dunmeri character.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013003 0
+D2
+South~
+~
+0 0 4013057 0
+D3
+West~
+~
+0 0 4013001 0
+S
+#4013003
+Ashlands, Ald'ruhn, town, upper district~
+Raised walkways wind between weathered Dunmeri homes below a sky veiled by ash
+past broad stone steps and stacked household goods resting beneath deep eaves.
+Fine grey ash eddies across the worn paths and doors open onto the busy street
+while the district settles beneath the muted volcanic light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013056 0
+D1
+East~
+~
+0 0 4013004 0
+D2
+South~
+~
+0 0 4013121 0
+D3
+West~
+~
+0 0 4013002 0
+S
+#4013004
+Ashlands, Ald'ruhn, town, upper district~
+Raised walkways pass among high plastered structures below a sky veiled by ash
+among arched entrances and stacked household goods resting beneath deep eaves.
+Fine grey ash rolls over the packed ground as guards pass on unhurried patrols
+and the sheltered street remains busy beneath the drifting ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013052 0
+D1
+East~
+~
+0 0 4013005 0
+D2
+South~
+~
+0 0 4013108 0
+D3
+West~
+~
+0 0 4013003 0
+S
+#4013005
+Ashlands, Ald'ruhn, town, upper district~
+Firm earthen roads run among tall Redoran buildings beneath a dim volcanic sky
+past carved doorways and stacked household goods placed clear of passing feet.
+Fine grey ash rolls over the packed ground as footsteps cross the dusty ground
+and the district settles beneath the muted volcanic light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013079 0
+D1
+East~
+~
+0 0 4013041 0
+D2
+South~
+~
+0 0 4013055 0
+D3
+West~
+~
+0 0 4013004 0
+S
+#4013006
+Ashlands, Ald'ruhn, town, upper district~
+Winding streets stretch among tall Redoran buildings below a sky veiled by ash
+beside carved doorways and sturdy wooden benches placed clear of passing feet.
+Fine grey ash eddies across the worn paths as guards pass on unhurried patrols
+and the district carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013007 0
+D2
+South~
+~
+0 0 4013001 0
+S
+#4013007
+Ashlands, Ald'ruhn, town, upper district~
+Raised walkways run between close-set native houses beneath a dim volcanic sky
+with guarded passages and shielded wall lanterns grouped near sheltered walls.
+Fine grey ash sweeps above the quiet streets as ordinary trade proceeds nearby
+and the sheltered street feels firmly rooted despite the harsh climate.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013010 0
+D1
+East~
+~
+0 0 4013122 0
+D2
+South~
+~
+0 0 4013006 0
+D3
+West~
+~
+0 0 4013008 0
+S
+#4013008
+Ashlands, Ald'ruhn, town, upper district~
+High stone paths run between weathered Dunmeri homes below a sky veiled by ash
+among arched entrances and sturdy wooden benches placed clear of passing feet.
+Fine grey ash spreads across the worn paths and ordinary trade proceeds nearby
+while the district remains busy beneath the drifting ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013077 0
+D1
+East~
+~
+0 0 4013007 0
+D2
+South~
+~
+0 0 4013078 0
+D3
+West~
+~
+0 0 4013009 0
+S
+#4013009
+Ashlands, Ald'ruhn, town, upper district~
+Winding streets pass between weathered Dunmeri homes below a sky veiled by ash
+among high plaster walls and sturdy wooden benches resting beneath deep eaves.
+Fine grey ash drifts over the packed ground as doors open onto the busy street
+and the weathered quarter remains busy beneath the drifting ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013023 0
+D1
+East~
+~
+0 0 4013008 0
+D2
+South~
+~
+0 0 4013053 0
+D3
+West~
+~
+0 0 4013044 0
+S
+#4013010
+Ashlands, Ald'ruhn, town, upper district~
+Curving stone lanes run among tall Redoran buildings below a sky veiled by ash
+with raised house fronts and sturdy wooden benches resting beneath deep eaves.
+Fine grey ash moves through the narrow lanes as ordinary trade proceeds nearby
+and this part of town settles beneath the muted volcanic light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013092 0
+D2
+South~
+~
+0 0 4013007 0
+S
+#4013011
+Ashlands, Ald'ruhn, town, lower district~
+Hard earthen tracks pass between low plastered homes below a sky veiled by ash
+beside narrow side passages and woven reed baskets resting beneath deep eaves.
+Fine grey ash rolls across the worn paths while ordinary trade proceeds nearby
+and the district remains busy beneath the drifting ash.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013060 0
+D2
+South~
+~
+0 0 4013012 0
+D0
+Exit description~
+~
+0 0 1010795 0
+S
+#4013012
+Ashlands, Ald'ruhn, town, lower district~
+Narrow town paths run between low plastered homes through the dry volcanic air
+among plain house fronts and sturdy wooden benches resting beneath deep eaves.
+Fine grey ash moves above the quiet streets as doors open onto the busy street
+and the surrounding neighborhood remains busy beneath the drifting ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013011 0
+D1
+East~
+~
+0 0 4013061 0
+D2
+South~
+~
+0 0 4013013 0
+S
+#4013013
+Ashlands, Ald'ruhn, town, lower district~
+Worn public roads thread between low plastered homes below a sky veiled by ash
+with low sheltering eaves and covered storage jars resting beneath deep eaves.
+Fine grey ash drifts across the worn paths as guards pass on unhurried patrols
+and the weathered quarter feels firmly rooted despite the harsh climate.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013012 0
+D1
+East~
+~
+0 0 4013014 0
+D2
+Exit description~
+~
+0 0 1010605 0
+S
+#4013014
+Ashlands, Ald'ruhn, town, lower district~
+Worn public roads run between low plastered homes beneath muted northern light
+among patched doorways and sturdy wooden benches placed clear of passing feet.
+Fine grey ash swirls across the worn paths as guards pass on unhurried patrols
+and this part of town carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013015 0
+D3
+West~
+~
+0 0 4013013 0
+S
+#4013015
+Ashlands, Ald'ruhn, town, lower district~
+Low winding streets run between low plastered homes beneath a dim volcanic sky
+past narrow side passages and woven reed baskets grouped near sheltered walls.
+Ash skitters over the packed soil as residents shelter from another dusty gust
+and this part of town endures beneath the restless mountain weather.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013016 0
+D3
+West~
+~
+0 0 4013014 0
+D2
+Exit description~
+~
+0 0 1010607 0
+S
+#4013016
+Ashlands, Ald'ruhn, town, lower district~
+Narrow town paths run between low plastered homes beneath muted northern light
+past narrow side passages and woven reed baskets placed clear of passing feet.
+Fine grey ash moves across the worn paths and guards pass on unhurried patrols
+while this part of town endures beneath the restless mountain weather.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013017 0
+D3
+West~
+~
+0 0 4013015 0
+S
+#4013017
+Ashlands, Ald'ruhn, town, lower district~
+Hard earthen tracks wind between low plastered homes below a sky veiled by ash
+beside patched doorways and covered storage jars placed clear of passing feet.
+Fine grey ash moves across the worn paths while ordinary trade proceeds nearby
+and this part of town feels firmly rooted despite the harsh climate.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013066 0
+D1
+East~
+~
+0 0 4013018 0
+D2
+South~
+~
+0 0 4013062 0
+D3
+West~
+~
+0 0 4013016 0
+S
+#4013018
+Ashlands, Ald'ruhn, town, lower district~
+Narrow town paths curve between low plastered homes beneath a dim volcanic sky
+among rough plaster walls and covered storage jars resting beneath deep eaves.
+Fine grey ash eddies across the worn paths as footsteps cross the dusty ground
+and the weathered quarter carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013019 0
+D3
+West~
+~
+0 0 4013017 0
+S
+#4013019
+Ashlands, Ald'ruhn, town, lower district~
+Dusty lower streets wind between low plastered homes below a sky veiled by ash
+among weathered shop entrances, shielded wall lanterns and covered containers.
+Fine grey ash rolls above the quiet streets and ordinary trade proceeds nearby
+while the weathered quarter carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013020 0
+D3
+West~
+~
+0 0 4013018 0
+S
+#4013020
+Ashlands, Ald'ruhn, town, lower district~
+Dusty lower streets run between low plastered homes beneath a dim volcanic sky
+with plain house fronts and covered storage jars placed clear of passing feet.
+Fine grey ash drifts across the worn paths as footsteps cross the dusty ground
+and this part of town retains a stern and practical Dunmeri character.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4013021 0
+D2
+South~
+~
+0 0 4013128 0
+D3
+West~
+~
+0 0 4013019 0
+S
+#4013021
+Ashlands, Ald'ruhn, town, lower district~
+Worn public roads curve between low plastered homes beneath a dim volcanic sky
+among weathered shop entrances and shielded wall lanterns set beside the road.
+Fine grey ash passes over the packed ground as doors open onto the busy street
+and the district feels firmly rooted despite the harsh climate.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013022 0
+D3
+West~
+~
+0 0 4013020 0
+S
+#4013022
+Ashlands, Ald'ruhn, town, lower district~
+Hard earthen tracks run between low plastered homes beneath a dim volcanic sky
+with plain house fronts and woven reed baskets arranged along worn thresholds.
+Fine grey ash drifts across the worn paths and doors open onto the busy street
+while the sheltered street remains busy beneath the drifting ash.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4013001 0
+D2
+South~
+~
+0 0 4013021 0
+S
+#4013023
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+Smooth ochre walls enclose a well-used public room beneath aged overhead beams
+with small dining tables and stacked food bowls ordered across the hard floor.
+A shifting glow falls between the darkened beams as muted voices rise and fall
+and this welcoming interior remains lively through most waking hours.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013024 0
+D2
+South~
+~
+0 0 4013009 0
+S
+#4013024
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+Solid curved walls enclose a welcoming inn chamber beneath aged overhead beams
+with long common benches and stacked food bowls set between the narrow aisles.
+Muted firelight shines across the curved walls while a dry draft stirs the air
+and the common chamber keeps a warm and sociable atmosphere.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013025 0
+D2
+South~
+~
+0 0 4013023 0
+S
+#4013025
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+Solid curved walls enclose a crowded common room beneath a low rounded ceiling
+among scarred wooden tables and sealed drink barrels placed within easy reach.
+Muted firelight plays between the darkened beams as muted voices rise and fall
+and the busy inn room offers relief from the ash-filled streets.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013026 0
+D2
+South~
+~
+0 0 4013024 0
+D5
+Down~
+~
+0 0 4013027 0
+S
+#4013026
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+Curved plaster walls enclose a crowded guest room beneath broad wooden rafters
+among long common benches and stacked food bowls resting in well-used corners.
+A shifting glow falls between the darkened beams as soft footsteps pass nearby
+and the common chamber remains lively through most waking hours.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013025 0
+S
+#4013027
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+Solid curved walls enclose a welcoming public room beneath arched ceiling ribs
+with a broad serving counter, hanging cooking pots and simple eating utensils.
+A shifting glow falls upon the nearby shelves while muted voices rise and fall
+and this welcoming interior provides simple comfort for weary travelers.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013028 0
+D2
+South~
+~
+0 0 4013029 0
+D3
+West~
+~
+0 0 4013030 0
+D4
+Up~
+~
+0 0 4013025 0
+S
+#4013028
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+A crowded common room opens within solid curved walls under pale lantern light
+among small dining tables and folded blankets kept clear of the central aisle.
+Dusty golden light plays over the worn floor while the room settles into quiet
+and this welcoming interior offers relief from the ash-filled streets.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013027 0
+S
+#4013029
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+Smooth ochre walls enclose a welcoming public room beneath dark wooden rafters
+with a broad serving counter, hanging cooking pots and covered storage crates.
+A shifting glow trembles upon the nearby shelves and a dry draft stirs the air
+while the common chamber offers relief from the ash-filled streets.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013027 0
+S
+#4013030
+Ashlands, Ald'ruhn, town, Ald Skar's inn~
+Solid curved walls frame this crowded public room beneath smoke-darkened beams
+past sturdy guest beds and hanging cooking pots stored beneath sturdy shelves.
+Low amber light falls over the worn floor while ordinary work continues nearby
+and the busy inn room keeps a warm and sociable atmosphere.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013027 0
+S
+#4013031
+Ashlands, Ald'ruhn, town, Arobar manor's guard quarters~
+Curved plaster walls frame this orderly guard chamber beneath low timber beams
+past spare spears and sturdy equipment racks arranged for practical daily use.
+Amber lamplight shines beneath the heavy rafters as muted voices rise and fall
+and the watch room carries the sober mood of constant duty.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4013035 0
+D5
+Down~
+~
+0 0 4013036 0
+S
+#4013032
+Ashlands, Ald'ruhn, town, Arobar manor's bedrooms~
+Solid curved walls frame this refined bedroom beneath a shadowed plaster vault
+past a padded resting couch and woven floor rugs resting in well-used corners.
+Pale lamplight trembles over the worn floor as low conversation carries softly
+and the quiet bedchamber holds an air of restrained refinement.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013033 0
+D2
+South~
+~
+0 0 4013036 0
+S
+#4013033
+Ashlands, Ald'ruhn, town, Arobar manor's bedrooms~
+Carved plaster walls frame this secluded bedroom beneath a low rounded ceiling
+beside a neatly made bed and polished storage chests placed within easy reach.
+Faint candlelight trembles over the worn floor and the room settles into quiet
+while the secluded chamber remains removed from the bustle outside.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013034 0
+D2
+South~
+~
+0 0 4013032 0
+S
+#4013034
+Ashlands, Ald'ruhn, town, Arobar manor's bedrooms~
+Weathered native walls enclose a secluded bedroom beneath carved ceiling beams
+beside a curtained bed and small bedside tables ordered across the hard floor.
+Muted firelight plays upon the nearby shelves and dust turns slowly in the air
+while this private room offers comfort after demanding duties.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013033 0
+S
+#4013035
+Ashlands, Ald'ruhn, town, Arobar manor's entrance~
+Solid curved walls enclose a dignified manor foyer beneath dark wooden rafters
+beside formal wall hangings and waiting benches stored beneath sturdy shelves.
+Faint candlelight moves across the curved walls as the room settles into quiet
+and the formal hall remains prepared to receive important guests.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013031 0
+D3
+West~
+~
+0 0 4013099 0
+S
+#4013036
+Ashlands, Ald'ruhn, town, Arobar manor's private quarters~
+Broad red-plastered walls enclose a quiet family room beneath low timber beams
+beside broad family tables and sealed correspondence placed within easy reach.
+Muted firelight moves across the curved walls and dust turns slowly in the air
+while this private chamber holds the quiet weight of family authority.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013032 0
+D4
+Up~
+~
+0 0 4013031 0
+S
+#4013037
+Ashlands, Ald'ruhn, town, Aryni Orethi's house~
+Curved plaster walls enclose a quiet domestic room beneath aged overhead beams
+beside a narrow bed and woven storage baskets kept clear of the central aisle.
+Soft lantern glow falls upon the nearby shelves and muted voices rise and fall
+while the quiet interior bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013001 0
+S
+#4013038
+Ashlands, Ald'ruhn, town, Bevene Releth's clothing shop~
+Carved plaster walls enclose a busy tailoring room beneath aged overhead beams
+beside broad cutting tables and measuring cords set between the narrow aisles.
+Low amber light drifts over the worn floor and low conversation carries softly
+while this orderly workroom smells faintly of dye, wool and leather.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013093 0
+S
+#4013039
+Ashlands, Ald'ruhn, town, Bivale Teneran's clothing shop~
+Smooth ochre walls frame this colorful tailoring room beneath low timber beams
+among bolts of dyed cloth and measuring cords kept clear of the central aisle.
+Amber lamplight drifts beneath the heavy rafters as muted voices rise and fall
+and the cloth-lined chamber smells faintly of dye, wool and leather.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013097 0
+S
+#4013040
+Ashlands, Ald'ruhn, town, Boldrisa Andrano's house~
+Solid curved walls frame this plain household room beneath dark wooden rafters
+beside a simple bedroll and plain wooden stools stored beneath sturdy shelves.
+Dim red candlelight moves over the worn floor and dust turns slowly in the air
+while the sheltered room holds only the necessities of daily life.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013116 0
+S
+#4013041
+Ashlands, Ald'ruhn, town, Braynas Hlervu's house~
+Smooth ochre walls enclose a quiet living chamber beneath carved ceiling beams
+beside a low sleeping mat and clay cooking pots stored beneath sturdy shelves.
+Low amber light trembles over the worn floor as ordinary work continues nearby
+and the quiet interior bears the marks of careful daily use.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4013005 0
+S
+#4013042
+Ashlands, Ald'ruhn, town, Cienne Sintieve's alchemy shop~
+Solid curved walls enclose a warm herbal workroom beneath broad wooden rafters
+beside labeled ingredient jars and hanging roots lined along the curved walls.
+A shifting glow plays across the curved walls and dust turns slowly in the air
+while the fragrant shop supports the quiet preparation of useful remedies.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013097 0
+S
+#4013043
+Ashlands, Ald'ruhn, town, Codus Callonus's book shop~
+A quiet book shop opens within thick shell-like walls under pale lantern light
+past narrow writing desks and rolled parchments arranged in disciplined order.
+Smoky yellow light moves across the curved walls as muted voices rise and fall
+and the paper-lined chamber smells of ink, wax and aging parchment.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013092 0
+S
+#4013044
+Ashlands, Ald'ruhn, town, Council's club~
+Curved plaster walls enclose a quiet club chamber beneath carved ceiling beams
+with broad meeting tables and carved game boards lined along the curved walls.
+Amber lamplight moves upon the nearby shelves while muted voices rise and fall
+and the comfortable hall feels secluded from the public streets.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013045 0
+D1
+East~
+~
+0 0 4013009 0
+D3
+West~
+~
+0 0 4013046 0
+S
+#4013045
+Ashlands, Ald'ruhn, town, Council's club~
+Solid curved walls enclose a reserved social hall beneath smoke-darkened beams
+beside polished gaming tables and sealed bottles lined along the curved walls.
+A shifting glow drifts beneath the heavy rafters as muted voices rise and fall
+and this private chamber feels secluded from the public streets.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013044 0
+D3
+West~
+~
+0 0 4013047 0
+S
+#4013046
+Ashlands, Ald'ruhn, town, Council's club~
+Dark red-plastered walls frame this quiet social hall beneath low timber beams
+among polished gaming tables and clay drink cups resting in well-used corners.
+Warm hearth light falls over the worn floor as the lamps give off faint warmth
+and the reserved club room feels secluded from the public streets.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013047 0
+D1
+East~
+~
+0 0 4013044 0
+S
+#4013047
+Ashlands, Ald'ruhn, town, Council's club~
+Curved plaster walls enclose a quiet club chamber beneath broad wooden rafters
+among polished gaming tables and sealed bottles stored beneath sturdy shelves.
+Faint candlelight falls beneath the heavy rafters as a dry draft stirs the air
+and the comfortable hall encourages discreet conversation and business.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013048 0
+D1
+East~
+~
+0 0 4013045 0
+D2
+South~
+~
+0 0 4013046 0
+S
+#4013048
+Ashlands, Ald'ruhn, town, Council's club~
+Solid curved walls enclose a comfortable club chamber beneath low timber beams
+among deep cushioned chairs, carved game boards and covered refreshment trays.
+Pale lamplight glimmers upon the nearby shelves and muted voices rise and fall
+while the comfortable hall serves both leisure and quiet negotiation.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013047 0
+S
+#4013049
+Ashlands, Ald'ruhn, town, Council's hostel~
+Thick shell-like walls enclose an orderly hostel room beneath low timber beams
+past simple sleeping mats and shared washbasins set between the narrow aisles.
+Dim red candlelight falls across the curved walls as a dry draft stirs the air
+and the simple hostel offers welcome shelter from the ash storms.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013058 0
+D2
+South~
+~
+0 0 4013109 0
+D3
+West~
+~
+0 0 4013054 0
+S
+#4013050
+Ashlands, Ald'ruhn, town, Dandera Selaro's smith shop~
+Thick shell-like walls enclose a busy forge room beneath a low rounded ceiling
+with deep cooling troughs and stacks of charcoal kept close against the walls.
+Faint candlelight glimmers over the worn floor while a dry draft stirs the air
+and the busy forge room rings with the labor of constant repair.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013094 0
+S
+#4013051
+Ashlands, Ald'ruhn, town, Daynes Redothril's pawn shop~
+Solid curved walls enclose a cramped secondhand store beneath low timber beams
+past locked display cases and folded common clothing placed within easy reach.
+Pale lamplight drifts beneath the heavy rafters and muted voices rise and fall
+while the crowded shop rewards careful searching among its wares.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013093 0
+D2
+South~
+~
+0 0 4013150 0
+S
+#4013052
+Ashlands, Ald'ruhn, town, Dravasa Andrethi's house~
+Smooth ochre walls enclose a plain modest interior beneath arched ceiling ribs
+among a low sleeping mat, worn household tools and carefully stacked crockery.
+Amber lamplight plays over the worn floor while ordinary work continues nearby
+and the quiet interior feels secure against the harsh weather.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013004 0
+S
+#4013053
+Ashlands, Ald'ruhn, town, Drinar Varyon's house~
+Solid curved walls frame this humble domestic room beneath dark wooden rafters
+beside a simple bedroll and clay cooking pots kept clear of the central aisle.
+A shifting glow drifts upon the nearby shelves while a dry draft stirs the air
+and this humble home offers simple comfort without ornament.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013009 0
+S
+#4013054
+Ashlands, Ald'ruhn, town, Galsa Gindu's house~
+Solid curved walls enclose a quiet household room beneath broad wooden rafters
+with a low sleeping mat and plain wooden stools set between the narrow aisles.
+Pale lamplight moves through the enclosed chamber as a dry draft stirs the air
+and the quiet interior remains calm beneath the muffled town noise.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013049 0
+S
+#4013055
+Ashlands, Ald'ruhn, town, Galthragoth's house~
+Smooth ochre walls enclose a humble living chamber beneath aged overhead beams
+among folded bedding and worn household tools kept clear of the central aisle.
+Warm hearth light trembles over the worn floor while a dry draft stirs the air
+and the compact chamber retains the warmth of ordinary life.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013005 0
+S
+#4013056
+Ashlands, Ald'ruhn, town, Gildan's house~
+Rounded Dunmeri walls enclose a quiet modest interior beneath low timber beams
+with a simple bedroll and woven storage baskets ordered across the hard floor.
+Warm hearth light plays over the worn floor as low conversation carries softly
+and the compact chamber offers simple comfort without ornament.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4013003 0
+S
+#4013057
+Ashlands, Ald'ruhn, town, Gindrala Hleran's house~
+Curved plaster walls enclose a quiet domestic room beneath arched ceiling ribs
+beside a simple bedroll and plain wooden stools set neatly around the chamber.
+Smoky yellow light falls upon the nearby shelves as soft footsteps pass nearby
+and this humble home retains the warmth of ordinary life.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013002 0
+S
+#4013058
+Ashlands, Ald'ruhn, town, Goras Andrelo's house~
+A plain domestic room opens within solid curved walls under pale lantern light
+with a low sleeping mat and earthen water jars gathered beneath hanging lamps.
+Low amber light shines beneath the heavy rafters and a dry draft stirs the air
+while this humble home feels secure against the harsh weather.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013059 0
+D3
+West~
+~
+0 0 4013049 0
+S
+#4013059
+Ashlands, Ald'ruhn, town, Goras Andrelo's house~
+Curved plaster walls enclose a quiet domestic room beneath dark wooden rafters
+beside folded bedding and worn household tools gathered beneath hanging lamps.
+Pale lamplight plays across the curved walls as the enclosed air remains still
+and the quiet interior offers simple comfort without ornament.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013058 0
+S
+#4013060
+Ashlands, Ald'ruhn, town, guard tower~
+An austere watch room opens within solid curved walls under pale lantern light
+past heavy shuttered openings and warning horns ordered across the hard floor.
+Amber lamplight plays upon the nearby shelves while muted voices rise and fall
+and the narrow chamber stands ready to sound an alarm.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013011 0
+S
+#4013061
+Ashlands, Ald'ruhn, town, guard tower~
+Smooth ochre walls enclose a narrow tower chamber beneath carved ceiling beams
+past heavy shuttered openings and warning horns stored beneath sturdy shelves.
+Nearby lantern light plays over the worn floor and the room settles into quiet
+while the guarded tower offers little comfort beyond protection.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013012 0
+S
+#4013062
+Ashlands, Ald'ruhn, town, Fighter's guild~
+Smooth ochre walls frame this reinforced warrior hall beneath low timber beams
+with heavy weapon racks and folded armor padding resting in well-used corners.
+Muted firelight shines across the curved walls as dust turns slowly in the air
+and the martial chamber remains ready for contracts and patrols.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013017 0
+D2
+South~
+~
+0 0 4013063 0
+S
+#4013063
+Ashlands, Ald'ruhn, town, Fighter's guild~
+Solid curved walls frame this busy training room beneath a low rounded ceiling
+among scarred training dummies and repair tools set neatly around the chamber.
+A shifting glow moves across the curved walls and dust turns slowly in the air
+while the training hall bears the marks of constant practice.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013062 0
+D1
+East~
+~
+0 0 4013065 0
+D3
+West~
+~
+0 0 4013064 0
+S
+#4013064
+Ashlands, Ald'ruhn, town, Fighter's guild~
+Dark red-plastered walls enclose a busy guild chamber beneath low timber beams
+past scarred training dummies and spare shields stored beneath sturdy shelves.
+Soft lantern glow shines across the curved walls and a dry draft stirs the air
+while the martial chamber echoes with the habits of professional warriors.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013063 0
+S
+#4013065
+Ashlands, Ald'ruhn, town, Fighter's guild~
+Curved plaster walls frame this busy training room beneath arched ceiling ribs
+among scarred training dummies and repair tools ordered across the hard floor.
+Low amber light glimmers upon the nearby shelves and a dry draft stirs the air
+while the martial chamber remains ready for contracts and patrols.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013063 0
+S
+#4013066
+Ashlands, Ald'ruhn, town, Mage's guild~
+Solid curved walls frame this cluttered spell room beneath aged overhead beams
+among broad writing desks and rolled spell notes kept close against the walls.
+Low amber light plays beneath the heavy rafters and soft footsteps pass nearby
+while the quiet guild interior remains calm beneath restrained magical energy.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013067 0
+D2
+South~
+~
+0 0 4013017 0
+S
+#4013067
+Ashlands, Ald'ruhn, town, Mage's guild~
+Heavy earth-toned walls enclose a well-lit spell room beneath low timber beams
+beside broad writing desks and sealed soul gems set between the narrow aisles.
+Pale lamplight flickers over the worn floor as low conversation carries softly
+and the arcane chamber holds the dry scent of parchment and herbs.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013069 0
+D2
+South~
+~
+0 0 4013066 0
+D3
+West~
+~
+0 0 4013068 0
+D5
+Down~
+~
+0 0 4013073 0
+S
+#4013068
+Ashlands, Ald'ruhn, town, Mage's guild~
+Solid curved walls enclose a well-lit arcane study beneath arched ceiling ribs
+with padded study chairs, labeled ingredient jars and stacked reference books.
+Warm hearth light glimmers over the worn floor while a dry draft stirs the air
+and the arcane chamber remains calm beneath restrained magical energy.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013067 0
+S
+#4013069
+Ashlands, Ald'ruhn, town, Mage's guild~
+Curved plaster walls enclose an arcane spell room beneath broad wooden rafters
+past padded study chairs and sealed soul gems kept clear of the central aisle.
+Pale lamplight plays upon the nearby shelves as distant movement sounds beyond
+and the warded study holds the dry scent of parchment and herbs.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013067 0
+S
+#4013070
+Ashlands, Ald'ruhn, town, Mage's guild~
+Carved plaster walls frame this arcane scholarly room beneath low timber beams
+among broad writing desks, brass alchemical tools and small enchanted objects.
+Dim red candlelight trembles over the worn floor as soft footsteps pass nearby
+and the quiet guild interior supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013071 0
+D2
+South~
+~
+0 0 4013073 0
+D3
+West~
+~
+0 0 4013072 0
+S
+#4013071
+Ashlands, Ald'ruhn, town, Mage's guild~
+Solid curved walls frame this arcane guild chamber beneath dark wooden rafters
+among a marked ritual table and sealed soul gems lined along the curved walls.
+Pale lamplight plays beneath the heavy rafters while a dry draft stirs the air
+and the quiet guild interior keeps dangerous workings under firm control.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013070 0
+S
+#4013072
+Ashlands, Ald'ruhn, town, Mage's guild~
+Sturdy ash-stained walls enclose a quiet arcane study beneath low timber beams
+beside crowded bookcases and sealed soul gems kept clear of the central aisle.
+Soft lantern glow flickers over the worn floor and the room settles into quiet
+while the warded study supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013070 0
+S
+#4013073
+Ashlands, Ald'ruhn, town, Mage's guild~
+The arcane spell room rests within solid curved walls beneath low timber beams
+with padded study chairs and rolled spell notes set between the narrow aisles.
+Muted firelight falls upon the nearby shelves while muted voices rise and fall
+and this scholarly room holds the dry scent of parchment and herbs.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013070 0
+D1
+East~
+~
+0 0 4013074 0
+D3
+West~
+~
+0 0 4013075 0
+D4
+Up~
+~
+0 0 4013067 0
+S
+#4013074
+Ashlands, Ald'ruhn, town, Mage's guild~
+Weathered native walls enclose a quiet scholarly room beneath low timber beams
+among broad writing desks, ink-stained parchments and stacked reference books.
+Soft lantern glow drifts upon the nearby shelves and a dry draft stirs the air
+while the arcane chamber supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013073 0
+S
+#4013075
+Ashlands, Ald'ruhn, town, Mage's guild~
+Carved plaster walls frame this arcane spell room beneath carved ceiling beams
+with a marked ritual table and sealed soul gems set neatly around the chamber.
+Warm hearth light flickers over the worn floor as dust turns slowly in the air
+and this scholarly room supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013073 0
+S
+#4013076
+Ashlands, Ald'ruhn, town, Guls Llervu's house~
+Smooth ochre walls enclose a plain living chamber beneath smoke-darkened beams
+past a simple bedroll and woven storage baskets set between the narrow aisles.
+A shifting glow falls over the worn floor while ordinary work continues nearby
+and the compact chamber holds only the necessities of daily life.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013109 0
+S
+#4013077
+Ashlands, Ald'ruhn, town, Hanarai Assutlanipal's house~
+Curved plaster walls enclose a plain domestic room beneath dark wooden rafters
+beside folded bedding and plain wooden stools kept clear of the central aisle.
+Amber lamplight glimmers over the worn floor as ordinary work continues nearby
+and the compact chamber feels secure against the harsh weather.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4013008 0
+S
+#4013078
+Ashlands, Ald'ruhn, town, Ienas Sarandas's house~
+Solid curved walls frame this plain living chamber beneath dark wooden rafters
+beside a simple bedroll and plain wooden stools ordered across the hard floor.
+Faint candlelight falls over the worn floor while dust turns slowly in the air
+and this humble home feels secure against the harsh weather.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013008 0
+S
+#4013079
+Ashlands, Ald'ruhn, town, Ilmiril's house~
+Heavy earth-toned walls enclose a quiet domestic room beneath low timber beams
+beside a low sleeping mat and clay cooking pots set neatly around the chamber.
+A shifting glow shines upon the nearby shelves as dust turns slowly in the air
+and the sheltered room feels secure against the harsh weather.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013005 0
+S
+#4013080
+Ashlands, Ald'ruhn, town, Llether Vari's enchant shop~
+Solid curved walls enclose a quiet enchanted showroom beneath low timber beams
+with locked magical cabinets, small enchanted trinkets and wax ritual candles.
+Smoky yellow light falls over the worn floor as distant movement sounds beyond
+and the arcane shop blends patient craft with restrained sorcery.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013081 0
+D3
+West~
+~
+0 0 4013095 0
+S
+#4013081
+Ashlands, Ald'ruhn, town, Llether Vari's enchant shop~
+Rounded Dunmeri walls enclose a quiet enchanting shop beneath low timber beams
+past locked magical cabinets and labeled charm boxes placed within easy reach.
+Faint candlelight shines upon the nearby shelves as soft footsteps pass nearby
+and this warded chamber blends patient craft with restrained sorcery.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013080 0
+S
+#4013082
+Ashlands, Ald'ruhn, town, Llethri manor's guard quarters~
+Smooth ochre walls frame this orderly sentry room beneath carved ceiling beams
+with polished shields and sturdy equipment racks kept close against the walls.
+Soft lantern glow shines over the worn floor as distant movement sounds beyond
+and the guarded chamber reflects strict martial discipline.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013089 0
+D1
+East~
+~
+0 0 4013085 0
+D2
+South~
+~
+0 0 4013090 0
+D3
+West~
+~
+0 0 4013088 0
+S
+#4013083
+Ashlands, Ald'ruhn, town, Llethri manor's bedrooms~
+Dark red-plastered walls frame this quiet bedroom beneath carved ceiling beams
+beside a curtained bed and small bedside tables stored beneath sturdy shelves.
+Pale lamplight moves beneath the heavy rafters while a dry draft stirs the air
+and the secluded chamber preserves a calm and dignified stillness.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013088 0
+S
+#4013084
+Ashlands, Ald'ruhn, town, Llethri manor's bedrooms~
+Dark red-plastered walls enclose a private bedroom beneath arched ceiling ribs
+past a curtained bed and folded fine garments kept clear of the central aisle.
+Faint candlelight moves over the worn floor while dust turns slowly in the air
+and the restful interior offers comfort after demanding duties.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013088 0
+S
+#4013085
+Ashlands, Ald'ruhn, town, Llethri manor's entrance~
+Curved plaster walls frame this formal manor foyer beneath aged overhead beams
+past formal wall hangings and guard stations arranged for practical daily use.
+Smoky yellow light drifts across the curved walls as a dry draft stirs the air
+and the formal hall displays wealth without needless excess.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013086 0
+D1
+East~
+~
+0 0 4013099 0
+D2
+South~
+~
+0 0 4013087 0
+D3
+West~
+~
+0 0 4013082 0
+S
+#4013086
+Ashlands, Ald'ruhn, town, Llethri manor's entrance~
+Solid curved walls enclose a formal reception chamber beneath low timber beams
+with formal wall hangings and ceremonial shields lined along the curved walls.
+Faint candlelight falls over the worn floor as low conversation carries softly
+and the formal hall reflects an old tradition of authority.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013085 0
+S
+#4013087
+Ashlands, Ald'ruhn, town, Llethri manor's entrance~
+Smooth ochre walls enclose a spacious manor foyer beneath carved ceiling beams
+beside heavy entrance doors and visitor tables gathered beneath hanging lamps.
+Faint candlelight falls over the worn floor and ordinary work continues nearby
+while this guarded entrance displays wealth without needless excess.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013085 0
+S
+#4013088
+Ashlands, Ald'ruhn, town, Llethri manor's private quarters~
+Solid curved walls frame this secluded inner room beneath broad wooden rafters
+with low writing desks and fine ceramic vessels arranged in disciplined order.
+Dusty golden light shines over the worn floor while muted voices rise and fall
+and the secluded room suggests wealth kept under firm restraint.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013084 0
+D1
+East~
+~
+0 0 4013082 0
+D2
+South~
+~
+0 0 4013083 0
+S
+#4013089
+Ashlands, Ald'ruhn, town, Llethri manor's private quarters~
+Smooth ochre walls enclose a dignified family room beneath aged overhead beams
+with padded chairs and sealed correspondence arranged for practical daily use.
+Amber lamplight plays beneath the heavy rafters as the room settles into quiet
+and the comfortable salon holds the quiet weight of family authority.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013082 0
+S
+#4013090
+Ashlands, Ald'ruhn, town, Llethri manor's private quarters~
+A secluded inner room opens within smooth ochre walls under steady red candles
+past low writing desks and embroidered cushions arranged in disciplined order.
+Muted firelight moves between the darkened beams and a dry draft stirs the air
+while the refined interior suggests wealth kept under firm restraint.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013082 0
+S
+#4013091
+Ashlands, Ald'ruhn, town, Malpenix Blonia's trade shop~
+An orderly trade shop opens within solid curved walls under muted hearth light
+past plain display tables and common household tools placed within easy reach.
+Muted firelight trembles over the worn floor while the room settles into quiet
+and this busy trade room smells of rope, cloth, dust and seasoned wood.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013115 0
+S
+#4013092
+Ashlands, Ald'ruhn, town, manor district~
+Curving manor paths pass between curved manor walls beneath a dim volcanic sky
+beside ornamented house fronts and guard equipment stands set beside the road.
+Fine grey ash passes across the worn paths and doors open onto the busy street
+while the district endures beneath the restless mountain weather.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013093 0
+D1
+East~
+~
+0 0 4013140 0
+D2
+South~
+~
+0 0 4013010 0
+D3
+West~
+~
+0 0 4013043 0
+S
+#4013093
+Ashlands, Ald'ruhn, town, manor district~
+Firm private roads run among imposing Redoran manors below a sky veiled by ash
+beside broad guarded doorways, covered waiting benches and covered containers.
+Fine grey ash rolls over the packed ground and doors open onto the busy street
+while the surrounding neighborhood remains busy beneath the drifting ash.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013094 0
+D1
+East~
+~
+0 0 4013038 0
+D2
+South~
+~
+0 0 4013092 0
+D3
+West~
+~
+0 0 4013051 0
+S
+#4013094
+Ashlands, Ald'ruhn, town, manor district~
+Firm private roads wind between guarded noble houses below a sky veiled by ash
+beside private walled passages and guard equipment stands set beside the road.
+Fine grey ash sweeps over the packed ground as doors open onto the busy street
+and the surrounding neighborhood settles beneath the muted volcanic light.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013095 0
+D1
+East~
+~
+0 0 4013050 0
+D2
+South~
+~
+0 0 4013093 0
+S
+#4013095
+Ashlands, Ald'ruhn, town, manor district~
+Firm private roads run between guarded noble houses beneath a dim volcanic sky
+among ornamented house fronts, covered waiting benches and covered containers.
+Fine grey ash swirls over the packed ground and ordinary trade proceeds nearby
+while this part of town settles beneath the muted volcanic light.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013096 0
+D1
+East~
+~
+0 0 4013080 0
+D2
+South~
+~
+0 0 4013094 0
+D3
+West~
+~
+0 0 4013110 0
+S
+#4013096
+Ashlands, Ald'ruhn, town, manor district~
+Carved district lanes run between curved manor walls below a sky veiled by ash
+among formal stone steps and decorative stone urns resting beneath deep eaves.
+Fine grey ash sweeps over the packed ground and ordinary trade proceeds nearby
+while the weathered quarter settles beneath the muted volcanic light.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013097 0
+D1
+East~
+~
+0 0 4013144 0
+D2
+South~
+~
+0 0 4013095 0
+D3
+West~
+~
+0 0 4013117 0
+S
+#4013097
+Ashlands, Ald'ruhn, town, manor district~
+Broad sheltered lanes run between curved manor walls below a sky veiled by ash
+beside carved entrance arches and covered waiting benches set beside the road.
+Powdery grey ash moves across the worn paths as ordinary trade proceeds nearby
+and the sheltered street settles beneath the muted volcanic light.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013098 0
+D1
+East~
+~
+0 0 4013039 0
+D2
+South~
+~
+0 0 4013096 0
+D3
+West~
+~
+0 0 4013042 0
+S
+#4013098
+Ashlands, Ald'ruhn, town, manor district~
+Formal winding paths pass between curved manor walls below a sky veiled by ash
+among formal stone steps and ceremonial lanterns grouped near sheltered walls.
+Dry reddish dust rolls across the worn paths as ordinary trade proceeds nearby
+and the sheltered street endures beneath the restless mountain weather.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013099 0
+D1
+East~
+~
+0 0 4013100 0
+D2
+South~
+~
+0 0 4013097 0
+S
+#4013099
+Ashlands, Ald'ruhn, town, manor district~
+Raised stone walkways run between curved manor walls below a sky veiled by ash
+beside private walled passages, guard equipment stands and covered containers.
+Fine grey ash swirls over the packed ground as doors open onto the busy street
+and the sheltered street retains a stern and practical Dunmeri character.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013115 0
+D1
+East~
+~
+0 0 4013035 0
+D2
+South~
+~
+0 0 4013098 0
+D3
+West~
+~
+0 0 4013085 0
+S
+#4013100
+Ashlands, Ald'ruhn, town, Morag Tong's guild~
+Carved plaster walls enclose a dim assassins' hall beneath arched ceiling ribs
+past plain waiting benches and sealed writ cases lined along the curved walls.
+Muted firelight plays between the darkened beams and a dry draft stirs the air
+while the secretive chamber maintains an atmosphere of ritual discretion.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013101 0
+D3
+West~
+~
+0 0 4013098 0
+S
+#4013101
+Ashlands, Ald'ruhn, town, Morag Tong's guild~
+Solid curved walls frame this dim assassins' hall beneath carved ceiling beams
+among plain waiting benches and coded ledgers kept clear of the central aisle.
+Muted firelight glimmers over the worn floor as distant movement sounds beyond
+and the secretive chamber maintains an atmosphere of ritual discretion.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013100 0
+D5
+Down~
+~
+0 0 4013102 0
+S
+#4013102
+Ashlands, Ald'ruhn, town, Morag Tong's guild~
+Solid curved walls frame this austere assassins' hall beneath low timber beams
+with narrow practice mats and sealed writ cases arranged in disciplined order.
+Muted firelight glimmers upon the nearby shelves as soft footsteps pass nearby
+and the hidden guild room keeps its purpose concealed from outsiders.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4013103 0
+D4
+Up~
+~
+0 0 4013101 0
+S
+#4013103
+Ashlands, Ald'ruhn, town, Morag Tong's guild~
+Thick shell-like walls frame this dim assassins' hall beneath low timber beams
+past locked weapon chests and sealed writ cases stored beneath sturdy shelves.
+Muted firelight trembles upon the nearby shelves as muted voices rise and fall
+and the hidden guild room maintains an atmosphere of ritual discretion.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013102 0
+S
+#4013104
+Ashlands, Ald'ruhn, town, Morvayn manor's quarters~
+Solid curved walls frame this spacious family chamber beneath low timber beams
+with padded resting chairs, ceramic washing bowls and carefully stacked linen.
+A shifting glow plays over the worn floor while ordinary work continues nearby
+and the residential rooms show the restrained habits of a noble household.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013105 0
+S
+#4013105
+Ashlands, Ald'ruhn, town, Morvayn manor's quarters~
+Curved plaster walls enclose a private family chamber beneath low timber beams
+among low storage cabinets and folded garments gathered beneath hanging lamps.
+Smoky yellow light shines over the worn floor and dust turns slowly in the air
+while these private apartments provide comfort within the fortified manor.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013104 0
+D4
+Up~
+~
+0 0 4013106 0
+S
+#4013106
+Ashlands, Ald'ruhn, town, Morvayn manor's quarters~
+Solid curved walls enclose a spacious manor apartment beneath low timber beams
+among padded resting chairs and folded garments ordered across the hard floor.
+Soft lantern glow plays over the worn floor as the lamps give off faint warmth
+and these household quarters provide comfort within the fortified manor.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013107 0
+D5
+Down~
+~
+0 0 4013105 0
+S
+#4013107
+Ashlands, Ald'ruhn, town, Morvayn manor's entrance~
+Close-set native walls enclose a spacious manor foyer beneath low timber beams
+beside carved pillars and ceremonial shields arranged for practical daily use.
+Soft lantern glow plays over the worn floor and the enclosed air remains still
+while the spacious vestibule reflects an old tradition of authority.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013109 0
+D3
+West~
+~
+0 0 4013106 0
+S
+#4013108
+Ashlands, Ald'ruhn, town, Pellecia Aurrus's house~
+Weathered native walls enclose a plain household room beneath low timber beams
+with a simple bedroll and woven storage baskets set between the narrow aisles.
+Dim red candlelight falls over the worn floor while soft footsteps pass nearby
+and this humble home remains calm beneath the muffled town noise.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013004 0
+S
+#4013109
+Ashlands, Ald'ruhn, town, Redoran council's practice room~
+An austere drill hall opens within solid curved walls under pale lantern light
+past rows of training dummies and bundled staves lined along the curved walls.
+Pale lamplight plays between the darkened beams and muted voices rise and fall
+while the broad practice hall shows the wear of countless training sessions.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013049 0
+D1
+East~
+~
+0 0 4013076 0
+D2
+South~
+~
+0 0 4013116 0
+D3
+West~
+~
+0 0 4013107 0
+S
+#4013110
+Ashlands, Ald'ruhn, town, Ramoran manor's entrance~
+Solid curved walls frame this guarded manor foyer beneath broad wooden rafters
+with heavy entrance doors and visitor tables arranged for practical daily use.
+Muted firelight moves over the worn floor while distant movement sounds beyond
+and this guarded entrance displays wealth without needless excess.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013095 0
+D5
+Down~
+~
+0 0 4013111 0
+S
+#4013111
+Ashlands, Ald'ruhn, town, Ramoran manor's private quarters~
+Weathered native walls frame this quiet inner room beneath aged overhead beams
+with low writing desks and embroidered cushions arranged in disciplined order.
+Amber lamplight shines upon the nearby shelves while a dry draft stirs the air
+and the refined interior feels removed from the public halls outside.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013113 0
+D2
+South~
+~
+0 0 4013114 0
+D3
+West~
+~
+0 0 4013112 0
+D4
+Up~
+~
+0 0 4013110 0
+S
+#4013112
+Ashlands, Ald'ruhn, town, Ramoran manor's private quarters~
+Curved plaster walls enclose a refined inner room beneath carved ceiling beams
+with polished cabinets and fine ceramic vessels set neatly around the chamber.
+Soft lantern glow moves across the curved walls and soft footsteps pass nearby
+while the dignified space feels removed from the public halls outside.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013111 0
+S
+#4013113
+Ashlands, Ald'ruhn, town, Ramoran manor's private quarters~
+A quiet family room opens within curved plaster walls under pale lantern light
+past polished cabinets and fine ceramic vessels set between the narrow aisles.
+Low amber light falls between the darkened beams as soft footsteps pass nearby
+and the secluded room remains suited to confidential affairs.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013111 0
+S
+#4013114
+Ashlands, Ald'ruhn, town, Ramoran manor's private quarters~
+A quiet inner room opens within solid curved walls under small smoky oil lamps
+with polished cabinets and sealed correspondence kept close against the walls.
+Low amber light moves over the worn floor while distant movement sounds beyond
+and the refined interior suggests wealth kept under firm restraint.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013111 0
+S
+#4013115
+Ashlands, Ald'ruhn, town, Redoran council's entrance~
+Curved plaster walls frame this solemn reception hall beneath low timber beams
+among carved clan pillars and guard stations arranged for practical daily use.
+Nearby lantern light moves over the worn floor and the room settles into quiet
+while the formal entrance reflects the weight of civic authority.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013116 0
+D1
+East~
+~
+0 0 4013091 0
+D2
+South~
+~
+0 0 4013099 0
+S
+#4013116
+Ashlands, Ald'ruhn, town, Redoran council's hall~
+Solid curved walls enclose a spacious council hall beneath arched ceiling ribs
+past formal delegate benches and sealed records stored beneath sturdy shelves.
+Dim red candlelight drifts over the worn floor as dust turns slowly in the air
+and this governing chamber embodies the authority of traditional rule.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013109 0
+D1
+East~
+~
+0 0 4013040 0
+D2
+South~
+~
+0 0 4013115 0
+D3
+West~
+~
+0 0 4013141 0
+S
+#4013117
+Ashlands, Ald'ruhn, town, Sarethi manor's guard quarters~
+Solid curved walls frame this orderly sentry room beneath smoke-darkened beams
+among spare spears, watch schedules and repair tools placed within easy reach.
+Faint candlelight falls upon the nearby shelves as the room settles into quiet
+and this defensive room remains ready for sudden alarms.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013096 0
+D3
+West~
+~
+0 0 4013118 0
+S
+#4013118
+Ashlands, Ald'ruhn, town, Sarethi manor's private quarters~
+Smooth ochre walls enclose a dignified inner room beneath carved ceiling beams
+with polished cabinets and embroidered cushions stored beneath sturdy shelves.
+Muted firelight falls across the curved walls and dust turns slowly in the air
+while the secluded room feels removed from the public halls outside.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013119 0
+D1
+East~
+~
+0 0 4013117 0
+S
+#4013119
+Ashlands, Ald'ruhn, town, Sarethi manor's private quarters~
+Smooth ochre walls frame this refined inner room beneath heavy curved supports
+among low writing desks and fine ceramic vessels lined along the curved walls.
+A shifting glow flickers over the worn floor as ordinary work continues nearby
+and the secluded room feels removed from the public halls outside.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013118 0
+D3
+West~
+~
+0 0 4013120 0
+S
+#4013120
+Ashlands, Ald'ruhn, town, Sarethi manor's private quarters~
+Smooth ochre walls frame this refined family room beneath smoke-darkened beams
+beside padded chairs and carefully bound books gathered beneath hanging lamps.
+A shifting glow shines across the curved walls and the room settles into quiet
+while this private chamber balances private comfort with solemn duty.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013119 0
+S
+#4013121
+Ashlands, Ald'ruhn, town, Tauryon's house~
+Curved plaster walls enclose a quiet private dwelling beneath low timber beams
+beside a low sleeping mat and earthen water jars lined along the curved walls.
+Amber lamplight drifts upon the nearby shelves and the room settles into quiet
+while this humble home remains calm beneath the muffled town noise.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013003 0
+S
+#4013122
+Ashlands, Ald'ruhn, town, Tribunal's temple~
+Weathered native walls frame this vaulted sacred hall beneath low timber beams
+past carved stone altars and ceremonial vessels set between the narrow aisles.
+Low amber light plays over the worn floor while ordinary work continues nearby
+and the sacred chamber invites reflection beneath the watchful icons.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013123 0
+D2
+South~
+~
+0 0 4013124 0
+D3
+West~
+~
+0 0 4013007 0
+D5
+Down~
+~
+0 0 4013126 0
+S
+#4013123
+Ashlands, Ald'ruhn, town, Tribunal's temple~
+Solid curved walls enclose a vaulted prayer hall beneath heavy curved supports
+beside a raised shrine and folded temple cloths stored beneath sturdy shelves.
+Amber lamplight flickers over the worn floor as ordinary work continues nearby
+and this solemn temple room invites reflection beneath the watchful icons.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4013122 0
+S
+#4013124
+Ashlands, Ald'ruhn, town, Tribunal's temple~
+Carved plaster walls frame this quiet sacred hall beneath carved ceiling beams
+past carved stone altars and red votive candles stored beneath sturdy shelves.
+Amber lamplight falls across the curved walls while soft footsteps pass nearby
+and the reverent hall holds a deep and disciplined stillness.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013122 0
+S
+#4013125
+Ashlands, Ald'ruhn, town, Tribunal's temple~
+Rounded Dunmeri walls enclose a quiet prayer hall beneath carved ceiling beams
+past polished devotional stands and sacred texts lined along the curved walls.
+Muted firelight flickers over the worn floor as ordinary work continues nearby
+and this solemn temple room preserves the dignity of ancient worship.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4013126 0
+S
+#4013126
+Ashlands, Ald'ruhn, town, Tribunal's temple~
+Close-set native walls enclose a reverent prayer hall beneath low timber beams
+with rows of prayer cushions, red votive candles and fragrant incense burners.
+Warm hearth light falls over the worn floor and ordinary work continues nearby
+while the quiet shrine preserves the dignity of ancient worship.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013125 0
+D2
+South~
+~
+0 0 4013127 0
+D4
+Up~
+~
+0 0 4013122 0
+S
+#4013127
+Ashlands, Ald'ruhn, town, Tribunal's temple~
+A vaulted sacred hall opens within solid curved walls under steady red candles
+past polished devotional stands and sacred texts kept close against the walls.
+Faint candlelight falls across the curved walls as the room settles into quiet
+and the reverent hall preserves the dignity of ancient worship.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013126 0
+S
+#4013128
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Solid curved walls frame this noisy rented chamber beneath dark wooden rafters
+past small dining tables and sealed ale barrels set neatly around the chamber.
+Faint candlelight plays upon the nearby shelves as the room settles into quiet
+and the rented space holds the mixed scents of ale, smoke and stew.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013020 0
+D2
+South~
+~
+0 0 4013129 0
+S
+#4013129
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Smooth ochre walls frame this noisy rented chamber beneath aged overhead beams
+among small dining tables and sealed ale barrels resting in well-used corners.
+Dusty golden light moves across the curved walls as muted voices rise and fall
+and this crowded tavern stays warm despite the harsh air outside.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4013128 0
+D2
+South~
+~
+0 0 4013130 0
+S
+#4013130
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+A crowded common hall opens within smooth ochre walls under pale lantern light
+with small dining tables and stacked meal bowls ordered across the hard floor.
+Amber lamplight drifts across the curved walls as dust turns slowly in the air
+and the rented space remains noisy well into the evening.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013129 0
+D1
+East~
+~
+0 0 4013132 0
+D3
+West~
+~
+0 0 4013131 0
+D5
+Down~
+~
+0 0 4013139 0
+S
+#4013131
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Weathered native walls frame this crowded common hall beneath low timber beams
+past narrow rented beds and folded wool blankets lined along the curved walls.
+Low amber light falls over the worn floor while distant movement sounds beyond
+and the lively room stays warm despite the harsh air outside.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013130 0
+S
+#4013132
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Solid curved walls enclose a well-used tavern room beneath dark wooden rafters
+past long common benches and sealed ale barrels set neatly around the chamber.
+Dim red candlelight trembles over the worn floor as muted voices rise and fall
+and the smoky interior carries the rough humor of the local crowd.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013130 0
+S
+#4013133
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Smooth ochre walls frame this lively tavern room beneath heavy curved supports
+past small dining tables and stacked meal bowls set between the narrow aisles.
+Smoky yellow light drifts over the worn floor and dust turns slowly in the air
+while the lively room offers food and shelter without ceremony.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013134 0
+S
+#4013134
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+A crowded tavern room opens within solid curved walls under muted hearth light
+among small dining tables and sealed ale barrels lined along the curved walls.
+Low amber light drifts across the curved walls and the room settles into quiet
+while the public chamber remains noisy well into the evening.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013135 0
+D2
+South~
+~
+0 0 4013137 0
+D3
+West~
+~
+0 0 4013133 0
+S
+#4013135
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Close-set native walls enclose a warm tavern room beneath broad wooden rafters
+with narrow rented beds and folded wool blankets lined along the curved walls.
+Warm hearth light drifts over the worn floor as distant movement sounds beyond
+and the smoky interior holds the mixed scents of ale, smoke and stew.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4013134 0
+S
+#4013136
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Carved plaster walls frame this warm public room beneath stout timber supports
+past narrow rented beds and sealed ale barrels gathered beneath hanging lamps.
+Nearby lantern light glimmers over the worn floor as a dry draft stirs the air
+and the rented space offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013137 0
+S
+#4013137
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Weathered native walls enclose a noisy tavern room beneath dark wooden rafters
+among narrow rented beds and stacked meal bowls ordered across the hard floor.
+Low amber light falls across the curved walls while muted voices rise and fall
+and the lively room carries the rough humor of the local crowd.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013134 0
+D1
+East~
+~
+0 0 4013138 0
+D2
+South~
+~
+0 0 4013139 0
+D3
+West~
+~
+0 0 4013136 0
+S
+#4013138
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+A warm tavern room opens within solid curved walls under warm hanging lanterns
+among narrow rented beds and sealed ale barrels ordered across the hard floor.
+Amber lamplight glimmers across the curved walls as muted voices rise and fall
+and the lively room holds the mixed scents of ale, smoke and stew.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013137 0
+S
+#4013139
+Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern~
+Smooth ochre walls enclose a warm rented chamber beneath heavy curved supports
+among small dining tables and stacked meal bowls lined along the curved walls.
+A shifting glow trembles upon the nearby shelves as muted voices rise and fall
+and the rented space stays warm despite the harsh air outside.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013137 0
+D4
+Up~
+~
+0 0 4013130 0
+S
+#4013140
+Ashlands, Ald'ruhn, town, Tiras Sadus's merchant shop~
+Carved plaster walls enclose a crowded trade shop beneath carved ceiling beams
+with a broad trade counter and travel provisions lined along the curved walls.
+Amber lamplight moves over the worn floor while ordinary work continues nearby
+and the practical shop smells of rope, cloth, dust and seasoned wood.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4013092 0
+S
+#4013141
+Ashlands, Ald'ruhn, town, Tuveso Beleth's smith shop~
+Carved plaster walls enclose a stone-lined forge room beneath low timber beams
+with a broad iron anvil and long-handled hammers resting in well-used corners.
+Faint candlelight shines over the worn floor as distant movement sounds beyond
+and the heated workshop rings with the labor of constant repair.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013116 0
+D3
+West~
+~
+0 0 4013142 0
+S
+#4013142
+Ashlands, Ald'ruhn, town, Tuveso Beleth's smith shop~
+The hot smithy rests within rounded Dunmeri walls beneath broad wooden rafters
+past heavy repair benches and stacks of charcoal kept close against the walls.
+Faint candlelight plays upon the nearby shelves and muted voices rise and fall
+while the heated workshop rings with the labor of constant repair.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4013141 0
+S
+#4013143
+Ashlands, Ald'ruhn, town, Venim manor's bedrooms~
+Solid curved walls frame this private bedroom beneath a shadowed plaster vault
+with a padded resting couch, polished storage chests and embroidered cushions.
+Warm hearth light drifts upon the nearby shelves as muted voices rise and fall
+and the quiet bedchamber offers comfort after demanding duties.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013156 0
+S
+#4013144
+Ashlands, Ald'ruhn, town, Venim manor's entrance~
+Smooth ochre walls frame this formal entrance hall beneath aged overhead beams
+past formal wall hangings and ceremonial shields lined along the curved walls.
+Faint candlelight plays over the worn floor and the enclosed air remains still
+while the spacious vestibule sets a stern tone for the rooms beyond.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013145 0
+D3
+West~
+~
+0 0 4013096 0
+S
+#4013145
+Ashlands, Ald'ruhn, town, Venim manor's entrance~
+A guarded manor foyer opens within smooth ochre walls under steady red candles
+beside broad stone steps and ceremonial shields set neatly around the chamber.
+Faint candlelight falls across the curved walls and muted voices rise and fall
+while the dignified chamber displays wealth without needless excess.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4013146 0
+D3
+West~
+~
+0 0 4013144 0
+S
+#4013146
+Ashlands, Ald'ruhn, town, Venim manor's entrance~
+Curved plaster walls enclose a guarded manor foyer beneath aged overhead beams
+with heavy entrance doors and ceremonial shields lined along the curved walls.
+Muted firelight flickers upon the nearby shelves as muted voices rise and fall
+and the spacious vestibule displays wealth without needless excess.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013148 0
+D1
+East~
+~
+0 0 4013147 0
+D2
+South~
+~
+0 0 4013149 0
+D3
+West~
+~
+0 0 4013145 0
+S
+#4013147
+Ashlands, Ald'ruhn, town, Venim manor's entrance~
+Solid curved walls frame this imposing manor foyer beneath arched ceiling ribs
+beside heavy entrance doors and waiting benches set neatly around the chamber.
+Faint candlelight moves upon the nearby shelves and soft footsteps pass nearby
+while the spacious vestibule displays wealth without needless excess.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4013146 0
+D5
+Down~
+~
+0 0 4013150 0
+S
+#4013148
+Ashlands, Ald'ruhn, town, Venim manor's guard quarters~
+Smooth ochre walls enclose a fortified sentry room beneath arched ceiling ribs
+beside heavy practice blades and watch schedules kept close against the walls.
+Low amber light glimmers over the worn floor as the enclosed air remains still
+and the guarded chamber carries the sober mood of constant duty.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013146 0
+S
+#4013149
+Ashlands, Ald'ruhn, town, Venim manor's guard quarters~
+Solid curved walls frame this austere sentry room beneath carved ceiling beams
+among polished shields and sealed supply chests ordered across the hard floor.
+Faint candlelight moves over the worn floor as low conversation carries softly
+and this defensive room stands prepared for the next patrol.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013146 0
+D2
+South~
+~
+0 0 4013157 0
+S
+#4013150
+Ashlands, Ald'ruhn, town, Venim manor's private quarters~
+Smooth ochre walls enclose a quiet secluded salon beneath broad wooden rafters
+with polished cabinets and fine ceramic vessels set between the narrow aisles.
+Warm hearth light shines upon the nearby shelves and a dry draft stirs the air
+while the dignified space remains suited to confidential affairs.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013051 0
+D4
+Up~
+~
+0 0 4013147 0
+S
+#4013151
+Ashlands, Ald'ruhn, town, Venim manor's private quarters~
+Carved plaster walls frame this quiet private chamber beneath low timber beams
+among low writing desks and fine ceramic vessels resting in well-used corners.
+Muted firelight trembles across the curved walls and a dry draft stirs the air
+while the comfortable salon suggests wealth kept under firm restraint.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013152 0
+D1
+East~
+~
+0 0 4013155 0
+S
+#4013152
+Ashlands, Ald'ruhn, town, Venim manor's private quarters~
+Smooth ochre walls frame this refined inner room beneath a low rounded ceiling
+among padded chairs and embroidered cushions arranged for practical daily use.
+Amber lamplight falls over the worn floor while the enclosed air remains still
+and this private chamber feels removed from the public halls outside.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013153 0
+D1
+East~
+~
+0 0 4013156 0
+D2
+South~
+~
+0 0 4013151 0
+S
+#4013153
+Ashlands, Ald'ruhn, town, Venim manor's private quarters~
+Rounded Dunmeri walls enclose a refined inner room beneath aged overhead beams
+with polished cabinets and embroidered cushions arranged in disciplined order.
+Amber lamplight falls upon the nearby shelves while soft footsteps pass nearby
+and the refined interior balances private comfort with solemn duty.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013154 0
+D2
+South~
+~
+0 0 4013152 0
+S
+#4013154
+Ashlands, Ald'ruhn, town, Venim manor's private quarters~
+Smooth ochre walls enclose a quiet private chamber beneath dark wooden rafters
+past polished cabinets and sealed correspondence kept close against the walls.
+Smoky yellow light falls across the curved walls as muted voices rise and fall
+and the secluded room balances private comfort with solemn duty.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4013153 0
+S
+#4013155
+Ashlands, Ald'ruhn, town, Venim manor's private quarters~
+Rounded Dunmeri walls frame this quiet inner room beneath carved ceiling beams
+beside padded chairs and sealed correspondence gathered beneath hanging lamps.
+Muted firelight plays upon the nearby shelves while muted voices rise and fall
+and the comfortable salon suggests wealth kept under firm restraint.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4013151 0
+S
+#4013156
+Ashlands, Ald'ruhn, town, Venim manor's private quarters~
+Carved plaster walls enclose a refined family room beneath dark wooden rafters
+past low writing desks and carefully bound books lined along the curved walls.
+Pale lamplight moves upon the nearby shelves as distant movement sounds beyond
+and the dignified space balances private comfort with solemn duty.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013143 0
+D3
+West~
+~
+0 0 4013152 0
+S
+#4013157
+Ashlands, Ald'ruhn, town, Venim manor's right wing~
+Rounded Dunmeri walls enclose a quiet side chamber beneath arched ceiling ribs
+with long woven runners and polished side tables kept close against the walls.
+Dusty golden light drifts over the worn floor and dust turns slowly in the air
+while this side chamber remains reserved for household use.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013149 0
+D2
+South~
+~
+0 0 4013158 0
+S
+#4013158
+Ashlands, Ald'ruhn, town, Venim manor's right wing~
+Smooth ochre walls frame this quiet manor gallery beneath carved ceiling beams
+among long woven runners and decorative urns arranged for practical daily use.
+Muted firelight glimmers upon the nearby shelves as muted voices rise and fall
+and the private wing connects the manor rooms with restrained elegance.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013157 0
+D2
+South~
+~
+0 0 4013159 0
+S
+#4013159
+Ashlands, Ald'ruhn, town, Venim manor's right wing~
+Thick shell-like walls frame this broad manor gallery beneath low timber beams
+with shallow display niches and family portraits resting in well-used corners.
+Faint candlelight shines upon the nearby shelves and a dry draft stirs the air
+while this side chamber connects the manor rooms with restrained elegance.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4013158 0
+S
+#0
+
+#RESETS
+M 0 2301538 1 4013001  ;  Mob: Louis Beauchamp [Npcs] => #4013001 [Ald'ruhn]Ashlands, Ald'ruhn, town, upper district
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+G 1 3404119 1 ; -- Give: Silver platter [Items]
+M 0 2300145 1 4013002  ;  Mob: Ano Vando [Npcs] => #4013002 [Ald'ruhn]Ashlands, Ald'ruhn, town, upper district
+E 1 3139002 1 10  ; -- Equip: Iron pauldrons [Items] (arms)
+E 1 3139006 1 7  ; -- Equip: Iron greaves [Items] (legs)
+E 1 3139003 1 5  ; -- Equip: Iron cuirass [Items] (body)
+E 1 3139005 1 9  ; -- Equip: Iron gauntlets [Items] (hands)
+E 1 3139007 1 8  ; -- Equip: Iron sabatons [Items] (feet)
+E 1 3004003 1 17  ; -- Equip: Darksun [Items] (hold)
+E 1 3012001 1 16  ; -- Equip: Light of day [Items] (wield)
+M 0 2301828 1 4013003  ;  Mob: Navam Veran [Npcs] => #4013003 [Ald'ruhn]Ashlands, Ald'ruhn, town, upper district
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300348 1 4013023  ;  Mob: Boderi Farano [Npcs] => #4013023 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410019 1 ; -- Give: Colovian brandy [Items]
+G 1 3410030 1 ; -- Give: Wine [Items]
+G 1 3410010 1 ; -- Give: Flin [Items]
+G 1 3410007 1 ; -- Give: Shein [Items]
+G 1 3409037 1 ; -- Give: Poached ash yam [Items]
+M 0 2300895 1 4013024  ;  Mob: Fathusa Girethi [Npcs] => #4013024 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3404038 1 ; -- Give: Fat lute [Items]
+M 0 2301199 1 4013025  ;  Mob: Hassour Zainsubani [Npcs] => #4013025 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301673 1 4013026  ;  Mob: Merthierry Laelippe [Npcs] => #4013026 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302129 1 4013027  ;  Mob: Sadryn Volos [Npcs] => #4013027 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302245 1 4013028  ;  Mob: Shashev [Npcs] => #4013028 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3019005 1 1  ; -- Equip: Shashev's ring [Items] (finger-r)
+M 0 2302287 1 4013029  ;  Mob: Skeetul [Npcs] => #4013029 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302543 1 4013030  ;  Mob: Tuundir [Npcs] => #4013030 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ald Skar's inn
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+M 0 2300360 1 4013031  ;  Mob: Bolyn Elval [Npcs] => #4013031 [Ald'ruhn]Ashlands, Ald'ruhn, town, Arobar manor's guard quarters
+E 1 3121001 1 6  ; -- Equip: Dreugh scullcap [Items] (head)
+E 1 3121003 1 5  ; -- Equip: Dreugh jack [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3235041 1 16  ; -- Equip: Steel crossbow [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301044 1 4013032  ;  Mob: Gandosa Arobar [Npcs] => #4013032 [Ald'ruhn]Ashlands, Ald'ruhn, town, Arobar manor's bedrooms
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301500 1 4013033  ;  Mob: Llavane Hlas [Npcs] => #4013033 [Ald'ruhn]Ashlands, Ald'ruhn, town, Arobar manor's bedrooms
+E 1 3121003 1 5  ; -- Equip: Dreugh jack [Items] (body)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3235041 1 16  ; -- Equip: Steel crossbow [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301714 1 4013034  ;  Mob: Miner Arobar [Npcs] => #4013034 [Ald'ruhn]Ashlands, Ald'ruhn, town, Arobar manor's bedrooms
+E 1 3111003 1 5  ; -- Equip: Armun an bonemold jack [Items] (body)
+E 1 3111002 1 10  ; -- Equip: Armun an bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3301025 1 3  ; -- Equip: Golden amulet [Items] (neck-1)
+E 1 3211020 1 16  ; -- Equip: Dwarven claymore [Items] (wield)
+G 1 3408007 1 ; -- Give: Miner's pick [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300847 1 4013035  ;  Mob: Ethes Evos [Npcs] => #4013035 [Ald'ruhn]Ashlands, Ald'ruhn, town, Arobar manor's entrance
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302695 1 4013036  ;  Mob: Vindyne Belvani [Npcs] => #4013036 [Ald'ruhn]Ashlands, Ald'ruhn, town, Arobar manor's private quarters
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300200 1 4013037  ;  Mob: Aryni Orethi [Npcs] => #4013037 [Ald'ruhn]Ashlands, Ald'ruhn, town, Aryni Orethi's house
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300327 1 4013038  ;  Mob: Bevene Releth [Npcs] => #4013038 [Ald'ruhn]Ashlands, Ald'ruhn, town, Bevene Releth's clothing shop
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3104003 1 ; -- Give: Expensive shirt [Items]
+G 1 3104001 1 ; -- Give: Expensive hood [Items]
+G 1 3105007 1 ; -- Give: Extravagant shoes [Items]
+G 1 3105005 1 ; -- Give: Extravagant gloves [Items]
+G 1 3106010 1 ; -- Give: Exquisite skirt [Items]
+G 1 3106007 1 ; -- Give: Exquisite shoes [Items]
+G 1 3103006 1 ; -- Give: Fine pants [Items]
+G 1 3103007 1 ; -- Give: Fine shoes [Items]
+M 0 2300339 1 4013039  ;  Mob: Bivale Teneran [Npcs] => #4013039 [Ald'ruhn]Ashlands, Ald'ruhn, town, Bivale Teneran's clothing shop
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3104005 1 9  ; -- Equip: Expensive gloves [Items] (hands)
+E 1 3301044 1 1  ; -- Equip: Pearl ring [Items] (finger-r)
+E 1 3301043 1 3  ; -- Equip: Pearl circlet [Items] (neck-1)
+G 1 3301010 1 ; -- Give: Copper necklace [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3301012 1 ; -- Give: Copper ring [Items]
+G 1 3301053 1 ; -- Give: Ruby amulet [Items]
+G 1 3104004 1 ; -- Give: Expensive sash [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+G 1 3104005 1 ; -- Give: Expensive gloves [Items]
+G 1 3105007 1 ; -- Give: Extravagant shoes [Items]
+G 1 3105001 1 ; -- Give: Extravagant hood [Items]
+G 1 3105005 1 ; -- Give: Extravagant gloves [Items]
+G 1 3103006 1 ; -- Give: Fine pants [Items]
+G 1 3103007 1 ; -- Give: Fine shoes [Items]
+G 1 3106003 1 ; -- Give: Exquisite shirt [Items]
+G 1 3106007 1 ; -- Give: Exquisite shoes [Items]
+G 1 3301036 1 ; -- Give: Jeweled ring [Items]
+M 0 2300353 1 4013040  ;  Mob: Boldrisa Andrano [Npcs] => #4013040 [Ald'ruhn]Ashlands, Ald'ruhn, town, Boldrisa Andrano's house
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3235012 1 16  ; -- Equip: Steel shortsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300382 1 4013041  ;  Mob: Braynas Hlervu [Npcs] => #4013041 [Ald'ruhn]Ashlands, Ald'ruhn, town, Braynas Hlervu's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300469 1 4013042  ;  Mob: Cienne Sintieve [Npcs] => #4013042 [Ald'ruhn]Ashlands, Ald'ruhn, town, Cienne Sintieve's alchemy shop
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3301025 1 3  ; -- Equip: Golden amulet [Items] (neck-1)
+E 1 3301028 1 1  ; -- Equip: Golden ring [Items] (finger-r)
+G 1 3403012 1 ; -- Give: Ampoule Pod [Items]
+G 1 3403020 1 ; -- Give: Ash Salt [Items]
+G 1 3403021 1 ; -- Give: Ash Yam [Items]
+G 1 3403095 1 ; -- Give: Crab Meat [Items]
+G 1 3403136 1 ; -- Give: Frost Salt [Items]
+G 1 3403188 1 ; -- Give: Hound Meat [Items]
+G 1 3403328 1 ; -- Give: Small Kwama Egg [Items]
+G 1 3401035 1 ; -- Give: Potion of fire resistance [Items]
+G 1 3401039 1 ; -- Give: Potion of magic resistance [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401005 1 ; -- Give: Potion of water breathing [Items]
+G 1 3410009 1 ; -- Give: Greef [Items]
+G 1 3410007 1 ; -- Give: Shein [Items]
+G 1 3410005 1 ; -- Give: Sujamma [Items]
+G 1 3410003 1 ; -- Give: Telvanni Bug Musk [Items]
+G 1 3408012 1 ; -- Give: Apprentice's mortar and pestle [Items]
+G 1 3408017 1 ; -- Give: Journeyman's Alembic [Items]
+G 1 3408018 1 ; -- Give: Journeyman's Calcinator [Items]
+G 1 3408019 1 ; -- Give: Journeyman's Retort [Items]
+M 0 2300485 1 4013043  ;  Mob: Codus Callonus [Npcs] => #4013043 [Ald'ruhn]Ashlands, Ald'ruhn, town, Codus Callonus's book shop
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3406006 1 ; -- Give: ABCs for barbarians [Items]
+G 1 3406217 1 ; -- Give: I'm my own grandpa [Items]
+G 1 3406183 1 ; -- Give: Guide to Vivec [Items]
+G 1 3406181 1 ; -- Give: Guide to Balmora [Items]
+G 1 3406180 1 ; -- Give: Guide to Ald'ruhn [Items]
+G 1 3406006 1 ; -- Give: ABCs for Barbarians [Items]
+G 1 3406011 1 ; -- Give: Annotated Anuad [Items]
+G 1 3406114 1 ; -- Give: Doors of the Spirit [Items]
+G 1 3406261 1 ; -- Give: Mysterious Akavir [Items]
+G 1 3406300 1 ; -- Give: Red Book of Riddles [Items]
+G 1 3406302 1 ; -- Give: Reflections on Cult Worship [Items]
+M 0 2300370 1 4013044  ;  Mob: Bralas Mels [Npcs] => #4013044 [Ald'ruhn]Ashlands, Ald'ruhn, town, Council's club
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+M 0 2300549 1 4013045  ;  Mob: Darvam Hlaren [Npcs] => #4013045 [Ald'ruhn]Ashlands, Ald'ruhn, town, Council's club
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2300554 1 4013046  ;  Mob: Dather Manel [Npcs] => #4013046 [Ald'ruhn]Ashlands, Ald'ruhn, town, Council's club
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+M 0 2302444 1 4013047  ;  Mob: Thengil [Npcs] => #4013047 [Ald'ruhn]Ashlands, Ald'ruhn, town, Council's club
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+M 0 2302707 1 4013048  ;  Mob: Volene Llervu [Npcs] => #4013048 [Ald'ruhn]Ashlands, Ald'ruhn, town, Council's club
+E 1 3003004 1 6  ; -- Equip: Chitin mask helm [Items] (head)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235024 1 16  ; -- Equip: Steel waraxe [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300524 1 4013050  ;  Mob: Dandera Selaro [Npcs] => #4013050 [Ald'ruhn]Ashlands, Ald'ruhn, town, Dandera Selaro's smith shop
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3115006 1 ; -- Give: Bonemold guards [Items]
+G 1 3115001 1 ; -- Give: Bonemold scullcap [Items]
+G 1 3117003 1 ; -- Give: Chitin jerkin [Items]
+G 1 3117005 1 ; -- Give: Chitin bracers [Items]
+G 1 3125001 1 ; -- Give: Gah julan bonemold scullcap [Items]
+G 1 3159007 1 ; -- Give: Steel sabatons [Items]
+G 1 3159005 1 ; -- Give: Steel gauntlets [Items]
+G 1 3139006 1 ; -- Give: Iron greaves [Items]
+G 1 3231031 1 ; -- Give: Silver staff [Items]
+G 1 3223020 1 ; -- Give: Iron claymore [Items]
+G 1 3235009 1 ; -- Give: Steel dagger [Items]
+G 1 3108001 1 ; -- Give: Adamantium scullcap [Items]
+G 1 3108005 1 ; -- Give: Adamantium wristguards [Items]
+G 1 3201024 1 ; -- Give: Adamantium waraxe [Items]
+G 1 3235026 1 ; -- Give: Steel battleaxe [Items]
+M 0 2300565 1 4013051  ;  Mob: Daynes Redothril [Npcs] => #4013051 [Ald'ruhn]Ashlands, Ald'ruhn, town, Daynes Redothril's pawn shop
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102010 1 ; -- Give: Common skirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3102005 1 ; -- Give: Common gloves [Items]
+G 1 3102001 1 ; -- Give: Common hood [Items]
+G 1 3404009 1 ; -- Give: Bottle [Items]
+G 1 3404082 1 ; -- Give: Pewter bowl [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3404005 1 ; -- Give: Blue clay pot [Items]
+G 1 3404035 1 ; -- Give: Decorative bowl [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+M 0 2300661 1 4013052  ;  Mob: Dravasa Andrethi [Npcs] => #4013052 [Ald'ruhn]Ashlands, Ald'ruhn, town, Dravasa Andrethi's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300685 1 4013053  ;  Mob: Drinar Varyon [Npcs] => #4013053 [Ald'ruhn]Ashlands, Ald'ruhn, town, Drinar Varyon's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301048 1 1  ; -- Equip: Pewter ring [Items] (finger-r)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+M 0 2301029 1 4013054  ;  Mob: Galsa Gindu [Npcs] => #4013054 [Ald'ruhn]Ashlands, Ald'ruhn, town, Galsa Gindu's house
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301031 1 4013055  ;  Mob: Galthragoth [Npcs] => #4013055 [Ald'ruhn]Ashlands, Ald'ruhn, town, Galthragoth's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301088 1 4013056  ;  Mob: Gildan [Npcs] => #4013056 [Ald'ruhn]Ashlands, Ald'ruhn, town, Gildan's house
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3320007 1 2  ; -- Equip: Blades' insignia [Items] (finger-l)
+M 0 2301100 1 4013057  ;  Mob: Gindrala Hleran [Npcs] => #4013057 [Ald'ruhn]Ashlands, Ald'ruhn, town, Gindrala Hleran's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+M 0 2301137 1 4013058  ;  Mob: Goras Andrelo [Npcs] => #4013058 [Ald'ruhn]Ashlands, Ald'ruhn, town, Goras Andrelo's house
+E 1 3125001 1 6  ; -- Equip: Gah julan bonemold scullcap [Items] (head)
+E 1 3125003 1 5  ; -- Equip: Gah julan bonemold jack [Items] (body)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3235018 1 16  ; -- Equip: Steel longsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301735 1 4013059  ;  Mob: Mivanu Andrelo [Npcs] => #4013059 [Ald'ruhn]Ashlands, Ald'ruhn, town, Goras Andrelo's house
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300278 1 4013062  ;  Mob: Baradras [Npcs] => #4013062 [Ald'ruhn]Ashlands, Ald'ruhn, town, Fighter's guild
+E 1 3125001 1 6  ; -- Equip: Gah julan bonemold scullcap [Items] (head)
+E 1 3125003 1 5  ; -- Equip: Gah julan bonemold jack [Items] (body)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3223019 1 16  ; -- Equip: Iron broadsword [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300813 1 4013063  ;  Mob: Ergnir [Npcs] => #4013063 [Ald'ruhn]Ashlands, Ald'ruhn, town, Fighter's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223041 1 16  ; -- Equip: Iron crossbow [Items] (wield)
+G 1 3115006 1 ; -- Give: Bonemold guards [Items]
+G 1 3117003 1 ; -- Give: Chitin jerkin [Items]
+G 1 3131001 1 ; -- Give: Imperial dragonscale scullcap [Items]
+G 1 3118001 1 ; -- Give: Chuzei bonemold scullcap [Items]
+G 1 3125001 1 ; -- Give: Gah julan bonemold scullcap [Items]
+G 1 3223026 1 ; -- Give: Iron battleaxe [Items]
+G 1 3223027 1 ; -- Give: Iron club [Items]
+G 1 3223011 1 ; -- Give: Iron wakizashi [Items]
+G 1 3235023 1 ; -- Give: Steel handaxe [Items]
+G 1 3235020 1 ; -- Give: Steel claymore [Items]
+G 1 3235036 1 ; -- Give: Steel halberd [Items]
+G 1 3223038 1 ; -- Give: Iron pike [Items]
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2301962 1 4013064  ;  Mob: Percius Mercius [Npcs] => #4013064 [Ald'ruhn]Ashlands, Ald'ruhn, town, Fighter's guild
+E 1 3144008 1 17  ; -- Equip: Netch leather buckler [Items] (hold)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3019006 1 16  ; -- Equip: Steel broadsword of hewing [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2302503 1 4013065  ;  Mob: Tralan [Npcs] => #4013065 [Ald'ruhn]Ashlands, Ald'ruhn, town, Fighter's guild
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144008 1 17  ; -- Equip: Netch leather buckler [Items] (hold)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223018 1 16  ; -- Equip: Iron longsword [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300117 1 4013066  ;  Mob: Anarenen [Npcs] => #4013066 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3403037 1 ; -- Give: Black Lichen [Items]
+G 1 3403046 1 ; -- Give: Bloat [Items]
+G 1 3403110 1 ; -- Give: Dreugh Wax [Items]
+G 1 3403129 1 ; -- Give: Fire Salt [Items]
+G 1 3403147 1 ; -- Give: Ginseng [Items]
+G 1 3403296 1 ; -- Give: Roobrush [Items]
+G 1 3403327 1 ; -- Give: Sload Soap [Items]
+G 1 3403375 1 ; -- Give: Vampire Dust [Items]
+G 1 3401005 1 ; -- Give: Potion of water breathing [Items]
+G 1 3401033 1 ; -- Give: Potion of fortify fatigue [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401061 1 ; -- Give: Potion of restore luck [Items]
+G 1 3401058 1 ; -- Give: Potion of restore intelligence [Items]
+G 1 3401060 1 ; -- Give: Potion of restore personality [Items]
+G 1 3408017 1 ; -- Give: Journeyman's Alembic [Items]
+G 1 3408018 1 ; -- Give: Journeyman's Calcinator [Items]
+G 1 3408016 1 ; -- Give: Journeyman's Mortar and Pestle [Items]
+G 1 3408019 1 ; -- Give: Journeyman's Retort [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2300742 1 4013067  ;  Mob: Edwinna Elbert [Npcs] => #4013067 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3023001 1 16  ; -- Equip: Wizard's staff [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2300826 1 4013068  ;  Mob: Erranil [Npcs] => #4013068 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301204 1 4013069  ;  Mob: Heem-La [Npcs] => #4013069 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3236012 1 16  ; -- Equip: Steel shortsword of fire [Items] (wield)
+G 1 3402007 1 ; -- Give: Scroll of poison shield [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301599 1 4013070  ;  Mob: Manis Virmaulese [Npcs] => #4013070 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3301033 1 3  ; -- Equip: Jeweled amulet [Items] (neck-1)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301758 1 4013071  ;  Mob: Movis Darys [Npcs] => #4013071 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3236009 1 16  ; -- Equip: Steel dagger of fire [Items] (wield)
+E 1 3002001 1 13  ; -- Equip: Belt of Sanguine denial [Items] (waist)
+M 0 2301942 1 4013072  ;  Mob: Orrent Geontene [Npcs] => #4013072 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2302372 1 4013073  ;  Mob: Tanar Llervi [Npcs] => #4013073 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3205027 1 ; -- Give: Chitin club [Items]
+G 1 3223028 1 ; -- Give: Iron mace [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3102010 1 ; -- Give: Common skirt [Items]
+G 1 3402087 1 ; -- Give: Scroll of burden [Items]
+G 1 3402041 1 ; -- Give: Scroll of dispel [Items]
+G 1 3402042 1 ; -- Give: Scroll of divine intervention [Items]
+G 1 3402111 1 ; -- Give: Scroll of frost damage [Items]
+G 1 3402084 1 ; -- Give: Scroll of restore health [Items]
+G 1 3402066 1 ; -- Give: Scroll of physical resistance [Items]
+G 1 3408035 1 ; -- Give: Lesser soulgem [Items]
+G 1 3408034 1 ; -- Give: Petty soulgem [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2302516 1 4013074  ;  Mob: Tremona Maren [Npcs] => #4013074 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+M 0 2302631 1 4013075  ;  Mob: Vala Catraso [Npcs] => #4013075 [Ald'ruhn]Ashlands, Ald'ruhn, town, Mage's guild
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3301008 1 1  ; -- Equip: Amethyst ring [Items] (finger-r)
+E 1 3301017 1 3  ; -- Equip: Emerald amulet [Items] (neck-1)
+M 0 2301166 1 4013076  ;  Mob: Guls Llervu [Npcs] => #4013076 [Ald'ruhn]Ashlands, Ald'ruhn, town, Guls Llervu's house
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+G 1 3403090 1 ; -- Give: Corkbulb Root [Items]
+G 1 3403207 1 ; -- Give: Kagouti Hide [Items]
+G 1 3403291 1 ; -- Give: Resin [Items]
+G 1 3403306 1 ; -- Give: Saltrice [Items]
+G 1 3403313 1 ; -- Give: Scathecraw [Items]
+G 1 3403319 1 ; -- Give: Scuttle [Items]
+G 1 3401033 1 ; -- Give: Potion of fortify fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3406313 1 ; -- Give: Saryoni's Sermons [Items]
+G 1 3406276 1 ; -- Give: Overview of Gods and Worship [Items]
+G 1 3406114 1 ; -- Give: Doors of the Spirit [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301191 1 4013077  ;  Mob: Hanarai Assutlanipal [Npcs] => #4013077 [Ald'ruhn]Ashlands, Ald'ruhn, town, Hanarai Assutlanipal's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3205009 1 16  ; -- Equip: Chitin dagger [Items] (wield)
+G 1 3404003 1 ; -- Give: Ash statue [Items]
+E 1 3320019 1 2  ; -- Equip: House Dagoth's insignia [Items] (finger-l)
+M 0 2301293 1 4013078  ;  Mob: Ienas Sarandas [Npcs] => #4013078 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ienas Sarandas's house
+E 1 3002002 1 5  ; -- Equip: Brocade shirt [Items] (body)
+E 1 3004004 1 8  ; -- Equip: Designer shoes [Items] (feet)
+E 1 3018005 1 13  ; -- Equip: Racer suede belt [Items] (waist)
+E 1 3007002 1 1  ; -- Equip: Glass ring [Items] (finger-r)
+E 1 3019007 1 7  ; -- Equip: Silk pants [Items] (legs)
+E 1 3006001 1 3  ; -- Equip: Firejade amulet [Items] (neck-1)
+E 1 3235015 1 16  ; -- Equip: Steel saber [Items] (wield)
+M 0 2301309 1 4013079  ;  Mob: Ilmiril [Npcs] => #4013079 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ilmiril's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301504 1 4013080  ;  Mob: Lledsa Vari [Npcs] => #4013080 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llether Vari's enchant shop
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+M 0 2301514 1 4013081  ;  Mob: Llether Vari [Npcs] => #4013081 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llether Vari's enchant shop
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+G 1 3402023 1 ; -- Give: Scroll of bound gauntlets [Items]
+G 1 3205002 1 ; -- Give: Chitin throwing star [Items]
+G 1 3009003 1 ; -- Give: Icicle [Items]
+G 1 3012002 1 ; -- Give: Last Wish [Items]
+G 1 3227026 1 ; -- Give: Nordic battleaxe [Items]
+G 1 3235021 1 ; -- Give: Steel daikatana [Items]
+G 1 3102009 1 ; -- Give: Common robe [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+G 1 3104009 1 ; -- Give: Expensive skirt [Items]
+G 1 3105009 1 ; -- Give: Extravagant robe [Items]
+G 1 3020001 1 ; -- Give: Thunderfall [Items]
+G 1 3402140 1 ; -- Give: Scroll of absorb health [Items]
+G 1 3020001 1 ; -- Give: Thunderfall [Items]
+G 1 3402139 1 ; -- Give: Scroll of absorb luck [Items]
+G 1 3402133 1 ; -- Give: Scroll of absorb strength [Items]
+G 1 3402053 1 ; -- Give: Scroll of fortify luck [Items]
+G 1 3402086 1 ; -- Give: Scroll of restore magicka [Items]
+G 1 3406279 1 ; -- Give: On Oblivion [Items]
+G 1 3406068 1 ; -- Give: Buying Game [Items]
+G 1 3406304 1 ; -- Give: Ruins of Kemel-Ze [Items]
+M 0 2300894 1 4013083  ;  Mob: Fathasa Llethri [Npcs] => #4013083 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's bedrooms
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302153 1 4013084  ;  Mob: Sanvyn Llethri [Npcs] => #4013084 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's bedrooms
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3218009 1 16  ; -- Equip: Glass dagger of fire [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300599 1 4013085  ;  Mob: Dinara Othrelas [Npcs] => #4013085 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's entrance
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3301013 1 3  ; -- Equip: Diamond amulet [Items] (neck-1)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300746 1 4013086  ;  Mob: Eindel [Npcs] => #4013086 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's entrance
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3237040 1 16  ; -- Equip: Wooden longbow [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301489 1 4013087  ;  Mob: Llanel Brenos [Npcs] => #4013087 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's entrance
+E 1 3235040 1 16  ; -- Equip: Steel longbow [Items] (wield)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301051 1 4013088  ;  Mob: Garisa Llethri [Npcs] => #4013088 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's private quarters
+E 1 3211020 1 16  ; -- Equip: Dwarven claymore [Items] (wield)
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159005 1 9  ; -- Equip: Steel gauntlets [Items] (hands)
+E 1 3159006 1 7  ; -- Equip: Steel greaves [Items] (legs)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302414 1 4013089  ;  Mob: Tens Nolar [Npcs] => #4013089 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's private quarters
+E 1 3159001 1 6  ; -- Equip: Steel helm [Items] (head)
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302596 1 4013090  ;  Mob: Ureval Dralayn [Npcs] => #4013090 [Ald'ruhn]Ashlands, Ald'ruhn, town, Llethri manor's private quarters
+E 1 3159001 1 6  ; -- Equip: Steel helm [Items] (head)
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3159005 1 9  ; -- Equip: Steel gauntlets [Items] (hands)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301576 1 4013091  ;  Mob: Malpenix Blonia [Npcs] => #4013091 [Ald'ruhn]Ashlands, Ald'ruhn, town, Malpenix Blonia's trade shop
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+G 1 3159008 1 ; -- Give: Steel bulwark [Items]
+G 1 3115007 1 ; -- Give: Bonemold boots [Items]
+G 1 3117008 1 ; -- Give: Chitin buckler [Items]
+G 1 3144001 1 ; -- Give: Netch leather coif [Items]
+G 1 3159006 1 ; -- Give: Steel greaves [Items]
+G 1 3231009 1 ; -- Give: Silver dagger [Items]
+G 1 3231020 1 ; -- Give: Silver claymore [Items]
+G 1 3235012 1 ; -- Give: Steel shortsword [Items]
+G 1 3231002 1 ; -- Give: Silver throwing star [Items]
+G 1 3223038 1 ; -- Give: Iron pike [Items]
+G 1 3235022 1 ; -- Give: Steel sickle [Items]
+G 1 3231024 1 ; -- Give: Silver waraxe [Items]
+G 1 3301013 1 ; -- Give: Diamond amulet [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+G 1 3104008 1 ; -- Give: Expensive robe [Items]
+G 1 3104003 1 ; -- Give: Expensive shirt [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301140 1 4013100  ;  Mob: Goren Andarys [Npcs] => #4013100 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morag Tong's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3019008 1 16  ; -- Equip: Silver staff of war [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2301250 1 4013101  ;  Mob: Hoki [Npcs] => #4013101 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morag Tong's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2301464 1 4013102  ;  Mob: Lassour Zenammu [Npcs] => #4013102 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morag Tong's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3009001 1 16  ; -- Equip: Iron spider dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408047 1 ; -- Give: Master's lockpick [Items]
+G 1 3408052 1 ; -- Give: Master's probe [Items]
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2302147 1 4013103  ;  Mob: Salyni Nelvayn [Npcs] => #4013103 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morag Tong's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3221009 1 16  ; -- Equip: Imperial dagger [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2301732 1 4013104  ;  Mob: Mistress Brara Morvayn [Npcs] => #4013104 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morvayn manor's quarters
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3301036 1 1  ; -- Equip: Jeweled ring [Items] (finger-r)
+E 1 3301035 1 3  ; -- Equip: Jeweled circlet [Items] (neck-1)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301744 1 4013105  ;  Mob: Mondros Balur [Npcs] => #4013105 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morvayn manor's quarters
+E 1 3125001 1 6  ; -- Equip: Gah julan bonemold scullcap [Items] (head)
+E 1 3125002 1 10  ; -- Equip: Gah julan bonemold armcops [Items] (arms)
+E 1 3125003 1 5  ; -- Equip: Gah julan bonemold jack [Items] (body)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301870 1 4013106  ;  Mob: Nilos Talds [Npcs] => #4013106 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morvayn manor's quarters
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2302058 1 4013107  ;  Mob: Remas Morvayn [Npcs] => #4013107 [Ald'ruhn]Ashlands, Ald'ruhn, town, Morvayn manor's entrance
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117008 1 17  ; -- Equip: Chitin buckler [Items] (hold)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3231012 1 16  ; -- Equip: Silver shortsword [Items] (wield)
+M 0 2301957 1 4013108  ;  Mob: Pellecia Aurrus [Npcs] => #4013108 [Ald'ruhn]Ashlands, Ald'ruhn, town, Pellecia Aurrus's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2302710 1 4013109  ;  Mob: Vonden Mano [Npcs] => #4013109 [Ald'ruhn]Ashlands, Ald'ruhn, town, Redoran council's practice room
+E 1 3117001 1 6  ; -- Equip: Chitin coif [Items] (head)
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3223034 1 16  ; -- Equip: Iron spear [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301055 1 4013110  ;  Mob: Garvs Ramarys [Npcs] => #4013110 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ramoran manor's entrance
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300904 1 4013111  ;  Mob: Favilea Sathendas [Npcs] => #4013111 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ramoran manor's private quarters
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301236 1 4013112  ;  Mob: Hlaren Ramoran [Npcs] => #4013112 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ramoran manor's private quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3211026 1 16  ; -- Equip: Dwarven battleaxe [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301805 1 4013113  ;  Mob: Nalvyna Sarinith [Npcs] => #4013113 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ramoran manor's private quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3235021 1 16  ; -- Equip: Steel daikatana [Items] (wield)
+M 0 2302022 1 4013114  ;  Mob: Raryn Daren [Npcs] => #4013114 [Ald'ruhn]Ashlands, Ald'ruhn, town, Ramoran manor's private quarters
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2301847 1 4013115  ;  Mob: Neminda [Npcs] => #4013115 [Ald'ruhn]Ashlands, Ald'ruhn, town, Redoran council's entrance
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3301013 1 3  ; -- Equip: Diamond amulet [Items] (neck-1)
+E 1 3223018 1 16  ; -- Equip: Iron longsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301736 1 4013116  ;  Mob: Mivanu Retheran [Npcs] => #4013116 [Ald'ruhn]Ashlands, Ald'ruhn, town, Redoran council's hall
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+G 1 3406006 1 ; -- Give: ABCs for Barbarians [Items]
+G 1 3406180 1 ; -- Give: Guide to Ald'ruhn [Items]
+G 1 3406187 1 ; -- Give: Gods and worship [Items]
+G 1 3406179 1 ; -- Give: Great houses of Morrowind [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300189 1 4013117  ;  Mob: Arsyn Salas [Npcs] => #4013117 [Ald'ruhn]Ashlands, Ald'ruhn, town, Sarethi manor's guard quarters
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3235010 1 16  ; -- Equip: Steel tanto [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2300234 1 4013118  ;  Mob: Athyn Sarethi [Npcs] => #4013118 [Ald'ruhn]Ashlands, Ald'ruhn, town, Sarethi manor's private quarters
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3211012 1 16  ; -- Equip: Dwarven shortsword [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300621 1 4013119  ;  Mob: Domesea Sarethi [Npcs] => #4013119 [Ald'ruhn]Ashlands, Ald'ruhn, town, Sarethi manor's private quarters
+E 1 3301017 1 3  ; -- Equip: Emerald amulet [Items] (neck-1)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301147 1 4013120  ;  Mob: Gragus Lleran [Npcs] => #4013120 [Ald'ruhn]Ashlands, Ald'ruhn, town, Sarethi manor's private quarters
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235010 1 16  ; -- Equip: Steel tanto [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2302392 1 4013121  ;  Mob: Tauryon [Npcs] => #4013121 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tauryon's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300531 1 4013122  ;  Mob: Danoso Andrano [Npcs] => #4013122 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tribunal's temple
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3403064 1 ; -- Give: Bungler's Bane [Items]
+G 1 3403086 1 ; -- Give: Coda Flower [Items]
+G 1 3403110 1 ; -- Give: Dreugh Wax [Items]
+G 1 3403114 1 ; -- Give: Ectoplasm [Items]
+G 1 3403195 1 ; -- Give: Hypha Facia [Items]
+G 1 3403228 1 ; -- Give: Marshmerrow [Items]
+G 1 3401027 1 ; -- Give: Potion of fortify agility [Items]
+G 1 3401026 1 ; -- Give: Potion of fortify endurance [Items]
+G 1 3401058 1 ; -- Give: Potion of restore intelligence [Items]
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401036 1 ; -- Give: Potion of frost resistance [Items]
+G 1 3408016 1 ; -- Give: Journeyman's mortar and pestle [Items]
+G 1 3408017 1 ; -- Give: Journeyman's Alembic [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2300964 1 4013123  ;  Mob: Folvys Andalor [Npcs] => #4013123 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tribunal's temple
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3403020 1 ; -- Give: Ash salt [Items]
+G 1 3403094 1 ; -- Give: Corprus Weeping [Items]
+G 1 3403279 1 ; -- Give: Rat Meat [Items]
+G 1 3403312 1 ; -- Give: Scamp Skin [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401064 1 ; -- Give: Potion of restore magicka [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401019 1 ; -- Give: Potion of cure disease [Items]
+G 1 3401020 1 ; -- Give: Potion of cure blight [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301529 1 4013124  ;  Mob: Lloros Sarano [Npcs] => #4013124 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tribunal's temple
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3019009 1 16  ; -- Equip: Silver staff of reckoning [Items] (wield)
+G 1 3403140 1 ; -- Give: Ghoul Heart [Items]
+G 1 3403162 1 ; -- Give: Gravedust [Items]
+G 1 3403285 1 ; -- Give: Red Lichen [Items]
+G 1 3403320 1 ; -- Give: Shalk Resin [Items]
+G 1 3401025 1 ; -- Give: Potion of fortify strength [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3406005 1 ; -- Give: 36 lessons of Vivec [Items]
+G 1 3406241 1 ; -- Give: Lives of the Saints [Items]
+G 1 3406013 1 ; -- Give: Anticipations [Items]
+G 1 3406288 1 ; -- Give: Pilgrim's Path [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301680 1 4013125  ;  Mob: Methal Seran [Npcs] => #4013125 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tribunal's temple
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3023002 1 16  ; -- Equip: Wooden staff of judgement [Items] (wield)
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401064 1 ; -- Give: Potion of restore magicka [Items]
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401019 1 ; -- Give: Potion of cure disease [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302534 1 4013126  ;  Mob: Tuls Valen [Npcs] => #4013126 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tribunal's temple
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3235031 1 16  ; -- Equip: Steel staff [Items] (wield)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302595 1 4013127  ;  Mob: Ureso Drath [Npcs] => #4013127 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tribunal's temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3236132 1 16  ; -- Equip: Steel dagger of poison [Items] (wield)
+G 1 3008001 1 ; -- Give: Holy shield [Items]
+G 1 3402084 1 ; -- Give: Scroll of restore health [Items]
+G 1 3402140 1 ; -- Give: Scroll of absorb health [Items]
+G 1 3402052 1 ; -- Give: Scroll of fortify personality [Items]
+G 1 3402050 1 ; -- Give: Scroll of fortify intelligence [Items]
+G 1 3402053 1 ; -- Give: Scroll of fortify luck [Items]
+G 1 3304010 1 ; -- Give: Copper ring of health [Items]
+G 1 3313002 1 ; -- Give: Pewter amulet of magicka [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2300033 1 4013128  ;  Mob: Aengoth the Jeweler [Npcs] => #4013128 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300083 1 4013129  ;  Mob: Allding [Npcs] => #4013129 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3223024 1 16  ; -- Equip: Iron waraxe [Items] (wield)
+G 1 3223018 1 ; -- Give: Iron longsword [Items]
+G 1 3223012 1 ; -- Give: Iron shortsword [Items]
+G 1 3223034 1 ; -- Give: Iron spear [Items]
+G 1 3223003 1 ; -- Give: Iron throwing knife [Items]
+G 1 3223024 1 ; -- Give: Iron waraxe [Items]
+G 1 3223032 1 ; -- Give: Iron warhammer [Items]
+G 1 3104004 1 ; -- Give: Expensive sash [Items]
+G 1 3104007 1 ; -- Give: Expensive shoes [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2300692 1 4013130  ;  Mob: Dro'Tasarr [Npcs] => #4013130 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+M 0 2300710 1 4013131  ;  Mob: Dular gro-Buzga [Npcs] => #4013131 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3223027 1 16  ; -- Equip: Iron club [Items] (wield)
+M 0 2300844 1 4013132  ;  Mob: Estoril [Npcs] => #4013132 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301032 1 4013133  ;  Mob: Galtis Guvron [Npcs] => #4013133 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3404003 1 ; -- Give: Ash statue [Items]
+G 1 3235009 1 ; -- Give: Steel dagger [Items]
+G 1 3301010 1 ; -- Give: Copper necklace [Items]
+G 1 3102004 1 ; -- Give: Common sash [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3404003 1 ; -- Give: Ash statue [Items]
+M 0 2301477 1 4013134  ;  Mob: Lirielle Stoine [Npcs] => #4013134 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301815 1 4013135  ;  Mob: Narile Sadoro [Npcs] => #4013135 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+M 0 2302400 1 4013136  ;  Mob: Tee-Lan [Npcs] => #4013136 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302429 1 4013137  ;  Mob: Thadar Ertis [Npcs] => #4013137 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+M 0 2302495 1 4013138  ;  Mob: Tongue-Toad [Npcs] => #4013138 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+E 1 3019010 1 16  ; -- Equip: Steel jinksword [Items] (wield)
+G 1 3406180 1 ; -- Give: Guide to Ald'ruhn [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302737 1 4013139  ;  Mob: Yak gro-Skandar [Npcs] => #4013139 [Ald'ruhn]Ashlands, Ald'ruhn, town, The Rat In The Pot's tavern
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3224135 1 16  ; -- Equip: Iron shortsword of poison [Items] (wield)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302479 1 4013140  ;  Mob: Tiras Sadus [Npcs] => #4013140 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tiras Sadus's merchant shop
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3119001 1 ; -- Give: Colovian fur coif [Items]
+G 1 3144007 1 ; -- Give: Netch leather striders [Items]
+G 1 3149005 1 ; -- Give: Nordic fur bracers [Items]
+G 1 3205034 1 ; -- Give: Chitin spear [Items]
+G 1 3223009 1 ; -- Give: Iron dagger [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3403095 1 ; -- Give: Crab meat [Items]
+G 1 3403318 1 ; -- Give: Scrib jerky [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3406358 1 ; -- Give: Wolf queen [Items]
+G 1 3404113 1 ; -- Give: Silver spoon [Items]
+G 1 3404091 1 ; -- Give: Pillow [Items]
+M 0 2300589 1 4013141  ;  Mob: Deval Beleth [Npcs] => #4013141 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tuveso Beleth's smith shop
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+M 0 2302546 1 4013142  ;  Mob: Tuveso Beleth [Npcs] => #4013142 [Ald'ruhn]Ashlands, Ald'ruhn, town, Tuveso Beleth's smith shop
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3217020 1 16  ; -- Equip: Glass claymore [Items] (wield)
+G 1 3111003 1 ; -- Give: Armun an bonemold jack [Items]
+G 1 3111002 1 ; -- Give: Armun an bonemold armcops [Items]
+G 1 3117007 1 ; -- Give: Chitin striders [Items]
+G 1 3125002 1 ; -- Give: Gah julan bonemold armcops [Items]
+G 1 3118001 1 ; -- Give: Chuzei bonemold scullcap [Items]
+G 1 3217020 1 ; -- Give: Glass claymore [Items]
+G 1 3223026 1 ; -- Give: Iron battleaxe [Items]
+G 1 3235027 1 ; -- Give: Steel club [Items]
+G 1 3235012 1 ; -- Give: Steel shortsword [Items]
+G 1 3223035 1 ; -- Give: Iron glaive [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3408041 1 ; -- Give: Master armorer's hammer [Items]
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2300597 1 4013143  ;  Mob: Dilvene Venim [Npcs] => #4013143 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's bedrooms
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3106004 1 13  ; -- Equip: Exquisite sash [Items] (waist)
+E 1 3106010 1 7  ; -- Equip: Exquisite skirt [Items] (legs)
+E 1 3301036 1 1  ; -- Equip: Jeweled ring [Items] (finger-r)
+E 1 3301053 1 3  ; -- Equip: Ruby amulet [Items] (neck-1)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301339 1 4013144  ;  Mob: Irver Fevur [Npcs] => #4013144 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's entrance
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+M 0 2302002 1 4013145  ;  Mob: Ralam Vilas [Npcs] => #4013145 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's entrance
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301055 1 3  ; -- Equip: Ruby circlet [Items] (neck-1)
+M 0 2302668 1 4013146  ;  Mob: Velsa Orethi [Npcs] => #4013146 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's entrance
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2302682 1 4013147  ;  Mob: Vevul Alver [Npcs] => #4013147 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's entrance
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2301896 1 4013148  ;  Mob: Novor Gorvas [Npcs] => #4013148 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's guard quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2302418 1 4013149  ;  Mob: Tereri Irethi [Npcs] => #4013149 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's guard quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2300326 1 4013150  ;  Mob: Bevadar Bels [Npcs] => #4013150 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's private quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2300359 1 4013151  ;  Mob: Bolvyn Venim [Npcs] => #4013151 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's private quarters
+E 1 3123003 1 5  ; -- Equip: Ebony cuirass [Items] (body)
+E 1 3123002 1 10  ; -- Equip: Ebony pauldrons [Items] (arms)
+E 1 3123006 1 7  ; -- Equip: Ebony greaves [Items] (legs)
+E 1 3123007 1 8  ; -- Equip: Ebony sabatons [Items] (feet)
+E 1 3123005 1 9  ; -- Equip: Ebony gauntlets [Items] (hands)
+E 1 3106004 1 13  ; -- Equip: Exquisite sash [Items] (waist)
+E 1 3207021 1 16  ; -- Equip: Daedric daikatana [Items] (wield)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+M 0 2301289 1 4013152  ;  Mob: Idros Givyn [Npcs] => #4013152 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's private quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2301827 1 4013153  ;  Mob: Nathyne Uvelas [Npcs] => #4013153 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's private quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2301865 1 4013154  ;  Mob: Nidryne Redas [Npcs] => #4013154 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's private quarters
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2302673 1 4013155  ;  Mob: Vendrela Aravel [Npcs] => #4013155 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's private quarters
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+M 0 2302676 1 4013156  ;  Mob: Veresa Salvani [Npcs] => #4013156 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's private quarters
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+M 0 2301578 1 4013157  ;  Mob: Malsa Ules [Npcs] => #4013157 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's right wing
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2302467 1 4013158  ;  Mob: Tidras Deltis [Npcs] => #4013158 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's right wing
+E 1 3122003 1 5  ; -- Equip: Dwarven cuirass [Items] (body)
+E 1 3122002 1 10  ; -- Equip: Dwarven pauldrons [Items] (arms)
+E 1 3122006 1 7  ; -- Equip: Dwarven greaves [Items] (legs)
+E 1 3122007 1 8  ; -- Equip: Dwarven sabatons [Items] (feet)
+E 1 3122008 1 17  ; -- Equip: Dwarven bulwark [Items] (hold)
+E 1 3122005 1 9  ; -- Equip: Dwarven gauntlets [Items] (hands)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+M 0 2302654 1 4013159  ;  Mob: Varvur Sarethi [Npcs] => #4013159 [Ald'ruhn]Ashlands, Ald'ruhn, town, Venim manor's right wing
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320014 1 2  ; -- Equip: House Redoran's insignia [Items] (finger-l)
+S
+
+#SHOPS
+2300565 5 9 12 1 8 120 90 0 23
+2300485 35 2 0 0 0 120 90 0 23
+2300524 5 9 0 0 0 120 90 0 23
+2300327 9 0 0 0 0 120 90 0 23
+2302479 5 9 12 8 35 120 90 0 23
+2300348 17 19 0 0 0 120 90 0 23
+2300531 10 13 19 0 0 120 90 0 23
+2300964 10 13 0 0 0 120 90 0 23
+2301529 10 0 0 0 0 120 90 0 23
+2301680 10 0 0 0 0 120 90 0 23
+2302595 9 5 41 2 0 120 90 0 23
+2300083 5 9 12 1 8 120 90 0 23
+2301032 5 9 12 1 8 120 90 0 23
+2301477 13 5 0 0 0 120 90 0 23
+2302495 35 0 0 0 0 120 90 0 23
+2301166 10 0 0 0 0 120 90 0 23
+2301576 5 9 12 8 35 120 90 0 23
+2301736 35 0 0 0 0 120 90 0 23
+2302546 5 9 0 0 0 120 90 0 23
+2301464 13 5 0 0 0 120 90 0 23
+2300469 10 13 19 0 0 120 90 0 23
+2300339 9 0 0 0 0 120 90 0 23
+2301514 9 5 41 2 0 120 90 0 23
+2300813 5 9 0 0 0 120 90 0 23
+2300117 10 13 19 0 0 120 90 0 23
+2302372 9 5 41 2 0 120 90 0 23
+0
+
+#REPAIRS
+2300524 9 5 0 100 1 0 23
+2302546 9 5 0 100 1 0 23
+2300813 9 5 0 100 1 0 23
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 ALD RUHN~
+Ald'ruhn is a dusty Redoran town under the southwestern slopes of Red Mountain
+where curved buildings endure daily ash storms outside the looming Ghostfence.
+The ancient shell of Skar holds noble manors as tall guard towers watch above,
+and bonemold guards defend streets threatened by Blight and cliff racers.~
+0 $~
+
+#$

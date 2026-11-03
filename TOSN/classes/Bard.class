@@ -1,0 +1,104 @@
+Name		Bard~
+Class		16
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Bluff' 1 95
+Skill 'Flirt' 1 95
+Skill 'Intimidate' 1 95
+Skill 'Judge' 1 95
+Skill 'Shame' 1 95
+Skill 'Daunt' 1 95
+Skill 'Gaze' 1 95
+Skill 'Surge' 1 95
+Skill 'Bully' 1 95
+Skill 'Harry' 1 95
+Skill 'Rebuke' 1 95
+Skill 'Envenom' 1 90
+Skill 'Brew' 1 90
+Skill 'Cook' 1 90
+Skill 'Bandage' 1 90
+Skill 'Fade' 1 90
+Skill 'Aid' 1 90
+Skill 'Tumble' 1 85
+Skill 'Climb' 1 85
+Skill 'Slip' 1 85
+Skill 'Twist' 1 85
+Skill 'Poise' 1 85
+Skill 'Rapier' 1 80
+Skill 'Cutlass' 1 80
+Skill 'Saber' 1 80
+Skill 'Falchion' 1 80
+Skill 'Katana' 1 80
+Skill 'Longsword' 1 80
+Skill 'Broadsword' 1 80
+Skill 'Claymore' 1 80
+Skill 'Daikatana' 1 80
+Skill 'Charge' 1 80
+Skill 'Disarm' 1 80
+Skill 'Skirmish' 1 80
+Skill 'Slice' 1 80
+Skill 'Overkill' 1 80
+Skill 'Strike' 1 80
+Skill 'Taunt' 1 75
+Skill 'Bash' 1 75
+Skill 'Block' 1 75
+Skill 'Revenge' 1 75
+Skill 'Defend' 1 75
+Skill 'Rebuff' 1 75
+Skill 'Shelter' 1 75
+Skill 'Shroud' 1 75
+Skill 'Thrust' 1 75
+Skill 'Destabilize' 1 75
+Skill 'Hire' 1 70
+Skill 'Dig' 1 70
+Skill 'Trick' 1 70
+Skill 'Anger' 1 70
+Skill 'Humiliate' 1 70
+Skill 'Camouflage' 1 65
+Skill 'Bless' 1 65
+Skill 'Conceal' 1 65
+Skill 'Enlighten' 1 65
+Skill 'Silence' 1 65
+Skill 'Blind' 1 65
+Skill 'Charm' 1 65
+Skill 'Paralyze' 1 65
+Skill 'Sound' 1 65
+Skill 'Demoralize' 1 65
+Skill 'Calm' 1 65
+Skill 'Rally' 1 65
+Skill 'Frenzy' 1 65
+Skill 'Illuminate' 1 65
+Skill 'Mail' 1 60
+Skill 'Enrage' 1 60
+Skill 'Trammel' 1 60
+Skill 'Spurn' 1 60
+Skill 'Cover' 1 60
+Skill 'Scribe' 1 55
+Skill 'Imbue' 1 55
+Skill 'Enchant' 1 55
+Skill 'Meditate' 1 55
+Skill 'Banish' 1 55
+Skill 'Innervate' 1 55
+Skill 'Blink' 1 55
+Skill 'Entangle' 1 55
+Skill 'Sleep' 1 55
+Skill 'Lockpick' 1 50
+Skill 'Search' 1 50
+Skill 'Detect' 1 50
+Skill 'Detrap' 1 50
+Skill 'Scan' 1 50
+Skill 'Track' 1 50
+End	

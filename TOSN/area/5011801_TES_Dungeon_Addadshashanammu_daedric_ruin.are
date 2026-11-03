@@ -1,0 +1,389 @@
+#AREA Addadshashanammu daedric ruin~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011801
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011801
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011801
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011802 0
+S
+#5011802
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011805 0
+D1
+East~
+~
+0 0 5011803 0
+D2
+South~
+~
+0 0 5011808 0
+D3
+West~
+~
+0 0 5011801 0
+S
+#5011803
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011806 0
+D1
+East~
+~
+0 0 5011804 0
+D2
+South~
+~
+0 0 5011809 0
+D3
+West~
+~
+0 0 5011802 0
+S
+#5011804
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011807 0
+D2
+South~
+~
+0 0 5011810 0
+D3
+West~
+~
+0 0 5011803 0
+S
+#5011805
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011806 0
+D2
+South~
+~
+0 0 5011802 0
+S
+#5011806
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011812 0
+D1
+East~
+~
+0 0 5011807 0
+D2
+South~
+~
+0 0 5011803 0
+D3
+West~
+~
+0 0 5011805 0
+S
+#5011807
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011804 0
+D3
+West~
+~
+0 0 5011806 0
+S
+#5011808
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011802 0
+D1
+East~
+~
+0 0 5011809 0
+S
+#5011809
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011803 0
+D1
+East~
+~
+0 0 5011810 0
+D2
+South~
+~
+0 0 5011815 0
+D3
+West~
+~
+0 0 5011808 0
+S
+#5011810
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011804 0
+D3
+West~
+~
+0 0 5011809 0
+S
+#5011811
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011812 0
+S
+#5011812
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011819 0
+D1
+East~
+~
+0 0 5011813 0
+D2
+South~
+~
+0 0 5011806 0
+D3
+West~
+~
+0 0 5011811 0
+S
+#5011813
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 5011812 0
+S
+#5011814
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011815 0
+S
+#5011815
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011809 0
+D1
+East~
+~
+0 0 5011816 0
+D2
+South~
+~
+0 0 5011817 0
+D3
+West~
+~
+0 0 5011814 0
+S
+#5011816
+Bitter coast, Addadshashanammu, daedric ruin~
+~
+0 8 13 0 0 0
+D3
+West~
+~
+0 0 5011815 0
+S
+#5011817
+Bitter coast, Addadshashanammu, daedric ruin, shrine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011815 0
+D2
+South~
+~
+0 0 5011818 0
+S
+#5011818
+Bitter coast, Addadshashanammu, daedric ruin, shrine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011817 0
+S
+#5011819
+Bitter coast, Addadshashanammu, daedric ruin, shrine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011820 0
+D2
+South~
+~
+0 0 5011812 0
+S
+#5011820
+Bitter coast, Addadshashanammu, daedric ruin, shrine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011819 0
+S
+#0
+
+#RESETS
+M 0 2300627 1 5011807  ;  Mob: Dortodd [Npcs] => #5011807 [] Bitter coast, Addadshashanammu, daedric ruin
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3106009 1 5  ; -- Equip: Exquisite robe [Items] (body)
+E 1 3301016 1 1  ; -- Equip: Diamond ring [Items] (finger-r)
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+M 0 2300806 1 5011809  ;  Mob: Eradan [Npcs] => #5011809 [] Bitter coast, Addadshashanammu, daedric ruin
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3159006 1 7  ; -- Equip: Steel greaves [Items] (legs)
+E 1 3159007 1 8  ; -- Equip: Steel sabatons [Items] (feet)
+E 1 3231024 1 16  ; -- Equip: Silver waraxe [Items] (wield)
+M 0 2301252 1 5011811  ;  Mob: Holmgeira [Npcs] => #5011811 [] Bitter coast, Addadshashanammu, daedric ruin
+E 1 3111003 1 5  ; -- Equip: Armun an bonemold jack [Items] (body)
+E 1 3111002 1 10  ; -- Equip: Armun an bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3231032 1 16  ; -- Equip: Silver warhammer [Items] (wield)
+M 0 2301335 1 5011813  ;  Mob: Irinwe [Npcs] => #5011813 [] Bitter coast, Addadshashanammu, daedric ruin
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+G 1 3401019 1 ; -- Give: Potion of cure disease [Items]
+M 0 2301388 1 5011815  ;  Mob: Jolding [Npcs] => #5011815 [] Bitter coast, Addadshashanammu, daedric ruin
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3159006 1 7  ; -- Equip: Steel greaves [Items] (legs)
+E 1 3159007 1 8  ; -- Equip: Steel sabatons [Items] (feet)
+E 1 3231024 1 16  ; -- Equip: Silver waraxe [Items] (wield)
+G 1 3410010 1 ; -- Give: Flin [Items]
+M 0 2301388 1 5011815  ;  Mob: Jolding [Npcs] => #5011815 [] Bitter coast, Addadshashanammu, daedric ruin
+E 1 3159003 1 5  ; -- Equip: Steel cuirass [Items] (body)
+E 1 3159002 1 10  ; -- Equip: Steel pauldrons [Items] (arms)
+E 1 3159006 1 7  ; -- Equip: Steel greaves [Items] (legs)
+E 1 3159007 1 8  ; -- Equip: Steel sabatons [Items] (feet)
+E 1 3231024 1 16  ; -- Equip: Silver waraxe [Items] (wield)
+G 1 3410009 1 ; -- Give: Greef [Items]
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ADDADSHASHANAMMU DAEDRIC SHRINE~
+Addadshashanammu is an island shrine to Sheogorath northwest of old Hlormaren,
+where ruined temple courts overlook the sea under the gaze of prowling Daedra.
+Hostile worshippers and a winged twilight guard potions, soul gems and scrolls
+around a cursed pearl resting upon the desecrated altar.
+~
+0 $~
+
+#$

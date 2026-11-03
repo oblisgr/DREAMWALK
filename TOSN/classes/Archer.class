@@ -1,0 +1,118 @@
+Name          	Archer~
+Class         	0
+AttrPrime     	2
+AttrSecond    	1
+AttrDeficient 	5
+Weapon        	0
+Guild         	0
+Skilladept   	 95
+Thac0         	20
+Thac32        	5
+Hpmin         	1
+Hpmax         	8
+Mana          	1
+Expbase       	200
+Affected      	0
+Resist	      	0
+Suscept	      	0
+Skill 'Dart' 1 95
+Skill 'Ninjaku' 1 95
+Skill 'Knife' 1 95
+Skill 'Shortbow' 1 95
+Skill 'Longbow' 1 95
+Skill 'Crossbow' 1 95
+Skill 'Barrage' 1 95
+Skill 'Rapier' 1 90
+Skill 'Cutlass' 1 90
+Skill 'Saber' 1 90
+Skill 'Falchion' 1 90
+Skill 'Katana' 1 90
+Skill 'Longsword' 1 90
+Skill 'Broadsword' 1 90
+Skill 'Claymore' 1 90
+Skill 'Daikatana' 1 90
+Skill 'Charge' 1 90
+Skill 'Disarm' 1 90
+Skill 'Skirmish' 1 90
+Skill 'Slice' 1 90
+Skill 'Overkill' 1 90
+Skill 'Strike' 1 90
+Skill 'Taunt' 1 85
+Skill 'Bash' 1 85
+Skill 'Block' 1 85
+Skill 'Revenge' 1 85
+Skill 'Defend' 1 85
+Skill 'Rebuff' 1 85
+Skill 'Shelter' 1 85
+Skill 'Shroud' 1 85
+Skill 'Thrust' 1 85
+Skill 'Destabilize' 1 85
+Skill 'Dodge' 1 80
+Skill 'Lunge' 1 80
+Skill 'Sweep' 1 80
+Skill 'Assault' 1 80
+Skill 'Leather' 1 75
+Skill 'Suppress' 1 75
+Skill 'Unchain' 1 75
+Skill 'Cloth' 1 70
+Skill 'Disengage' 1 70
+Skill 'Distract' 1 70
+Skill 'Parry' 1 70
+Skill 'Rescue' 1 70
+Skill 'Focus' 1 70
+Skill 'Unyield' 1 70
+Skill 'Guard' 1 70
+Skill 'Recover' 1 70
+Skill 'Trample' 1 70
+Skill 'Spear' 1 65
+Skill 'Glaive' 1 65
+Skill 'Halberd' 1 65
+Skill 'Lance' 1 65
+Skill 'Pike' 1 65
+Skill 'Pin' 1 65
+Skill 'Sickle' 1 65
+Skill 'Perforate' 1 65
+Skill 'Puncture' 1 65
+Skill 'Impale' 1 65
+Skill 'Cool' 1 60
+Skill 'Warm' 1 60
+Skill 'Ground' 1 60
+Skill 'Detoxify' 1 60
+Skill 'Unjinx' 1 60
+Skill 'Vaccinate' 1 60
+Skill 'Cleanse' 1 60
+Skill 'Stabilize' 1 60
+Skill 'Steady' 1 60
+Skill 'Toughen' 1 60
+Skill 'Strengthen' 1 60
+Skill 'Fortitude' 1 60
+Skill 'Quicken' 1 60
+Skill 'Outsmart' 1 60
+Skill 'Embolden' 1 60
+Skill 'Inspire' 1 60
+Skill 'Favor' 1 60
+Skill 'Rejuvenate' 1 60
+Skill 'Empower' 1 60
+Skill 'Refresh' 1 60
+Skill 'Rebuild' 1 60
+Skill 'Revitalize' 1 60
+Skill 'Rebalance' 1 60
+Skill 'Clarify' 1 60
+Skill 'Reassure' 1 60
+Skill 'Uplift' 1 60
+Skill 'Redeem' 1 60
+Skill 'Heal' 1 60
+Skill 'Replenish' 1 60
+Skill 'Renew' 1 60
+Skill 'Pickpocket' 1 55
+Skill 'Sneak' 1 55
+Skill 'Hide' 1 55
+Skill 'Peek' 1 55
+Skill 'Backstab' 1 55
+Skill 'Creep' 1 55
+Skill 'Mail' 1 50
+Skill 'Enrage' 1 50
+Skill 'Trammel' 1 50
+Skill 'Spurn' 1 50
+Skill 'Cover' 1 50
+End

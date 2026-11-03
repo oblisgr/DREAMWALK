@@ -1,0 +1,101 @@
+Name		Acrobat~
+Class		14
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Tumble' 1 95
+Skill 'Climb' 1 95
+Skill 'Slip' 1 95
+Skill 'Twist' 1 95
+Skill 'Poise' 1 95
+Skill 'Dodge' 1 90
+Skill 'Lunge' 1 90
+Skill 'Sweep' 1 90
+Skill 'Assault' 1 90
+Skill 'Dart' 1 85
+Skill 'Ninjaku' 1 85
+Skill 'Knife' 1 85
+Skill 'Shortbow' 1 85
+Skill 'Longbow' 1 85
+Skill 'Crossbow' 1 85
+Skill 'Barrage' 1 85
+Skill 'Pickpocket' 1 80
+Skill 'Sneak' 1 80
+Skill 'Hide' 1 80
+Skill 'Peek' 1 80
+Skill 'Backstab' 1 80
+Skill 'Creep' 1 80
+Skill 'Cloth' 1 75
+Skill 'Disengage' 1 75
+Skill 'Distract' 1 75
+Skill 'Parry' 1 75
+Skill 'Rescue' 1 75
+Skill 'Focus' 1 75
+Skill 'Unyield' 1 75
+Skill 'Guard' 1 75
+Skill 'Recover' 1 75
+Skill 'Trample' 1 75
+Skill 'Bluff' 1 70
+Skill 'Flirt' 1 70
+Skill 'Intimidate' 1 70
+Skill 'Judge' 1 70
+Skill 'Shame' 1 70
+Skill 'Daunt' 1 70
+Skill 'Gaze' 1 70
+Skill 'Surge' 1 70
+Skill 'Bully' 1 70
+Skill 'Harry' 1 70
+Skill 'Rebuke' 1 70
+Skill 'Open' 1 65
+Skill 'Lock' 1 65
+Skill 'Ignite' 1 65
+Skill 'Frost' 1 65
+Skill 'Storm' 1 65
+Skill 'Coat' 1 65
+Skill 'Levitate' 1 65
+Skill 'Breath' 1 65
+Skill 'Burden' 1 65
+Skill 'Feather' 1 65
+Skill 'Shield' 1 65
+Skill 'Spear' 1 60
+Skill 'Glaive' 1 60
+Skill 'Halberd' 1 60
+Skill 'Lance' 1 60
+Skill 'Pike' 1 60
+Skill 'Pin' 1 60
+Skill 'Sickle' 1 60
+Skill 'Perforate' 1 60
+Skill 'Puncture' 1 60
+Skill 'Impale' 1 60
+Skill 'Claw' 1 55
+Skill 'Katar' 1 55
+Skill 'Knuckle' 1 55
+Skill 'Cestus' 1 55
+Skill 'Evade' 1 55
+Skill 'Slam' 1 55
+Skill 'Kick' 1 55
+Skill 'Punch' 1 55
+Skill 'Pounce' 1 55
+Skill 'Grapple' 1 55
+Skill 'Batter' 1 55
+Skill 'Swipe' 1 55
+Skill 'Hold' 1 55
+Skill 'Frazzle' 1 55
+Skill 'Pincer' 1 55
+Skill 'Knock' 1 55
+Skill 'Leather' 1 50
+Skill 'Suppress' 1 50
+Skill 'Unchain' 1 50
+End	

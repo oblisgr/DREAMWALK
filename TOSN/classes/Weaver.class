@@ -1,0 +1,18 @@
+Name		Weaver~
+Class		25
+AttrPrime		1
+AttrSecond	5
+AttrDeficient	25
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		17
+Hpmin		1
+Hpmax		4
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+End	

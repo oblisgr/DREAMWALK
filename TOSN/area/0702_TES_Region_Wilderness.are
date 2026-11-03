@@ -1,0 +1,1420 @@
+#AREA Wilderness 0702~
+
+#VERSION 1
+
+#CLIMATE 3 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#1070201
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#1070201
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#1070201
+West gash region, wilderness~
+A gently rising track runs along the edge of a shallow hollow under a pale sky
+among stunted brush, thin scrub and dry weeds clustered beside the worn route.
+Fine grit shifts above the hardened earth as low shrubs stir across the ground
+with cool air passing along the dusty slopes.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 1070202 0
+D2
+South~
+~
+0 0 1070208 0
+S
+#1070202
+West gash region, wilderness~
+A broad upland path threads across firm ocher-colored earth under muted clouds
+past flat stones, bare roots and low shrubs marking the otherwise empty slope.
+Dry wind sweeps along the dusty trail as loose seeds scatter through the grass
+and thin haze settles along the narrow track.~
+0 0 2 0 0 1
+D1
+East~
+~
+0 0 1070203 0
+D3
+West~
+~
+0 0 1070201 0
+D0
+Exit description
+~
+~
+0 0 1070393 0
+S
+#1070203
+West gash region, wilderness~
+Rolling stony ground slopes between low banks of coarse gravel in the cool air
+beside dried stalks, dark rocks and shallow ruts scattered over the firm soil.
+Pale dust drifts across the open grassland as the distant rises fade into haze
+and dry grass shivers across the empty earth.~
+0 0 2 0 0 2
+D1
+East
+~
+~
+0 0 1070204 0
+D2
+South
+~
+~
+0 0 1070210 0
+D3
+West
+~
+~
+0 0 1070202 0
+S
+#1070204
+Bitter coast region, wilderness~
+Rain-dark ground spreads between low banks of peat amid the smell of wet earth
+past dark pools, muddy hollows and rotting bark lying amid the saturated soil.
+Moist air passes through the reed beds as pale spores drift beneath the leaves
+with gray fog drifting around the mossy trunks.~
+0 0 2 0 0 3
+D3
+West~
+~
+0 0 1070203 0
+D0
+Exit description
+~
+~
+0 0 1070395 0
+S
+#1070206
+Bitter coast region, wilderness~
+Dark waterlogged soil stretches between mossy roots beneath weak morning light
+beside damp ferns, wet grass and pale mushrooms spread across the soft ground.
+Low haze spreads across the open marsh and muddy water gathers in shallow ruts
+as faint drizzle falls beneath the clouded sky.~
+0 0 2 0 0 5
+D1
+East~
+~
+0 0 1070207 0
+S
+#1070207
+Bitter coast region, wilderness~
+A sodden earthen track threads between gnarled trees under drifting marsh mist
+among clay banks, waterlogged logs and slick boulders lining the narrow trail.
+Thin drizzle drifts over the wet ground and insects drone among the dark pools
+with damp air moving inside shallow hollows.~
+0 0 2 0 0 6
+D2
+South~
+~
+0 0 1070214 0
+D3
+West~
+~
+0 0 1070206 0
+S
+#1070208
+West gash region, wilderness~
+Dry foothill terrain spreads through open scrub in soft light filtered by dust
+past low banks, patches of moss and pale grasses spread beneath the muted sky.
+Upland air moves along the dusty trail and small pebbles shift in shallow ruts
+as wind-bent weeds shiver between weathered outcrops.~
+0 0 2 0 0 7
+D0
+North~
+~
+0 0 1070201 0
+S
+#1070209
+West gash region, wilderness~
+A dusty winding trail curves through pale grassland under a wide colorless sky
+among gray pebbles, dark rocks and thin scrub rising from the dry ocher earth.
+Clouded light falls over the rolling ground as low weeds bend toward the earth
+as faint dust drifts across distant rises.~
+0 0 2 0 0 8
+D1
+East~
+~
+0 0 1070210 0
+D2
+South~
+~
+0 0 1070216 0
+S
+#1070210
+West gash region, wilderness~
+Low rugged slopes spread between weathered outcrops of stone beneath thin haze
+beside dry weeds, worn soil and bare roots set across the gently sloping land.
+Loose grass bends over the rolling ground as faint dust curls behind the rocks
+as small stones tumble beneath the muted sky.~
+0 0 2 0 0 9
+D0
+North~
+~
+0 0 1070203 0
+D1
+East~
+~
+0 0 1070211 0
+D2
+South~
+~
+0 0 1070217 0
+D3
+West~
+~
+0 0 1070209 0
+S
+#1070211
+West gash region, wilderness~
+A weathered dirt trail winds across folded ground beneath weak afternoon light
+past flat stones, low banks and worn soil lining the faint and dusty footpath.
+Fine grit blows along the exposed slopes as dry roots creak beneath the breeze
+and gray daylight spreads inside shallow hollows.~
+0 0 2 0 0 10
+D3
+West~
+~
+0 0 1070210 0
+S
+#1070214
+Bitter coast region, wilderness~
+A muddy lowland path curves between patches of damp moss in the cool humid air
+among mossy stones, wet leaves and reed clumps scattered over rain-dark earth.
+Gray fog hangs between the gnarled roots as soft mud shifts beneath every step
+with marsh mist hanging above the saturated ground.~
+0 0 2 0 0 13
+D0
+North~
+~
+0 0 1070207 0
+D2
+South~
+~
+0 0 1070221 0
+S
+#1070216
+West gash region, wilderness~
+A sparse grassland slope rises through open scrub in the cool and restless air
+among dark rocks, flat stones and dry weeds caught between low banks of stone.
+Pale dust sweeps along the dusty trail as thin stems rattle over the hard soil
+with loose grit gathering above the quiet terrain.~
+0 0 2 0 0 15
+D0
+North~
+~
+0 0 1070209 0
+D2
+South~
+~
+0 0 1070223 0
+S
+#1070217
+West gash region, wilderness~
+Uneven highland ground rises along shallow rock-strewn slopes amid steady wind
+beside thorny plants, worn soil and dried stalks spread beneath the muted sky.
+Upland air passes along the dusty trail and dry stems brush against the stones
+and the open land stretches among the low rocks.~
+0 0 2 0 0 16
+D0
+North~
+~
+0 0 1070210 0
+D1
+East~
+~
+0 0 1070218 0
+D2
+South~
+~
+0 0 1070224 0
+S
+#1070218
+West gash region, wilderness~
+An open sweep of dry grass stretches along a shallow hollow beneath weak light
+past coarse gravel, dusty hollows and thin scrub scattered over the firm soil.
+A cool breeze moves over the rolling ground as low weeds bend toward the earth
+as pale dust gathers under the steady breeze.~
+0 0 2 0 0 17
+D3
+West~
+~
+0 0 1070217 0
+S
+#1070220
+Bitter coast region, wilderness~
+A shallow swampy hollow opens through tangled reeds under dim clouded daylight
+past peat hummocks, damp ferns and reed clumps crowding the edges of the path.
+Faint rain falls over the saturated earth as pale fungi glisten on fallen bark
+with low haze settling along the muddy trail.~
+0 0 2 0 0 19
+D1
+East~
+~
+0 0 1070221 0
+D2
+South~
+~
+0 0 1070227 0
+S
+#1070221
+Bitter coast region, wilderness~
+A mist-covered trail winds through thick wet undergrowth beneath a veil of fog
+beside clay banks, shallow puddles and rotting bark rising from the dark peat.
+Damp air moves around the mossy trunks as cool droplets slip from the branches
+with soft rain lingering over the open marsh.~
+0 0 2 0 0 20
+D0
+North~
+~
+0 0 1070214 0
+D3
+West~
+~
+0 0 1070220 0
+S
+#1070223
+West gash region, wilderness~
+A shallow upland basin opens across firm dry earth beneath a pale highland sky
+among low shrubs, gray pebbles and bare roots clustered beside the worn route.
+Muted daylight hangs along the dusty trail as the distant rises fade into haze
+with soft light resting over the open ground.~
+0 0 2 0 0 22
+D0
+North~
+~
+0 0 1070216 0
+D2
+Exit description
+~
+~
+0 0 1070230 0
+S
+#1070224
+West gash region, wilderness~
+Low rugged slopes rise over broad rock shelves under slow and clouded daylight
+beside thin scrub, dark rocks and dry weeds marking the otherwise empty slope.
+Loose grass bends along the dusty trail and pale grit skitters across the path
+and cool air passes across distant rises.~
+0 0 2 0 0 23
+D0
+North~
+~
+0 0 1070217 0
+D1
+East~
+~
+0 0 1070225 0
+S
+#1070225
+Bitter coast region, wilderness~
+An open sweep of marsh extends over soft uneven soil beneath rain-heavy clouds
+past dark pools, wet grass and tangled roots resting beneath the low gray sky.
+Cool mist hangs along the muddy trail as rotting wood settles deeper into peat
+as thin reeds tremble through the dim undergrowth.~
+0 0 2 0 0 24
+D2
+South~
+~
+0 0 1070232 0
+D3
+West~
+~
+0 0 1070224 0
+S
+#1070226
+Bitter coast region, wilderness~
+A narrow marsh trail runs across saturated ground under a ceiling of gray haze
+beside mossy stones, wet leaves and clay banks collected along muddy channels.
+Clouded light falls across the dark peat as low plants sway beside the puddles
+and cool moisture hangs under the tangled branches.~
+0 0 2 0 0 25
+D2
+South~
+~
+0 0 1070233 0
+S
+#1070227
+Bitter coast region, wilderness~
+A dim stretch of lowland stretches along a shallow pool beneath a low gray sky
+among damp ferns, dark pools and reed clumps marking the otherwise open marsh.
+Cool moisture hangs over the wet ground and thin reeds bend close to the water
+and soft rain drifts between the wet grasses.~
+0 0 2 0 0 26
+D0
+North~
+~
+0 0 1070220 0
+D2
+South~
+~
+0 0 1070234 0
+S
+#1070230
+Bitter coast region, wilderness~
+A winding path through reeds curves across dark peat under pale filtered light
+past tangled roots, clay banks and wet grass gathered beneath dripping growth.
+Marsh wind slides through the reed beds as damp fronds brush against the trail
+as low haze spreads over the shallow pools.~
+0 0 2 0 0 29
+D1
+East~
+~
+0 0 1070231 0
+D2
+South~
+~
+0 0 1070237 0
+D0
+Exit description~
+~
+0 0 1070223 0
+S
+#1070231
+Bitter coast region, wilderness~
+Damp uneven ground rises across a broad sodden flat in air heavy with moisture
+beside dark pools, mossy stones and pale mushrooms caught among the wet roots.
+Faint rain lingers across the open marsh as thin fog blurs the farthest growth
+and low haze settles across the dark peat.~
+0 0 2 0 0 30
+D1
+East~
+~
+0 0 1070232 0
+D3
+West~
+~
+0 0 1070230 0
+S
+#1070232
+Bitter coast region, wilderness~
+A mossy earthen trail threads between gnarled trees amid a soft steady drizzle
+among damp ferns, rotting bark and wet grass set within shallow folds of land.
+Gray fog drifts across the dark peat and tiny ripples cross the darkened pools
+with thin reeds rustling among the wet roots.~
+0 0 2 0 0 31
+D0
+North~
+~
+0 0 1070225 0
+D1
+East~
+~
+0 0 1070233 0
+D2
+South~
+~
+0 0 1070239 0
+D3
+West~
+~
+0 0 1070231 0
+S
+#1070233
+Bitter coast region, wilderness~
+A broad reach of marsh opens along a shallow pool beneath slowly moving clouds
+past muddy hollows, damp ferns and reed clumps clustered beside shallow pools.
+Moist air passes over the wet ground as dim reflections move beneath the reeds
+as dark water stirs under the tangled branches.~
+0 0 2 0 0 32
+D0
+North~
+~
+0 0 1070226 0
+D2
+South~
+~
+0 0 1070240 0
+D3
+West~
+~
+0 0 1070232 0
+S
+#1070234
+Bitter coast region, wilderness~
+Soft peat-covered ground slopes through tangled reeds under low banks of cloud
+among muddy hollows, slick boulders and peat hummocks lining the narrow trail.
+Damp air moves around the mossy trunks and fine rain darkens the exposed roots
+as cool moisture lingers through the dim undergrowth.~
+0 0 2 0 0 33
+D0
+North~
+~
+0 0 1070227 0
+D1
+East~
+~
+0 0 1070235 0
+D2
+South~
+~
+0 0 1070241 0
+S
+#1070235
+Bitter coast region, wilderness~
+An overgrown marsh path winds along a waterlogged hollow beneath a veil of fog
+beside clay banks, tangled roots and wet leaves lying amid the saturated soil.
+Low haze hangs through the reed beds as soft earth yields beneath passing feet
+and damp air passes along the muddy trail.~
+0 0 2 0 0 34
+D2
+South~
+~
+0 0 1070242 0
+D3
+West~
+~
+0 0 1070234 0
+S
+#1070237
+Bitter coast region, wilderness~
+A low tract of wet earth extends between mossy roots beneath rain-heavy clouds
+past twisted branches, rotting bark and reed clumps rising from the dark peat.
+Cool mist spreads along the muddy trail and wet leaves tremble under the drops
+with faint drizzle falling beneath the clouded sky.~
+0 0 2 0 0 36
+D0
+North~
+~
+0 0 1070230 0
+D1
+East~
+~
+0 0 1070238 0
+S
+#1070238
+Bitter coast region, wilderness~
+A sodden earthen track runs along the edge of dark pools in the cool humid air
+among damp ferns, mossy stones and rotting bark spread across the soft ground.
+Marsh wind slides along the muddy trail as shallow water stirs among the roots
+as gray fog drifts between the wet grasses.~
+0 0 2 0 0 37
+D1
+East~
+~
+0 0 1070239 0
+D2
+South~
+~
+0 0 1070245 0
+D3
+West~
+~
+0 0 1070237 0
+S
+#1070239
+Bitter coast region, wilderness~
+Rain-dark ground slopes over a maze of shallow ruts under dim clouded daylight
+beside wet grass, clay banks and peat hummocks crowding the edges of the path.
+Soft rainfall drifts over the wet ground and pale fungi glisten on fallen bark
+with dark water gathering around the mossy trunks.~
+0 0 2 0 0 38
+D0
+North~
+~
+0 0 1070232 0
+D3
+West~
+~
+0 0 1070238 0
+S
+#1070240
+Bitter coast region, wilderness~
+A mist-covered trail runs through beds of tall reeds under pale filtered light
+past wet leaves, damp ferns and slick boulders scattered over rain-dark earth.
+Gray fog hangs across the dark peat as mossy stones shine beneath the rainfall
+and marsh mist settles over the shallow pools.~
+0 0 2 0 0 39
+D0
+North~
+~
+0 0 1070233 0
+D1
+East~
+~
+0 0 1070241 0
+D2
+South~
+~
+0 0 1070247 0
+S
+#1070241
+Bitter coast region, wilderness~
+A dim stretch of lowland spreads across dark peat under a ceiling of gray haze
+among mossy stones, clay banks and reed clumps collected along muddy channels.
+Thin drizzle falls across the open marsh as soft mud shifts beneath every step
+as wet foliage trembles above the saturated ground.~
+0 0 2 0 0 40
+D0
+North~
+~
+0 0 1070234 0
+D2
+South~
+~
+0 0 1070248 0
+D3
+West~
+~
+0 0 1070240 0
+S
+#1070242
+Bitter coast region, wilderness~
+A shallow swampy hollow opens between gnarled trees beneath weak morning light
+beside pale mushrooms, dark pools and rotting bark caught among the wet roots.
+Damp air moves through the reed beds as droplets gather along the broad leaves
+and thin reeds rustle over the open marsh.~
+0 0 2 0 0 41
+D0
+North~
+~
+0 0 1070235 0
+S
+#1070243
+Bitter coast region, near Gnaar Mok village~
+A muddy lowland path threads across rain-dark earth amid a soft steady drizzle
+past mossy stones, dark pools and damp ferns gathered beneath dripping growth.
+Clouded light hangs over the wet ground and low plants sway beside the puddles
+with cool moisture lingering inside shallow hollows.~
+0 0 2 0 0 42
+D2
+South
+~
+~
+0 0 1070250 0
+D3
+Exit description
+~
+~
+0 0 4072001 0
+S
+#1070244
+Bitter coast region, near Gnaar Mok village~
+An open sweep of marsh reaches along a shallow pool in air heavy with moisture
+among reed clumps, clay banks and wet leaves resting beneath the low gray sky.
+Cool mist hangs along the muddy trail as dark water seeps into narrow channels
+as soft rain falls across the dark peat.~
+0 0 2 0 0 43
+D2
+South~
+~
+0 0 1070251 0
+D1
+Exit description
+~
+~
+0 0 1070245 0
+S
+#1070245
+Bitter coast region, wilderness~
+Dark waterlogged soil extends between mossy roots beneath slowly moving clouds
+beside reed clumps, wet grass and clay banks marking the otherwise open marsh.
+Cool moisture hangs across the dark peat as thin fog blurs the farthest growth
+as damp air slides among the wet roots.~
+0 0 2 0 0 44
+D0
+North~
+~
+0 0 1070238 0
+D1
+East~
+~
+0 0 1070246 0
+D2
+South~
+~
+0 0 1070252 0
+D3
+Exit description~
+~
+0 0 1070244 0
+S
+#1070246
+Bitter coast region, wilderness~
+Damp uneven ground rises through a screen of wet leaves beneath a low gray sky
+past rotting bark, dark pools and clay banks set within shallow folds of land.
+Moist air slides along the muddy trail as reed leaves whisper across the marsh
+and faint drizzle lingers through the dim undergrowth.~
+0 0 2 0 0 45
+D2
+South
+~
+~
+0 0 1070253 0
+D3
+West~
+~
+0 0 1070245 0
+D1
+Exit description
+~
+~
+0 0 1070247 0
+S
+#1070247
+Bitter coast region, wilderness~
+A broad reach of marsh spreads across rain-dark earth under low banks of cloud
+among wet grass, damp ferns and pale mushrooms clustered beside shallow pools.
+Faint rain falls around the mossy trunks as thin reeds bend close to the water
+and gray fog hangs beneath the clouded sky.~
+0 0 2 0 0 46
+D0
+North~
+~
+0 0 1070240 0
+D3
+Exit description~
+~
+0 0 1070246 0
+S
+#1070248
+Bitter coast region, wilderness~
+A mossy earthen trail curves through tangled reeds amid the smell of wet earth
+beside twisted branches, damp ferns and peat hummocks lining the narrow trail.
+Low haze drifts above the shallow pools as fine rain darkens the exposed roots
+and dark water ripples over the open marsh.~
+0 0 2 0 0 47
+D0
+North~
+~
+0 0 1070241 0
+D2
+South~
+~
+0 0 1070255 0
+S
+#1070249
+Bitter coast region, wilderness~
+A low tract of wet earth spreads between mossy roots under drifting marsh mist
+past rotting bark, muddy hollows and slick boulders rising from the dark peat.
+Marsh wind moves through the reed beds as pale spores drift beneath the leaves
+with wet foliage bending under the tangled branches.~
+0 0 2 0 0 48
+D2
+South~
+~
+0 0 1070256 0
+S
+#1070250
+Bitter coast region, near Gnaar Mok village~
+A winding path through reeds passes along a shallow pool beneath a veil of fog
+among wet grass, mossy stones and tangled roots lying amid the saturated soil.
+Thin drizzle falls across the open marsh as insects drone among the dark pools
+and wet foliage rustles along the muddy trail.~
+0 0 2 0 0 49
+D0
+North~
+~
+0 0 1070243 0
+D2
+South~
+~
+0 0 1070257 0
+S
+#1070251
+Bitter coast region, near Gnaar Mok village~
+An overgrown marsh path curves between gnarled trees beneath rain-heavy clouds
+beside wet leaves, dark pools and muddy hollows spread across the soft ground.
+Clouded light falls over the wet ground as damp fronds brush against the trail
+as marsh mist spreads around the mossy trunks.~
+0 0 2 0 0 50
+D0
+North~
+~
+0 0 1070244 0
+D2
+South~
+~
+0 0 1070258 0
+S
+#1070252
+Bitter coast region, wilderness~
+Soft peat-covered ground stretches through tangled reeds in the cool humid air
+past damp ferns, reed clumps and peat hummocks scattered over rain-dark earth.
+Gray fog settles around the mossy trunks as wet leaves tremble under the drops
+with low haze spreading inside shallow hollows.~
+0 0 2 0 0 51
+D0
+North~
+~
+0 0 1070245 0
+D1
+East~
+~
+0 0 1070253 0
+D2
+South~
+~
+0 0 1070259 0
+S
+#1070253
+Bitter coast region, wilderness~
+A narrow marsh trail runs along a waterlogged hollow under pale filtered light
+among dark pools, clay banks and tangled roots crowding the edges of the path.
+Low haze settles over the wet ground as dim reflections move beneath the reeds
+with damp air sliding above the saturated ground.~
+0 0 2 0 0 52
+D0
+North~
+~
+0 0 1070246 0
+D3
+West~
+~
+0 0 1070252 0
+S
+#1070255
+Bitter coast region, wilderness~
+A mist-covered trail curves across saturated ground under dim clouded daylight
+beside mossy stones, wet grass and reed clumps collected along muddy channels.
+Moist air passes across the dark peat as tiny ripples cross the darkened pools
+as thin reeds bend over the shallow pools.~
+0 0 2 0 0 54
+D0
+North~
+~
+0 0 1070248 0
+D1
+East~
+~
+0 0 1070256 0
+D2
+South~
+~
+0 0 1070262 0
+S
+#1070256
+Bitter coast region, wilderness~
+A sodden earthen track runs between gnarled trees under a ceiling of gray haze
+past damp ferns, pale mushrooms and slick boulders caught among the wet roots.
+Faint rain falls through the reed beds as cool droplets slip from the branches
+with thin reeds stirring across the dark peat.~
+0 0 2 0 0 55
+D0
+North~
+~
+0 0 1070249 0
+D2
+South~
+~
+0 0 1070263 0
+D3
+West~
+~
+0 0 1070255 0
+S
+#1070257
+Bitter coast region, near Gnaar Mok village~
+A dim stretch of lowland stretches across dark peat amid a soft steady drizzle
+among rotting bark, wet grass and clay banks gathered beneath dripping growth.
+Damp air moves over the saturated earth as shallow water stirs among the roots
+and cool moisture gathers between the wet grasses.~
+0 0 2 0 0 56
+D0
+North~
+~
+0 0 1070250 0
+D1
+East~
+~
+0 0 1070258 0
+S
+#1070258
+Bitter coast region, near Gnaar Mok village~
+Rain-dark ground extends along a waterlogged hollow beneath weak morning light
+beside clay banks, damp ferns and dark pools resting beneath the low gray sky.
+Cool mist hangs across the open marsh as rotting wood settles deeper into peat
+with faint drizzle settling among the wet roots.~
+0 0 2 0 0 57
+D0
+North~
+~
+0 0 1070251 0
+D2
+South~
+~
+0 0 1070265 0
+D3
+West~
+~
+0 0 1070257 0
+S
+#1070259
+Bitter coast region, wilderness~
+A muddy lowland path winds between patches of damp moss beneath a low gray sky
+past mossy stones, wet grass and reed clumps marking the otherwise open marsh.
+Cool moisture hangs across the dark peat and pale fungi glisten on fallen bark
+with soft rain drifting through the dim undergrowth.~
+0 0 2 0 0 58
+D0
+North~
+~
+0 0 1070252 0
+D1
+East~
+~
+0 0 1070260 0
+D2
+South~
+~
+0 0 1070266 0
+S
+#1070260
+Bitter coast region, wilderness~
+Damp uneven ground rises through beds of tall reeds in air heavy with moisture
+among dark pools, wet leaves and reed clumps set within shallow folds of land.
+Marsh wind passes across the dark peat and muddy water gathers in shallow ruts
+with gray fog hanging around the mossy trunks.~
+0 0 2 0 0 59
+D1
+East~
+~
+0 0 1070261 0
+D3
+West~
+~
+0 0 1070259 0
+S
+#1070261
+Bitter coast region, wilderness~
+A shallow swampy hollow opens between mossy roots beneath slowly moving clouds
+beside rotting bark, clay banks and damp ferns clustered beside shallow pools.
+Gray fog spreads over the wet ground as soft earth yields beneath passing feet
+with dark water shifting under the tangled branches.~
+0 0 2 0 0 60
+D1
+East~
+~
+0 0 1070262 0
+D2
+South~
+~
+0 0 1070268 0
+D3
+West~
+~
+0 0 1070260 0
+S
+#1070262
+Bitter coast region, wilderness~
+An open sweep of marsh reaches between mossy roots amid the smell of wet earth
+past peat hummocks, slick boulders and pale mushrooms lining the narrow trail.
+Low haze hangs through the reed beds as droplets gather along the broad leaves
+as damp air moves beneath the clouded sky.~
+0 0 2 0 0 61
+D0
+North~
+~
+0 0 1070255 0
+D2
+South~
+~
+0 0 1070269 0
+D3
+West~
+~
+0 0 1070261 0
+S
+#1070263
+Bitter coast region, wilderness~
+Dark waterlogged soil stretches between gnarled trees under low banks of cloud
+among tangled roots, mossy stones and wet grass spread across the soft ground.
+Thin drizzle falls along the muddy trail as low plants sway beside the puddles
+with cool moisture gathering over the open marsh.~
+0 0 2 0 0 62
+D0
+North~
+~
+0 0 1070256 0
+S
+#1070264
+Bitter coast region, near Gnaar Mok village~
+A mossy earthen trail threads across rain-dark earth under drifting marsh mist
+beside muddy hollows, clay banks and damp ferns lying amid the saturated soil.
+Clouded light falls over the wet ground and soft mud shifts beneath every step
+as faint drizzle settles over the shallow pools.~
+0 0 2 0 0 63
+D1
+East~
+~
+0 0 1070265 0
+D2
+South~
+~
+0 0 1070271 0
+S
+#1070265
+Bitter coast region, near Gnaar Mok village~
+A broad reach of marsh opens over a maze of shallow ruts beneath a veil of fog
+past rotting bark, reed clumps and waterlogged logs rising from the dark peat.
+Damp air drifts over the wet ground as mossy stones shine beneath the rainfall
+and low haze spreads along the muddy trail.~
+0 0 2 0 0 64
+D0
+North~
+~
+0 0 1070258 0
+D1
+East~
+~
+0 0 1070266 0
+D3
+West~
+~
+0 0 1070264 0
+S
+#1070266
+Bitter coast region, wilderness~
+A winding path through reeds passes across dark peat beneath rain-heavy clouds
+among damp ferns, tangled roots and wet leaves scattered over rain-dark earth.
+Moist air moves through the reed beds as dark water seeps into narrow channels
+as soft rain falls above the saturated ground.~
+0 0 2 0 0 65
+D0
+North~
+~
+0 0 1070259 0
+D1
+East~
+~
+0 0 1070267 0
+D3
+West~
+~
+0 0 1070265 0
+D2
+Exit description
+~
+~
+0 0 1070273 0
+S
+#1070267
+Bitter coast region, wilderness~
+Soft peat-covered ground slopes between mossy roots beneath weak morning light
+beside muddy hollows, dark pools and wet grass crowding the edges of the path.
+Cool mist hangs along the muddy trail and reed leaves whisper across the marsh
+as gray fog drifts across the dark peat.~
+0 0 2 0 0 66
+D2
+South~
+~
+0 0 1070274 0
+D3
+West~
+~
+0 0 1070266 0
+S
+#1070268
+Bitter coast region, wilderness~
+A narrow marsh trail winds through thick wet undergrowth in the cool humid air
+past rotting bark, mossy stones and clay banks collected along muddy channels.
+Cool moisture hangs over the wet ground and insects drone among the dark pools
+and thin reeds stir inside shallow hollows.~
+0 0 2 0 0 67
+D0
+North~
+~
+0 0 1070261 0
+D1
+East~
+~
+0 0 1070269 0
+S
+#1070269
+Bitter coast region, wilderness~
+An overgrown marsh path winds between gnarled trees under dim clouded daylight
+among wet leaves, reed clumps and dark pools gathered beneath dripping growth.
+Faint rain drifts along the muddy trail as shallow water stirs among the roots
+and damp air passes between the wet grasses.~
+0 0 2 0 0 68
+D0
+North~
+~
+0 0 1070262 0
+D2
+South~
+~
+0 0 1070276 0
+D3
+West~
+~
+0 0 1070268 0
+S
+#1070271
+Bitter coast region, near Gnaar Mok village~
+A low tract of wet earth spreads across dark peat beneath slowly moving clouds
+beside mossy stones, damp ferns and clay banks clustered beside shallow pools.
+Marsh wind slides through the reed beds and thin fog blurs the farthest growth
+as cool moisture gathers among the wet roots.~
+0 0 2 0 0 70
+D0
+North~
+~
+0 0 1070264 0
+S
+#1070273
+Bitter coast region, wilderness~
+A mist-covered trail threads along a shallow pool under a ceiling of gray haze
+past reed clumps, peat hummocks and pale mushrooms caught among the wet roots.
+Thin drizzle falls across the open marsh as wet leaves tremble under the drops
+and soft rain lingers beneath the clouded sky.~
+0 0 2 0 0 72
+D1
+East~
+~
+0 0 1070274 0
+D2
+South~
+~
+0 0 1070280 0
+D0
+Exit description~
+~
+0 0 1070266 0
+S
+#1070274
+Bitter coast region, wilderness~
+Rain-dark ground slopes between patches of damp moss under pale filtered light
+among dark pools, wet grass and rotting bark resting beneath the low gray sky.
+Clouded light falls over the wet ground as fine rain darkens the exposed roots
+with marsh mist spreading along the muddy trail.~
+0 0 2 0 0 73
+D0
+North~
+~
+0 0 1070267 0
+D2
+South~
+~
+0 0 1070281 0
+D3
+West~
+~
+0 0 1070273 0
+D1
+Exit description
+~
+~
+0 0 1070275 0
+S
+#1070275
+Bitter coast region, wilderness~
+A sodden earthen track curves through tangled reeds in air heavy with moisture
+beside clay banks, dark pools and damp ferns marking the otherwise open marsh.
+Cool moisture hangs over the wet ground as damp fronds brush against the trail
+as low haze settles around the mossy trunks.~
+0 0 2 0 0 74
+D1
+East~
+~
+0 0 1070276 0
+D2
+South~
+~
+0 0 1070282 0
+D3
+Exit description~
+~
+0 0 1070274 0
+S
+#1070276
+Bitter coast region, wilderness~
+Damp uneven ground rises across a broad sodden flat amid a soft steady drizzle
+past tangled roots, wet grass and clay banks set within shallow folds of land.
+Gray fog drifts across the dark peat as dim reflections move beneath the reeds
+and marsh mist hangs through the dim undergrowth.~
+0 0 2 0 0 75
+D0
+North~
+~
+0 0 1070269 0
+D2
+South~
+~
+0 0 1070283 0
+D3
+West~
+~
+0 0 1070275 0
+S
+#1070279
+Bitter coast region, wilderness~
+A dim stretch of lowland extends along a shallow pool under low banks of cloud
+among peat hummocks, slick boulders and muddy hollows lining the narrow trail.
+Damp air moves around the mossy trunks as pale spores drift beneath the leaves
+as dark water shifts under the tangled branches.~
+0 0 2 0 0 78
+D2
+South~
+~
+0 0 1070286 0
+S
+#1070280
+Bitter coast region, wilderness~
+A muddy lowland path threads along a waterlogged hollow beneath a low gray sky
+beside damp ferns, mossy stones and reed clumps spread across the soft ground.
+Moist air moves across the open marsh as tiny ripples cross the darkened pools
+and faint drizzle falls inside shallow hollows.~
+0 0 2 0 0 79
+D0
+North~
+~
+0 0 1070273 0
+D1
+East~
+~
+0 0 1070281 0
+D2
+South~
+~
+0 0 1070287 0
+S
+#1070281
+Bitter coast region, wilderness~
+Dark waterlogged soil slopes across saturated ground under drifting marsh mist
+past tangled roots, wet grass and rotting bark scattered over rain-dark earth.
+Low haze spreads through the reed beds as cool droplets slip from the branches
+and gray fog hangs over the shallow pools.~
+0 0 2 0 0 80
+D0
+North~
+~
+0 0 1070274 0
+D3
+West~
+~
+0 0 1070280 0
+S
+#1070282
+Bitter coast region, wilderness~
+A shallow swampy hollow stretches across dark peat amid the smell of wet earth
+among pale mushrooms, clay banks and damp ferns lying amid the saturated soil.
+Faint rain lingers across the open marsh as thin reeds bend close to the water
+with wet foliage trembling above the saturated ground.~
+0 0 2 0 0 81
+D0
+North~
+~
+0 0 1070275 0
+D2
+South~
+~
+0 0 1070289 0
+S
+#1070283
+Bitter coast region, wilderness~
+An open sweep of marsh reaches through tangled reeds beneath rain-heavy clouds
+beside reed clumps, slick boulders and mossy stones rising from the dark peat.
+Cool mist drifts over the wet ground as droplets gather along the broad leaves
+and dark water ripples among the wet roots.~
+0 0 2 0 0 82
+D0
+North~
+~
+0 0 1070276 0
+D1
+East~
+~
+0 0 1070284 0
+S
+#1070284
+Bitter coast region, wilderness~
+A mossy earthen trail winds along the edge of dark pools beneath a veil of fog
+past reed clumps, muddy hollows and wet leaves crowding the edges of the path.
+Marsh wind passes over the wet ground as rotting wood settles deeper into peat
+as wet foliage bends over the open marsh.~
+0 0 2 0 0 83
+D2
+South~
+~
+0 0 1070291 0
+D3
+West~
+~
+0 0 1070283 0
+S
+#1070286
+Bitter coast region, wilderness~
+A winding path through reeds passes along a shallow pool in the cool humid air
+among peat hummocks, damp ferns and dark pools collected along muddy channels.
+Clouded light falls over the wet ground as muddy water gathers in shallow ruts
+as marsh mist drifts between the wet grasses.~
+0 0 2 0 0 85
+D0
+North~
+~
+0 0 1070279 0
+D1
+East~
+~
+0 0 1070287 0
+S
+#1070287
+Bitter coast region, wilderness~
+A broad reach of marsh spreads between gnarled trees under pale filtered light
+beside clay banks, slick boulders and rotting bark caught among the wet roots.
+Low haze drifts across the dark peat as soft earth yields beneath passing feet
+and wet foliage rustles across the dark peat.~
+0 0 2 0 0 86
+D0
+North~
+~
+0 0 1070280 0
+D1
+East~
+~
+0 0 1070288 0
+D3
+West~
+~
+0 0 1070286 0
+S
+#1070288
+Bitter coast region, wilderness~
+Soft peat-covered ground slopes between mossy roots under dim clouded daylight
+past dark pools, wet grass and muddy hollows gathered beneath dripping growth.
+Thin drizzle drifts through the reed beds as pale fungi glisten on fallen bark
+with damp air passing under the tangled branches.~
+0 0 2 0 0 87
+D1
+East~
+~
+0 0 1070289 0
+D2
+South~
+~
+0 0 1070295 0
+D3
+West~
+~
+0 0 1070287 0
+S
+#1070289
+Bitter coast region, wilderness~
+A narrow marsh trail curves between gnarled trees beneath slowly moving clouds
+among clay banks, mossy stones and wet grass resting beneath the low gray sky.
+Cool moisture hangs across the dark peat as low plants sway beside the puddles
+as thin reeds bend through the dim undergrowth.~
+0 0 2 0 0 88
+D0
+North~
+~
+0 0 1070282 0
+D2
+South~
+~
+0 0 1070296 0
+D3
+West~
+~
+0 0 1070288 0
+S
+#1070291
+Bitter coast region, wilderness~
+An overgrown marsh path runs across rain-dark earth in air heavy with moisture
+beside wet leaves, mossy stones and damp ferns clustered beside shallow pools.
+Gray fog drifts along the muddy trail as dark water seeps into narrow channels
+with low haze drifting beneath the clouded sky.~
+0 0 2 0 0 90
+D0
+North~
+~
+0 0 1070284 0
+S
+#1070294
+Bitter coast region, wilderness~
+A low tract of wet earth stretches across dark peat amid a soft steady drizzle
+past damp ferns, clay banks and rotting bark marking the otherwise open marsh.
+Cool mist hangs over the wet ground as mossy stones shine beneath the rainfall
+with gray fog settling along the muddy trail.~
+0 0 2 0 0 93
+D1
+East
+~
+~
+0 0 1070295 0
+D2
+Exit description
+~
+~
+0 0 1080103 0
+S
+#1070295
+Bitter coast region, wilderness~
+A mist-covered trail runs across saturated ground under a ceiling of gray haze
+among reed clumps, dark pools and wet leaves set within shallow folds of land.
+Damp air moves around the mossy trunks as reed leaves whisper across the marsh
+with faint drizzle falling inside shallow hollows.~
+0 0 2 0 0 94
+D0
+North~
+~
+0 0 1070288 0
+D3
+West~
+~
+0 0 1070294 0
+S
+#1070296
+Bitter coast region, wilderness~
+Rain-dark ground extends across a broad sodden flat beneath weak morning light
+beside pale mushrooms, mossy stones and peat hummocks lining the narrow trail.
+Moist air moves over the saturated earth as soft mud shifts beneath every step
+with cool moisture hanging over the open marsh.~
+0 0 2 0 0 95
+D0
+North~
+~
+0 0 1070289 0
+D2
+Exit description
+~
+~
+0 0 1080105 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

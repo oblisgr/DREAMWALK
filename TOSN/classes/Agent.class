@@ -1,0 +1,117 @@
+Name		Agent~
+Class		17
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Bluff' 1 95
+Skill 'Flirt' 1 95
+Skill 'Intimidate' 1 95
+Skill 'Judge' 1 95
+Skill 'Shame' 1 95
+Skill 'Daunt' 1 95
+Skill 'Gaze' 1 95
+Skill 'Surge' 1 95
+Skill 'Bully' 1 95
+Skill 'Harry' 1 95
+Skill 'Rebuke' 1 95
+Skill 'Pickpocket' 1 90
+Skill 'Sneak' 1 90
+Skill 'Hide' 1 90
+Skill 'Peek' 1 90
+Skill 'Backstab' 1 90
+Skill 'Creep' 1 90
+Skill 'Tumble' 1 85
+Skill 'Climb' 1 85
+Skill 'Slip' 1 85
+Skill 'Twist' 1 85
+Skill 'Poise' 1 85
+Skill 'Leather' 1 80
+Skill 'Suppress' 1 80
+Skill 'Unchain' 1 80
+Skill 'Dirk' 1 75
+Skill 'Dagger' 1 75
+Skill 'Tanto' 1 75
+Skill 'Wakizashi' 1 75
+Skill 'Shortsword' 1 75
+Skill 'Fight' 1 75
+Skill 'Gouge' 1 75
+Skill 'Grip' 1 75
+Skill 'Razor' 1 75
+Skill 'Outplay' 1 75
+Skill 'Riposte' 1 75
+Skill 'Stab' 1 75
+Skill 'Sting' 1 75
+Skill 'Hire' 1 70
+Skill 'Dig' 1 70
+Skill 'Trick' 1 70
+Skill 'Anger' 1 70
+Skill 'Humiliate' 1 70
+Skill 'Materialize' 1 65
+Skill 'Evoke' 1 65
+Skill 'Forge' 1 65
+Skill 'Shape' 1 65
+Skill 'Fabricate' 1 65
+Skill 'Assemble' 1 65
+Skill 'Fashion' 1 65
+Skill 'Equip' 1 65
+Skill 'Crown' 1 65
+Skill 'Support' 1 65
+Skill 'Butrress' 1 65
+Skill 'Arm' 1 65
+Skill 'Clothe' 1 65
+Skill 'Shoe' 1 65
+Skill 'Raise' 1 65
+Skill 'Invoke' 1 65
+Skill 'Tame' 1 65
+Skill 'Activate' 1 65
+Skill 'Beckon' 1 65
+Skill 'Reanimate' 1 65
+Skill 'Conjure' 1 65
+Skill 'Produce' 1 65
+Skill 'Taunt' 1 60
+Skill 'Bash' 1 60
+Skill 'Block' 1 60
+Skill 'Revenge' 1 60
+Skill 'Defend' 1 60
+Skill 'Rebuff' 1 60
+Skill 'Shelter' 1 60
+Skill 'Shroud' 1 60
+Skill 'Thrust' 1 60
+Skill 'Destabilize' 1 60
+Skill 'Cloth' 1 55
+Skill 'Disengage' 1 55
+Skill 'Distract' 1 55
+Skill 'Parry' 1 55
+Skill 'Rescue' 1 55
+Skill 'Focus' 1 55
+Skill 'Unyield' 1 55
+Skill 'Guard' 1 55
+Skill 'Recover' 1 55
+Skill 'Trample' 1 55
+Skill 'Camouflage' 1 50
+Skill 'Bless' 1 50
+Skill 'Conceal' 1 50
+Skill 'Enlighten' 1 50
+Skill 'Silence' 1 50
+Skill 'Blind' 1 50
+Skill 'Charm' 1 50
+Skill 'Paralyze' 1 50
+Skill 'Sound' 1 50
+Skill 'Demoralize' 1 50
+Skill 'Calm' 1 50
+Skill 'Rally' 1 50
+Skill 'Frenzy' 1 50
+Skill 'Illuminate' 1 50
+End

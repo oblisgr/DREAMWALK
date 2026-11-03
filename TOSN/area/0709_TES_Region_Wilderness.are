@@ -1,0 +1,1682 @@
+#AREA Wilderness 0709~
+
+#VERSION 1
+
+#CLIMATE 3 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#1070901
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#1070901
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#1070901
+Red mountain region, wilderness~
+Steep folds of burned earth rise along broken ground under a churning gray sky
+past coarse pumice, ash-coated thorns and black lava plates across bare stone.
+Thick ash swirls beneath boiling cloud and small stones tumble into the chasms
+with the scorched land fading above the smoking cracks.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 1070902 0
+S
+#1070902
+Red mountain region, wilderness~
+A barren track through rising ash winds across lava shelves beneath dark cloud
+beyond smoking fissures, cracked obsidian and loose cinders under ashen skies.
+Volcanic heat deepens along the scorched ascent as grit pours down steep banks
+and the acrid scent lingers among the jagged rocks.~
+0 0 2 0 0 1
+D1
+East~
+~
+0 0 1070903 0
+D3
+West~
+~
+0 0 1070901 0
+S
+#1070903
+Red mountain region, wilderness~
+A twisting cinder-covered path runs through scorched rock beneath choking dust
+among fractured slabs, sulfur-stained rocks and charred roots over dark earth.
+Harsh updrafts pass across the black lava fields as smoke hides distant ledges
+and dim crimson light flickers above the smoking cracks.~
+0 0 2 0 0 2
+D2
+South~
+~
+0 0 1070910 0
+D3
+West~
+~
+0 0 1070902 0
+S
+#1070904
+Red mountain region, wilderness~
+Wind-scoured volcanic terrain extends between jagged outcrops in sulfurous air
+beside broken ledges, deep ash drifts and gray mineral crusts on steep slopes.
+A choking haze spreads through the narrow ravines as thin stalks bow to ground
+with dark smoke spreading beneath the ash-filled sky.~
+0 0 2 0 0 3
+D1
+East~
+~
+0 0 1070905 0
+D2
+South~
+~
+0 0 1070911 0
+S
+#1070905
+Red mountain region, wilderness~
+Black ridges of ancient lava extend over ash-filled hollows in fierce dry wind
+among scorched scrub, brittle stalks and heat-split stones along rough ground.
+Sulfurous air moves along the cinder-filled gullies as embers glow in fissures
+and dark smoke hangs across the steep terrain.~
+0 0 2 0 0 4
+D1
+East~
+~
+0 0 1070906 0
+D3
+West~
+~
+0 0 1070904 0
+S
+#1070906
+Red mountain region, wilderness~
+An uneven course through dark stone crosses over cinder banks in wavering heat
+past sharp gravel, dusty crevices and scattered slag pieces over lava shelves.
+Dry mineral dust rises through brittle gray scrub as stems blacken near cracks
+and sulfurous fumes hang between basalt outcrops.~
+0 0 2 0 0 5
+D2
+South~
+~
+0 0 1070913 0
+D3
+West~
+~
+0 0 1070905 0
+S
+#1070907
+Red mountain region, wilderness~
+A harsh ascent over ashen ground climbs past smoking cracks amid mineral fumes
+beside black pebbles, burned root tangles and dry thorn stems in deep hollows.
+Loose cinders scatter over the shattered slopes and fragments fall from ridges
+with hot ash drifting over distant lava fields.~
+0 0 2 0 0 6
+D2
+South~
+~
+0 0 1070914 0
+S
+#1070908
+Red mountain region, wilderness~
+Rugged fields of fractured rock spread through ash gullies under crimson light
+beyond dark slag, pumice fragments and jagged basalt shards amid broken rocks.
+A violent gust rushes across the burned terrain as cracked slabs groan in heat
+and mineral haze drifts under the churning clouds.~
+0 0 2 0 0 7
+D1
+East~
+~
+0 0 1070909 0
+D2
+South~
+~
+0 0 1070915 0
+D3
+Exit description~
+~
+0 0 1070849 0
+S
+#1070909
+Red mountain region, wilderness~
+A steep volcanic trail winds through deep ravines under dim ash-filtered light
+past dark slag, fractured slabs and charred roots lining the hazardous ascent.
+Hot wind passes over the unstable ground as pale fumes rise from hidden cracks
+and black gravel scatters over distant lava fields.~
+0 0 2 0 0 8
+D1
+East~
+~
+0 0 1070910 0
+D3
+West~
+~
+0 0 1070908 0
+S
+#1070910
+Red mountain region, wilderness~
+Jagged shelves of basalt rise among sharp rocks beneath boiling banks of cloud
+beside brittle stalks, heat-split stones and dusty crevices on scorched earth.
+Crimson light falls above the smoking fissures as gravel races through gullies
+with gray dust gathering inside fractured hollows.~
+0 0 2 0 0 9
+D0
+North~
+~
+0 0 1070903 0
+D1
+East~
+~
+0 0 1070911 0
+D3
+West~
+~
+0 0 1070909 0
+S
+#1070911
+Red mountain region, wilderness~
+A high passage of scorched earth climbs through narrow ravines under gray haze
+among sharp gravel, loose cinders and coarse pumice strewn over hardened lava.
+Dark smoke billows around broken ledges and black flakes cling to exposed rock
+as hot ash gathers above the smoking cracks.~
+0 0 2 0 0 10
+D0
+North~
+~
+0 0 1070904 0
+D2
+South~
+~
+0 0 1070918 0
+D3
+West~
+~
+0 0 1070910 0
+S
+#1070913
+Red mountain region, wilderness~
+An exposed slope of broken lava spreads across scorched soil under ashen skies
+beyond smoking fissures, cracked obsidian and dry thorn stems on black ground.
+Gray ashfall descends between jagged basalt ridges as dust erases faint tracks
+and volcanic heat rises through the narrow ravines.~
+0 0 2 0 0 12
+D0
+North~
+~
+0 0 1070906 0
+D2
+South~
+~
+0 0 1070920 0
+S
+#1070914
+Red mountain region, wilderness~
+A narrow path of black cinders runs past smoking fissures in hot sulfurous air
+beside dark slag, sharp gravel and broken ledges spread beneath volcanic haze.
+Harsh updrafts sweep beneath the boiling clouds and pebbles strike lava plates
+with dim crimson light resting between basalt outcrops.~
+0 0 2 0 0 13
+D0
+North~
+~
+0 0 1070907 0
+D2
+South~
+~
+0 0 1070921 0
+S
+#1070915
+Red mountain region, wilderness~
+A dark ravine through volcanic stone winds past basalt ledges amid blowing ash
+among dark slag, sharp gravel and black pebbles caught along blackened ridges.
+Sulfurous air flows over unstable earth as hot grit rattles against the stones
+and dry cinders settle beneath the ash-filled sky.~
+0 0 2 0 0 14
+D0
+North~
+~
+0 0 1070908 0
+D1
+East~
+~
+0 0 1070916 0
+D2
+South~
+~
+0 0 1070922 0
+D3
+Exit description~
+~
+0 0 1070856 0
+S
+#1070916
+Red mountain region, wilderness~
+Steep folds of burned earth spread over black slopes amid bitter mineral fumes
+past charred roots, loose cinders and dark slag resting beneath the ashen sky.
+A choking haze lingers around the fractured ledges and ash fills every crevice
+as the acrid scent deepens over distant lava fields.~
+0 0 2 0 0 15
+D1
+East~
+~
+0 0 1070917 0
+D3
+West~
+~
+0 0 1070915 0
+S
+#1070917
+Red mountain region, wilderness~
+Wind-scoured volcanic terrain extends among sharp rocks in harsh wavering heat
+beyond ash-coated thorns, dusty crevices and scorched scrub across bare stone.
+Loose cinders skitter through the narrow ravines and fragments slide on basalt
+with black gravel clicking over the burned ground.~
+0 0 2 0 0 16
+D2
+South~
+~
+0 0 1070924 0
+D3
+West~
+~
+0 0 1070916 0
+S
+#1070918
+Red mountain region, wilderness~
+Jagged shelves of basalt climb past smoking cracks beneath a dim crimson glare
+among sharp gravel, dark slag and coarse pumice lying across the broken slope.
+Dry mineral dust drifts across the burned terrain and heat shimmers over stone
+as sulfurous fumes hang beneath the ash-filled sky.~
+0 0 2 0 0 17
+D0
+North~
+~
+0 0 1070911 0
+D2
+South~
+~
+0 0 1070925 0
+S
+#1070919
+Red mountain region, wilderness~
+A steep volcanic trail climbs over cinder banks through choking clouds of dust
+past charred roots, loose cinders and dark slag lodged between basalt shelves.
+Crimson light flickers along the scorched ascent and stones tumble into chasms
+as black gravel shifts among the jagged rocks.~
+0 0 2 0 0 18
+D1
+East~
+~
+0 0 1070920 0
+D2
+South~
+~
+0 0 1070926 0
+S
+#1070920
+Red mountain region, wilderness~
+A twisting cinder-covered path crosses across blackened ground under gray haze
+beside fractured slabs, smoking fissures and cracked obsidian in deep hollows.
+A violent gust sweeps over broken slopes as ash devils twist behind the ridges
+with volcanic heat deepening across the steep terrain.~
+0 0 2 0 0 19
+D0
+North~
+~
+0 0 1070913 0
+D1
+East~
+~
+0 0 1070921 0
+D3
+West~
+~
+0 0 1070919 0
+S
+#1070921
+Red mountain region, wilderness~
+Rugged fields of fractured rock extend along a barren slope in fierce dry wind
+beyond brittle stalks, scorched scrub and ash-coated thorns under ashen skies.
+Gray ashfall thickens beneath the boiling clouds and stems blacken near cracks
+as dark smoke drifts along the blackened ridges.~
+0 0 2 0 0 20
+D0
+North~
+~
+0 0 1070914 0
+D3
+West~
+~
+0 0 1070920 0
+S
+#1070922
+Red mountain region, wilderness~
+An exposed slope of broken lava rises over ash-filled hollows in wavering heat
+past sharp gravel, black pebbles and dark slag scattered over unstable ground.
+Hot wind sweeps through tight ravines as thick dust erases the faintest tracks
+and hot ash settles along the blackened ridges.~
+0 0 2 0 0 21
+D0
+North~
+~
+0 0 1070915 0
+D1
+East~
+~
+0 0 1070923 0
+S
+#1070923
+Red mountain region, wilderness~
+A barren track through rising ash runs past smoking fissures under ashen skies
+among gray mineral crusts, broken ledges and pumice fragments on steep slopes.
+Dark smoke billows along cinder gullies as thin stalks bow close to the ground
+with dry cinders settling along the blackened ridges.~
+0 0 2 0 0 22
+D1
+East~
+~
+0 0 1070924 0
+D2
+South~
+~
+0 0 1070930 0
+D3
+West~
+~
+0 0 1070922 0
+S
+#1070924
+Red mountain region, wilderness~
+A high passage of scorched earth crosses through deep ravines in sulfurous air
+beside dusty crevices, heat-split stones and brittle stalks over lava shelves.
+Volcanic heat gathers over the shattered slopes and black flakes cling to rock
+as dry cinders tumble under the churning clouds.~
+0 0 2 0 0 23
+D0
+North~
+~
+0 0 1070917 0
+D1
+East~
+~
+0 0 1070925 0
+D3
+West~
+~
+0 0 1070923 0
+S
+#1070925
+Red mountain region, wilderness~
+Black ridges of ancient lava climb across blackened ground under crimson light
+beyond scorched scrub, cracked obsidian and deep ash drifts amid broken rocks.
+Thick ash spreads around the fractured ledges and gravel races through gullies
+as volcanic heat lingers across the steep terrain.~
+0 0 2 0 0 24
+D0
+North~
+~
+0 0 1070918 0
+D2
+South~
+~
+0 0 1070932 0
+D3
+West~
+~
+0 0 1070924 0
+S
+#1070926
+Red mountain region, wilderness~
+An uneven course through dark stone winds among sharp rocks amid mineral fumes
+past sharp gravel, dark slag and black pebbles clustered beside deep fissures.
+Harsh updrafts move through gray scrub as fine grit pours down the steep banks
+with mineral haze hanging under the churning clouds.~
+0 0 2 0 0 25
+D0
+North~
+~
+0 0 1070919 0
+D2
+South~
+~
+0 0 1070933 0
+S
+#1070927
+Red mountain region, wilderness~
+Jagged shelves of basalt spread over cinder banks under clouds of drifting ash
+among burned root tangles, coarse pumice and loose cinders along rough ground.
+Crimson light glows over unstable earth as dull embers glow in narrow fissures
+and gray dust gathers inside fractured hollows.~
+0 0 2 0 0 26
+D1
+East~
+~
+0 0 1070928 0
+D2
+South~
+~
+0 0 1070934 0
+S
+#1070928
+Red mountain region, wilderness~
+A narrow path of black cinders runs through hardened lava beneath choking dust
+beside ash-coated thorns, dry thorn stems and fractured slabs over dark earth.
+A violent gust moves along the cinder-filled gullies as fumes rise from cracks
+and the scorched land fades around the broken ledges.~
+0 0 2 0 0 27
+D2
+South~
+~
+0 0 1070935 0
+D3
+West~
+~
+0 0 1070927 0
+S
+#1070929
+Red mountain region, wilderness~
+A harsh ascent over ashen ground crosses through deep ravines amid blowing ash
+beyond fractured slabs, heat-split stones and charred roots on scorched earth.
+A choking haze lingers across the burned terrain as pebbles strike lava plates
+with sulfurous fumes lingering around the broken ledges.~
+0 0 2 0 0 28
+D1
+East~
+~
+0 0 1070930 0
+D2
+South~
+~
+0 0 1070936 0
+D3
+Exit description~
+~
+0 0 1070870 0
+S
+#1070930
+Red mountain region, wilderness~
+A steep volcanic trail climbs past basalt ledges under a dark and restless sky
+among brittle stalks, dusty crevices and sulfur-stained rocks on black ground.
+Loose cinders shift over broken slopes as cracked slabs groan beneath the heat
+and sulfurous fumes linger over the burned ground.~
+0 0 2 0 0 29
+D0
+North~
+~
+0 0 1070923 0
+D1
+East~
+~
+0 0 1070931 0
+D2
+South~
+~
+0 0 1070937 0
+D3
+West~
+~
+0 0 1070929 0
+S
+#1070931
+Red mountain region, wilderness~
+Steep folds of burned earth rise over black slopes beneath thick volcanic haze
+past charred roots, loose cinders and broken ledges strewn over hardened lava.
+Hot wind rushes through tight ravines and dark fragments slide over the basalt
+as dim crimson light fades inside fractured hollows.~
+0 0 2 0 0 30
+D2
+South~
+~
+0 0 1070938 0
+D3
+West~
+~
+0 0 1070930 0
+S
+#1070932
+Red mountain region, wilderness~
+A twisting cinder-covered path runs over ash-filled hollows beneath dark cloud
+beside black pebbles, coarse pumice and dark slag lining the hazardous ascent.
+Sulfurous air passes around the fractured ledges as fragments fall from ridges
+with the fierce wind howling through the narrow ravines.~
+0 0 2 0 0 31
+D0
+North~
+~
+0 0 1070925 0
+D2
+South~
+~
+0 0 1070939 0
+S
+#1070933
+Red mountain region, wilderness~
+Rugged fields of fractured rock rise across scorched soil in hot sulfurous air
+beyond sharp gravel, broken ledges and dark slag spread beneath volcanic haze.
+Dry mineral dust blows above the smoking fissures as stones tumble into chasms
+and dim crimson light spreads over the burned ground.~
+0 0 2 0 0 32
+D0
+North~
+~
+0 0 1070926 0
+D1
+East~
+~
+0 0 1070934 0
+D2
+South~
+~
+0 0 1070940 0
+S
+#1070934
+Red mountain region, wilderness~
+Wind-scoured volcanic terrain rises past smoking cracks in harsh wavering heat
+among dark slag, loose cinders and sharp gravel caught along blackened ridges.
+Gray ashfall descends along the scorched ascent and smoke hides distant ledges
+as mineral haze spreads through the narrow ravines.~
+0 0 2 0 0 33
+D0
+North~
+~
+0 0 1070927 0
+D1
+East~
+~
+0 0 1070935 0
+D3
+West~
+~
+0 0 1070933 0
+S
+#1070935
+Red mountain region, wilderness~
+Black ridges of ancient lava climb among sharp rocks under a churning gray sky
+past charred roots, dark slag and broken ledges lodged between basalt shelves.
+Thick ash blows beneath boiling cloud as brittle stems blacken near the cracks
+with sulfurous fumes rising among the jagged rocks.~
+0 0 2 0 0 34
+D0
+North~
+~
+0 0 1070928 0
+D3
+West~
+~
+0 0 1070934 0
+S
+#1070936
+Red mountain region, wilderness~
+A dark ravine through volcanic stone winds over cinder banks under ashen skies
+beside dry thorn stems, smoking fissures and cracked obsidian in deep hollows.
+Dark smoke drifts over unstable earth and sharp pebbles strike the lava plates
+as gray dust settles between basalt outcrops.~
+0 0 2 0 0 35
+D0
+North~
+~
+0 0 1070929 0
+D1
+East~
+~
+0 0 1070937 0
+D2
+South~
+~
+0 0 1070943 0
+S
+#1070937
+Red mountain region, wilderness~
+Jagged shelves of basalt extend along a barren slope amid bitter mineral fumes
+beyond dusty crevices, brittle stalks and heat-split stones across bare stone.
+Volcanic heat rises along the cinder-filled gullies as ash fills every crevice
+and dry cinders gather around the broken ledges.~
+0 0 2 0 0 36
+D0
+North~
+~
+0 0 1070930 0
+D3
+West~
+~
+0 0 1070936 0
+S
+#1070938
+Red mountain region, wilderness~
+An exposed slope of broken lava spreads through ash gullies in fierce dry wind
+past dark slag, loose cinders and coarse pumice resting beneath the ashen sky.
+Harsh updrafts rush beneath the boiling clouds and hot grit strikes the stones
+with gray dust collecting along the blackened ridges.~
+0 0 2 0 0 37
+D0
+North~
+~
+0 0 1070931 0
+S
+#1070939
+Red mountain region, wilderness~
+A high passage of scorched earth runs through deep ravines under crimson light
+among dark slag, black pebbles and sharp gravel lying across the broken slope.
+Loose cinders skitter between jagged basalt ridges as heat shimmers over stone
+and hot ash collects across the steep terrain.~
+0 0 2 0 0 38
+D0
+North~
+~
+0 0 1070932 0
+D1
+East~
+~
+0 0 1070940 0
+D2
+South~
+~
+0 0 1070946 0
+S
+#1070940
+Red mountain region, wilderness~
+A barren track through rising ash climbs past smoking fissures under gray haze
+beside scorched scrub, fractured slabs and pumice fragments under ashen skies.
+Crimson light flickers across the black lava fields and fumes rise from cracks
+as the fierce wind passes over the burned ground.~
+0 0 2 0 0 39
+D0
+North~
+~
+0 0 1070933 0
+D2
+South~
+~
+0 0 1070947 0
+D3
+West~
+~
+0 0 1070939 0
+S
+#1070943
+Red mountain region, wilderness~
+A harsh ascent over ashen ground winds past basalt ledges beneath choking dust
+beyond ash-coated thorns, smoking fissures and dusty crevices on steep slopes.
+A violent gust sweeps through the narrow ravines and ash devils turn by ridges
+with black gravel tumbling beneath the ash-filled sky.~
+0 0 2 0 0 42
+D0
+North~
+~
+0 0 1070936 0
+D1
+East~
+~
+0 0 1070944 0
+D2
+South~
+~
+0 0 1070950 0
+S
+#1070944
+Red mountain region, wilderness~
+An uneven course through dark stone crosses over black slopes in wavering heat
+past charred roots, dark slag and sharp gravel scattered over unstable ground.
+A choking haze spreads around the fractured ledges and embers glow in fissures
+as dry cinders scatter around the broken ledges.~
+0 0 2 0 0 43
+D2
+South~
+~
+0 0 1070951 0
+D3
+West~
+~
+0 0 1070943 0
+S
+#1070945
+Red mountain region, wilderness~
+Steep folds of burned earth rise among sharp rocks beneath a dim crimson glare
+beside scorched scrub, cracked obsidian and deep ash drifts over lava shelves.
+Sulfurous air flows over broken slopes as loose gravel races along the gullies
+and volcanic heat deepens inside fractured hollows.~
+0 0 2 0 0 44
+D1
+East~
+~
+0 0 1070946 0
+D2
+South~
+~
+0 0 1070952 0
+S
+#1070946
+Red mountain region, wilderness~
+A narrow path of black cinders climbs between jagged outcrops in sulfurous air
+among brittle stalks, fractured slabs and smoking fissures along rough ground.
+Dry mineral dust drifts along the scorched ascent as fragments slide on basalt
+with dark smoke spreading under the churning clouds.~
+0 0 2 0 0 45
+D0
+North~
+~
+0 0 1070939 0
+D3
+West~
+~
+0 0 1070945 0
+S
+#1070947
+Red mountain region, wilderness~
+A steep volcanic trail winds across scorched soil under dim ash-filtered light
+beyond coarse pumice, black pebbles and burned root tangles amid broken rocks.
+Dark smoke swirls along the cinder-filled gullies and dust erases faint tracks
+as sulfurous fumes gather between basalt outcrops.~
+0 0 2 0 0 46
+D0
+North~
+~
+0 0 1070940 0
+D1
+East~
+~
+0 0 1070948 0
+D2
+South~
+~
+0 0 1070954 0
+S
+#1070948
+Red mountain region, wilderness~
+A dark ravine through volcanic stone runs over cinder banks amid mineral fumes
+past sharp gravel, charred roots and dark slag clustered beside deep fissures.
+Hot wind rushes across the burned terrain as gray ash gathers in every crevice
+and black gravel clicks beneath the ash-filled sky.~
+0 0 2 0 0 47
+D1
+East~
+~
+0 0 1070949 0
+D3
+West~
+~
+0 0 1070947 0
+S
+#1070949
+Red mountain region, wilderness~
+Rugged fields of fractured rock extend through narrow ravines amid blowing ash
+among gray mineral crusts, dry thorn stems and brittle stalks over dark earth.
+Volcanic heat rises across black lava and loose fragments fall from the ridges
+with dim crimson light flickering around the broken ledges.~
+0 0 2 0 0 48
+D2
+South~
+~
+0 0 1070956 0
+D3
+West~
+~
+0 0 1070948 0
+S
+#1070950
+Red mountain region, wilderness~
+Wind-scoured volcanic terrain rises over ash-filled hollows beneath dark cloud
+beside jagged basalt shards, loose cinders and scorched scrub on black ground.
+Thick ash blows through tight ravines and heat shimmers above the broken stone
+as gray dust collects under the churning clouds.~
+0 0 2 0 0 49
+D0
+North~
+~
+0 0 1070943 0
+D3
+Exit description~
+~
+0 0 1070891 0
+S
+#1070951
+Red mountain region, wilderness~
+A twisting cinder-covered path climbs past smoking cracks in hot sulfurous air
+beyond dusty crevices, cracked obsidian and fractured slabs on scorched earth.
+Gray ashfall drifts across black lava as dark smoke closes over distant ledges
+and mineral haze spreads among the jagged rocks.~
+0 0 2 0 0 50
+D0
+North~
+~
+0 0 1070944 0
+D1
+East~
+~
+0 0 1070952 0
+D2
+South~
+~
+0 0 1070958 0
+S
+#1070952
+Red mountain region, wilderness~
+Jagged shelves of basalt rise among sharp rocks through choking clouds of dust
+past loose cinders, coarse pumice and broken ledges strewn over hardened lava.
+Crimson light flickers over the shattered slopes and thin stalks bow to ground
+with hot ash collecting inside fractured hollows.~
+0 0 2 0 0 51
+D0
+North~
+~
+0 0 1070945 0
+D1
+East~
+~
+0 0 1070953 0
+D3
+West~
+~
+0 0 1070951 0
+S
+#1070953
+Red mountain region, wilderness~
+Black ridges of ancient lava climb over cinder banks under a churning gray sky
+among dark slag, brittle stalks and charred roots lining the hazardous ascent.
+Harsh updrafts move over unstable earth as small stones tumble into the chasms
+and dark smoke lingers between basalt outcrops.~
+0 0 2 0 0 52
+D1
+East~
+~
+0 0 1070954 0
+D3
+West~
+~
+0 0 1070952 0
+S
+#1070954
+Red mountain region, wilderness~
+An exposed slope of broken lava rises among sharp rocks in harsh wavering heat
+beside sharp gravel, dark slag and black pebbles spread beneath volcanic haze.
+A violent gust passes along the scorched ascent as grit pours down steep banks
+and gray dust gathers along the blackened ridges.~
+0 0 2 0 0 53
+D0
+North~
+~
+0 0 1070947 0
+D1
+East~
+~
+0 0 1070955 0
+D2
+South~
+~
+0 0 1070961 0
+D3
+West~
+~
+0 0 1070953 0
+S
+#1070955
+Red mountain region, wilderness~
+A steep volcanic trail winds past basalt ledges beneath boiling banks of cloud
+beyond heat-split stones, coarse pumice and deep ash drifts across bare stone.
+A choking haze lingers across the burned terrain and stems blacken near cracks
+with dry cinders scattering among the jagged rocks.~
+0 0 2 0 0 54
+D2
+South~
+~
+0 0 1070962 0
+D3
+West~
+~
+0 0 1070954 0
+S
+#1070956
+Red mountain region, wilderness~
+Steep folds of burned earth rise over cinder banks beneath thick volcanic haze
+past broken ledges, dark slag and loose cinders caught along blackened ridges.
+Sulfurous air passes beneath the boiling clouds and black flakes cling to rock
+as dim crimson light flickers through the narrow ravines.~
+0 0 2 0 0 55
+D0
+North~
+~
+0 0 1070949 0
+D2
+South~
+~
+0 0 1070963 0
+S
+#1070958
+Red mountain region, wilderness~
+A barren track through rising ash runs across blackened ground under gray haze
+among black pebbles, dark slag and sharp gravel resting beneath the ashen sky.
+Loose cinders shift along the cinder-filled gullies as embers glow in fissures
+and the fierce wind rushes through the narrow ravines.~
+0 0 2 0 0 57
+D0
+North~
+~
+0 0 1070951 0
+D2
+South~
+~
+0 0 1070965 0
+S
+#1070959
+Red mountain region, wilderness~
+A high passage of scorched earth climbs through deep ravines under ashen skies
+beside dusty crevices, smoking fissures and ash-coated thorns on steep slopes.
+Gray ashfall settles over the unstable ground and gravel races through gullies
+with mineral haze drifting between basalt outcrops.~
+0 0 2 0 0 58
+D1
+East~
+~
+0 0 1070960 0
+D2
+South~
+~
+0 0 1070966 0
+S
+#1070960
+Red mountain region, wilderness~
+A harsh ascent over ashen ground runs past smoking fissures in fierce dry wind
+beyond scorched scrub, ash-coated thorns and cracked obsidian in deep hollows.
+Dark smoke billows beneath boiling cloud as pale fumes rise from hidden cracks
+and black gravel tumbles under the churning clouds.~
+0 0 2 0 0 59
+D1
+East~
+~
+0 0 1070961 0
+D3
+West~
+~
+0 0 1070959 0
+S
+#1070961
+Red mountain region, wilderness~
+A narrow path of black cinders crosses across scorched soil amid mineral fumes
+past coarse pumice, broken ledges and dark slag lodged between basalt shelves.
+Hot wind sweeps through tight ravines and cracked slabs groan beneath the heat
+as black gravel tumbles beneath the ash-filled sky.~
+0 0 2 0 0 60
+D0
+North~
+~
+0 0 1070954 0
+D2
+South~
+~
+0 0 1070968 0
+D3
+West~
+~
+0 0 1070960 0
+S
+#1070962
+Red mountain region, wilderness~
+Jagged shelves of basalt spread among sharp rocks under clouds of drifting ash
+beside heat-split stones, dry thorn stems and charred roots under ashen skies.
+Volcanic heat deepens over the shattered slopes and fragments fall from ridges
+with volcanic heat rising through the narrow ravines.~
+0 0 2 0 0 61
+D0
+North~
+~
+0 0 1070955 0
+D2
+South~
+~
+0 0 1070969 0
+S
+#1070963
+Red mountain region, wilderness~
+An uneven course through dark stone crosses over black slopes in sulfurous air
+among sharp gravel, charred roots and dark slag lying across the broken slope.
+Thick ash swirls beneath boiling cloud and thin stalks bow close to the ground
+as volcanic heat rises along the blackened ridges.~
+0 0 2 0 0 62
+D0
+North~
+~
+0 0 1070956 0
+D2
+South~
+~
+0 0 1070970 0
+S
+#1070964
+Red mountain region, wilderness~
+Black ridges of ancient lava climb among sharp rocks amid bitter mineral fumes
+beyond pumice fragments, brittle stalks and dusty crevices along rough ground.
+Dry mineral dust spreads across the burned terrain and embers glow in fissures
+as dark smoke hangs around the broken ledges.~
+0 0 2 0 0 63
+D1
+East~
+~
+0 0 1070965 0
+D2
+South~
+~
+0 0 1070971 0
+S
+#1070965
+Red mountain region, wilderness~
+A steep volcanic trail winds past smoking cracks under a dark and restless sky
+among heat-split stones, fractured slabs and scorched scrub over lava shelves.
+Crimson light shifts over unstable earth as black flakes cling to exposed rock
+with the acrid scent hanging over the burned ground.~
+0 0 2 0 0 64
+D0
+North~
+~
+0 0 1070958 0
+D1
+East~
+~
+0 0 1070966 0
+D3
+West~
+~
+0 0 1070964 0
+S
+#1070966
+Red mountain region, wilderness~
+A dark ravine through volcanic stone runs along broken ground in wavering heat
+past sharp gravel, black pebbles and dark slag clustered beside deep fissures.
+A choking haze hangs around the fractured ledges and stones tumble into chasms
+as hot ash collects among the jagged rocks.~
+0 0 2 0 0 65
+D0
+North~
+~
+0 0 1070959 0
+D1
+East~
+~
+0 0 1070967 0
+D3
+West~
+~
+0 0 1070965 0
+S
+#1070967
+Red mountain region, wilderness~
+Rugged fields of fractured rock extend through ash gullies under crimson light
+beside brittle stalks, cracked obsidian and dry thorn stems amid broken rocks.
+Harsh updrafts pass through gray scrub as sharp pebbles strike the lava plates
+and sulfurous fumes rise above the smoking cracks.~
+0 0 2 0 0 66
+D1
+East~
+~
+0 0 1070968 0
+D3
+West~
+~
+0 0 1070966 0
+S
+#1070968
+Red mountain region, wilderness~
+A twisting cinder-covered path winds through deep ravines beneath choking dust
+beyond gray mineral crusts, fractured slabs and loose cinders over dark earth.
+A violent gust moves along the scorched ascent as gravel races through gullies
+with sulfurous fumes lingering across the steep terrain.~
+0 0 2 0 0 67
+D0
+North~
+~
+0 0 1070961 0
+D2
+South~
+~
+0 0 1070975 0
+D3
+West~
+~
+0 0 1070967 0
+S
+#1070969
+Red mountain region, wilderness~
+Wind-scoured volcanic terrain spreads between jagged outcrops amid blowing ash
+past dark slag, sharp gravel and black pebbles scattered over unstable ground.
+Loose cinders scatter through the narrow ravines and fragments slide on basalt
+as mineral haze lingers inside fractured hollows.~
+0 0 2 0 0 68
+D0
+North~
+~
+0 0 1070962 0
+D2
+South~
+~
+0 0 1070976 0
+S
+#1070970
+Red mountain region, wilderness~
+An exposed slope of broken lava extends past smoking cracks beneath dark cloud
+among coarse pumice, dusty crevices and burned root tangles on scorched earth.
+Sulfurous air flows through gray scrub as fine grit pours down the steep banks
+and dry cinders scatter over distant lava fields.~
+0 0 2 0 0 69
+D0
+North~
+~
+0 0 1070963 0
+D2
+South~
+~
+0 0 1070977 0
+S
+#1070971
+Red mountain region, near Ghostgate fortress~
+Steep folds of burned earth rise over cinder banks beneath a dim crimson glare
+beside scorched scrub, smoking fissures and ash-coated thorns on black ground.
+Hot wind rushes through tight ravines as brittle stems blacken near the cracks
+with dry cinders tumbling over distant lava fields.~
+0 0 2 0 0 70
+D0
+North~
+~
+0 0 1070964 0
+D1
+East~
+~
+0 0 1070972 0
+S
+#1070972
+Red mountain region, near Ghostgate fortress~
+A high passage of scorched earth winds past basalt ledges in hot sulfurous air
+beyond dark slag, loose cinders and charred roots lining the hazardous ascent.
+Gray ashfall thickens over the shattered slopes and pebbles strike lava plates
+as the fierce wind moves over the burned ground.~
+0 0 2 0 0 71
+D1
+East~
+~
+0 0 1070973 0
+D2
+South~
+~
+0 0 1070979 0
+D3
+West~
+~
+0 0 1070971 0
+S
+#1070973
+Red mountain region, wilderness~
+A narrow path of black cinders runs along broken ground in harsh wavering heat
+past coarse pumice, brittle stalks and sharp gravel strewn over hardened lava.
+Dry mineral dust rises above the smoking fissures as stones tumble into chasms
+and dark smoke hangs along the blackened ridges.~
+0 0 2 0 0 72
+D2
+South~
+~
+0 0 1070980 0
+D3
+West~
+~
+0 0 1070972 0
+S
+#1070974
+Red mountain region, wilderness~
+A barren track through rising ash crosses across scorched soil under gray haze
+among sharp gravel, broken ledges and dark slag caught along blackened ridges.
+Volcanic heat shimmers beneath the boiling clouds and dust erases faint tracks
+with dim crimson light flickering above the smoking cracks.~
+0 0 2 0 0 73
+D1
+East~
+~
+0 0 1070975 0
+D2
+South~
+~
+0 0 1070981 0
+S
+#1070975
+Red mountain region, wilderness~
+Jagged shelves of basalt spread over black slopes under dim ash-filtered light
+beside loose cinders, dark slag and sharp gravel spread beneath volcanic haze.
+Thick ash swirls along the cinder-filled gullies as fragments fall from ridges
+and gray dust settles over the burned ground.~
+0 0 2 0 0 74
+D0
+North~
+~
+0 0 1070968 0
+D3
+West~
+~
+0 0 1070974 0
+S
+#1070976
+Red mountain region, wilderness~
+A harsh ascent over ashen ground runs over ash-filled hollows in wavering heat
+beyond deep ash drifts, dusty crevices and cracked obsidian across bare stone.
+Dark smoke billows over unstable earth and hot grit rattles against the stones
+as sulfurous fumes rise across the steep terrain.~
+0 0 2 0 0 75
+D0
+North~
+~
+0 0 1070969 0
+D1
+East~
+~
+0 0 1070977 0
+D2
+South~
+~
+0 0 1070983 0
+S
+#1070977
+Red mountain region, wilderness~
+An uneven course through dark stone climbs over cinder banks under ashen skies
+past broken ledges, dark slag and black pebbles lodged between basalt shelves.
+A choking haze hangs along the scorched ascent and cracked slabs groan in heat
+with gray dust settling inside fractured hollows.~
+0 0 2 0 0 76
+D0
+North~
+~
+0 0 1070970 0
+D3
+West~
+~
+0 0 1070976 0
+S
+#1070978
+Red mountain region, near Ghostgate fortress~
+A steep volcanic trail climbs among sharp rocks through choking clouds of dust
+beside heat-split stones, fractured slabs and charred roots under ashen skies.
+Crimson light shifts along the cinder-filled gullies as fumes rise from cracks
+and mineral haze drifts between basalt outcrops.~
+0 0 2 0 0 77
+D1
+East~
+~
+0 0 1070979 0
+D2
+South~
+~
+0 0 1070985 0
+S
+#1070979
+Red mountain region, near Ghostgate fortress~
+Black ridges of ancient lava rise past basalt ledges under a churning gray sky
+among charred roots, dark slag and sharp gravel lying across the broken slope.
+Harsh updrafts sweep across the burned terrain and hot grit strikes the stones
+as dry cinders settle above the smoking cracks.~
+0 0 2 0 0 78
+D0
+North~
+~
+0 0 1070972 0
+D3
+West~
+~
+0 0 1070978 0
+S
+#1070980
+Red mountain region, near Ghostgate fortress~
+A dark ravine through volcanic stone runs past smoking cracks in sulfurous air
+beyond fractured slabs, dry thorn stems and ash-coated thorns in deep hollows.
+A violent gust rushes between jagged basalt ridges and ash fills every crevice
+with black gravel shifting beneath the ash-filled sky.~
+0 0 2 0 0 79
+D0
+North~
+~
+0 0 1070973 0
+D1
+East~
+~
+0 0 1070981 0
+D2
+South~
+~
+0 0 1070987 0
+S
+#1070981
+Red mountain region, near Ghostgate fortress~
+Steep folds of burned earth rise among sharp rocks beneath thick volcanic haze
+past coarse pumice, dark slag and broken ledges resting beneath the ashen sky.
+Loose cinders scatter through the narrow ravines as pebbles strike lava plates
+and hot ash collects inside fractured hollows.~
+0 0 2 0 0 80
+D0
+North~
+~
+0 0 1070974 0
+D1
+East~
+~
+0 0 1070982 0
+D2
+South~
+~
+0 0 1070988 0
+D3
+West~
+~
+0 0 1070980 0
+S
+#1070982
+Red mountain region, wilderness~
+Rugged fields of fractured rock extend through deep ravines in fierce dry wind
+among sulfur-stained rocks, scorched scrub and brittle stalks on steep slopes.
+Sulfurous air passes beneath the boiling clouds and smoke hides distant ledges
+as black gravel clicks over distant lava fields.~
+0 0 2 0 0 81
+D1
+East~
+~
+0 0 1070983 0
+D2
+South~
+~
+0 0 1070989 0
+D3
+West~
+~
+0 0 1070981 0
+S
+#1070983
+Red mountain region, wilderness~
+A twisting cinder-covered path crosses along a barren slope amid mineral fumes
+beside dusty crevices, fractured slabs and smoking fissures over lava shelves.
+Gray ashfall settles over broken slopes and ash devils twist behind the ridges
+with volcanic heat deepening under the churning clouds.~
+0 0 2 0 0 82
+D0
+North~
+~
+0 0 1070976 0
+D1
+East~
+~
+0 0 1070984 0
+D2
+South~
+~
+0 0 1070990 0
+D3
+West~
+~
+0 0 1070982 0
+S
+#1070984
+Red mountain region, wilderness~
+Wind-scoured volcanic terrain rises through hardened lava beneath choking dust
+beyond loose cinders, deep ash drifts and cracked obsidian along rough ground.
+Dark smoke billows along cinder gullies as dull embers glow in narrow fissures
+and dim crimson light rests among the jagged rocks.~
+0 0 2 0 0 83
+D3
+West~
+~
+0 0 1070983 0
+S
+#1070985
+Red mountain region, near Ghostgate fortress~
+An exposed slope of broken lava rises through deep ravines under crimson light
+past dark slag, black pebbles and sharp gravel scattered over unstable ground.
+Volcanic heat gathers around the fractured ledges as stems blacken near cracks
+and volcanic heat deepens beneath the ash-filled sky.~
+0 0 2 0 0 84
+D0
+North~
+~
+0 0 1070978 0
+D1
+East~
+~
+0 0 1070986 0
+S
+#1070986
+Red mountain region, near Ghostgate fortress~
+A high passage of scorched earth climbs past smoking fissures amid blowing ash
+among brittle stalks, burned root tangles and coarse pumice amid broken rocks.
+Hot wind moves beneath boiling cloud and thick dust erases the faintest tracks
+with mineral haze spreading across the steep terrain.~
+0 0 2 0 0 85
+D1
+East~
+~
+0 0 1070987 0
+D3
+West~
+~
+0 0 1070985 0
+S
+#1070987
+Red mountain region, near Ghostgate fortress~
+Jagged shelves of basalt extend over cinder banks under clouds of drifting ash
+beside dusty crevices, smoking fissures and dry thorn stems on scorched earth.
+Thick ash spreads along the cinder-filled gullies and heat shimmers over stone
+as dark smoke drifts across the steep terrain.~
+0 0 2 0 0 86
+D0
+North~
+~
+0 0 1070980 0
+D1
+East~
+~
+0 0 1070988 0
+D2
+South~
+~
+0 0 1070994 0
+D3
+West~
+~
+0 0 1070986 0
+S
+#1070988
+Red mountain region, near Ghostgate fortress~
+A narrow path of black cinders runs over ash-filled hollows beneath dark cloud
+beyond charred roots, ash-coated thorns and heat-split stones on black ground.
+Dry mineral dust spreads above the smoking fissures and fumes rise from cracks
+as hot ash settles under the churning clouds.~
+0 0 2 0 0 87
+D0
+North~
+~
+0 0 1070981 0
+D1
+East~
+~
+0 0 1070989 0
+D2
+South~
+~
+0 0 1070995 0
+D3
+West~
+~
+0 0 1070987 0
+S
+#1070989
+Red mountain region, wilderness~
+A harsh ascent over ashen ground winds past basalt ledges in hot sulfurous air
+among pumice fragments, loose cinders and gray mineral crusts over dark earth.
+Crimson light flickers over the shattered slopes and ash devils turn by ridges
+with dark smoke lingering among the jagged rocks.~
+0 0 2 0 0 88
+D0
+North~
+~
+0 0 1070982 0
+D3
+West~
+~
+0 0 1070988 0
+S
+#1070990
+Red mountain region, wilderness~
+Black ridges of ancient lava climb over cinder banks amid bitter mineral fumes
+past dark slag, loose cinders and sharp gravel clustered beside deep fissures.
+A choking haze lingers through the narrow ravines as fragments slide on basalt
+and the fierce wind howls across the steep terrain.~
+0 0 2 0 0 89
+D0
+North~
+~
+0 0 1070983 0
+D2
+South~
+~
+0 0 1070997 0
+S
+#1070992
+Red mountain region, near Ghostgate fortress~
+A steep volcanic trail climbs among sharp rocks beneath boiling banks of cloud
+beside scorched scrub, brittle stalks and dark slag strewn over hardened lava.
+Harsh updrafts rush along the cinder-filled gullies as ash fills every crevice
+and dry cinders tumble around the broken ledges.~
+0 0 2 0 0 91
+D1
+East~
+~
+0 0 1070993 0
+D2
+Exit description
+~
+~
+0 0 4071002 0
+S
+#1070993
+Red mountain region, near Ghostgate fortress~
+A barren track through rising ash runs between jagged outcrops under gray haze
+beyond charred roots, dark slag and black pebbles lining the hazardous ascent.
+Loose cinders skitter beneath the boiling clouds as smoke hides distant ledges
+with hot ash gathering over the burned ground.~
+0 0 2 0 0 92
+D1
+East~
+~
+0 0 1070994 0
+D3
+West~
+~
+0 0 1070992 0
+D2
+Exit description
+~
+~
+0 0 4071001 0
+S
+#1070994
+Red mountain region, near Ghostgate fortress~
+Rugged fields of fractured rock rise past basalt ledges in harsh wavering heat
+among dark slag, coarse pumice and black pebbles spread beneath volcanic haze.
+Sulfurous air flows through gray scrub as loose gravel races along the gullies
+and hot ash drifts under the churning clouds.~
+0 0 2 0 0 93
+D0
+North~
+~
+0 0 1070987 0
+D3
+West~
+~
+0 0 1070993 0
+S
+#1070995
+Red mountain region, near Ghostgate fortress~
+An uneven course through dark stone runs past smoking cracks under ashen skies
+beside dusty crevices, ash-coated thorns and cracked obsidian in deep hollows.
+A violent gust sweeps across the black lava fields as dust erases faint tracks
+and sulfurous fumes gather through the narrow ravines.~
+0 0 2 0 0 94
+D0
+North~
+~
+0 0 1070988 0
+D1
+East~
+~
+0 0 1070996 0
+S
+#1070996
+Red mountain region, wilderness~
+Jagged shelves of basalt climb over black slopes under a dark and restless sky
+past loose cinders, broken ledges and dark slag caught along blackened ridges.
+Dry mineral dust spreads along the scorched ascent as heat shimmers over stone
+with the fierce wind rushing through the narrow ravines.~
+0 0 2 0 0 95
+D3
+West~
+~
+0 0 1070995 0
+S
+#1070997
+Red mountain region, wilderness~
+Steep folds of burned earth rise over black slopes beneath a dim crimson glare
+beyond scorched scrub, cracked obsidian and fractured slabs across bare stone.
+Hot wind sweeps through tight ravines and dark fragments slide over the basalt
+as mineral haze hangs around the broken ledges.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1070990 0
+D1
+East~
+~
+0 0 1070998 0
+S
+#1070998
+Red mountain region, wilderness~
+A dark ravine through volcanic stone runs among sharp rocks in fierce dry wind
+past broken ledges, dark slag and charred roots resting beneath the ashen sky.
+Thick ash blows along scorched ground and loose fragments fall from the ridges
+as gray dust gathers between basalt outcrops.~
+0 0 2 0 0 97
+D3
+West~
+~
+0 0 1070997 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

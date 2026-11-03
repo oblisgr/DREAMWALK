@@ -1,0 +1,99 @@
+#AREA Dungeons~
+
+#VERSION 1
+
+#CLIMATE 2 2 2
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+1 0
+
+#ECONOMY 0 0
+
+#ROOMS
+#4011301
+Sheogorad, Abandoned, shipwreck, cabin~
+~
+0 8 0 0 0 0
+D1
+Exit description
+~
+~
+0 0 4011305 0
+S
+#4011302
+Sheogorad, Abandoned, shipwreck, lower deck~
+~
+0 8 0 0 0 0
+D3
+Exit description~
+~
+0 0 4011303 0
+S
+#4011303
+Sheogorad, Abandoned, shipwreck, lower deck~
+~
+0 8 0 0 0 1
+D4
+Exit description~
+~
+0 0 4011305 0
+D1
+Exit description
+~
+~
+0 0 4011302 0
+D3
+Exit description
+~
+~
+0 0 4011304 0
+S
+#4011304
+Sheogorad, Abandoned, shipwreck, lower deck~
+~
+0 8 0 0 0 2
+D1
+Exit description~
+~
+0 0 4011303 0
+S
+#4011305
+Sheogorad, Abandoned, shipwreck, upper deck~
+~
+0 8 0 0 0 0
+D3
+Exit description
+~
+~
+0 0 4011301 0
+D1
+Exit description
+~
+~
+0 0 4011306 0
+D5
+Exit description
+~
+~
+0 0 4011303 0
+S
+#4011306
+Sheogorad, Abandoned, shipwreck, upper deck~
+~
+0 8 0 0 0 1
+D3
+Exit description~
+~
+0 0 4011305 0
+S
+#0
+
+#$

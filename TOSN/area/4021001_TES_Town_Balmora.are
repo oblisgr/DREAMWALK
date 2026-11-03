@@ -1,0 +1,3272 @@
+#AREA Balmora~
+
+#VERSION 1
+
+#CLIMATE 2 2 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4021001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4021001
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4021001
+West gash, Balmora, town, Astius Hanotepelus's house~
+Smooth ochre walls enclose a compact domestic room beneath arched ceiling ribs
+past a low sleeping mat and clay cooking pots kept clear of the central aisle.
+Smoky yellow light moves upon the nearby shelves and a dry draft stirs the air
+while the quiet interior feels secure against the harsh weather.~
+0 8 0 0 0 0
+D3
+West
+~
+~
+0 0 4021139 0
+S
+#4021002
+West gash, Balmora, town, Balyn Omavel's house~
+Solid curved walls frame this plain domestic room beneath smoke-darkened beams
+among a simple bedroll and earthen water jars kept clear of the central aisle.
+Nearby lantern light flickers over the worn floor as a dry draft stirs the air
+and the compact chamber offers simple comfort without ornament.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021144 0
+S
+#4021003
+West gash, Balmora, town, Caius Cosades's house~
+Curved plaster walls frame this humble living chamber beneath low timber beams
+with a simple bedroll and woven storage baskets set neatly around the chamber.
+A shifting glow shines between the darkened beams as a dry draft stirs the air
+and the sheltered room feels secure against the harsh weather.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021143 0
+S
+#4021004
+West gash, Balmora, town, Clagius Clanler's clothing shop~
+Solid curved walls enclose a busy tailoring room beneath heavy curved supports
+with rows of hanging robes, bundles of soft leather and folded common clothes.
+Warm hearth light drifts upon the nearby shelves as muted voices rise and fall
+and the cloth-lined chamber serves practical needs and refined tastes alike.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021106 0
+S
+#4021005
+West gash, Balmora, town, Council's club~
+Solid curved walls enclose a reserved club chamber beneath arched ceiling ribs
+past broad meeting tables and carved game boards lined along the curved walls.
+Nearby lantern light plays over the worn floor and the room settles into quiet
+while this private chamber feels secluded from the public streets.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021006 0
+D2
+South~
+~
+0 0 4021147 0
+S
+#4021006
+West gash, Balmora, town, Council's club~
+Weathered native walls enclose a quiet social hall beneath aged overhead beams
+among polished gaming tables and sealed bottles ordered across the hard floor.
+A shifting glow moves over the worn floor while ordinary work continues nearby
+and the comfortable hall feels secluded from the public streets.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021005 0
+D4
+Up~
+~
+0 0 4021009 0
+D5
+Down~
+~
+0 0 4021007 0
+S
+#4021007
+West gash, Balmora, town, Council's club~
+Solid curved walls enclose a quiet members' room beneath heavy curved supports
+with polished gaming tables and clay drink cups arranged in disciplined order.
+A shifting glow drifts beneath the heavy rafters and a dry draft stirs the air
+while this private chamber serves both leisure and quiet negotiation.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021008 0
+D4
+Up~
+~
+0 0 4021006 0
+S
+#4021008
+West gash, Balmora, town, Council's club~
+A quiet members' room opens within smooth ochre walls under pale lantern light
+among broad meeting tables and sealed bottles kept clear of the central aisle.
+Pale lamplight glimmers over the worn floor as the lamps give off faint warmth
+and this private chamber serves both leisure and quiet negotiation.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021007 0
+S
+#4021009
+West gash, Balmora, town, Council's club~
+Rounded Dunmeri walls enclose a quiet club chamber beneath aged overhead beams
+past polished gaming tables and sealed bottles gathered beneath hanging lamps.
+Warm hearth light falls beneath the heavy rafters as a dry draft stirs the air
+and the comfortable hall serves both leisure and quiet negotiation.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021010 0
+D5
+Down~
+~
+0 0 4021006 0
+S
+#4021010
+West gash, Balmora, town, Council's club~
+Solid curved walls enclose a smoke-warmed social hall beneath low timber beams
+with polished gaming tables and clay drink cups set neatly around the chamber.
+Faint candlelight plays upon the nearby shelves and muted voices rise and fall
+while the comfortable hall serves both leisure and quiet negotiation.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021009 0
+S
+#4021011
+West gash, Balmora, town, Dorisa Darvel's book shop~
+A quiet book shop opens within weathered native walls under pale lantern light
+beside tall bookcases, ink pots and quill boxes ordered across the hard floor.
+Amber lamplight shines between the darkened beams as a dry draft stirs the air
+and this scholarly room smells of ink, wax and aging parchment.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021108 0
+S
+#4021012
+West gash, Balmora, town, Dralasa Nithryon's pawn shop~
+Curved plaster walls enclose a cramped pawn shop beneath a low rounded ceiling
+with a scarred trade counter and old weapons arranged for practical daily use.
+Pale lamplight flickers upon the nearby shelves and muted voices rise and fall
+while the crowded shop holds useful goods of uncertain history.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021105 0
+S
+#4021013
+West gash, Balmora, town, Dralosa Athren's house~
+Curved plaster walls enclose a plain domestic room beneath dark wooden rafters
+past a simple bedroll and worn household tools gathered beneath hanging lamps.
+Amber lamplight moves over the worn floor while the enclosed air remains still
+and this humble home offers simple comfort without ornament.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021129 0
+S
+#4021014
+West gash, Balmora, town, Drarayne Thelas's house~
+A quiet domestic room opens within smooth ochre walls under steady red candles
+among a low sleeping mat and plain wooden stools lined along the curved walls.
+Pale lamplight plays over the worn floor while low conversation carries softly
+and the compact chamber retains the warmth of ordinary life.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021128 0
+D4
+Up~
+~
+0 0 4021015 0
+S
+#4021015
+West gash, Balmora, town, Drarayne Thelas's house, storage~
+Solid curved walls frame this dusty supply chamber beneath aged overhead beams
+past bundled household goods and clay food jars set between the narrow aisles.
+Low amber light shines over the worn floor and low conversation carries softly
+while the crowded storeroom uses every corner for orderly storage.~
+0 8 0 0 0 0
+D5
+Down~
+~
+0 0 4021014 0
+S
+#4021016
+West gash, Balmora, town, Dura gra-Bol's house~
+Smooth ochre walls frame this plain domestic room beneath smoke-darkened beams
+past a low sleeping mat and plain wooden stools ordered across the hard floor.
+Low amber light falls beneath the heavy rafters and muted voices rise and fall
+while the modest dwelling remains calm beneath the muffled town noise.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021127 0
+S
+#4021017
+West gash, Balmora, town, eastern guard tower~
+Curved plaster walls enclose an austere watch room beneath aged overhead beams
+among heavy shuttered openings and warning horns resting in well-used corners.
+Warm hearth light shines upon the nearby shelves as muted voices rise and fall
+and this fortified watch room offers little comfort beyond protection.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021145 0
+S
+#4021018
+West gash, Balmora, town, Eight plates's cornerclub~
+Curved plaster walls frame this noisy tavern room beneath smoke-darkened beams
+beside small dining tables and clay tankards arranged for practical daily use.
+Muted firelight glimmers over the worn floor as ordinary work continues nearby
+and the lively room stays warm despite the harsh air outside.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021019 0
+D3
+West~
+~
+0 0 4021110 0
+S
+#4021019
+West gash, Balmora, town, Eight plates's cornerclub~
+Rounded Dunmeri walls frame this warm public room beneath carved ceiling beams
+past narrow rented beds and folded wool blankets resting in well-used corners.
+Dusty golden light moves over the worn floor as the enclosed air remains still
+and this crowded tavern remains noisy well into the evening.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021018 0
+D5
+Down~
+~
+0 0 4021022 0
+S
+#4021020
+West gash, Balmora, town, Eight plates's cornerclub~
+Curved plaster walls frame this lively tavern room beneath dark wooden rafters
+among a scarred serving counter, stacked meal bowls and covered supply crates.
+Pale lamplight drifts between the darkened beams as muted voices rise and fall
+and the smoky interior holds the mixed scents of ale, smoke and stew.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021021 0
+S
+#4021021
+West gash, Balmora, town, Eight plates's cornerclub~
+Solid curved walls enclose a crowded common hall beneath heavy curved supports
+with narrow rented beds and hanging cooking pots lined along the curved walls.
+Amber lamplight plays upon the nearby shelves while soft footsteps pass nearby
+and the lively room holds the mixed scents of ale, smoke and stew.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021020 0
+D2
+South~
+~
+0 0 4021022 0
+S
+#4021022
+West gash, Balmora, town, Eight plates's cornerclub~
+Solid curved walls enclose a lively rented chamber beneath arched ceiling ribs
+with long common benches and sealed ale barrels stored beneath sturdy shelves.
+Warm hearth light shines over the worn floor as the enclosed air remains still
+and the smoky interior offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021021 0
+D4
+Up~
+~
+0 0 4021019 0
+S
+#4021023
+West gash, Balmora, town, Fast Eddie's house~
+Smooth ochre walls frame this compact modest interior beneath low timber beams
+among a simple bedroll and plain wooden stools gathered beneath hanging lamps.
+Warm hearth light moves across the curved walls as the room settles into quiet
+and the sheltered room remains calm beneath the muffled town noise.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021117 0
+S
+#4021024
+West gash, Balmora, town, Fighter's guild~
+Solid curved walls frame this busy guild chamber beneath heavy curved supports
+among stout sparring posts, folded armor padding and weighted practice blades.
+Amber lamplight shines over the worn floor and the lamps give off faint warmth
+while this disciplined guild room remains ready for contracts and patrols.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4021108 0
+D5
+Down~
+~
+0 0 4021026 0
+S
+#4021025
+West gash, Balmora, town, Fighter's guild~
+Solid curved walls frame this busy training room beneath a low rounded ceiling
+with scarred training dummies and repair tools gathered beneath hanging lamps.
+Amber lamplight glimmers upon the nearby shelves and a dry draft stirs the air
+while the training hall bears the marks of constant practice.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021026 0
+S
+#4021026
+West gash, Balmora, town, Fighter's guild~
+Carved plaster walls frame this martial training room beneath low timber beams
+with scarred training dummies and spare shields set between the narrow aisles.
+Muted firelight trembles upon the nearby shelves as muted voices rise and fall
+and the martial chamber bears the marks of constant practice.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021025 0
+D4
+Up~
+~
+0 0 4021024 0
+D5
+Down~
+~
+0 0 4021028 0
+S
+#4021027
+West gash, Balmora, town, Fighter's guild~
+Rounded Dunmeri walls enclose a busy guild chamber beneath arched ceiling ribs
+among stout sparring posts and spare shields arranged for practical daily use.
+Nearby lantern light plays over the worn floor while a dry draft stirs the air
+and this disciplined guild room bears the marks of constant practice.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021028 0
+S
+#4021028
+West gash, Balmora, town, Fighter's guild~
+Carved plaster walls enclose a busy training room beneath carved ceiling beams
+past scarred training dummies and repair tools gathered beneath hanging lamps.
+Dusty golden light shines across the curved walls as a dry draft stirs the air
+and the training hall bears the marks of constant practice.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021027 0
+D4
+Up~
+~
+0 0 4021026 0
+S
+#4021029
+West gash, Balmora, town, Mage's guild~
+Rounded Dunmeri walls enclose a quiet arcane study beneath dark wooden rafters
+beside padded study chairs and sealed soul gems set between the narrow aisles.
+Warm hearth light flickers over the worn floor as dust turns slowly in the air
+and the quiet guild interior supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4021107 0
+D4
+Up~
+~
+0 0 4021035 0
+D5
+Down~
+~
+0 0 4021031 0
+S
+#4021030
+West gash, Balmora, town, Mage's guild~
+A quiet spell room opens within solid curved walls under warm hanging lanterns
+beside padded study chairs and sealed soul gems set neatly around the chamber.
+Faint candlelight plays across the curved walls and muted voices rise and fall
+while the quiet guild interior supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021031 0
+S
+#4021031
+West gash, Balmora, town, Mage's guild~
+Solid curved walls enclose a quiet scholarly room beneath carved ceiling beams
+with padded study chairs and rolled spell notes ordered across the hard floor.
+A shifting glow shines upon the nearby shelves as dust turns slowly in the air
+and this scholarly room supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021030 0
+D4
+Up~
+~
+0 0 4021029 0
+D5
+Down~
+~
+0 0 4021033 0
+S
+#4021032
+West gash, Balmora, town, Mage's guild~
+Weathered native walls frame this quiet spell room beneath aged overhead beams
+with padded study chairs and rolled spell notes arranged in disciplined order.
+Dusty golden light moves over the worn floor while the room settles into quiet
+and the arcane chamber keeps dangerous workings under firm control.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021033 0
+S
+#4021033
+West gash, Balmora, town, Mage's guild~
+Smooth ochre walls enclose a quiet guild chamber beneath a low rounded ceiling
+beside crowded bookcases and rolled spell notes set between the narrow aisles.
+A shifting glow glimmers over the worn floor as ordinary work continues nearby
+and the warded study supports patient study and careful experiment.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021032 0
+D4
+Up~
+~
+0 0 4021031 0
+S
+#4021034
+West gash, Balmora, town, Mage's guild~
+Carved plaster walls frame this quiet arcane study beneath aged overhead beams
+among padded study chairs and rolled spell notes resting in well-used corners.
+Faint candlelight falls upon the nearby shelves and muted voices rise and fall
+while the warded study holds the dry scent of parchment and herbs.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021035 0
+S
+#4021035
+West gash, Balmora, town, Mage's guild~
+Curved plaster walls enclose a quiet guild chamber beneath arched ceiling ribs
+among broad writing desks, ink-stained parchments and stacked reference books.
+Soft lantern glow plays over the worn floor as low conversation carries softly
+and this scholarly room remains calm beneath restrained magical energy.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021034 0
+D5
+Down~
+~
+0 0 4021029 0
+S
+#4021036
+West gash, Balmora, town, Hecerinde's house~
+A plain domestic room opens within smooth ochre walls under pale lantern light
+beside folded bedding and earthen water jars arranged for practical daily use.
+Amber lamplight plays beneath the heavy rafters and muted voices rise and fall
+while the sheltered room bears the marks of careful daily use.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021130 0
+S
+#4021037
+West gash, Balmora, town, Hlaalo's manor~
+A secluded inner room opens within smooth ochre walls under pale lantern light
+among polished cabinets and embroidered cushions lined along the curved walls.
+Low amber light glimmers over the worn floor as distant movement sounds beyond
+and the comfortable salon feels removed from the public halls outside.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021095 0
+D4
+Up~
+~
+0 0 4021038 0
+S
+#4021038
+West gash, Balmora, town, Hlaalo's manor~
+A refined family room opens within solid curved walls under pale lantern light
+among carved tables and sealed correspondence kept clear of the central aisle.
+Dusty golden light trembles over the worn floor and soft footsteps pass nearby
+while the comfortable salon feels removed from the public halls outside.~
+0 8 0 0 0 0
+D5
+Down~
+~
+0 0 4021037 0
+S
+#4021039
+West gash, Balmora, town, Hlaalu council's manor~
+Smooth ochre walls frame this secluded family room beneath aged overhead beams
+beside carved tables and embroidered cushions kept clear of the central aisle.
+Faint candlelight falls beneath the heavy rafters as a dry draft stirs the air
+and this private chamber suggests wealth kept under firm restraint.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021040 0
+D1
+East~
+~
+0 0 4021093 0
+D2
+South~
+~
+0 0 4021041 0
+D3
+West~
+~
+0 0 4021042 0
+S
+#4021040
+West gash, Balmora, town, Hlaalu council's manor~
+Curved plaster walls enclose a refined inner room beneath smoke-darkened beams
+with low writing desks and carefully bound books kept close against the walls.
+Warm hearth light shines over the worn floor as the enclosed air remains still
+and the secluded room balances private comfort with solemn duty.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021039 0
+S
+#4021041
+West gash, Balmora, town, Hlaalu council's manor~
+Rounded Dunmeri walls enclose a quiet inner room beneath a low rounded ceiling
+past polished cabinets and fine ceramic vessels set between the narrow aisles.
+Pale lamplight moves between the darkened beams and muted voices rise and fall
+while the comfortable salon holds the quiet weight of family authority.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021039 0
+D3
+West~
+~
+0 0 4021090 0
+S
+#4021042
+West gash, Balmora, town, Hlaalu council's manor~
+Rounded Dunmeri walls enclose a quiet private chamber beneath low timber beams
+past carved tables and rolled estate records arranged for practical daily use.
+Muted firelight drifts beneath the heavy rafters as soft footsteps pass nearby
+and the comfortable salon remains suited to confidential affairs.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021043 0
+D1
+East~
+~
+0 0 4021039 0
+D2
+South~
+~
+0 0 4021044 0
+D3
+West~
+~
+0 0 4021064 0
+D4
+Up~
+~
+0 0 4021045 0
+S
+#4021043
+West gash, Balmora, town, Hlaalu council's manor~
+Smooth ochre walls frame this dignified inner room beneath arched ceiling ribs
+among padded chairs and fine ceramic vessels arranged for practical daily use.
+Pale lamplight moves upon the nearby shelves as distant movement sounds beyond
+and the dignified space remains suited to confidential affairs.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021042 0
+S
+#4021044
+West gash, Balmora, town, Hlaalu council's manor~
+Carved plaster walls enclose a refined secluded salon beneath low timber beams
+past carved tables and sealed correspondence arranged for practical daily use.
+Low amber light plays across the curved walls while muted voices rise and fall
+and this private chamber holds the quiet weight of family authority.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021042 0
+S
+#4021045
+West gash, Balmora, town, Hlaalu council's manor~
+A quiet inner room opens within solid curved walls under a modest central lamp
+beside broad family tables and carefully bound books placed within easy reach.
+Pale lamplight glimmers upon the nearby shelves and muted voices rise and fall
+while the comfortable salon balances private comfort with solemn duty.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4021046 0
+D5
+Down~
+~
+0 0 4021042 0
+S
+#4021046
+West gash, Balmora, town, Hlaalu council's manor~
+Smooth ochre walls enclose a quiet secluded salon beneath carved ceiling beams
+with low writing desks and fine ceramic vessels set between the narrow aisles.
+Muted firelight flickers upon the nearby shelves as soft footsteps pass nearby
+and the dignified space suggests wealth kept under firm restraint.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4021045 0
+S
+#4021047
+West gash, Balmora, town, Itan's house~
+Solid curved walls enclose a humble household room beneath dark wooden rafters
+past a low sleeping mat and plain wooden stools set neatly around the chamber.
+Muted firelight trembles over the worn floor as ordinary work continues nearby
+and the modest dwelling retains the warmth of ordinary life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021115 0
+S
+#4021048
+West gash, Balmora, town, Karlirah's house~
+Rounded Dunmeri walls enclose a humble household room beneath low timber beams
+past a simple bedroll and plain wooden stools kept clear of the central aisle.
+Muted firelight glimmers across the curved walls as muted voices rise and fall
+and the quiet interior bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021119 0
+S
+#4021049
+West gash, Balmora, town, Lucky lockup's tavern~
+Carved plaster walls enclose a lively common hall beneath carved ceiling beams
+with long common benches and sealed ale barrels arranged in disciplined order.
+Faint candlelight glimmers over the worn floor as dust turns slowly in the air
+and this crowded tavern offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021050 0
+D2
+South~
+~
+0 0 4021100 0
+S
+#4021050
+West gash, Balmora, town, Lucky lockup's tavern~
+Carved plaster walls enclose a lively common hall beneath broad wooden rafters
+past small dining tables and sealed ale barrels set between the narrow aisles.
+Pale lamplight trembles beneath the heavy rafters as a dry draft stirs the air
+and the rented space offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021051 0
+D2
+South~
+~
+0 0 4021049 0
+S
+#4021051
+West gash, Balmora, town, Lucky lockup's tavern~
+Curved plaster walls frame this lively public room beneath dark wooden rafters
+past small dining tables and stacked meal bowls set neatly around the chamber.
+Warm hearth light glimmers over the worn floor while a dry draft stirs the air
+and the public chamber offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021050 0
+D4
+Up~
+~
+0 0 4021052 0
+D5
+Down~
+~
+0 0 4021053 0
+S
+#4021052
+West gash, Balmora, town, Lucky lockup's tavern~
+Thick shell-like walls enclose a noisy tavern room beneath dark wooden rafters
+with long common benches and stacked meal bowls set between the narrow aisles.
+Pale lamplight falls upon the nearby shelves as ordinary work continues nearby
+and the lively room offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D5
+Down~
+~
+0 0 4021051 0
+S
+#4021053
+West gash, Balmora, town, Lucky lockup's tavern~
+Solid curved walls enclose a crowded tavern room beneath heavy curved supports
+beside long common benches and clay tankards arranged for practical daily use.
+Amber lamplight shines upon the nearby shelves as dust turns slowly in the air
+and the public chamber remains noisy well into the evening.~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4021051 0
+S
+#4021054
+West gash, Balmora, town, Meldor's armor shop~
+The hot smithy rests within thick shell-like walls beneath aged overhead beams
+past a blazing forge and bundles of metal stock set between the narrow aisles.
+Dusty golden light shines across the curved walls as a dry draft stirs the air
+and this smoky smithy smells strongly of coal, oil and hot iron.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021107 0
+S
+#4021055
+West gash, Balmora, town, Milie Hastien's clothing shop~
+Carved plaster walls enclose a busy tailoring room beneath dark wooden rafters
+past rows of hanging robes and spools of thread set between the narrow aisles.
+Muted firelight shines beneath the heavy rafters and a dry draft stirs the air
+while the cloth-lined chamber keeps its wares carefully sorted and clean.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021097 0
+S
+#4021056
+West gash, Balmora, town, Morag tong's guild~
+Solid curved walls frame this dim assassins' hall beneath broad wooden rafters
+past narrow practice mats and sealed writ cases set neatly around the chamber.
+Soft lantern glow moves over the worn floor and distant movement sounds beyond
+while the hidden guild room maintains an atmosphere of ritual discretion.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021057 0
+D1
+East~
+~
+0 0 4021097 0
+D2
+South~
+~
+0 0 4021058 0
+D4
+Up~
+~
+0 0 4021059 0
+S
+#4021057
+West gash, Balmora, town, Morag tong's guild~
+Solid curved walls enclose a dim assassins' hall beneath a low rounded ceiling
+among plain waiting benches and folded dark clothing placed within easy reach.
+Soft lantern glow plays upon the nearby shelves as the room settles into quiet
+and the secretive chamber maintains an atmosphere of ritual discretion.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021056 0
+S
+#4021058
+West gash, Balmora, town, Morag tong's guild~
+Smooth ochre walls enclose a dim assassins' hall beneath a low rounded ceiling
+beside dark meeting tables and sealed writ cases lined along the curved walls.
+Pale lamplight moves beneath the heavy rafters and the room settles into quiet
+while this guarded interior keeps its purpose concealed from outsiders.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021056 0
+S
+#4021059
+West gash, Balmora, town, Morag tong's guild~
+Solid curved walls frame this dim assassins' hall beneath carved ceiling beams
+past plain waiting benches and sealed writ cases resting in well-used corners.
+Pale lamplight drifts between the darkened beams as soft footsteps pass nearby
+and the hidden guild room keeps its purpose concealed from outsiders.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021060 0
+D2
+South~
+~
+0 0 4021061 0
+D5
+Down~
+~
+0 0 4021056 0
+S
+#4021060
+West gash, Balmora, town, Morag tong's guild~
+Curved plaster walls frame this dim secretive room beneath dark wooden rafters
+past locked weapon chests and sealed writ cases set neatly around the chamber.
+Faint candlelight falls over the worn floor as low conversation carries softly
+and this guarded interior keeps its purpose concealed from outsiders.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021059 0
+S
+#4021061
+West gash, Balmora, town, Morag tong's guild~
+Carved plaster walls enclose a guarded secretive room beneath low timber beams
+beside dark meeting tables and sealed writ cases kept close against the walls.
+Soft lantern glow shines across the curved walls and a dry draft stirs the air
+while the secretive chamber maintains an atmosphere of ritual discretion.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021059 0
+S
+#4021062
+West gash, Balmora, town, Nalcarya's alchemy shop~
+Smooth ochre walls enclose a fragrant alchemy shop beneath arched ceiling ribs
+beside stone mortars and bundles of dried herbs arranged in disciplined order.
+Dim red candlelight drifts over the worn floor while a dry draft stirs the air
+and the careful chamber holds mingled scents both sweet and bitter.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021096 0
+S
+#4021063
+West gash, Balmora, town, Nerano's manor~
+Solid curved walls frame this quiet secluded salon beneath aged overhead beams
+with low writing desks and fine ceramic vessels set neatly around the chamber.
+Soft lantern glow drifts over the worn floor as distant movement sounds beyond
+and the dignified space balances private comfort with solemn duty.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021095 0
+S
+#4021064
+West gash, Balmora, town, Nine-Toes's house~
+Smooth ochre walls enclose a plain domestic room beneath a low rounded ceiling
+beside folded bedding and woven storage baskets arranged in disciplined order.
+Smoky yellow light plays across the curved walls and a dry draft stirs the air
+while the compact chamber offers simple comfort without ornament.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021042 0
+S
+#4021065
+West gash, Balmora, town, Ra'Virr's trading shop~
+Smooth ochre walls frame this practical trade shop beneath aged overhead beams
+beside stacked supply shelves and bundled rope gathered beneath hanging lamps.
+Faint candlelight plays over the worn floor while dust turns slowly in the air
+and the well-stocked interior smells of rope, cloth, dust and seasoned wood.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021106 0
+S
+#4021066
+West gash, Balmora, town, Rararyn Radarys's house~
+Close-set native walls frame this quiet domestic room beneath low timber beams
+beside a low sleeping mat and clay cooking pots set between the narrow aisles.
+Warm hearth light glimmers over the worn floor as dust turns slowly in the air
+and the modest dwelling remains calm beneath the muffled town noise.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021145 0
+S
+#4021067
+West gash, Balmora, town, Rithleen's house~
+Solid curved walls frame this plain domestic room beneath broad wooden rafters
+among a simple bedroll and worn household tools set between the narrow aisles.
+A shifting glow moves upon the nearby shelves while soft footsteps pass nearby
+and the quiet interior holds only the necessities of daily life.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021140 0
+S
+#4021068
+West gash, Balmora, town, South wall's cornerclub~
+A warm common hall opens within solid curved walls under several covered lamps
+among long common benches and sealed ale barrels lined along the curved walls.
+Low amber light flickers over the worn floor while the room settles into quiet
+and the lively room remains noisy well into the evening.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021069 0
+S
+#4021069
+West gash, Balmora, town, South wall's cornerclub~
+Heavy earth-toned walls enclose a warm tavern room beneath dark wooden rafters
+among narrow rented beds and sealed ale barrels set between the narrow aisles.
+Amber lamplight flickers over the worn floor as ordinary work continues nearby
+and the smoky interior stays warm despite the harsh air outside.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021070 0
+D1
+East~
+~
+0 0 4021139 0
+D2
+South~
+~
+0 0 4021068 0
+D5
+Down~
+~
+0 0 4021072 0
+S
+#4021070
+West gash, Balmora, town, South wall's cornerclub~
+A warm rented chamber opens within solid curved walls under pale lantern light
+among narrow rented beds and sealed ale barrels set neatly around the chamber.
+Pale lamplight moves upon the nearby shelves while the room settles into quiet
+and the rented space stays warm despite the harsh air outside.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021069 0
+S
+#4021071
+West gash, Balmora, town, South wall's cornerclub~
+Close-set native walls frame this warm public room beneath aged overhead beams
+past small dining tables and stacked meal bowls arranged in disciplined order.
+Low amber light flickers upon the nearby shelves and a dry draft stirs the air
+while the public chamber stays warm despite the harsh air outside.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021072 0
+S
+#4021072
+West gash, Balmora, town, South wall's cornerclub~
+Carved plaster walls frame this warm common hall beneath heavy curved supports
+past narrow rented beds and hanging cooking pots lined along the curved walls.
+Faint candlelight shines across the curved walls as soft footsteps pass nearby
+and this crowded tavern stays warm despite the harsh air outside.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021071 0
+D2
+South~
+~
+0 0 4021073 0
+D4
+Up~
+~
+0 0 4021069 0
+D5
+Down~
+~
+0 0 4021074 0
+S
+#4021073
+West gash, Balmora, town, South wall's cornerclub~
+Curved plaster walls frame this warm tavern room beneath stout timber supports
+with round drinking tables and clay tankards arranged for practical daily use.
+Soft lantern glow plays over the worn floor and distant movement sounds beyond
+while the public chamber offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021072 0
+S
+#4021074
+West gash, Balmora, town, South wall's cornerclub~
+A crowded public room opens within smooth ochre walls under steady red candles
+among a scarred serving counter, stacked meal bowls and plain eating utensils.
+Low amber light trembles across the curved walls and a dry draft stirs the air
+while the smoky interior offers food and shelter without ceremony.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4021075 0
+D4
+Up~
+~
+0 0 4021072 0
+S
+#4021075
+West gash, Balmora, town, South wall's cornerclub~
+Curved plaster walls frame this lively public room beneath arched ceiling ribs
+past long common benches and sealed ale barrels ordered across the hard floor.
+Warm hearth light falls beneath the heavy rafters as a dry draft stirs the air
+and the public chamber carries the rough humor of the local crowd.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021074 0
+S
+#4021076
+West gash, Balmora, town, Tribunal's temple~
+Smooth ochre walls enclose a vaulted prayer hall beneath heavy curved supports
+past a raised shrine and folded temple cloths kept clear of the central aisle.
+Amber lamplight falls upon the nearby shelves while soft footsteps pass nearby
+and the quiet shrine invites reflection beneath the watchful icons.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021077 0
+D1
+East~
+~
+0 0 4021078 0
+D2
+South~
+~
+0 0 4021112 0
+D3
+West~
+~
+0 0 4021079 0
+S
+#4021077
+West gash, Balmora, town, Tribunal's temple~
+Curved plaster walls frame this solemn prayer hall beneath arched ceiling ribs
+with polished devotional stands and sacred texts resting in well-used corners.
+Dusty golden light falls upon the nearby shelves as muted voices rise and fall
+and this solemn temple room holds a deep and disciplined stillness.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021076 0
+D5
+Down~
+~
+0 0 4021080 0
+S
+#4021078
+West gash, Balmora, town, Tribunal's temple~
+Curved plaster walls enclose a quiet prayer hall beneath a low rounded ceiling
+among rows of prayer cushions and sacred texts gathered beneath hanging lamps.
+Faint candlelight falls upon the nearby shelves as the room settles into quiet
+and the sacred chamber holds a deep and disciplined stillness.~
+0 1032 0 0 0 0
+D3
+West~
+~
+0 0 4021076 0
+S
+#4021079
+West gash, Balmora, town, Tribunal's temple~
+Rounded Dunmeri walls enclose a solemn prayer hall beneath arched ceiling ribs
+among rows of prayer cushions and red votive candles placed within easy reach.
+Pale lamplight moves along the plastered surfaces as a dry draft stirs the air
+and the quiet shrine remains heavy with incense and devotion.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4021076 0
+S
+#4021080
+West gash, Balmora, town, Tribunal's temple~
+Smooth ochre walls enclose a reverent devotional room beneath low timber beams
+with broad offering tables, folded temple cloths and fragrant incense burners.
+Muted firelight shines beneath the heavy rafters as soft footsteps pass nearby
+and this solemn temple room preserves the dignity of ancient worship.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021081 0
+D4
+Up~
+~
+0 0 4021077 0
+S
+#4021081
+West gash, Balmora, town, Tribunal's temple~
+Dark red-plastered walls frame this quiet prayer hall beneath low timber beams
+among carved stone altars and ceremonial vessels lined along the curved walls.
+Muted firelight flickers upon the nearby shelves and a dry draft stirs the air
+while the quiet shrine remains heavy with incense and devotion.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021080 0
+S
+#4021082
+West gash, Balmora, town, The razor hole's shop~
+Solid curved walls enclose a hot armorer's chamber beneath arched ceiling ribs
+among a broad iron anvil and stacks of charcoal stored beneath sturdy shelves.
+Dusty golden light flickers over the worn floor and muted voices rise and fall
+while this smoky smithy rings with the labor of constant repair.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021110 0
+S
+#4021083
+West gash, Balmora, town, Tsiya's house~
+Smooth ochre walls enclose a humble domestic room beneath smoke-darkened beams
+with a low sleeping mat and worn household tools lined along the curved walls.
+Amber lamplight drifts beneath the heavy rafters as muted voices rise and fall
+and the compact chamber holds only the necessities of daily life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021120 0
+S
+#4021084
+West gash, Balmora, town, Tyermaillin's house~
+Thick shell-like walls frame this quiet domestic room beneath low timber beams
+past folded bedding and worn household tools arranged for practical daily use.
+A shifting glow glimmers upon the nearby shelves and a dry draft stirs the air
+while the sheltered room offers simple comfort without ornament.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021141 0
+S
+#4021085
+West gash, Balmora, town, Tyravel's manor~
+Smooth ochre walls frame this refined private chamber beneath low timber beams
+among carved tables and fine ceramic vessels arranged for practical daily use.
+Amber lamplight plays between the darkened beams as soft footsteps pass nearby
+and this private chamber balances private comfort with solemn duty.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4021091 0
+S
+#4021086
+West gash, Balmora, town, Vorar Helas's house~
+Carved plaster walls enclose a humble modest interior beneath low timber beams
+among folded bedding and worn household tools kept clear of the central aisle.
+Faint candlelight shines upon the nearby shelves and a dry draft stirs the air
+while the sheltered room remains calm beneath the muffled town noise.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4021142 0
+S
+#4021087
+West gash, Balmora, town, Vori's house~
+Carved plaster walls frame this humble living chamber beneath low timber beams
+past a simple bedroll and woven storage baskets set neatly around the chamber.
+Soft lantern glow moves beneath the heavy rafters as a dry draft stirs the air
+and this humble home holds only the necessities of daily life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021118 0
+S
+#4021088
+West gash, Balmora, town, western guard tower~
+Heavy earth-toned walls frame this austere watch room beneath low timber beams
+beside a steep inner stair and bundled arrows kept clear of the central aisle.
+Pale lamplight drifts upon the nearby shelves and dust turns slowly in the air
+while the narrow chamber remains alert through bad weather and darkness.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4021098 0
+S
+#4021089
+West gash, Balmora, town, western guard tower~
+Carved plaster walls frame this narrow watch room beneath smoke-darkened beams
+beside heavy shuttered openings and spare bows gathered beneath hanging lamps.
+A shifting glow moves upon the nearby shelves and dust turns slowly in the air
+while the guarded tower stands ready to sound an alarm.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4021098 0
+S
+#4021090
+West gash, Balmora, town, Dralcea Arethi's house~
+Rounded Dunmeri walls frame this quiet living chamber beneath low timber beams
+past a low sleeping mat and worn household tools lined along the curved walls.
+A shifting glow shines beneath the heavy rafters as muted voices rise and fall
+and the sheltered room retains the warmth of ordinary life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4021041 0
+S
+#4021091
+West gash, Balmora, town, high town~
+Quiet paved roads wind between tall ochre buildings beneath a clear valley sky
+with guarded passages and polished household goods resting beneath deep eaves.
+Loose road grit moves over the packed ground as ordinary trade proceeds nearby
+and the weathered quarter feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021092 0
+D2
+South~
+~
+0 0 4021085 0
+S
+#4021092
+West gash, Balmora, town, high town~
+Sunlit upper ways thread among broad plastered manors in the dry upland breeze
+beside arched entrances and shielded wall lanterns resting beneath deep eaves.
+Fine valley dust rolls across the worn paths as ordinary trade proceeds nearby
+and this part of town carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021093 0
+D2
+South~
+~
+0 0 4021091 0
+S
+#4021093
+West gash, Balmora, town, high town~
+High winding paths run between tall ochre buildings beneath a clear valley sky
+with broad stone steps and sturdy wooden benches placed clear of passing feet.
+Dry reddish dust moves across the worn paths as ordinary trade proceeds nearby
+and the sheltered street remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021094 0
+D1
+East~
+~
+0 0 4021098 0
+D2
+South~
+~
+0 0 4021092 0
+D3
+West~
+~
+0 0 4021039 0
+S
+#4021094
+West gash, Balmora, town, high town~
+Broad upper streets pass between tall ochre buildings in the dry upland breeze
+among carved doorways and shielded wall lanterns placed clear of passing feet.
+Loose road grit rolls across the worn paths and ordinary trade proceeds nearby
+while the sheltered street carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021095 0
+D2
+South~
+~
+0 0 4021093 0
+S
+#4021095
+West gash, Balmora, town, high town~
+Quiet paved roads wind among broad plastered manors beneath a clear valley sky
+past carved doorways and decorative clay vessels placed clear of passing feet.
+Loose road grit drifts across the worn paths as ordinary trade proceeds nearby
+and the district endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021096 0
+D1
+East~
+~
+0 0 4021037 0
+D2
+South~
+~
+0 0 4021094 0
+D3
+West~
+~
+0 0 4021063 0
+S
+#4021096
+West gash, Balmora, town, high town~
+Raised stone lanes pass between tall ochre buildings below a pale and open sky
+beside guarded passages and shielded wall lanterns resting beneath deep eaves.
+Loose road grit passes across the worn paths as ordinary trade proceeds nearby
+and the sheltered street feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021062 0
+D2
+South~
+~
+0 0 4021095 0
+D3
+West~
+~
+0 0 4021097 0
+S
+#4021097
+West gash, Balmora, town, high town~
+Raised stone lanes wind among prosperous Hlaalu homes in the dry upland breeze
+past raised house fronts and sturdy wooden benches resting beneath deep eaves.
+Warm light rests across the paving and footsteps echo along the elevated lanes
+while the weathered quarter retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021055 0
+D1
+East~
+~
+0 0 4021096 0
+D3
+West~
+~
+0 0 4021056 0
+S
+#4021098
+West gash, Balmora, town, high town~
+Broad upper streets run between tall ochre buildings below a pale and open sky
+with high plaster walls and shielded wall lanterns resting beneath deep eaves.
+Fine valley dust moves across the worn paths as ordinary trade proceeds nearby
+and this part of town endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021088 0
+D1
+East~
+~
+0 0 4021113 0
+D2
+South~
+~
+0 0 4021089 0
+D3
+West~
+~
+0 0 4021093 0
+S
+#4021099
+West gash, Balmora, town, high town~
+Sunlit upper ways wind between tall ochre buildings beneath a clear valley sky
+with high plaster walls and painted storage jars grouped near sheltered walls.
+Loose road grit moves across the worn paths as doors open onto the busy street
+and this part of town feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North
+~
+~
+0 0 4021101 0
+D2
+Exit description
+~
+~
+0 0 1020106 0
+S
+#4021100
+West gash, Balmora, town, commercial district~
+Lively market roads wind among open shops and taverns in the dry upland breeze
+with busy side passages and covered merchant goods resting beneath deep eaves.
+Loose road grit rolls across the worn paths and merchants call from open doors
+while the sheltered street feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021049 0
+D1
+East~
+~
+0 0 4021147 0
+D3
+West~
+~
+0 0 4021102 0
+S
+#4021101
+West gash, Balmora, town, commercial district~
+Daily trading lanes pass among crowded shops and inns in the dry upland breeze
+beside busy side passages and sealed trade barrels resting beneath deep eaves.
+Dry reddish dust rolls across the worn paths as merchants sell from shop doors
+and the sheltered street endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021102 0
+D2
+South~
+~
+0 0 4021099 0
+S
+#4021102
+West gash, Balmora, town, commercial district~
+Active trading ways run among open shops and taverns below a pale and open sky
+past open shop doorways and sealed trade barrels grouped near sheltered walls.
+Loose road grit rolls across the worn paths and buyers gather by open counters
+while this part of town settles beneath the mild and fading evening light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021103 0
+D1
+East~
+~
+0 0 4021100 0
+D2
+South~
+~
+0 0 4021101 0
+S
+#4021103
+West gash, Balmora, town, commercial district~
+Active trading ways run among crowded shops and inns below a pale and open sky
+past open shop doorways and sealed trade barrels placed clear of passing feet.
+Fine valley dust rolls across the worn paths as porters pass through the shops
+and the sheltered street feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021104 0
+D2
+South~
+~
+0 0 4021102 0
+S
+#4021104
+West gash, Balmora, town, commercial district~
+Busy merchant lanes pass among crowded shops and inns in the dry upland breeze
+with weathered workshop fronts, covered merchant goods and covered containers.
+Loose road grit eddies across the worn paths as porters pass through the shops
+and the district settles beneath the mild and fading evening light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021105 0
+D2
+South~
+~
+0 0 4021103 0
+S
+#4021105
+West gash, Balmora, town, commercial district~
+Dusty trading lanes run among busy shops and taverns below a pale and open sky
+past open shop doorways and covered merchant goods resting beneath deep eaves.
+Dry reddish dust rolls across the worn paths as traders move through the shops
+and this part of town endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021106 0
+D2
+South~
+~
+0 0 4021104 0
+D3
+West~
+~
+0 0 4021012 0
+S
+#4021106
+West gash, Balmora, town, commercial district~
+Crowded public ways pass among open shops and taverns in the dry upland breeze
+beside striped canvas awnings, sturdy wooden handcarts and covered containers.
+Dry reddish dust rolls across the worn paths as ordinary trade proceeds nearby
+and the district remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021107 0
+D1
+East~
+~
+0 0 4021065 0
+D2
+South~
+~
+0 0 4021105 0
+D3
+West~
+~
+0 0 4021004 0
+S
+#4021107
+West gash, Balmora, town, commercial district~
+Crowded trade lanes pass among open shops and taverns in the dry upland breeze
+past weathered workshop fronts and covered merchant goods set beside the road.
+Loose road grit moves across the worn paths and merchants trade near the shops
+while the weathered quarter retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021108 0
+D1
+East~
+~
+0 0 4021029 0
+D2
+South~
+~
+0 0 4021106 0
+D3
+West~
+~
+0 0 4021054 0
+S
+#4021108
+West gash, Balmora, town, commercial district~
+Central market ways pass among crowded shops and inns in the dry upland breeze
+among busy side passages and stacked market crates resting beneath deep eaves.
+Loose road grit moves over the packed ground as traders work beside open doors
+and the surrounding neighborhood remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021109 0
+D1
+East~
+~
+0 0 4021024 0
+D2
+South~
+~
+0 0 4021107 0
+D3
+West~
+~
+0 0 4021011 0
+S
+#4021109
+West gash, Balmora, town, commercial district~
+Crowded trade lanes pass among busy shops and taverns in the dry upland breeze
+among open shop doorways and stacked market crates resting beneath deep eaves.
+Loose road grit passes across the worn paths as merchants call from open doors
+and the sheltered street settles beneath the mild and fading evening light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021110 0
+D1
+East~
+~
+0 0 4021114 0
+D2
+South~
+~
+0 0 4021108 0
+D3
+West~
+~
+0 0 4021113 0
+S
+#4021110
+West gash, Balmora, town, commercial district~
+Open merchant roads wind among crowded shops and inns in the dry upland breeze
+among open shop doorways and woven produce baskets resting beneath deep eaves.
+Loose road grit moves over the packed ground as buyers gather by open counters
+and the sheltered street remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021111 0
+D1
+East~
+~
+0 0 4021018 0
+D2
+South~
+~
+0 0 4021109 0
+D3
+West~
+~
+0 0 4021082 0
+S
+#4021111
+West gash, Balmora, town, commercial district~
+Lively market roads run among open shops and taverns below a pale and open sky
+past busy side passages and sealed trade barrels grouped near sheltered walls.
+Dry reddish dust moves across the worn paths as shoppers trade near busy shops
+and this part of town carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021112 0
+D2
+South~
+~
+0 0 4021110 0
+S
+#4021112
+West gash, Balmora, town, commercial district~
+Busy shopping lanes wind among open shops and taverns in the dry upland breeze
+beside painted business signs and sturdy wooden handcarts set beside the road.
+Fine valley dust rolls across the worn paths as traders move through the shops
+and the sheltered street carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021076 0
+D2
+South
+~
+~
+0 0 4021111 0
+D1
+Exit description
+~
+~
+0 0 1030292 0
+S
+#4021113
+West gash, Balmora, town, commercial district~
+Active trading ways pass among busy shops and taverns in the dry upland breeze
+among busy side passages and woven produce baskets resting beneath deep eaves.
+Loose road grit rolls across the worn paths and porters pass through the shops
+while this part of town endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4021109 0
+D3
+West~
+~
+0 0 4021098 0
+S
+#4021114
+West gash, Balmora, town, commercial district~
+Dusty merchant roads run among busy shops and taverns in the dry upland breeze
+beside painted business signs, sturdy wooden handcarts and covered containers.
+Dry reddish dust rolls across the worn paths as shoppers trade near busy shops
+and this part of town settles beneath the mild and fading evening light.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4021115 0
+D3
+West~
+~
+0 0 4021109 0
+S
+#4021115
+West gash, Balmora, town, commercial district~
+Dusty trading lanes run among crowded shops and inns below a pale and open sky
+with weathered workshop fronts and covered merchant goods set beside the road.
+Loose road grit rolls over the packed ground as buyers call from nearby stalls
+and the district carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021047 0
+D1
+East~
+~
+0 0 4021116 0
+D3
+West~
+~
+0 0 4021114 0
+S
+#4021116
+West gash, Balmora, town, commercial district~
+Lively market roads pass among busy shops and taverns in the dry upland breeze
+with weathered workshop fronts, shielded wall lanterns and covered containers.
+Loose road grit eddies across the worn paths as buyers gather by open counters
+and this part of town retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4021117 0
+D3
+West~
+~
+0 0 4021115 0
+S
+#4021117
+West gash, Balmora, town, commercial district~
+Crowded market ways wind among open shops and taverns in the dry upland breeze
+among weathered workshop fronts and woven produce baskets set beside the road.
+Loose road grit rolls over the packed ground as ordinary trade proceeds nearby
+and this part of town feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021116 0
+D1
+East~
+~
+0 0 4021132 0
+D2
+South~
+~
+0 0 4021118 0
+D3
+West~
+~
+0 0 4021023 0
+S
+#4021118
+West gash, Balmora, town, commercial district~
+Central market ways pass among busy shops and taverns in the dry upland breeze
+past busy side passages and shielded wall lanterns resting beneath deep eaves.
+Loose road grit sweeps across the worn paths as buyers call from nearby stalls
+and the weathered quarter endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021117 0
+D2
+South~
+~
+0 0 4021119 0
+D3
+West~
+~
+0 0 4021087 0
+S
+#4021119
+West gash, Balmora, town, commercial district~
+Busy market streets pass among open shops and taverns in the dry upland breeze
+with weathered workshop fronts and shielded wall lanterns set beside the road.
+Loose road grit rolls over the packed ground as shoppers trade near busy shops
+and the sheltered street retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021118 0
+D2
+South~
+~
+0 0 4021120 0
+D3
+West~
+~
+0 0 4021048 0
+S
+#4021120
+West gash, Balmora, town, commercial district~
+Open merchant roads run among crowded shops and inns below a pale and open sky
+past busy side passages and covered merchant goods resting beneath deep eaves.
+Dry reddish dust rolls across the worn paths as vendors stand near laden carts
+and the weathered quarter retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021119 0
+D2
+South~
+~
+0 0 4021121 0
+D3
+West~
+~
+0 0 4021083 0
+S
+#4021121
+West gash, Balmora, town, commercial district~
+Well-traveled lanes wind among open shops and taverns in the dry upland breeze
+with open shop doorways and shielded wall lanterns resting beneath deep eaves.
+Loose road grit drifts across the worn paths as vendors stand near laden carts
+and the weathered quarter feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021120 0
+D2
+South~
+~
+0 0 4021122 0
+S
+#4021122
+West gash, Balmora, town, commercial district~
+Daily trading lanes pass among open shops and taverns in the dry upland breeze
+among weathered workshop fronts, stacked market crates and covered containers.
+Fine valley dust rolls across the worn paths as vendors stand near laden carts
+and this part of town remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021121 0
+D2
+South~
+~
+0 0 4021123 0
+S
+#4021123
+West gash, Balmora, town, commercial district~
+Broad merchant ways run among busy shops and taverns below a pale and open sky
+past open shop doorways and shielded wall lanterns resting beneath deep eaves.
+Fine valley dust rolls across the worn paths as ordinary trade proceeds nearby
+and the weathered quarter settles beneath the mild and fading evening light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021122 0
+D1
+East~
+~
+0 0 4021126 0
+D2
+South~
+~
+0 0 4021124 0
+S
+#4021124
+West gash, Balmora, town, commercial district~
+Active trading ways pass among open shops and taverns in the dry upland breeze
+with open shop doorways and sealed trade barrels grouped near sheltered walls.
+Loose road grit swirls across the worn paths as shoppers trade near busy shops
+and the weathered quarter remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021123 0
+S
+#4021125
+West gash, Balmora, town, commercial district~
+Open merchant roads pass among crowded shops and inns in the dry upland breeze
+past weathered workshop fronts, shielded wall lanterns and covered containers.
+Loose road grit swirls across the worn paths as porters pass through the shops
+and the district feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021126 0
+S
+#4021126
+West gash, Balmora, town, commercial district~
+Well-traveled lanes wind among crowded shops and inns in the dry upland breeze
+past weathered workshop fronts and shielded wall lanterns set beside the road.
+Fine valley dust moves across the worn paths as merchants call from open doors
+and the weathered quarter carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021127 0
+D1
+East~
+~
+0 0 4021135 0
+D2
+South~
+~
+0 0 4021125 0
+D3
+West~
+~
+0 0 4021123 0
+S
+#4021127
+West gash, Balmora, town, commercial district~
+Well-traveled lanes pass among open shops and taverns in the dry upland breeze
+with open shop doorways and sealed trade barrels placed clear of passing feet.
+Loose road grit passes across the worn paths as buyers call from nearby stalls
+and the district retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021128 0
+D1
+East~
+~
+0 0 4021016 0
+D2
+South~
+~
+0 0 4021126 0
+S
+#4021128
+West gash, Balmora, town, commercial district~
+Daily trading lanes wind among open shops and taverns in the dry upland breeze
+beside broad trading counters, sturdy wooden handcarts and covered containers.
+Loose road grit moves over the packed ground as merchants sell from shop doors
+and the district endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021129 0
+D1
+East~
+~
+0 0 4021014 0
+D2
+South~
+~
+0 0 4021127 0
+S
+#4021129
+West gash, Balmora, town, commercial district~
+Crowded market ways pass among busy shops and taverns in the dry upland breeze
+among weathered workshop fronts and stacked market crates set beside the road.
+Loose road grit passes across the worn paths as traders work beside open doors
+while this part of town remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021130 0
+D1
+East~
+~
+0 0 4021013 0
+D2
+South~
+~
+0 0 4021128 0
+S
+#4021130
+West gash, Balmora, town, commercial district~
+Well-traveled lanes run among open shops and taverns below a pale and open sky
+beside weathered workshop fronts and sealed trade barrels set beside the road.
+Loose road grit sweeps across the worn paths as traders work beside open doors
+while the sheltered street retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021131 0
+D1
+East~
+~
+0 0 4021036 0
+D2
+South~
+~
+0 0 4021129 0
+S
+#4021131
+West gash, Balmora, town, commercial district~
+Busy market streets wind among crowded shops and inns in the dry upland breeze
+beside weathered workshop fronts, sealed trade barrels and covered containers.
+Loose road grit rolls over the packed ground as merchants sell from shop doors
+while this part of town carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021132 0
+D2
+South~
+~
+0 0 4021130 0
+S
+#4021132
+West gash, Balmora, town, commercial district~
+Dusty trading lanes pass among open shops and taverns in the dry upland breeze
+with busy side passages and sealed trade barrels placed clear of passing feet.
+Loose road grit eddies across the worn paths as buyers call from nearby stalls
+while the weathered quarter feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021133 0
+D1
+East~
+~
+0 0 4021134 0
+D2
+South~
+~
+0 0 4021131 0
+D3
+West~
+~
+0 0 4021117 0
+S
+#4021133
+West gash, Balmora, town, commercial district~
+Daily trading lanes wind among busy shops and taverns in the dry upland breeze
+past weathered workshop fronts, covered merchant goods and covered containers.
+Loose road grit drifts across the worn paths as merchants sell from shop doors
+while the sheltered street endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4021132 0
+S
+#4021134
+West gash, Balmora, town, commercial district~
+Crowded trade lanes wind among open shops and taverns in the dry upland breeze
+with open shop doorways and covered merchant goods resting beneath deep eaves.
+Loose road grit passes across the worn paths as traders move through the shops
+while the sheltered street settles beneath the mild and fading evening light.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4021146 0
+D3
+West~
+~
+0 0 4021132 0
+S
+#4021135
+West gash, Balmora, town, commercial district~
+Well-traveled lanes run among crowded shops and inns below a pale and open sky
+among weathered workshop fronts, woven produce baskets and covered containers.
+Dry reddish dust moves across the worn paths as merchants sell from shop doors
+while the district carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4021136 0
+D3
+West~
+~
+0 0 4021126 0
+S
+#4021136
+West gash, Balmora, town, labor town~
+Uneven trampled ways run between low plastered homes below a pale and open sky
+past narrow side passages and woven reed baskets placed clear of passing feet.
+Loose road grit moves across the worn paths and ordinary trade proceeds nearby
+while the weathered quarter remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4021137 0
+D3
+West~
+~
+0 0 4021135 0
+D0
+Exit description
+~
+~
+0 0 1030293 0
+S
+#4021137
+West gash, Balmora, town, labor town~
+Packed earthen lanes run between low plastered homes below a pale and open sky
+with low sheltering eaves and covered storage jars resting beneath deep eaves.
+Loose road grit rolls across the worn paths as doors open onto the busy street
+and the sheltered street carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021138 0
+D3
+West~
+~
+0 0 4021136 0
+S
+#4021138
+West gash, Balmora, town, labor town~
+Narrow town paths stretch between low plastered homes in the dry upland breeze
+with plain house fronts and covered storage jars grouped near sheltered walls.
+Loose road grit passes across the worn paths as ordinary trade proceeds nearby
+and the district retains a practical and familiar Hlaalu character.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021139 0
+D2
+South~
+~
+0 0 4021137 0
+S
+#4021139
+West gash, Balmora, town, labor town~
+Worn public roads stretch between low plastered homes in the dry upland breeze
+among patched doorways and weathered supply crates resting beneath deep eaves.
+Dry reddish dust rolls across the worn paths as ordinary trade proceeds nearby
+and this part of town carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021140 0
+D1
+East~
+~
+0 0 4021001 0
+D2
+South~
+~
+0 0 4021138 0
+D3
+West~
+~
+0 0 4021069 0
+S
+#4021140
+West gash, Balmora, town, labor town~
+Narrow town paths curve between low plastered homes beneath a clear valley sky
+past plain house fronts and shielded wall lanterns resting beneath deep eaves.
+Loose road grit swirls across the worn paths as ordinary trade proceeds nearby
+and this part of town feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021141 0
+D1
+East~
+~
+0 0 4021067 0
+D2
+South~
+~
+0 0 4021139 0
+S
+#4021141
+West gash, Balmora, town, labor town~
+Packed earthen lanes pass between low plastered homes in the dry upland breeze
+with weathered workshop doors, weathered supply crates and covered containers.
+Loose road grit moves over the packed ground as ordinary trade proceeds nearby
+and the district remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021142 0
+D1
+East~
+~
+0 0 4021084 0
+D2
+South~
+~
+0 0 4021140 0
+S
+#4021142
+West gash, Balmora, town, labor town~
+Firm earthen tracks wind between low plastered homes below a pale and open sky
+beside patched doorways and covered storage jars placed clear of passing feet.
+Loose road grit rolls across the worn paths and ordinary trade proceeds nearby
+while the sheltered street carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021143 0
+D1
+East~
+~
+0 0 4021086 0
+D2
+South~
+~
+0 0 4021141 0
+S
+#4021143
+West gash, Balmora, town, labor town~
+Worn public roads wind among modest Hlaalu buildings below a pale and open sky
+beside low sheltering eaves and woven reed baskets resting beneath deep eaves.
+Loose road grit rolls over the packed ground as ordinary trade proceeds nearby
+and the sheltered street endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021144 0
+D1
+East~
+~
+0 0 4021003 0
+D2
+South~
+~
+0 0 4021142 0
+D3
+West~
+~
+0 0 4021146 0
+S
+#4021144
+West gash, Balmora, town, labor town~
+Low winding streets run among modest Hlaalu buildings in the dry upland breeze
+beside patched doorways and woven reed baskets arranged along worn thresholds.
+Loose road grit sweeps across the worn paths as ordinary trade proceeds nearby
+and this part of town remains active beneath the warm valley light.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021145 0
+D2
+South~
+~
+0 0 4021143 0
+D3
+West~
+~
+0 0 4021002 0
+S
+#4021145
+West gash, Balmora, town, labor town~
+Worn public roads pass among modest Hlaalu buildings below a pale and open sky
+with plain house fronts and shielded wall lanterns resting beneath deep eaves.
+Loose road grit moves across the worn paths as doors open onto the busy street
+and this part of town endures beneath the dry and dusty western weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021017 0
+D2
+South~
+~
+0 0 4021144 0
+D3
+West~
+~
+0 0 4021066 0
+S
+#4021146
+West gash, Balmora, town, labor town~
+Worn public roads wind between low plastered homes under warm western sunlight
+beside patched doorways and covered storage jars grouped near sheltered walls.
+Fine valley dust moves across the worn paths as ordinary trade proceeds nearby
+and the weathered quarter carries the steady rhythm of ordinary town life.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4021143 0
+D3
+West~
+~
+0 0 4021134 0
+S
+#4021147
+West gash, Balmora, town, labor town~
+Worn public roads pass between low plastered homes under warm western sunlight
+with plain house fronts and woven reed baskets arranged along worn thresholds.
+Fine valley dust rolls across the worn paths as ordinary trade proceeds nearby
+and the sheltered street feels firmly rooted despite the passing traffic.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4021005 0
+D3
+West~
+~
+0 0 4021100 0
+S
+#0
+
+#RESETS
+M 0 2300226 1 4021001  ;  Mob: Astius Hanotepelus [Npcs] => #4021001 [Balmora] West gash, Balmora, town, Astius Hanotepelus's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300273 1 4021002  ;  Mob: Balyn Omavel [Npcs] => #4021002 [Balmora] West gash, Balmora, town, Balyn Omavel's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3236009 1 16  ; -- Equip: Steel dagger of fire [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2300433 1 4021003  ;  Mob: Caius Cosades [Npcs] => #4021003 [Balmora] West gash, Balmora, town, Caius Cosades's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+G 1 3403235 1 ; -- Give: Moon sugar [Items]
+E 1 3320007 1 2  ; -- Equip: Blades' insignia [Items] (finger-l)
+M 0 2300477 1 4021004  ;  Mob: Clagius Clanler [Npcs] => #4021004 [Balmora] West gash, Balmora, town, Clagius Clanler's clothing shop
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+G 1 3105006 1 ; -- Give: Extravagant pants [Items]
+G 1 3105003 1 ; -- Give: Extravagant shirt [Items]
+G 1 3105007 1 ; -- Give: Extravagant shoes [Items]
+G 1 3407012 1 ; -- Give: Basket [Items]
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3406061 1 ; -- Give: Book of dawn and dusk [Items]
+G 1 3405006 1 ; -- Give: Ceramic candlestick [Items]
+M 0 2302629 1 4021005  ;  Mob: Vadusa Sathryon [Npcs] => #4021005 [Balmora] West gash, Balmora, town, Council's club
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3236141 1 16  ; -- Equip: Steel longsword of poison [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302434 1 4021006  ;  Mob: Thanelen Velas [Npcs] => #4021006 [Balmora] West gash, Balmora, town, Council's club
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3211024 1 16  ; -- Equip: Dwarven waraxe [Items] (wield)
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3139007 1 ; -- Give: Iron sabatons [Items]
+G 1 3159003 1 ; -- Give: Steel cuirass [Items]
+G 1 3211024 1 ; -- Give: Dwarven waraxe [Items]
+G 1 3159008 1 ; -- Give: Steel bulwark [Items]
+G 1 3139005 1 ; -- Give: Iron gauntlets [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302324 1 4021007  ;  Mob: Sovor Trandel [Npcs] => #4021007 [Balmora] West gash, Balmora, town, Council's club
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+G 1 3406181 1 ; -- Give: Guide to Balmora [Items]
+G 1 3406011 1 ; -- Give: Annotated anuad [Items]
+G 1 3406092 1 ; -- Give: Changed ones [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2301611 1 4021008  ;  Mob: Marasa Aren [Npcs] => #4021008 [Balmora] West gash, Balmora, town, Council's club
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3102006 1 ; -- Give: Common pants [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3104004 1 ; -- Give: Expensive sash [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2301558 1 4021009  ;  Mob: Madrale Thirith [Npcs] => #4021009 [Balmora] West gash, Balmora, town, Council's club
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3301013 1 3  ; -- Equip: Diamond amulet [Items] (neck-1)
+E 1 3224094 1 16  ; -- Equip: Iron shortsword of shock [Items] (wield)
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2300277 1 4021010  ;  Mob: Banor Seran [Npcs] => #4021010 [Balmora] West gash, Balmora, town, Council's club
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+E 1 3223032 1 16  ; -- Equip: Iron warhammer [Items] (wield)
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410030 1 ; -- Give: Wine [Items]
+G 1 3410012 1 ; -- Give: Vintage brandy [Items]
+G 1 3410019 1 ; -- Give: Colovian brandy [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2300626 1 4021011  ;  Mob: Dorisa Darvel [Npcs] => #4021011 [Balmora] West gash, Balmora, town, Dorisa Darvel's book shop
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3406097 1 ; -- Give: Chronicles of Nchuleft [Items]
+G 1 3406184 1 ; -- Give: Guide to Vvardenfell [Items]
+G 1 3406183 1 ; -- Give: Guide to Vivec [Items]
+G 1 3406182 1 ; -- Give: Guide to Sadrith Mora [Items]
+G 1 3406181 1 ; -- Give: Guide to Balmora [Items]
+G 1 3406180 1 ; -- Give: Guide to Ald'ruhn [Items]
+G 1 3406179 1 ; -- Give: Great Houses of Morrowind [Items]
+M 0 2300637 1 4021012  ;  Mob: Dralasa Nithryon [Npcs] => #4021012 [Balmora] West gash, Balmora, town, Dralasa Nithryon's pawn shop
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3223027 1 16  ; -- Equip: Iron club [Items] (wield)
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3139003 1 ; -- Give: Iron cuirass [Items]
+G 1 3205027 1 ; -- Give: Chitin club [Items]
+G 1 3410010 1 ; -- Give: Flin [Items]
+G 1 3404013 1 ; -- Give: Ceramic bowl [Items]
+G 1 3406007 1 ; -- Give: Aedra and daedra [Items]
+G 1 3104003 1 ; -- Give: Expensive shirt [Items]
+G 1 3408019 1 ; -- Give: Journeyman's retort [Items]
+M 0 2300640 1 4021013  ;  Mob: Dralosa Athren [Npcs] => #4021013 [Balmora] West gash, Balmora, town, Dralosa Athren's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+M 0 2300651 1 4021014  ;  Mob: Drarayne Thelas [Npcs] => #4021014 [Balmora] West gash, Balmora, town, Drarayne Thelas's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+G 1 3404091 1 ; -- Give: Pillow [Items]
+M 0 2300724 1 4021016  ;  Mob: Dura gra-Bol [Npcs] => #4021016 [Balmora] West gash, Balmora, town, Dura gra-Bol's house
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3223024 1 16  ; -- Equip: Iron waraxe [Items] (wield)
+M 0 2300103 1 4021018  ;  Mob: Alvis Teri [Npcs] => #4021018 [Balmora] West gash, Balmora, town, Eight plates's cornerclub
+E 1 3006002 1 6  ; -- Equip: Founder's helm [Items] (head)
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115002 1 10  ; -- Equip: Bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3235012 1 16  ; -- Equip: Steel shortsword [Items] (wield)
+M 0 2300714 1 4021019  ;  Mob: Dulnea Ralaal [Npcs] => #4021019 [Balmora] West gash, Balmora, town, Eight plates's cornerclub
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3301035 1 3  ; -- Equip: Jeweled circlet [Items] (neck-1)
+G 1 3410009 1 ; -- Give: Greef [Items]
+G 1 3410005 1 ; -- Give: Sujamma [Items]
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410019 1 ; -- Give: Colovian brandy [Items]
+G 1 3410030 1 ; -- Give: Wine [Items]
+M 0 2301345 1 4021020  ;  Mob: Itermerel [Npcs] => #4021020 [Balmora] West gash, Balmora, town, Eight plates's cornerclub
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3232091 1 16  ; -- Equip: Silver dagger of shock [Items] (wield)
+G 1 3401004 1 ; -- Give: Potion of levitate [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3402042 1 ; -- Give: Scroll of divine intervention [Items]
+G 1 3402004 1 ; -- Give: Scroll of fire shield [Items]
+G 1 3402112 1 ; -- Give: Scroll of shock damage [Items]
+G 1 3402041 1 ; -- Give: Scroll of dispel [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301671 1 4021021  ;  Mob: Meril Hlaano [Npcs] => #4021021 [Balmora] West gash, Balmora, town, Eight plates's cornerclub
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+E 1 3223018 1 16  ; -- Equip: Iron longsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302509 1 4021022  ;  Mob: Traven Marvos [Npcs] => #4021022 [Balmora] West gash, Balmora, town, Eight plates's cornerclub
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3019008 1 16  ; -- Equip: Silver staff of war [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300737 1 4021023  ;  Mob: Edd "Fast Eddie" Theman [Npcs] => #4021023 [Balmora] West gash, Balmora, town, Fast Eddie's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+E 1 3320016 1 2  ; -- Equip: House Telvanni's insignia [Items] (finger-l)
+M 0 2302723 1 4021024  ;  Mob: Wayn [Npcs] => #4021024 [Balmora] West gash, Balmora, town, Fighter's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+G 1 3009002 1 ; -- Give: Imperial netch blade [Items]
+G 1 3019003 1 ; -- Give: Steel spider blade [Items]
+G 1 3009001 1 ; -- Give: Iron spider dagger [Items]
+G 1 3004006 1 ; -- Give: Dwarven jinksword [Items]
+G 1 3209031 1 ; -- Give: Dreugh staff [Items]
+G 1 3235031 1 ; -- Give: Steel staff [Items]
+G 1 3235002 1 ; -- Give: Steel throwing star [Items]
+G 1 3235003 1 ; -- Give: Steel throwing knife [Items]
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2301198 1 4021025  ;  Mob: Hasphat Antabolis [Npcs] => #4021025 [Balmora] West gash, Balmora, town, Fighter's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223037 1 16  ; -- Equip: Iron lance [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300960 1 4021026  ;  Mob: Flaenia Amiulusus [Npcs] => #4021026 [Balmora] West gash, Balmora, town, Fighter's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223037 1 16  ; -- Equip: Iron lance [Items] (wield)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300893 1 4021027  ;  Mob: Fasile Charascel [Npcs] => #4021027 [Balmora] West gash, Balmora, town, Fighter's guild
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3205012 1 16  ; -- Equip: Chitin shortsword [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2300855 1 4021028  ;  Mob: Eydis Fire-Eye [Npcs] => #4021028 [Balmora] West gash, Balmora, town, Fighter's guild
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115002 1 10  ; -- Equip: Bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3211028 1 16  ; -- Equip: Dwarven mace [Items] (wield)
+E 1 3320001 1 2  ; -- Equip: Fighters guild's insignia [Items] (finger-l)
+M 0 2302242 1 4021029  ;  Mob: Sharn gra-Muzgob [Npcs] => #4021029 [Balmora] West gash, Balmora, town, Mage's guild
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401064 1 ; -- Give: Potion of restore magicka [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401043 1 ; -- Give: Potion of paralysis resistance [Items]
+G 1 3401034 1 ; -- Give: Potion of fortify magicka [Items]
+M 0 2302014 1 4021030  ;  Mob: Ranis Athrys [Npcs] => #4021030 [Balmora] West gash, Balmora, town, Mage's guild
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3301020 1 1  ; -- Equip: Emerald ring [Items] (finger-r)
+E 1 3235010 1 16  ; -- Equip: Steel tanto [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301623 1 4021031  ;  Mob: Masalinie Merian [Npcs] => #4021031 [Balmora] West gash, Balmora, town, Mage's guild
+E 1 3301020 1 1  ; -- Equip: Emerald ring [Items] (finger-r)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301612 1 4021032  ;  Mob: Marayn Dren [Npcs] => #4021032 [Balmora] West gash, Balmora, town, Mage's guild
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301013 1 4021033  ;  Mob: Galbedir [Npcs] => #4021033 [Balmora] West gash, Balmora, town, Mage's guild
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+E 1 3106009 1 5  ; -- Equip: Exquisite robe [Items] (body)
+E 1 3301053 1 3  ; -- Equip: Ruby amulet [Items] (neck-1)
+G 1 3004007 1 ; -- Give: Doze charm [Items]
+G 1 3236132 1 ; -- Give: Steel dagger of poison [Items]
+G 1 3224116 1 ; -- Give: Iron spear of shock [Items]
+G 1 3304003 1 ; -- Give: Copper amulet of fatigue [Items]
+G 1 3402084 1 ; -- Give: Scroll of restore health [Items]
+G 1 3402004 1 ; -- Give: Scroll of fire shield [Items]
+G 1 3402047 1 ; -- Give: Scroll of fortify strength [Items]
+G 1 3402049 1 ; -- Give: Scroll of fortify agility [Items]
+G 1 3402085 1 ; -- Give: Scroll of restore fatigue [Items]
+G 1 3402110 1 ; -- Give: Scroll of fire damage [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2300843 1 4021034  ;  Mob: Estirdalin [Npcs] => #4021034 [Balmora] West gash, Balmora, town, Mage's guild
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3301020 1 1  ; -- Equip: Emerald ring [Items] (finger-r)
+E 1 3019003 1 16  ; -- Equip: Steel spider blade [Items] (wield)
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2300063 1 4021035  ;  Mob: Ajira [Npcs] => #4021035 [Balmora] West gash, Balmora, town, Mage's guild
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3301053 1 3  ; -- Equip: Ruby amulet [Items] (neck-1)
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3403213 1 0  ; -- Equip: Large kwama egg [Items] (take)
+G 1 3403036 1 ; -- Give: Black anther [Items]
+G 1 3403087 1 ; -- Give: Comberry [Items]
+G 1 3403188 1 ; -- Give: Hound meat [Items]
+G 1 3403309 1 ; -- Give: Scales [Items]
+G 1 3403394 1 ; -- Give: Willow anther [Items]
+G 1 3008002 1 ; -- Give: Heather [Items]
+E 1 3320003 1 2  ; -- Equip: Mages guild's insignia [Items] (finger-l)
+M 0 2301201 1 4021036  ;  Mob: Hecerinde [Npcs] => #4021036 [Balmora] West gash, Balmora, town, Hecerinde's house
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3235010 1 16  ; -- Equip: Steel tanto [Items] (wield)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302609 1 4021037  ;  Mob: Uryne Nirith [Npcs] => #4021037 [Balmora] West gash, Balmora, town, Hlaalo's manor
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+M 0 2302005 1 4021038  ;  Mob: Ralen Hlaalo [Npcs] => #4021038 [Balmora] West gash, Balmora, town, Hlaalo's manor
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3301033 1 3  ; -- Equip: Jeweled amulet [Items] (neck-1)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300245 1 4021039  ;  Mob: Aurnie Vanne [Npcs] => #4021039 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300355 1 4021040  ;  Mob: Bolnor Andrani [Npcs] => #4021040 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300521 1 4021041  ;  Mob: Danar Dalomo [Npcs] => #4021041 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3205039 1 16  ; -- Equip: Chitin shortbow [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300623 1 4021042  ;  Mob: Dondos Driler [Npcs] => #4021042 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3236135 1 16  ; -- Equip: Steel shortsword of poison [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300871 1 4021043  ;  Mob: Falvel Arenim [Npcs] => #4021043 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+G 1 3406181 1 ; -- Give: Guide to Balmora [Items]
+G 1 3406180 1 ; -- Give: Guide to Ald'ruhn [Items]
+G 1 3406024 1 ; -- Give: Amulet of kings [Items]
+G 1 3406014 1 ; -- Give: Arcana restored [Items]
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301314 1 4021044  ;  Mob: Imare [Npcs] => #4021044 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3205009 1 16  ; -- Equip: Chitin dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301677 1 4021045  ;  Mob: Mervs Uvayn [Npcs] => #4021045 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301867 1 4021046  ;  Mob: Nileno Dorvayn [Npcs] => #4021046 [Balmora] West gash, Balmora, town, Hlaalu council's manor
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3019014 1 16  ; -- Equip: Steel jinkblade of the Aegis [Items] (wield)
+G 1 3408047 1 ; -- Give: Master's lockpick [Items]
+G 1 3408052 1 ; -- Give: Master's probe [Items]
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301343 1 4021047  ;  Mob: Itan [Npcs] => #4021047 [Balmora] West gash, Balmora, town, Itan's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+G 1 3403235 1 ; -- Give: Moon sugar [Items]
+M 0 2301407 1 4021048  ;  Mob: Karlirah [Npcs] => #4021048 [Balmora] West gash, Balmora, town, Karlirah's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+G 1 3404041 1 ; -- Give: Folded cloth [Items]
+M 0 2300313 1 4021049  ;  Mob: Benunius Agrudilius [Npcs] => #4021049 [Balmora] West gash, Balmora, town, Lucky lockup's tavern
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+G 1 3409031 1 ; -- Give: Roasted salmon fillet [Items]
+G 1 3410005 1 ; -- Give: Sujamma [Items]
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410022 1 ; -- Give: Firebrand wine [Items]
+G 1 3410007 1 ; -- Give: Shein [Items]
+G 1 3410008 1 ; -- Give: Mazte [Items]
+M 0 2300466 1 4021050  ;  Mob: Chuna [Npcs] => #4021050 [Balmora] West gash, Balmora, town, Lucky lockup's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+M 0 2300500 1 4021051  ;  Mob: Culumaire [Npcs] => #4021051 [Balmora] West gash, Balmora, town, Lucky lockup's tavern
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3301020 1 1  ; -- Equip: Emerald ring [Items] (finger-r)
+E 1 3301053 1 3  ; -- Equip: Ruby amulet [Items] (neck-1)
+M 0 2301219 1 4021052  ;  Mob: Hickim [Npcs] => #4021052 [Balmora] West gash, Balmora, town, Lucky lockup's tavern
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3205039 1 16  ; -- Equip: Chitin shortbow [Items] (wield)
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2302489 1 4021053  ;  Mob: Todwendy [Npcs] => #4021053 [Balmora] West gash, Balmora, town, Lucky lockup's tavern
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+M 0 2301657 1 4021054  ;  Mob: Meldor [Npcs] => #4021054 [Balmora] West gash, Balmora, town, Meldor's armor shop
+E 1 3153003 1 5  ; -- Equip: Nordic trollbone cuirass [Items] (body)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3111002 1 ; -- Give: Armun an bonemold armcops [Items]
+G 1 3115001 1 ; -- Give: Bonemold scullcap [Items]
+G 1 3121001 1 ; -- Give: Dreugh scullcap [Items]
+G 1 3108007 1 ; -- Give: Adamantium boots [Items]
+G 1 3235026 1 ; -- Give: Steel battleaxe [Items]
+G 1 3144005 1 ; -- Give: Netch leather bracers [Items]
+M 0 2301699 1 4021055  ;  Mob: Milie Hastien [Npcs] => #4021055 [Balmora] West gash, Balmora, town, Milie Hastien's clothing shop
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3106004 1 13  ; -- Equip: Exquisite sash [Items] (waist)
+E 1 3106010 1 7  ; -- Equip: Exquisite skirt [Items] (legs)
+E 1 3301036 1 1  ; -- Equip: Jeweled ring [Items] (finger-r)
+G 1 3105004 1 ; -- Give: Extravagant sash [Items]
+G 1 3105003 1 ; -- Give: Extravagant shirt [Items]
+G 1 3105006 1 ; -- Give: Extravagant pants [Items]
+G 1 3104007 1 ; -- Give: Expensive shoes [Items]
+G 1 3104003 1 ; -- Give: Expensive shirt [Items]
+G 1 3104006 1 ; -- Give: Expensive pants [Items]
+M 0 2300133 1 4021056  ;  Mob: Angahran [Npcs] => #4021056 [Balmora] West gash, Balmora, town, Morag tong's guild
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3007003 1 16  ; -- Equip: Glass jinkblade [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2300846 1 4021057  ;  Mob: Ethasi Rilvayn [Npcs] => #4021057 [Balmora] West gash, Balmora, town, Morag tong's guild
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3231011 1 16  ; -- Equip: Silver wakizashi [Items] (wield)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2301095 1 4021058  ;  Mob: Gilyan Sedas [Npcs] => #4021058 [Balmora] West gash, Balmora, town, Morag tong's guild
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3205039 1 16  ; -- Equip: Chitin shortbow [Items] (wield)
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2301681 1 4021059  ;  Mob: Methas Hlaalu [Npcs] => #4021059 [Balmora] West gash, Balmora, town, Morag tong's guild
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3301001 1 3  ; -- Equip: Amber amulet [Items] (neck-1)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2301787 1 4021060  ;  Mob: Nachael [Npcs] => #4021060 [Balmora] West gash, Balmora, town, Morag tong's guild
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2302234 1 4021061  ;  Mob: Shannat Pansamsi [Npcs] => #4021061 [Balmora] West gash, Balmora, town, Morag tong's guild
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3320010 1 2  ; -- Equip: Morag tong's insignia [Items] (finger-l)
+M 0 2301795 1 4021062  ;  Mob: Nalcarya of White Haven [Npcs] => #4021062 [Balmora] West gash, Balmora, town, Nalcarya's alchemy shop
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+G 1 3408020 1 ; -- Give: Master's mortar and pestle [Items]
+G 1 3408021 1 ; -- Give: Master's alembic [Items]
+G 1 3408022 1 ; -- Give: Master's calcinator [Items]
+G 1 3408023 1 ; -- Give: Master's retort [Items]
+G 1 3403005 1 ; -- Give: Alit hide [Items]
+G 1 3403036 1 ; -- Give: Black anther [Items]
+G 1 3403046 1 ; -- Give: Bloat [Items]
+G 1 3403099 1 ; -- Give: Daedra skin [Items]
+G 1 3403067 1 ; -- Give: Daedra heart [Items]
+G 1 3403103 1 ; -- Give: Diamond [Items]
+G 1 3403129 1 ; -- Give: Fire salt [Items]
+G 1 3403136 1 ; -- Give: Frost salt [Items]
+G 1 3403242 1 ; -- Give: Muck [Items]
+G 1 3403276 1 ; -- Give: Racer plume [Items]
+M 0 2301931 1 4021063  ;  Mob: Ondres Nerano [Npcs] => #4021063 [Balmora] West gash, Balmora, town, Nerano's manor
+E 1 3105006 1 7  ; -- Equip: Extravagant pants [Items] (legs)
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105004 1 13  ; -- Equip: Extravagant sash [Items] (waist)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3301016 1 1  ; -- Equip: Diamond ring [Items] (finger-r)
+E 1 3301014 1 3  ; -- Equip: Diamond necklace [Items] (neck-1)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301874 1 4021064  ;  Mob: Nine-Toes [Npcs] => #4021064 [Balmora] West gash, Balmora, town, Nine-Toes's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3235041 1 16  ; -- Equip: Steel crossbow [Items] (wield)
+E 1 3320007 1 2  ; -- Equip: Blades' insignia [Items] (finger-l)
+M 0 2301988 1 4021065  ;  Mob: Ra'Virr [Npcs] => #4021065 [Balmora] West gash, Balmora, town, Ra'Virr's trading shop
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3235032 1 16  ; -- Equip: Steel warhammer [Items] (wield)
+G 1 3006003 1 ; -- Give: Fiend tanto [Items]
+G 1 3006004 1 ; -- Give: Fiend katana [Items]
+G 1 3004008 1 ; -- Give: Devil spear [Items]
+G 1 3004009 1 ; -- Give: Demon tanto [Items]
+M 0 2302018 1 4021066  ;  Mob: Rararyn Radarys [Npcs] => #4021066 [Balmora] West gash, Balmora, town, Rararyn Radarys's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+M 0 2302091 1 4021067  ;  Mob: Rithleen [Npcs] => #4021067 [Balmora] West gash, Balmora, town, Rithleen's house
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115002 1 10  ; -- Equip: Bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3223019 1 16  ; -- Equip: Iron broadsword [Items] (wield)
+E 1 3320007 1 2  ; -- Equip: Blades' insignia [Items] (finger-l)
+M 0 2300161 1 4021068  ;  Mob: Arathor [Npcs] => #4021068 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2300252 1 4021069  ;  Mob: Bacola Closcius [Npcs] => #4021069 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3104004 1 13  ; -- Equip: Expensive sash [Items] (waist)
+G 1 3410005 1 ; -- Give: Sujamma [Items]
+G 1 3410009 1 ; -- Give: Greef [Items]
+G 1 3410004 1 ; -- Give: Cyrodiilic brandy [Items]
+G 1 3410007 1 ; -- Give: Shein [Items]
+G 1 3410030 1 ; -- Give: Wine [Items]
+G 1 3410019 1 ; -- Give: Colovian brandy [Items]
+G 1 3409008 1 ; -- Give: Grilled boar meat [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2300462 1 4021070  ;  Mob: Chirranirr [Npcs] => #4021070 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+G 1 3408047 1 ; -- Give: Master's lockpick [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301932 1 4021071  ;  Mob: Only-He-Stands-There [Npcs] => #4021071 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+G 1 3402062 1 ; -- Give: Scroll of disease resistance [Items]
+G 1 3406099 1 ; -- Give: Consolations of prayer [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401056 1 ; -- Give: Potion of restore endurance [Items]
+G 1 3401060 1 ; -- Give: Potion of restore personality [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+M 0 2301965 1 4021072  ;  Mob: Phane Rielle [Npcs] => #4021072 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3106006 1 7  ; -- Equip: Exquisite pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3104005 1 9  ; -- Equip: Expensive gloves [Items] (hands)
+G 1 3406181 1 ; -- Give: Guide to Balmora [Items]
+G 1 3406180 1 ; -- Give: Guide to Ald'ruhn [Items]
+G 1 3406021 1 ; -- Give: Azura and the box [Items]
+G 1 3406016 1 ; -- Give: Arkay the enemy [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302321 1 4021073  ;  Mob: Sottilde [Npcs] => #4021073 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3223027 1 16  ; -- Equip: Iron club [Items] (wield)
+G 1 3223032 1 ; -- Give: Iron warhammer [Items]
+G 1 3223003 1 ; -- Give: Iron throwing knife [Items]
+G 1 3205012 1 ; -- Give: Chitin shortsword [Items]
+G 1 3405023 1 ; -- Give: Torch [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302336 1 4021074  ;  Mob: Sugar-Lips Habasi [Npcs] => #4021074 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3217009 1 16  ; -- Equip: Glass dagger [Items] (wield)
+E 1 3140005 1 9  ; -- Equip: Leather bracers [Items] (hands)
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408047 1 ; -- Give: Master's lockpick [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408052 1 ; -- Give: Master's probe [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302379 1 4021075  ;  Mob: Tappius Esdrecus [Npcs] => #4021075 [Balmora] West gash, Balmora, town, South wall's cornerclub
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144008 1 17  ; -- Equip: Netch leather buckler [Items] (hold)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3235018 1 16  ; -- Equip: Steel longsword [Items] (wield)
+M 0 2300642 1 4021076  ;  Mob: Dralval Andrano [Npcs] => #4021076 [Balmora] West gash, Balmora, town, Tribunal's temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3403064 1 ; -- Give: Bungler's bane [Items]
+G 1 3403195 1 ; -- Give: Hypha facia [Items]
+G 1 3403164 1 ; -- Give: Green lichen [Items]
+G 1 3403207 1 ; -- Give: Kagouti hide [Items]
+G 1 3403228 1 ; -- Give: Marshmerrow [Items]
+G 1 3403285 1 ; -- Give: Red lichen [Items]
+G 1 3403313 1 ; -- Give: Scathecraw [Items]
+G 1 3403393 1 ; -- Give: Wickwheat [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2300914 1 4021077  ;  Mob: Feldrelo Sadri [Npcs] => #4021077 [Balmora] West gash, Balmora, town, Tribunal's temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301305 1 4021078  ;  Mob: Ilen Faveran [Npcs] => #4021078 [Balmora] West gash, Balmora, town, Tribunal's temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3022001 1 6  ; -- Equip: Velothian helm [Items] (head)
+E 1 3019015 1 17  ; -- Equip: Shield of light [Items] (hold)
+G 1 3402055 1 ; -- Give: Scroll of fortify fatigue [Items]
+G 1 3402046 1 ; -- Give: Scroll of fortify attack [Items]
+G 1 3402084 1 ; -- Give: Scroll of restore health [Items]
+G 1 3402010 1 ; -- Give: Scroll of open [Items]
+G 1 3402049 1 ; -- Give: Scroll of fortify agility [Items]
+G 1 3402056 1 ; -- Give: Scroll of fortify magicka [Items]
+G 1 3402050 1 ; -- Give: Scroll of fortify intelligence [Items]
+G 1 3402143 1 ; -- Give: Scroll of soultrap [Items]
+G 1 3402107 1 ; -- Give: Scroll of drain health [Items]
+G 1 3402037 1 ; -- Give: Scroll of almsivi intervention [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301491 1 4021079  ;  Mob: Llarara Omayn [Npcs] => #4021079 [Balmora] West gash, Balmora, town, Tribunal's temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401033 1 ; -- Give: Potion of fortify fatigue [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2301498 1 4021080  ;  Mob: Llathyno Hlaalu [Npcs] => #4021080 [Balmora] West gash, Balmora, town, Tribunal's temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3019016 1 16  ; -- Equip: Steel staff of divine judgement [Items] (wield)
+G 1 3403394 1 ; -- Give: Willow anther [Items]
+G 1 3403366 1 ; -- Give: Trama root [Items]
+G 1 3403347 1 ; -- Give: Stoneflower petal [Items]
+G 1 3403319 1 ; -- Give: Scuttle [Items]
+G 1 3403317 1 ; -- Give: Scrib jelly [Items]
+G 1 3403291 1 ; -- Give: Resin [Items]
+G 1 3403242 1 ; -- Give: Muck [Items]
+G 1 3403208 1 ; -- Give: Kresh fiber [Items]
+G 1 3403162 1 ; -- Give: Gravedust [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302404 1 4021081  ;  Mob: Telis Salvani [Npcs] => #4021081 [Balmora] West gash, Balmora, town, Tribunal's temple
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3401040 1 ; -- Give: Potion of disease resistance [Items]
+G 1 3401032 1 ; -- Give: Potion of fortify health [Items]
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3403020 1 ; -- Give: Ash salt [Items]
+G 1 3403035 1 ; -- Give: Bittergreen petal [Items]
+G 1 3403077 1 ; -- Give: Chokeweed [Items]
+G 1 3403087 1 ; -- Give: Comberry [Items]
+G 1 3403164 1 ; -- Give: Green lichen [Items]
+G 1 3403249 1 ; -- Give: Netch leather [Items]
+G 1 3403279 1 ; -- Give: Rat meat [Items]
+E 1 3320009 1 2  ; -- Equip: Tribunal temple's insignia [Items] (finger-l)
+M 0 2302452 1 4021082  ;  Mob: Thorek [Npcs] => #4021082 [Balmora] West gash, Balmora, town, The razor hole's shop
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3227019 1 16  ; -- Equip: Nordic broadsword [Items] (wield)
+G 1 3408044 1 ; -- Give: Repair prongs [Items]
+G 1 3408040 1 ; -- Give: Journeyman armorer's hammer [Items]
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3223018 1 ; -- Give: Iron longsword [Items]
+G 1 3223028 1 ; -- Give: Iron mace [Items]
+G 1 3223015 1 ; -- Give: Iron saber [Items]
+G 1 3231012 1 ; -- Give: Silver shortsword [Items]
+G 1 3235032 1 ; -- Give: Steel warhammer [Items]
+G 1 3235020 1 ; -- Give: Steel claymore [Items]
+M 0 2302530 1 4021083  ;  Mob: Tsiya [Npcs] => #4021083 [Balmora] West gash, Balmora, town, Tsiya's house
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+G 1 3410006 1 ; -- Give: Skooma [Items]
+M 0 2302548 1 4021084  ;  Mob: Tyermaillin [Npcs] => #4021084 [Balmora] West gash, Balmora, town, Tyermaillin's house
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+G 1 3401063 1 ; -- Give: Potion of restore fatigue [Items]
+G 1 3401022 1 ; -- Give: Potion of cure poison [Items]
+G 1 3401023 1 ; -- Give: Potion of cure paralysis [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3401057 1 ; -- Give: Potion of restore agility [Items]
+G 1 3401038 1 ; -- Give: Potion of poison resistance [Items]
+E 1 3320007 1 2  ; -- Equip: Blades' insignia [Items] (finger-l)
+M 0 2300402 1 4021085  ;  Mob: Briras Tyravel [Npcs] => #4021085 [Balmora] West gash, Balmora, town, Tyravel's manor
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3115002 1 10  ; -- Equip: Bonemold armcops [Items] (arms)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3153008 1 17  ; -- Equip: Nordic trollbone bulwark [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3106006 1 7  ; -- Equip: Exquisite pants [Items] (legs)
+E 1 3213018 1 16  ; -- Equip: Ebony longsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302713 1 4021086  ;  Mob: Vorar Helas [Npcs] => #4021086 [Balmora] West gash, Balmora, town, Vorar Helas's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+E 1 3205009 1 16  ; -- Equip: Chitin dagger [Items] (wield)
+E 1 3018007 1 1  ; -- Equip: Ring of medusa's gaze [Items] (finger-r)
+G 1 3410007 1 ; -- Give: Shein [Items]
+M 0 2300641 1 4021090  ;  Mob: Dralsea Arethi [Npcs] => #4021090 [0] West gash, Balmora, town, high town
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+M 0 2300645 1 4021092  ;  Mob: Dranas Dradas [Npcs] => #4021092 [0] West gash, Balmora, town, high town
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3235034 1 16  ; -- Equip: Steel spear [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2301202 1 4021099  ;  Mob: Heddvild [Npcs] => #4021099 [0] West gash, Balmora, town, commercial district
+E 1 3149003 1 5  ; -- Equip: Nordic fur jerkin [Items] (body)
+E 1 3149002 1 10  ; -- Equip: Nordic fur epaulets [Items] (arms)
+E 1 3149007 1 8  ; -- Equip: Nordic fur striders [Items] (feet)
+E 1 3149005 1 9  ; -- Equip: Nordic fur bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3227026 1 16  ; -- Equip: Nordic battleaxe [Items] (wield)
+M 0 2301486 1 4021100  ;  Mob: Llandras Belaal [Npcs] => #4021100 [0] West gash, Balmora, town, commercial district
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3237040 1 16  ; -- Equip: Wooden longbow [Items] (wield)
+G 1 3403213 1 ; -- Give: Large kwama egg [Items]
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+G 1 3403209 1 ; -- Give: Kwama cuttle [Items]
+G 1 3403228 1 ; -- Give: Marshmerrow [Items]
+G 1 3403306 1 ; -- Give: Saltrice [Items]
+G 1 3405023 1 ; -- Give: Torch [Items]
+M 0 2302197 1 4021101  ;  Mob: Selvil Sareloth [Npcs] => #4021101 [0] West gash, Balmora, town, commercial district
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302397 1 4021102  ;  Mob: Tedryn Brenur [Npcs] => #4021102 [0] West gash, Balmora, town, commercial district
+E 1 3114003 1 5  ; -- Equip: Boiled netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3223028 1 16  ; -- Equip: Iron mace [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302239 1 4021107  ;  Mob: Shargam gro-Shagdulg [Npcs] => #4021107 [0] West gash, Balmora, town, labor town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+M 0 2301267 1 4021108  ;  Mob: Hul [Npcs] => #4021108 [0] West gash, Balmora, town, labor town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2302326 1 4021109  ;  Mob: Stargel [Npcs] => #4021109 [0] West gash, Balmora, town, labor town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+S
+
+#SHOPS
+2300063 10 13 19 0 0 120 90 0 23 ; Ajira
+2300252 17 19 0 0 0 120 90 0 23 ; Bacola Closcius
+2300277 17 19 0 0 0 120 90 0 23 ; Banor Seran
+2300313 17 19 0 0 0 120 90 0 23 ; Benunius Agrudilius
+2300355 13 5 0 0 0 120 90 0 23 ; Bolnor Andrani
+2300462 13 5 0 0 0 120 90 0 23 ; Chirranirr
+2300477 5 9 12 8 35 120 90 0 23 ; Clagius Clanler
+2300626 35 2 0 0 0 120 90 0 23 ; Dorisa Darvel
+2300637 5 9 12 1 8 120 90 0 23 ; Dralasa Nithryon
+2300642 10 13 19 0 0 120 90 0 23 ; Dralval Andrano
+2300714 17 19 0 0 0 120 90 0 23 ; Dulnea Ralaal
+2300871 35 0 0 0 0 120 90 0 23 ; Falvel Arenim
+2301013 9 5 41 2 0 120 90 0 23 ; Galbedir
+2301095 13 5 0 0 0 120 90 0 23 ; Gilyan Sedas
+2301201 13 5 0 0 0 120 90 0 23 ; Hecerinde
+2301219 13 5 0 0 0 120 90 0 23 ; Hickim
+2301305 9 5 41 2 0 120 90 0 23 ; Ilen Faveran
+2301491 10 0 0 0 0 120 90 0 23 ; Llarara Omayn
+2301498 10 0 0 0 0 120 90 0 23 ; Llathyno Hlaalu
+2301558 13 5 0 0 0 120 90 0 23 ; Madrale Thirith
+2301611 5 9 12 1 8 120 90 0 23 ; Marasa Aren
+2301657 5 9 0 0 0 120 90 0 23 ; Meldor
+2301699 9 0 0 0 0 120 90 0 23 ; Milie Hastien
+2301795 10 13 19 0 0 120 90 0 23 ; Nalcarya of White Haven
+2301867 13 5 0 0 0 120 90 0 23 ; Nileno Dorvayn
+2301932 10 13 0 0 0 120 90 0 23 ; Only-He-Stands-There
+2301965 35 0 0 0 0 120 90 0 23 ; Phane Rielle
+2301988 5 9 12 8 35 120 90 0 23 ; Ra'Virr
+2302242 10 13 0 0 0 120 90 0 23 ; Sharn gra-Muzgob
+2302321 5 9 12 1 8 120 90 0 23 ; Sottilde
+2302324 35 0 0 0 0 120 90 0 23 ; Sovor Trandel
+2302336 13 5 0 0 0 120 90 0 23 ; Sugar-Lips Habasi
+2302404 10 13 0 0 0 120 90 0 23 ; Telis Salvani
+2302434 5 9 0 0 0 120 90 0 23 ; Thanelen Velas
+2302452 5 9 0 0 0 120 90 0 23 ; Thorek
+2302548 10 13 0 0 0 120 90 0 23 ; Tyermaillin
+2302723 5 9 0 0 0 120 90 0 23 ; Wayn
+0
+
+#REPAIRS
+2301657 9 5 0 100 1 0 23 ; Meldor
+2302434 9 5 0 100 1 0 23 ; Thanelen Velas
+2302452 9 5 0 100 1 0 23 ; Thorek
+2302723 9 5 0 100 1 0 23 ; Wayn
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 BALMORA~
+Balmora is a prosperous Hlaalu city built across both banks of the Odai River,
+where stone bridges link Labor Town, busy market and the heights of High Town.
+Adobe homes crowd both banks as traders, workers and guards fill broad streets
+and dusty roads lead outward toward four neighboring regions.~
+0 $~
+
+#$

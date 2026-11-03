@@ -1,0 +1,1483 @@
+#AREA Wilderness 0801~
+
+#VERSION 1
+
+#CLIMATE 3 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#1080101
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#1080101
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#1080101
+Bitter coast region, wilderness~
+A mist-covered trail runs through beds of tall reeds beneath rain-heavy clouds
+among wet leaves, reed clumps and clay banks resting beneath the low gray sky.
+Moist air passes above the shallow pools and pale fungi glisten on fallen bark
+with marsh mist spreading across the dark peat.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080102 0
+D2
+South~
+~
+0 0 1080108 0
+S
+#1080102
+Bitter coast region, wilderness~
+A sodden earthen track winds along a waterlogged hollow beneath a low gray sky
+beside damp ferns, tangled roots and rain-dark stones lining the narrow trail.
+Cool mist drifts over the wet ground as soft earth yields beneath passing feet
+and faint drizzle settles inside shallow hollows.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080103 0
+D2
+South~
+~
+0 0 1080109 0
+D3
+West~
+~
+0 0 1080101 0
+S
+#1080103
+Bitter coast region, wilderness~
+An open sweep of marsh stretches across saturated ground in the cool humid air
+past rotting bark, pale mushrooms and muddy hollows rising from the dark peat.
+Gray fog settles around the mossy trunks as low plants sway beside the puddles
+with soft rain drifting beneath the clouded sky.~
+0 0 2 0 0 96
+D1
+East
+~
+~
+0 0 1080104 0
+D3
+West
+~
+~
+0 0 1080102 0
+D0
+Exit description
+~
+~
+0 0 1070294 0
+S
+#1080104
+Ascadian isles region, wilderness~
+A gently rolling path winds along a low rounded rise amid a warm steady breeze
+among fallen twigs, bare roots and small boulders lying amid the sunlit grass.
+Thin haze hangs over the grassy ground and pale blossoms turn toward the light
+as cloud shadows pass along the narrow trail.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080105 0
+D3
+West~
+~
+0 0 1080103 0
+S
+#1080105
+Ascadian isles region, wilderness~
+A green upland trail threads between flowering shrubs in the mild and open air
+past gentle hollows, low stones and wind-bent weeds rising from the rich soil.
+Cloud shadows move across the rich earth as loose petals drift among the roots
+with soft light fading beneath the pale sky.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080106 0
+D2
+South~
+~
+0 0 1080112 0
+D3
+West
+~
+~
+0 0 1080104 0
+D0
+Exit description
+~
+~
+0 0 1070296 0
+S
+#1080106
+Ascadian isles region, wilderness~
+Soft fertile ground stretches over broad grassy slopes beneath a pale blue sky
+beside fern clusters, wild grasses and young saplings lining the narrow trail.
+Warm air passes around the sunlit stones as low plants bend beside the pathway
+as thin haze spreads through the mild undergrowth.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080107 0
+D3
+West~
+~
+0 0 1080105 0
+S
+#1080107
+Ascadian isles region, wilderness~
+A flower-lined trail runs between scattered trees beneath a veil of high cloud
+past bare roots, low stones and dry seed heads crowding the edges of the path.
+Upland wind moves across the rich earth as wild grasses ripple over the slopes
+as green foliage bends over the gentle hills.~
+0 0 2 0 0 96
+D3
+West~
+~
+0 0 1080106 0
+S
+#1080108
+Bitter coast region, wilderness~
+A muddy lowland path curves between patches of damp moss beneath a veil of fog
+past dark pools, waterlogged logs and wet grass lying amid the saturated soil.
+Marsh wind slides through the reed beds as fine rain darkens the exposed roots
+as low haze hangs under the tangled branches.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080101 0
+D2
+South~
+~
+0 0 1080115 0
+S
+#1080109
+Bitter coast region, wilderness~
+A broad reach of marsh opens across rain-dark earth beneath weak morning light
+among slick boulders, clay banks and damp ferns spread across the soft ground.
+Low haze hangs along the muddy trail and dark water seeps into narrow channels
+with wet foliage stirring around the mossy trunks.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080102 0
+D2
+South~
+~
+0 0 1080116 0
+S
+#1080110
+Bitter coast region, wilderness~
+Dark waterlogged soil extends between gnarled trees under dim clouded daylight
+beside mossy stones, wet grass and reed clumps crowding the edges of the path.
+Damp air moves across the open marsh as droplets gather along the broad leaves
+as thin reeds bend along the muddy trail.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080111 0
+S
+#1080111
+Ascadian isles region, wilderness~
+Low rounded hills extend along a shallow hollow under slow-moving white clouds
+among sunlit pebbles, wild grasses and fallen twigs scattered over warm earth.
+Fragrant air moves across the rich earth as seed heads nod above the soft soil
+with mild wind moving between the grassy slopes.~
+0 0 2 0 0 96
+D2
+South~
+~
+0 0 1080118 0
+D3
+West~
+~
+0 0 1080110 0
+S
+#1080112
+Ascadian isles region, wilderness~
+A broad grassy trail winds across rich ocher soil under soft filtered sunlight
+beside low stones, young saplings and bare roots resting beneath the pale sky.
+Golden light hangs across the rich earth as thin haze blurs the farthest hills
+with warm air passing inside shallow hollows.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080105 0
+D2
+South~
+~
+0 0 1080119 0
+S
+#1080113
+Ascadian isles region, wilderness~
+A sunlit earthen track curves through tall green grass beneath a pale blue sky
+past wild grasses, bare roots and fern clusters gathered beneath leafy growth.
+Warm air drifts along the narrow trail and small insects hover above the herbs
+with thin haze settling over the open grassland.~
+0 0 6 0 0 96
+D2
+South~
+~
+0 0 1080120 0
+S
+#1080114
+Ascadian isles region, wilderness~
+Low rounded hills run across a wide open meadow in air scented with wild herbs
+among bare roots, low stones and fallen twigs set within gentle folds of land.
+Thin haze drifts over the grassy ground as bright patches cross over the grass
+and pale blossoms bend under the leafy branches.~
+0 0 2 0 0 96
+D2
+South
+~
+~
+0 0 1080121 0
+D1
+Exit description
+~
+~
+0 0 1020108 0
+S
+#1080115
+Bitter coast region, wilderness~
+Soft peat-covered ground slopes between mossy roots in air heavy with moisture
+past rotting bark, dark pools and clay banks marking the otherwise open marsh.
+Faint rain lingers along the muddy trail as thin reeds bend close to the water
+as gray fog drifts through the dim undergrowth.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080108 0
+S
+#1080116
+Bitter coast region, wilderness~
+A dim stretch of lowland spreads along a shallow pool under low banks of cloud
+among damp ferns, peat hummocks and wet leaves collected along muddy channels.
+Thin drizzle falls through the reed beds as soft mud shifts beneath every step
+and cool moisture lingers above the saturated ground.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080109 0
+D1
+East~
+~
+0 0 1080117 0
+S
+#1080117
+Bitter coast region, wilderness~
+A narrow marsh trail threads through tangled reeds amid the smell of wet earth
+beside dark pools, clay banks and damp ferns set within shallow folds of land.
+Clouded light hangs across the dark peat as thin fog blurs the farthest growth
+as soft rain falls over the open marsh.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080118 0
+D3
+West~
+~
+0 0 1080116 0
+S
+#1080118
+Ascadian isles region, wilderness~
+A gently rolling path runs along a shallow hollow beneath warm afternoon light
+beside small boulders, fallen twigs and smooth stones lining the narrow trail.
+Upland wind moves across the rich earth as warm light glances from the pebbles
+with wild grass bending above the fertile ground.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080111 0
+D2
+South~
+~
+0 0 1080125 0
+D3
+West~
+~
+0 0 1080117 0
+D1
+Exit description
+~
+~
+0 0 1080119 0
+S
+#1080119
+Ascadian isles region, wilderness~
+An overgrown country path runs along a shallow hollow in the mild and open air
+past bare roots, wild grasses and low stones spread across the fertile ground.
+Thin haze hangs along the narrow trail and warm soil yields beneath every step
+and soft light rests across the rich earth.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080112 0
+D2
+South~
+~
+0 0 1080126 0
+D3
+Exit description~
+~
+0 0 1080118 0
+S
+#1080120
+Ascadian isles region, wilderness~
+A shallow grassy hollow opens across rich ocher soil amid a warm steady breeze
+among low stones, gentle hollows and fallen twigs lying amid the sunlit grass.
+Golden light falls across the rich earth as loose petals drift among the roots
+and green foliage stirs among the low shrubs.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080113 0
+D2
+South~
+~
+0 0 1080127 0
+S
+#1080121
+Ascadian isles region, wilderness~
+Low rounded hills rise between scattered trees under clear and gentle daylight
+beside fern clusters, dry seed heads and bare roots rising from the rich soil.
+Warm air moves over the grassy ground as small leaves tremble on thin branches
+with cloud shadows drifting around the sunlit stones.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080114 0
+D2
+South~
+~
+0 0 1080128 0
+S
+#1080124
+Bitter coast region, wilderness~
+Damp uneven ground rises over a maze of shallow ruts under pale filtered light
+past wet grass, tangled roots and mossy stones scattered over rain-dark earth.
+Cool moisture hangs across the dark peat as wet leaves tremble under the drops
+with faint drizzle lingering between the wet grasses.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080125 0
+D2
+South~
+~
+0 0 1080131 0
+S
+#1080125
+Ascadian isles region, wilderness~
+An open sweep of grass spreads between scattered trees beneath a pale blue sky
+past wild grasses, low stones and bare roots clustered beside shallow hollows.
+Cloud shadows pass across the rich earth as seed heads nod above the soft soil
+as warm air moves under the leafy branches.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080118 0
+D2
+South~
+~
+0 0 1080132 0
+D3
+West~
+~
+0 0 1080124 0
+S
+#1080126
+Ascadian isles region, wilderness~
+Soft fertile ground slopes across rich ocher soil beneath a veil of high cloud
+among young saplings, low stones and sunlit pebbles scattered over warm earth.
+Upland wind moves along the narrow trail as thin haze blurs the farthest hills
+and wild grass rustles inside shallow hollows.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080119 0
+D2
+South~
+~
+0 0 1080133 0
+S
+#1080127
+Ascadian isles region, wilderness~
+A flower-lined trail runs between scattered trees beneath warm afternoon light
+beside bare roots, wild grasses and fallen twigs resting beneath the pale sky.
+Cloud shadows move across the rich earth as low plants bend beside the pathway
+as mild wind lingers around the sunlit stones.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080120 0
+D2
+South~
+~
+0 0 1080134 0
+S
+#1080128
+Ascadian isles region, wilderness~
+A green upland trail winds along a shallow hollow under soft filtered sunlight
+past fallen twigs, wild grasses and low stones caught among the exposed roots.
+Warm air slides over the grassy ground and dry twigs scrape against the stones
+as pale blossoms sway over the gentle hills.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080121 0
+D2
+South~
+~
+0 0 1080135 0
+S
+#1080131
+Bitter coast region, wilderness~
+A shallow swampy hollow extends between mossy roots amid a soft steady drizzle
+among wet leaves, dark pools and reed clumps gathered beneath dripping growth.
+Damp air moves across the open marsh as dim reflections move beneath the reeds
+with cool moisture hanging over the shallow pools.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080124 0
+D1
+East~
+~
+0 0 1080132 0
+D2
+South~
+~
+0 0 1080138 0
+S
+#1080132
+Ascadian isles region, wilderness~
+Low rounded hills rise between flowering shrubs beneath slowly drifting clouds
+among bare roots, fallen twigs and wild grasses gathered beneath leafy growth.
+Thin haze drifts along the narrow trail as bright patches cross over the grass
+with green foliage stirring over the open grassland.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080125 0
+D3
+West~
+~
+0 0 1080131 0
+D1
+Exit description
+~
+~
+0 0 1080133 0
+S
+#1080133
+Ascadian isles region, wilderness~
+A sunlit earthen track winds between flowering shrubs in the mild and open air
+beside low stones, bare roots and fallen twigs crowding the edges of the path.
+Upland wind moves across the rich earth as pale blossoms turn toward the light
+and cloud shadows drift between the grassy slopes.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080126 0
+D1
+East~
+~
+0 0 1080134 0
+D3
+Exit description~
+~
+0 0 1080132 0
+S
+#1080134
+Ascadian isles region, wilderness~
+A broad grassy trail curves between low stony ridges amid a warm steady breeze
+past fern clusters, bare roots and low stones set within gentle folds of land.
+Golden light falls across the rich earth as low plants bend beside the pathway
+as wild grass trembles above the fertile ground.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080127 0
+D1
+East~
+~
+0 0 1080135 0
+D2
+South~
+~
+0 0 1080141 0
+D3
+West~
+~
+0 0 1080133 0
+S
+#1080135
+Ascadian isles region, wilderness~
+Rich ocher-colored soil extends along a shallow hollow beneath a pale blue sky
+among fern clusters, smooth stones and small boulders lining the narrow trail.
+Warm air moves over the grassy ground as clear light reaches the exposed roots
+and thin haze hangs among the low shrubs.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080128 0
+D2
+South~
+~
+0 0 1080142 0
+D3
+West
+~
+~
+0 0 1080134 0
+D1
+Exit description
+~
+~
+0 0 1020129 0
+S
+#1080138
+Bitter coast region, wilderness~
+A low tract of wet earth spreads across dark peat under a ceiling of gray haze
+beside clay banks, rotting bark and damp ferns clustered beside shallow pools.
+Cool mist drifts through the reed beds as pale spores drift beneath the leaves
+with thin reeds bending among the wet roots.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080131 0
+D1
+East~
+~
+0 0 1080139 0
+S
+#1080139
+Bitter coast region, wilderness~
+A mossy earthen trail winds between gnarled trees beneath slowly moving clouds
+past reed clumps, slick boulders and muddy hollows caught among the wet roots.
+Low haze spreads across the dark peat as tiny ripples cross the darkened pools
+as damp air moves under the tangled branches.~
+0 0 2 0 0 96
+D2
+South~
+~
+0 0 1080146 0
+D3
+West~
+~
+0 0 1080138 0
+S
+#1080141
+Ascadian isles region, wilderness~
+Low rounded hills run between flowering shrubs amid the smell of fertile earth
+beside dry seed heads, fern clusters and bare roots rising from the rich soil.
+Thin haze drifts along the narrow trail as wild grasses ripple over the slopes
+and warm air passes beneath the pale sky.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080134 0
+D2
+South~
+~
+0 0 1080148 0
+S
+#1080142
+Ascadian isles region, wilderness~
+A gently rolling path runs across rich ocher soil beneath a veil of high cloud
+past bare roots, low stones and wild grasses spread across the fertile ground.
+Warm air moves across the rich earth as fallen leaves stir inside shallow ruts
+as soft light settles along the narrow trail.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080135 0
+D2
+South~
+~
+0 0 1080149 0
+S
+#1080143
+Bitter coast region, near Hla Oad village~
+A winding path through reeds curves across dark peat under drifting marsh mist
+among mossy stones, twisted branches and rotting bark lining the narrow trail.
+Faint rain descends over the wet ground as shallow water stirs among the roots
+and damp air slides beneath the clouded sky.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080144 0
+D2
+South~
+~
+0 0 1080150 0
+S
+#1080144
+Bitter coast region, near Hla Oad village~
+Rain-dark ground stretches through thick wet undergrowth beneath a veil of fog
+beside clay banks, pale mushrooms and tangled roots rising from the dark peat.
+Moist air moves around the mossy trunks as damp fronds brush against the trail
+with low haze settling inside shallow hollows.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080145 0
+D2
+South~
+~
+0 0 1080151 0
+D3
+West
+~
+~
+0 0 1080143 0
+S
+#1080145
+Bitter coast region, wilderness~
+An overgrown marsh path winds across a broad sodden flat in the cool humid air
+past muddy hollows, peat hummocks and wet grass spread across the soft ground.
+Gray fog drifts over the saturated earth as insects drone among the dark pools
+and thin reeds tremble through the dim undergrowth.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080146 0
+D3
+West~
+~
+0 0 1080144 0
+S
+#1080146
+Bitter coast region, wilderness~
+A mist-covered trail runs along a waterlogged hollow beneath rain-heavy clouds
+among damp ferns, shallow puddles and wet grass lying amid the saturated soil.
+Marsh wind passes across the dark peat as cool droplets slip from the branches
+and gray fog spreads around the mossy trunks.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080139 0
+D2
+South~
+~
+0 0 1080153 0
+D3
+West~
+~
+0 0 1080145 0
+S
+#1080148
+Ascadian isles region, wilderness~
+A green upland trail runs between scattered trees under soft filtered sunlight
+among small boulders, young saplings and low stones scattered over warm earth.
+Golden light hangs across the rich earth as loose petals drift among the roots
+with pale blossoms trembling through the mild undergrowth.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080141 0
+D2
+South~
+~
+0 0 1080155 0
+D1
+Exit description
+~
+~
+0 0 1080149 0
+S
+#1080149
+Ascadian isles region, wilderness~
+Soft fertile ground slopes across rich ocher soil beneath warm afternoon light
+beside fallen twigs, low stones and fern clusters lying amid the sunlit grass.
+Upland wind moves across the rich earth as small insects hover above the herbs
+and mild wind slides across the rich earth.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080142 0
+D2
+South~
+~
+0 0 1080156 0
+D3
+Exit description~
+~
+0 0 1080148 0
+S
+#1080150
+Bitter coast region, near Hla Oad village~
+A sodden earthen track threads between gnarled trees under pale filtered light
+beside wet grass, reed clumps and mossy stones crowding the edges of the path.
+Thin drizzle falls across the dark peat as muddy water gathers in shallow ruts
+with damp air passing over the open marsh.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080143 0
+D2
+South
+~
+~
+0 0 1080157 0
+D3
+Exit description
+~
+~
+0 0 4081001 0
+S
+#1080151
+Bitter coast region, near Hla Oad village~
+A dim stretch of lowland opens along a shallow pool amid a soft steady drizzle
+past clay banks, damp ferns and pale mushrooms scattered over rain-dark earth.
+Soft rainfall settles over the wet ground as pale fungi glisten on fallen bark
+as dark water shifts along the muddy trail.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080144 0
+D2
+South~
+~
+0 0 1080158 0
+S
+#1080152
+Bitter coast region, wilderness~
+Damp uneven ground rises along the edge of dark pools under low banks of cloud
+among wet leaves, reed clumps and rotting bark collected along muddy channels.
+Gray fog hangs across the open marsh and rotting wood settles deeper into peat
+as cool moisture gathers above the saturated ground.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080153 0
+D2
+South~
+~
+0 0 1080159 0
+S
+#1080153
+Bitter coast region, wilderness~
+A muddy lowland path curves through tangled reeds under a ceiling of gray haze
+beside slick boulders, mossy stones and dark pools caught among the wet roots.
+Clouded light falls over the wet ground and low plants sway beside the puddles
+as faint drizzle settles across the dark peat.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080146 0
+D3
+West~
+~
+0 0 1080152 0
+S
+#1080155
+Ascadian isles region, wilderness~
+A flower-lined trail threads through tall green grass in the mild and open air
+past low stones, bare roots and wild grasses clustered beside shallow hollows.
+Cloud shadows pass across the rich earth as thin haze blurs the farthest hills
+and soft light fades between the grassy slopes.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080148 0
+D2
+South~
+~
+0 0 1080162 0
+S
+#1080156
+Ascadian isles region, wilderness~
+A sunlit earthen track curves along a shallow hollow amid a warm steady breeze
+among wild grasses, bare roots and fern clusters resting beneath the pale sky.
+Thin haze hangs along the narrow trail and dry twigs scrape against the stones
+and cloud shadows move over the gentle hills.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080149 0
+D2
+South
+~
+~
+0 0 1080163 0
+D1
+Exit description
+~
+~
+0 0 1020150 0
+S
+#1080157
+Bitter coast region, near Hla Oad village~
+An open sweep of marsh reaches along a shallow pool beneath weak morning light
+past wet grass, dark pools and peat hummocks gathered beneath dripping growth.
+Damp air slides over the wet ground as mossy stones shine beneath the rainfall
+and soft rain lingers among the wet roots.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080150 0
+S
+#1080158
+Bitter coast region, near Hla Oad village~
+Dark waterlogged soil spreads between mossy roots beneath slowly moving clouds
+among clay banks, reed clumps and damp ferns resting beneath the low gray sky.
+Cool moisture hangs over the wet ground and thin fog blurs the farthest growth
+and marsh mist drifts over the shallow pools.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080151 0
+D2
+South~
+~
+0 0 1080165 0
+S
+#1080159
+Bitter coast region, wilderness~
+Rain-dark ground extends across a broad sodden flat under dim clouded daylight
+beside damp ferns, dark pools and clay banks marking the otherwise open marsh.
+Low haze spreads along the muddy trail as reed leaves whisper across the marsh
+with gray fog hanging between the wet grasses.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080152 0
+D1
+East~
+~
+0 0 1080160 0
+D2
+South~
+~
+0 0 1080166 0
+S
+#1080160
+Bitter coast region, wilderness~
+A shallow swampy hollow opens between gnarled trees in air heavy with moisture
+past rotting bark, muddy hollows and wet grass clustered beside shallow pools.
+Faint rain falls around the mossy trunks as soft mud shifts beneath every step
+with dark water rippling beneath the clouded sky.~
+0 0 4 0 0 96
+D3
+West~
+~
+0 0 1080159 0
+S
+#1080162
+Ascadian isles region, wilderness~
+An open sweep of grass extends between scattered trees beneath a pale blue sky
+beside low stones, bare roots and fern clusters gathered beneath leafy growth.
+Upland wind moves over the grassy ground as seed heads nod above the soft soil
+with warm air lingering inside shallow hollows.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080155 0
+D2
+South~
+~
+0 0 1080169 0
+S
+#1080163
+Ascadian isles region, wilderness~
+Low rounded hills run over gently rolling earth under a broad ceiling of light
+past fallen twigs, low stones and wild grasses caught among the exposed roots.
+Thin haze drifts along the narrow trail as warm soil yields beneath every step
+with green foliage rustling under the leafy branches.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080156 0
+D2
+South~
+~
+0 0 1080170 0
+S
+#1080165
+Bitter coast region, near Hla Oad village~
+A winding path through reeds runs across dark peat amid the smell of wet earth
+among clay banks, reed clumps and damp ferns set within shallow folds of land.
+Moist air moves along the muddy trail as tiny ripples cross the darkened pools
+and low haze spreads around the mossy trunks.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080158 0
+D1
+East~
+~
+0 0 1080166 0
+S
+#1080166
+Bitter coast region, wilderness~
+A mossy earthen trail runs between patches of damp moss beneath a low gray sky
+beside tangled roots, slick boulders and rotting bark lining the narrow trail.
+Cool mist hangs through the reed beds and pale spores drift beneath the leaves
+as wet foliage trembles through the dim undergrowth.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080159 0
+D1
+East~
+~
+0 0 1080167 0
+D3
+West~
+~
+0 0 1080165 0
+D2
+Exit description
+~
+~
+0 0 1080173 0
+S
+#1080167
+Bitter coast region, wilderness~
+Soft peat-covered ground extends between mossy roots under drifting marsh mist
+past wet leaves, reed clumps and pale mushrooms lying amid the saturated soil.
+Thin drizzle falls along the muddy trail as insects drone among the dark pools
+and dark water stirs under the tangled branches.~
+0 0 2 0 0 96
+D3
+West~
+~
+0 0 1080166 0
+S
+#1080168
+Ascadian isles region, wilderness~
+A broad grassy trail runs between scattered trees beneath a veil of high cloud
+among bare roots, fern clusters and low stones crowding the edges of the path.
+Warm air passes across the rich earth as small leaves tremble on thin branches
+with wild grass stirring over the open grassland.~
+0 0 6 0 0 96
+D1
+East~
+~
+0 0 1080169 0
+D2
+South~
+~
+0 0 1080175 0
+S
+#1080169
+Ascadian isles region, wilderness~
+An overgrown country path winds along a shallow hollow beneath a pale blue sky
+beside bare roots, wind-bent weeds and sunlit pebbles lining the narrow trail.
+Golden light hangs across the rich earth as low plants bend beside the pathway
+with thin haze spreading above the fertile ground.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080162 0
+D1
+East~
+~
+0 0 1080170 0
+D2
+South~
+~
+0 0 1080176 0
+D3
+West~
+~
+0 0 1080168 0
+S
+#1080170
+Ascadian isles region, wilderness~
+A flower-lined trail winds along a shallow hollow under soft filtered sunlight
+past low stones, fallen twigs and bare roots spread across the fertile ground.
+Thin haze drifts over the grassy ground as warm light glances from the pebbles
+with mild wind sliding across the rich earth.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080163 0
+D2
+South~
+~
+0 0 1080177 0
+D3
+West
+~
+~
+0 0 1080169 0
+D1
+Exit description
+~
+~
+0 0 1020164 0
+S
+#1080172
+Bitter coast region, near Hla Oad village~
+A broad reach of marsh stretches across saturated ground beneath a veil of fog
+among tangled roots, muddy hollows and mossy stones rising from the dark peat.
+Low haze hangs over the wet ground as small ripples spread through the puddles
+as marsh mist spreads over the shallow pools.~
+0 0 2 0 0 96
+D2
+South~
+~
+0 0 1080179 0
+S
+#1080173
+Bitter coast region, wilderness~
+A narrow marsh trail runs through a screen of wet leaves in the cool humid air
+beside clay banks, dark pools and peat hummocks spread across the soft ground.
+Marsh wind passes through the reed beds as shallow water stirs among the roots
+and wet foliage bends along the muddy trail.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080174 0
+D2
+South~
+~
+0 0 1080180 0
+D0
+Exit description~
+~
+0 0 1080166 0
+S
+#1080174
+Ascadian isles region, wilderness~
+A green upland trail runs between scattered trees beneath warm afternoon light
+among bare roots, wild grasses and low stones set within gentle folds of land.
+Warm air slides across the rich earth as clear light reaches the exposed roots
+with cloud shadows gathering beneath the pale sky.~
+0 0 6 0 0 96
+D2
+South~
+~
+0 0 1080181 0
+D3
+West~
+~
+0 0 1080173 0
+D1
+Exit description
+~
+~
+0 0 1080175 0
+S
+#1080175
+Ascadian isles region, wilderness~
+Low rounded hills run across a wide open meadow under slow-moving white clouds
+beside wild grasses, fern clusters and fallen twigs scattered over warm earth.
+Upland wind moves along the narrow trail as loose petals drift among the roots
+and thin haze drifts around the sunlit stones.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080168 0
+D2
+South~
+~
+0 0 1080182 0
+D3
+Exit description~
+~
+0 0 1080174 0
+S
+#1080176
+Ascadian isles region, wilderness~
+Soft fertile ground spreads between flowering shrubs amid a warm steady breeze
+past fallen twigs, low stones and bare roots clustered beside shallow hollows.
+Thin haze hangs along the narrow trail and bright patches cross over the grass
+as green foliage trembles through the mild undergrowth.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080169 0
+D2
+South~
+~
+0 0 1080183 0
+S
+#1080177
+Ascadian isles region, wilderness~
+A sunlit earthen track winds between low stony ridges in the mild and open air
+among bare roots, young saplings and small boulders rising from the rich soil.
+Warm air passes over the grassy ground and wild grasses ripple over the slopes
+with soft light resting along the narrow trail.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080170 0
+S
+#1080179
+Bitter coast region, wilderness~
+An overgrown marsh path curves over soft uneven soil beneath rain-heavy clouds
+past mossy stones, wet leaves and rotting bark scattered over rain-dark earth.
+Clouded light hangs across the dark peat as thin reeds bend close to the water
+as damp air passes above the saturated ground.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080172 0
+D1
+East~
+~
+0 0 1080180 0
+S
+#1080180
+Bitter coast region, wilderness~
+A low tract of wet earth stretches across dark peat beneath weak morning light
+among damp ferns, reed clumps and mossy stones crowding the edges of the path.
+Soft rainfall lingers over the wet ground as pale fungi glisten on fallen bark
+as thin reeds rustle over the open marsh.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080173 0
+D1
+East~
+~
+0 0 1080181 0
+D3
+West~
+~
+0 0 1080179 0
+S
+#1080181
+Ascadian isles region, wilderness~
+Rich ocher-colored soil slopes between scattered trees beneath a pale blue sky
+beside fern clusters, low stones and fallen twigs lying amid the sunlit grass.
+Upland wind moves over the grassy ground as thin haze blurs the farthest hills
+and warm air slides among the low shrubs.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080174 0
+D2
+South~
+~
+0 0 1080188 0
+D3
+West~
+~
+0 0 1080180 0
+S
+#1080182
+Ascadian isles region, wilderness~
+A gently rolling path runs along a shallow hollow beneath a veil of high cloud
+past low stones, wild grasses and fallen twigs caught among the exposed roots.
+Warm air slides over the grassy ground and small insects hover above the herbs
+as pale blossoms stir along the narrow trail.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080175 0
+S
+#1080183
+Ascadian isles region, wilderness~
+A broad grassy trail winds along a shallow hollow under soft filtered sunlight
+among bare roots, wind-bent weeds and low stones resting beneath the pale sky.
+Thin haze settles across the rich earth as dry twigs scrape against the stones
+as wild grass stirs over the gentle hills.~
+0 0 4 0 0 96
+D0
+North~
+~
+0 0 1080176 0
+D2
+South~
+~
+0 0 1080190 0
+S
+#1080185
+Bitter coast region, wilderness~
+A mist-covered trail threads across rain-dark earth under dim clouded daylight
+beside peat hummocks, wet grass and dark pools collected along muddy channels.
+Gray fog hangs over the wet ground as loose branches scrape against the trunks
+with soft rain falling inside shallow hollows.~
+0 0 6 0 0 96
+D1
+East~
+~
+0 0 1080186 0
+D2
+South~
+~
+0 0 1080192 0
+S
+#1080186
+Bitter coast region, wilderness~
+A sodden earthen track threads through tangled reeds under pale filtered light
+past rotting bark, low thorn bushes and damp ferns caught among the wet roots.
+Damp air moves across the dark peat as small insects hover above the wet grass
+with cool moisture gathering between the wet grasses.~
+0 0 6 0 0 96
+D1
+East~
+~
+0 0 1080187 0
+D3
+West~
+~
+0 0 1080185 0
+S
+#1080187
+Bitter coast region, wilderness~
+Rain-dark ground slopes over a maze of shallow ruts amid a soft steady drizzle
+among dark pools, clay banks and reed clumps gathered beneath dripping growth.
+Cool moisture hangs over the wet ground as fine rain darkens the exposed roots
+with low haze spreading across the dark peat.~
+0 0 6 0 0 96
+D1
+East~
+~
+0 0 1080188 0
+D2
+South~
+~
+0 0 1080194 0
+D3
+West~
+~
+0 0 1080186 0
+S
+#1080188
+Ascadian isles region, wilderness~
+Low rounded hills run through tall green grass under clear and gentle daylight
+beside low stones, fern clusters and bare roots gathered beneath leafy growth.
+Upland wind moves along the narrow trail as seed heads nod above the soft soil
+as cloud shadows gather inside shallow hollows.~
+0 0 6 0 0 96
+D0
+North~
+~
+0 0 1080181 0
+D1
+East~
+~
+0 0 1080189 0
+D3
+West~
+~
+0 0 1080187 0
+S
+#1080189
+Ascadian isles region, wilderness~
+A shallow grassy hollow opens between flowering shrubs beneath a pale blue sky
+past dry seed heads, bare roots and low stones crowding the edges of the path.
+Warm air passes along the narrow trail and pale blossoms turn toward the light
+as thin haze spreads across the rich earth.~
+0 0 2 0 0 96
+D1
+East~
+~
+0 0 1080190 0
+D2
+South~
+~
+0 0 1080196 0
+D3
+West~
+~
+0 0 1080188 0
+S
+#1080190
+Ascadian isles region, wilderness~
+A flower-lined trail winds across rich ocher soil beneath warm afternoon light
+among low stones, bare roots and wild grasses set within gentle folds of land.
+Thin haze drifts over the grassy ground as warm soil yields beneath every step
+and green foliage rustles over the open grassland.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080183 0
+D2
+South~
+~
+0 0 1080197 0
+D3
+West~
+~
+0 0 1080189 0
+S
+#1080192
+Bitter coast region, wilderness~
+A muddy lowland path curves between gnarled trees under a ceiling of gray haze
+beside wet leaves, clay banks and damp ferns marking the otherwise open marsh.
+Moist air slides through the reed beds as cool droplets slip from the branches
+and faint drizzle falls among the wet roots.~
+0 0 2 0 0 96
+D0
+North
+~
+~
+0 0 1080185 0
+D2
+Exit description
+~
+~
+0 0 1190201 0
+S
+#1080194
+Bitter coast region, wilderness~
+A shallow swampy hollow opens through tangled reeds in air heavy with moisture
+past wet grass, dark pools and muddy hollows resting beneath the low gray sky.
+Faint rain drifts across the open marsh as damp fronds brush against the trail
+and gray fog hangs around the mossy trunks.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080187 0
+D1
+East~
+~
+0 0 1080195 0
+S
+#1080195
+Bitter coast region, wilderness~
+A dim stretch of lowland spreads across dark peat beneath slowly moving clouds
+among slick boulders, wet grass and clay banks clustered beside shallow pools.
+Cool mist drifts along the muddy trail as reed leaves whisper across the marsh
+with thin reeds rustling under the tangled branches.~
+0 0 2 0 0 96
+D3
+West
+~
+~
+0 0 1080194 0
+D2
+Exit description
+~
+~
+0 0 1190204 0
+S
+#1080196
+Ascadian isles region, wilderness~
+Low rounded hills run over gently rolling earth beneath slowly drifting clouds
+beside fern clusters, young saplings and wild grasses lining the narrow trail.
+Upland wind moves over the grassy ground as loose petals drift among the roots
+with pale blossoms swaying around the sunlit stones.~
+0 0 2 0 0 96
+D0
+North~
+~
+0 0 1080189 0
+S
+#1080197
+Ascadian isles region, wilderness~
+Soft fertile ground extends between flowering shrubs amid a warm steady breeze
+past low stones, fallen twigs and bare roots clustered beside shallow hollows.
+Thin haze drifts along the narrow trail as warm light glances from the pebbles
+and wild grass bends between the grassy slopes.~
+0 0 2 0 0 96
+D0
+North
+~
+~
+0 0 1080190 0
+D2
+Exit description
+~
+~
+0 0 1190206 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

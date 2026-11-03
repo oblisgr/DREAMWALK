@@ -1,0 +1,1493 @@
+#AREA Wilderness 0107~
+
+#VERSION 1
+
+#CLIMATE 3 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 1
+
+#ECONOMY 0 0
+
+#MOBILES
+#1010701
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#1010701
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#1010701
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A shallow stony basin opens along a dusty hollow under a broad ceiling of haze
+among blackened ridges, cracked lava slabs and ash drifts against the horizon.
+Dry wind passes along the empty trail as loose flakes scrape across the basalt
+with gray light settling over the open waste.~
+0 0 2 0 0 0
+D2
+South~
+~
+0 0 1010708 0
+S
+#1010702
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dry broken terrain spreads over hard cinder soil in thin light filtered by ash
+past low rock shelves, shallow gullies and dusty weeds across the open ground.
+Gray dust rises above the powdery earth as scattered grit dances over the path
+and brittle plants shiver beneath the volcanic haze.~
+0 0 2 0 0 1
+D2
+South~
+~
+0 0 1010709 0
+S
+#1010704
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A faint volcanic trail runs across barren ground under a veil of drifting dust
+beside sparse scrub, patches of gray lichen and dark rocks on the ashen plain.
+Cold air slides along the exposed ridges as brittle twigs rasp over the gravel
+and the empty land recedes over the open waste.~
+0 0 2 0 0 3
+D1
+East~
+~
+0 0 1010705 0
+S
+#1010705
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Uneven shelves of lava extend between dark rocks amid the chill of steady wind
+among dry grass clumps, scattered pebbles and flat stones along the worn path.
+Fine ash sweeps across the open waste as weathered rock faces lose their edges
+with powdered grit gathering inside shallow hollows.~
+0 0 2 0 0 4
+D2
+South~
+~
+0 0 1010712 0
+D3
+West~
+~
+0 0 1010704 0
+S
+#1010706
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An ash-covered track winds through open wastes beneath slow-moving gray clouds
+past dust-filled hollows, bare roots and jagged boulders beneath the pale sky.
+Thin grit moves over the broken ground as shallow eddies form behind the rocks
+and dry brush bends across distant slopes.~
+0 0 2 0 0 5
+D1
+East~
+~
+0 0 1010707 0
+S
+#1010707
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A wind-scoured path curves across an ashen plain beneath a dim and clouded sky
+beside brittle shrubs, weathered stones and black shards over the barren soil.
+Pale dust drifts around the dark outcrops as dry roots creak beneath the gusts
+and ash settles among the rocks.~
+0 0 2 0 0 6
+D2
+South~
+~
+0 0 1010714 0
+D3
+West~
+~
+0 0 1010706 0
+S
+#1010708
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Rugged volcanic slopes spread over cracked earth beneath muted afternoon light
+among loose grit, twisted roots and low banks caught in shallow folds of land.
+Fine ash swirls over the broken ground and tiny stones rattle into the gullies
+with the dry air moving between the dark outcrops.~
+0 0 2 0 0 7
+D0
+North~
+~
+0 0 1010701 0
+D2
+South~
+~
+0 0 1010715 0
+S
+#1010709
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Black cinder earth extends through shallow folds in the land beneath low cloud
+past wind-carved rocks, dry scrub and pale thorn bushes along the dusty track.
+Cold air moves across the barren slopes as small drifts gather along the stone
+and silence spreads beneath the clouded sky.~
+0 0 2 0 0 8
+D0
+North~
+~
+0 0 1010702 0
+D2
+South~
+~
+0 0 1010716 0
+S
+#1010710
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An exposed ash plain extends across a broad expanse of cinders in the open air
+beside dust-filled hollows, brittle shrubs and loose grit over the gray earth.
+Dry wind runs across the barren slopes and low eddies circle behind each ridge
+as weathered stones shift across the empty ground.~
+0 0 2 0 0 9
+D1
+East~
+~
+0 0 1010711 0
+D2
+South~
+~
+0 0 1010717 0
+S
+#1010711
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A narrow cinder trail threads over old lava fields in the dry and restless air
+past ash drifts, loose cinders and dark rocks spread over hard volcanic earth.
+Pale dust spreads across the open waste as brittle stems bow close to the soil
+with small stones tumbling under the steady wind.~
+0 0 2 0 0 10
+D1
+East~
+~
+0 0 1010712 0
+D2
+South~
+~
+0 0 1010718 0
+D3
+West~
+~
+0 0 1010710 0
+S
+#1010712
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Gray dust-covered ground spreads between dark rocks beneath pale volcanic haze
+beside black shards, dusty weeds and low banks clustered along the worn route.
+Thin grit blows along the empty trail and dim light glances across the cinders
+as the dry air passes above the barren earth.~
+0 0 2 0 0 11
+D0
+North~
+~
+0 0 1010705 0
+D1
+East~
+~
+0 0 1010713 0
+D3
+West~
+~
+0 0 1010711 0
+S
+#1010713
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A dry channel through ash curves over cracked earth under banks of ashen cloud
+among sparse scrub, scattered pebbles and blackened ridges in shallow hollows.
+Gray dust rises around the dark outcrops as the distant ground fades into haze
+and small stones tumble under the steady wind.~
+0 0 2 0 0 12
+D1
+East~
+~
+0 0 1010714 0
+D2
+South~
+~
+0 0 1010720 0
+D3
+West~
+~
+0 0 1010712 0
+S
+#1010714
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dark volcanic ground extends along the base of a barren ridge under a gray sky
+past bare roots, dry scrub and ash drifts marking the otherwise empty terrain.
+Cold air passes along the exposed ridges as faded plants bend toward the earth
+with fine dust drifting across distant slopes.~
+0 0 2 0 0 13
+D0
+North~
+~
+0 0 1010707 0
+D3
+West~
+~
+0 0 1010713 0
+S
+#1010715
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An ash-covered track runs along broken slopes amid fine grit borne on the wind
+beside weathered stones, jagged boulders and shallow gullies among low ridges.
+Pale dust sweeps along the empty trail as gray shrubs tremble across the plain
+and windblown ash drifts between the dark outcrops.~
+0 0 2 0 0 14
+D0
+North~
+~
+0 0 1010708 0
+D2
+South~
+~
+0 0 1010722 0
+S
+#1010716
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A wind-scoured path curves through a maze of low stony rises beneath dim light
+among twisted roots, flat stones and dark rocks set amid broad reaches of ash.
+Thin grit blows across the open waste as dry branches scrape against the stone
+and fine cinders gather above the barren earth.~
+0 0 2 0 0 15
+D0
+North~
+~
+0 0 1010709 0
+D1
+East~
+~
+0 0 1010717 0
+D2
+South~
+~
+0 0 1010723 0
+S
+#1010717
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An exposed ash plain stretches along a dusty hollow under a colorless open sky
+past black shards, low banks and loose grit breaking the sweep of bare ground.
+Dry wind runs above the powdery earth as small stones click against the basalt
+with brittle plants bending along the barren ridges.~
+0 0 2 0 0 16
+D0
+North~
+~
+0 0 1010710 0
+D1
+East~
+~
+0 0 1010718 0
+D3
+West~
+~
+0 0 1010716 0
+S
+#1010718
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Uneven shelves of lava run across a broad expanse of cinders under muted light
+among loose grit, dusty weeds and dry scrub lying beneath the open silent sky.
+Fine ash swirls along the exposed ridges and dark pebbles roll down the slopes
+as silence settles beneath the volcanic haze.~
+0 0 2 0 0 17
+D0
+North~
+~
+0 0 1010711 0
+D2
+South~
+~
+0 0 1010725 0
+D3
+West~
+~
+0 0 1010717 0
+S
+#1010719
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A narrow cinder trail runs between low ridges of weathered stone amid dry wind
+beside bare roots, dark rocks and ash drifts lining the faint and dusty track.
+Gray dust blows across the barren slopes as loose grit gathers in every hollow
+and pale haze lingers inside shallow hollows.~
+0 0 2 0 0 18
+D1
+East~
+~
+0 0 1010720 0
+D2
+South~
+~
+0 0 1010726 0
+S
+#1010720
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dry broken terrain slopes through shallow folds in the land under drifting ash
+past low banks, dark rocks and gray stones standing against the muted horizon.
+Cold air slides along the empty trail and faint tracks vanish beneath the dust
+with pale haze lingering beneath the clouded sky.~
+0 0 2 0 0 19
+D0
+North~
+~
+0 0 1010713 0
+D3
+West~
+~
+0 0 1010719 0
+S
+#1010722
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A faint volcanic trail winds along the base of a barren ridge in pale ash haze
+among bare roots, dry scrub and flat stones rising from the powdery gray soil.
+Thin grit moves over the broken ground as low plants rattle against the gravel
+and loose grit collects along the dusty trail.~
+0 0 2 0 0 21
+D0
+North~
+~
+0 0 1010715 0
+D2
+South~
+~
+0 0 1010729 0
+S
+#1010723
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A shallow stony basin opens through gray cinders under a veil of drifting dust
+beside ash drifts, bare roots and dry scrub gathered in the lee of low ridges.
+Fine ash sweeps across the open waste and thin grasses shiver among the stones
+as brittle plants tremble across distant slopes.~
+0 0 2 0 0 22
+D0
+North~
+~
+0 0 1010716 0
+D2
+South~
+~
+0 0 1010730 0
+S
+#1010724
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Black cinder earth rises between scattered mounds of dark rock in the open air
+past ash drifts, low banks and loose grit scattered across the exposed ground.
+Dry wind moves along the empty trail as thin shadows stretch beneath the rocks
+with silence deepening beneath the volcanic haze.~
+0 0 2 0 0 23
+D1
+East~
+~
+0 0 1010725 0
+D2
+South~
+~
+0 0 1010731 0
+S
+#1010725
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Rugged volcanic slopes rise over old lava fields amid the chill of steady wind
+beside jagged boulders, black shards and pale thorn bushes on the ashen plain.
+Gray dust drifts over the broken ground as powdered earth lifts from the trail
+and weathered stones click along the barren ridges.~
+0 0 2 0 0 24
+D0
+North~
+~
+0 0 1010718 0
+D1
+East~
+~
+0 0 1010726 0
+D2
+South~
+~
+0 0 1010732 0
+D3
+West~
+~
+0 0 1010724 0
+S
+#1010726
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Gray dust-covered ground slopes through open wastes under banks of ashen cloud
+among dusty weeds, cracked lava slabs and brittle shrubs over the barren soil.
+Pale dust rises along the empty trail and gray haze closes over distant ground
+as windblown ash gathers beneath the clouded sky.~
+0 0 2 0 0 25
+D0
+North~
+~
+0 0 1010719 0
+D1
+East~
+~
+0 0 1010727 0
+D2
+South~
+~
+0 0 1010733 0
+D3
+West~
+~
+0 0 1010725 0
+S
+#1010727
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dark volcanic ground rises across an ashen plain beneath a dim and clouded sky
+among brittle shrubs, loose cinders and scattered pebbles along the worn path.
+Cold air slides across the open waste as shallow cracks fill with drifting ash
+with dry brush shivering among the rocks.~
+0 0 2 0 0 26
+D1
+East~
+~
+0 0 1010728 0
+D3
+West~
+~
+0 0 1010726 0
+S
+#1010728
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A dry channel through ash runs over old lava fields beneath pale volcanic haze
+beside shallow gullies, black shards and blackened ridges against the horizon.
+Thin grit blows across the open waste as dark gravel slides from exposed banks
+and gray light fades across the empty ground.~
+0 0 2 0 0 27
+D2
+South~
+~
+0 0 1010735 0
+D3
+West~
+~
+0 0 1010727 0
+S
+#1010729
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An ash-covered track curves along a dusty hollow beneath muted afternoon light
+past flat stones, jagged boulders and cracked lava slabs beneath the pale sky.
+Dry wind runs around the dark outcrops and pale dust curls around the boulders
+as loose grit collects among the rocks.~
+0 0 2 0 0 28
+D0
+North~
+~
+0 0 1010722 0
+D2
+South~
+~
+0 0 1010736 0
+S
+#1010730
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A wind-scoured path threads along the base of a barren ridge beneath low cloud
+past dust-filled hollows, brittle shrubs and sparse scrub over the gray earth.
+Fine ash drifts over the broken ground as dim light glances across the cinders
+with loose grit skittering along the dusty trail.~
+0 0 2 0 0 29
+D0
+North~
+~
+0 0 1010723 0
+S
+#1010731
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Uneven shelves of lava extend over cracked earth under a broad ceiling of haze
+among jagged boulders, loose cinders and twisted roots across the open ground.
+Pale dust rises across the barren slopes as brittle twigs rasp over the gravel
+and powdered grit gathers among the rocks.~
+0 0 2 0 0 30
+D0
+North~
+~
+0 0 1010724 0
+D2
+South~
+~
+0 0 1010738 0
+S
+#1010732
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dry broken terrain spreads through open wastes beneath slow-moving gray clouds
+beside wind-carved rocks, blackened ridges and dusty weeds in shallow hollows.
+Gray dust rises above the powdery earth as tiny stones rattle into the gullies
+and the mineral scent deepens under the steady wind.~
+0 0 2 0 0 31
+D0
+North~
+~
+0 0 1010725 0
+D2
+South~
+~
+0 0 1010739 0
+S
+#1010733
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A shallow stony basin extends along a dusty hollow in the dry and restless air
+past dark rocks, sparse scrub and black shards clustered along the worn route.
+Fine ash blows along the exposed ridges as brittle stems bow close to the soil
+with weathered stones shifting across the empty ground.~
+0 0 2 0 0 32
+D0
+North~
+~
+0 0 1010726 0
+D1
+East~
+~
+0 0 1010734 0
+S
+#1010734
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A narrow cinder trail runs between dark rocks amid fine grit borne on the wind
+among flat stones, shallow gullies and dry grass clumps along the dusty track.
+Cold air passes across the open waste as weathered rock faces lose their edges
+and brittle plants tremble beneath the clouded sky.~
+0 0 2 0 0 33
+D2
+South~
+~
+0 0 1010741 0
+D3
+West~
+~
+0 0 1010733 0
+S
+#1010735
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An exposed ash plain opens across a broad expanse of cinders beneath dim light
+beside scattered pebbles, brittle shrubs and jagged boulders among low ridges.
+Dry wind runs around the dark outcrops and small drifts gather along the stone
+as fine dust settles inside shallow hollows.~
+0 0 2 0 0 34
+D0
+North~
+~
+0 0 1010728 0
+S
+#1010736
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Black cinder earth spreads through shallow folds in the land under muted light
+past low banks, loose grit and ash drifts marking the otherwise empty terrain.
+Pale dust sweeps around the dark outcrops as dry roots creak beneath the gusts
+with windblown ash collecting above the barren earth.~
+0 0 2 0 0 35
+D0
+North~
+~
+0 0 1010729 0
+D1
+East~
+~
+0 0 1010737 0
+S
+#1010737
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Rugged volcanic slopes spread across an ashen plain under a colorless open sky
+among twisted roots, dark rocks and gray stones set amid broad reaches of ash.
+Thin grit shifts over the broken ground as low eddies circle behind each ridge
+and silence returns along the dusty trail.~
+0 0 2 0 0 36
+D1
+East~
+~
+0 0 1010738 0
+D3
+West~
+~
+0 0 1010736 0
+S
+#1010738
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A faint volcanic trail threads through shallow folds in the land amid dry wind
+beside loose grit, low banks and bare roots lying beneath the open silent sky.
+Gray dust blows across the barren slopes as faded plants bend toward the earth
+and fine cinders settle between the dark outcrops.~
+0 0 2 0 0 37
+D0
+North~
+~
+0 0 1010731 0
+D2
+South~
+~
+0 0 1010745 0
+D3
+West~
+~
+0 0 1010737 0
+S
+#1010739
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dark volcanic ground spreads along the base of a barren ridge under a gray sky
+past black shards, dusty weeds and ash drifts caught in shallow folds of land.
+Cold air slides along the exposed ridges as loose grit gathers in every hollow
+with ash drifting among the rocks.~
+0 0 2 0 0 38
+D0
+North~
+~
+0 0 1010732 0
+D1
+East~
+~
+0 0 1010740 0
+D2
+South~
+~
+0 0 1010746 0
+S
+#1010740
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A wind-scoured path curves along the base of a barren ridge under drifting ash
+among black shards, gray stones and dry scrub spread over hard volcanic earth.
+Thin grit skitters along the empty trail as the distant ground fades into haze
+and dry brush trembles over the open waste.~
+0 0 2 0 0 39
+D1
+East~
+~
+0 0 1010741 0
+D2
+South~
+~
+0 0 1010747 0
+D3
+West~
+~
+0 0 1010739 0
+S
+#1010741
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Uneven shelves of lava rise along a dusty hollow in thin light filtered by ash
+beside low banks, dark rocks and dry scrub standing against the muted horizon.
+Pale dust rises along the empty trail as loose flakes scrape across the basalt
+and small stones scatter inside shallow hollows.~
+0 0 2 0 0 40
+D0
+North~
+~
+0 0 1010734 0
+D1
+East~
+~
+0 0 1010742 0
+D3
+West~
+~
+0 0 1010740 0
+S
+#1010742
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Gray dust-covered ground spreads over cracked earth under a colorless open sky
+past bare roots, sparse scrub and loose grit lining the faint and dusty track.
+Dry wind runs along the exposed ridges as shallow eddies form behind the rocks
+with the mineral scent hanging between the dark outcrops.~
+0 0 2 0 0 41
+D3
+West~
+~
+0 0 1010741 0
+S
+#1010743
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A narrow cinder trail winds through a maze of low stony rises in pale ash haze
+among flat stones, dry scrub and dark rocks rising from the powdery gray soil.
+Fine ash swirls over the broken ground and scattered grit dances over the path
+as gray light rests over the open waste.~
+0 0 2 0 0 42
+D1
+East~
+~
+0 0 1010744 0
+D2
+South~
+~
+0 0 1010750 0
+S
+#1010744
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An ash-covered track winds over hard cinder soil under a veil of drifting dust
+beside dark rocks, low banks and ash drifts breaking the sweep of bare ground.
+Gray dust blows across the open waste and thin grasses shiver among the stones
+as dry brush trembles along the dusty trail.~
+0 0 2 0 0 43
+D1
+East~
+~
+0 0 1010745 0
+D3
+West~
+~
+0 0 1010743 0
+S
+#1010745
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A shallow stony basin stretches along broken slopes under banks of ashen cloud
+past ash drifts, dry scrub and loose grit scattered across the exposed ground.
+Cold air moves above the powdery earth as gray shrubs tremble across the plain
+with silence returning under the steady wind.~
+0 0 2 0 0 44
+D0
+North~
+~
+0 0 1010738 0
+D2
+South~
+~
+0 0 1010752 0
+D3
+West~
+~
+0 0 1010744 0
+S
+#1010746
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dry broken terrain extends across an ashen plain amid the chill of steady wind
+among bare roots, dark rocks and loose grit gathered in the lee of low ridges.
+Fine ash swirls across the open waste as small stones click against the basalt
+and gray light fades across distant slopes.~
+0 0 2 0 0 45
+D0
+North~
+~
+0 0 1010739 0
+S
+#1010747
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Rugged volcanic slopes run across a broad expanse of cinders under muted light
+beside pale thorn bushes, dusty weeds and jagged boulders along the worn path.
+Dry wind runs around the dark outcrops as low plants rattle against the gravel
+and ash gathers across the empty ground.~
+0 0 2 0 0 46
+D0
+North~
+~
+0 0 1010740 0
+D1
+East~
+~
+0 0 1010748 0
+D2
+South~
+~
+0 0 1010754 0
+S
+#1010748
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Black cinder earth extends through open wastes beneath slow-moving gray clouds
+past brittle shrubs, shallow gullies and scattered pebbles on the ashen plain.
+Thin grit moves along the empty trail and faint tracks vanish beneath the dust
+with fine cinders collecting across distant slopes.~
+0 0 2 0 0 47
+D3
+West~
+~
+0 0 1010747 0
+S
+#1010750
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A faint volcanic trail curves between dark rocks under a broad ceiling of haze
+among loose cinders, cracked lava slabs and black shards over the barren soil.
+Pale dust spreads above the powdery earth as dark pebbles roll down the slopes
+and powdered grit shifts along the barren ridges.~
+0 0 2 0 0 49
+D0
+North~
+~
+0 0 1010743 0
+S
+#1010752
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An exposed ash plain opens over cracked earth amid fine grit borne on the wind
+beside twisted roots, flat stones and dust-filled hollows against the horizon.
+Gray dust rises over the broken ground and powdered earth lifts from the trail
+as pale haze hangs between the dark outcrops.~
+0 0 2 0 0 51
+D0
+North~
+~
+0 0 1010745 0
+D2
+South~
+~
+0 0 1010759 0
+S
+#1010754
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dark volcanic ground rises over hard cinder soil beneath a dim and clouded sky
+past brittle shrubs, shallow gullies and blackened ridges over the gray earth.
+Cold air passes across the open waste as dry branches scrape against the stone
+with small stones scattering along the dusty trail.~
+0 0 2 0 0 53
+D0
+North~
+~
+0 0 1010747 0
+D1
+East~
+~
+0 0 1010755 0
+D2
+South~
+~
+0 0 1010761 0
+S
+#1010755
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Gray dust-covered ground rises over old lava fields beneath pale volcanic haze
+among brittle shrubs, jagged boulders and blackened ridges in shallow hollows.
+Fine ash sweeps along the empty trail as dark gravel slides from exposed banks
+and loose grit skitters above the barren earth.~
+0 0 2 0 0 54
+D1
+East~
+~
+0 0 1010756 0
+D2
+South~
+~
+0 0 1010762 0
+D3
+West~
+~
+0 0 1010754 0
+S
+#1010756
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An ash-covered track winds through shallow folds in the land beneath low cloud
+beside dusty weeds, dust-filled hollows and black shards beneath the pale sky.
+Dry wind runs across the barren slopes as gray haze closes over distant ground
+and weathered stones shift beneath the volcanic haze.~
+0 0 2 0 0 55
+D2
+South~
+~
+0 0 1010763 0
+D3
+West~
+~
+0 0 1010755 0
+S
+#1010759
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A wind-scoured path threads across barren ground beneath muted afternoon light
+past flat stones, pale thorn bushes and jagged boulders along the dusty track.
+Thin grit moves along the empty trail as shallow cracks fill with drifting ash
+with brittle plants trembling beneath the clouded sky.~
+0 0 2 0 0 58
+D0
+North~
+~
+0 0 1010752 0
+D1
+East~
+~
+0 0 1010760 0
+D2
+South~
+~
+0 0 1010766 0
+S
+#1010760
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Uneven shelves of lava run across a broad expanse of cinders beneath dim light
+among twisted roots, dusty weeds and scattered pebbles across the open ground.
+Gray dust rises across the barren slopes as brittle twigs rasp over the gravel
+and pale haze hangs among the rocks.~
+0 0 2 0 0 59
+D1
+East~
+~
+0 0 1010761 0
+D2
+South~
+~
+0 0 1010767 0
+D3
+West~
+~
+0 0 1010759 0
+S
+#1010761
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A narrow cinder trail threads along a dusty hollow in the dry and restless air
+beside sparse scrub, weathered stones and cracked lava slabs among low ridges.
+Pale dust spreads across the open waste as small drifts gather along the stone
+and windblown ash collects across distant slopes.~
+0 0 2 0 0 60
+D0
+North~
+~
+0 0 1010754 0
+D2
+South~
+~
+0 0 1010768 0
+D3
+West~
+~
+0 0 1010760 0
+S
+#1010762
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A shallow stony basin stretches along the base of a barren ridge amid dry wind
+past ash drifts, flat stones and loose cinders clustered along the worn route.
+Cold air moves around the dark outcrops as pale dust curls around the boulders
+with gray light spreading over the open waste.~
+0 0 2 0 0 61
+D0
+North~
+~
+0 0 1010755 0
+S
+#1010763
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dry broken terrain slopes through a basin of powdery gray dust in the open air
+among low banks, black shards and dusty weeds spread over hard volcanic earth.
+Fine ash blows along the exposed ridges as tiny stones rattle into the gullies
+and silence settles inside shallow hollows.~
+0 0 2 0 0 62
+D0
+North~
+~
+0 0 1010756 0
+D2
+South~
+~
+0 0 1010770 0
+S
+#1010764
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Rugged volcanic slopes rise across a broad expanse of cinders under a gray sky
+beside sparse scrub, low banks and dark rocks caught in shallow folds of land.
+Dry wind passes across the open waste as weathered rock faces lose their edges
+and the mineral scent deepens along the dusty trail.~
+0 0 2 0 0 63
+D1
+East~
+~
+0 0 1010765 0
+S
+#1010765
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Black cinder earth spreads along the base of a barren ridge under drifting ash
+past loose grit, bare roots and low banks marking the otherwise empty terrain.
+Pale dust sweeps over the broken ground as brittle stems bow close to the soil
+with dry brush rattling inside shallow hollows.~
+0 0 2 0 0 64
+D1
+East~
+~
+0 0 1010766 0
+D2
+South~
+~
+0 0 1010772 0
+D3
+West~
+~
+0 0 1010764 0
+S
+#1010766
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A faint volcanic trail runs along a dusty hollow in thin light filtered by ash
+among bare roots, flat stones and dry scrub lying beneath the open silent sky.
+Thin grit shifts over the broken ground and faded plants bend toward the earth
+as small stones tumble under the steady wind.~
+0 0 2 0 0 65
+D0
+North~
+~
+0 0 1010759 0
+D2
+South~
+~
+0 0 1010773 0
+D3
+West~
+~
+0 0 1010765 0
+S
+#1010767
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dark volcanic ground extends along the base of a barren ridge in pale ash haze
+beside dry scrub, loose grit and low banks standing against the muted horizon.
+Gray dust drifts along the empty trail as dim light glances across the cinders
+and brittle plants rattle under the steady wind.~
+0 0 2 0 0 66
+D0
+North~
+~
+0 0 1010760 0
+D2
+South~
+~
+0 0 1010774 0
+S
+#1010768
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An exposed ash plain extends through open wastes under a veil of drifting dust
+past dark rocks, black shards and dry scrub rising from the powdery gray soil.
+Cold air moves across the barren slopes as scattered grit dances over the path
+with weathered stones clicking across the empty ground.~
+0 0 2 0 0 67
+D0
+North~
+~
+0 0 1010761 0
+D1
+East~
+~
+0 0 1010769 0
+D2
+South~
+~
+0 0 1010775 0
+S
+#1010769
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Gray dust-covered ground rises over old lava fields under a colorless open sky
+among bare roots, dark rocks and brittle shrubs set amid broad reaches of ash.
+Dry wind passes above the powdery earth as low eddies circle behind each ridge
+and fine dust drifts along the barren ridges.~
+0 0 2 0 0 68
+D1
+East~
+~
+0 0 1010770 0
+D3
+West~
+~
+0 0 1010768 0
+S
+#1010770
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An ash-covered track threads through open wastes amid the chill of steady wind
+beside dry scrub, ash drifts and loose grit breaking the sweep of bare ground.
+Fine ash swirls along the empty trail and shallow eddies form behind the rocks
+as powdered grit shifts along the barren ridges.~
+0 0 2 0 0 69
+D0
+North~
+~
+0 0 1010763 0
+D2
+South~
+~
+0 0 1010777 0
+D3
+West~
+~
+0 0 1010769 0
+S
+#1010772
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A wind-scoured path curves through shallow folds in the land beneath low cloud
+past dark rocks, black shards and ash drifts lining the faint and dusty track.
+Thin grit shifts along the exposed ridges as dry roots creak beneath the gusts
+with pale haze hanging above the barren earth.~
+0 0 2 0 0 71
+D0
+North~
+~
+0 0 1010765 0
+D2
+South~
+~
+0 0 1010779 0
+S
+#1010773
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Uneven shelves of lava spread between dark rocks beneath a dim and clouded sky
+among low banks, dry scrub and ash drifts scattered across the exposed ground.
+Gray dust blows along the empty trail as loose flakes scrape across the basalt
+and weathered stones scatter over the open waste.~
+0 0 2 0 0 72
+D0
+North~
+~
+0 0 1010766 0
+D1
+East~
+~
+0 0 1010774 0
+D2
+South~
+~
+0 0 1010780 0
+S
+#1010774
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A shallow stony basin stretches through open wastes under banks of ashen cloud
+beside bare roots, dry scrub and ash drifts gathered in the lee of low ridges.
+Pale dust rises across the barren slopes as loose grit gathers in every hollow
+and gray light rests beneath the clouded sky.~
+0 0 2 0 0 73
+D0
+North~
+~
+0 0 1010767 0
+D3
+West~
+~
+0 0 1010773 0
+S
+#1010775
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dry broken terrain rises across an ashen plain beneath slow-moving gray clouds
+past brittle shrubs, blackened ridges and jagged boulders along the worn path.
+Cold air slides around the dark outcrops as the distant ground fades into haze
+with ash settling along the barren ridges.~
+0 0 2 0 0 74
+D0
+North~
+~
+0 0 1010768 0
+D2
+South~
+~
+0 0 1010782 0
+S
+#1010777
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Black cinder earth spreads between low ridges of weathered stone amid dry wind
+among shallow gullies, scattered pebbles and loose cinders on the ashen plain.
+Fine ash swirls over the broken ground as thin grasses shiver among the stones
+and powdered grit skitters between the dark outcrops.~
+0 0 2 0 0 76
+D0
+North~
+~
+0 0 1010770 0
+D2
+South~
+~
+0 0 1010784 0
+S
+#1010778
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A narrow cinder trail threads between dark rocks under a broad ceiling of haze
+beside brittle shrubs, gray stones and pale thorn bushes over the barren soil.
+Dry wind sweeps across the open waste as shallow cracks fill with drifting ash
+and loose grit shifts across the empty ground.~
+0 0 2 0 0 77
+D1
+East~
+~
+0 0 1010779 0
+S
+#1010779
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Rugged volcanic slopes extend over cracked earth beneath muted afternoon light
+past dust-filled hollows, shallow gullies and dusty weeds against the horizon.
+Thin grit blows along the empty trail and gray shrubs tremble across the plain
+with windblown ash gathering beneath the volcanic haze.~
+0 0 2 0 0 78
+D0
+North~
+~
+0 0 1010772 0
+D2
+South~
+~
+0 0 1010786 0
+D3
+West~
+~
+0 0 1010778 0
+S
+#1010780
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An exposed ash plain opens across a broad expanse of cinders under muted light
+among flat stones, jagged boulders and scattered pebbles beneath the pale sky.
+Gray dust drifts across the open waste as low plants rattle against the gravel
+and dry brush shivers beneath the volcanic haze.~
+0 0 2 0 0 79
+D0
+North~
+~
+0 0 1010773 0
+S
+#1010782
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A faint volcanic trail curves along a dusty hollow in the dry and restless air
+beside cracked lava slabs, loose cinders and black shards over the gray earth.
+Pale dust drifts along the exposed ridges as dark pebbles roll down the slopes
+and ash settles above the barren earth.~
+0 0 2 0 0 81
+D0
+North~
+~
+0 0 1010775 0
+D1
+East~
+~
+0 0 1010783 0
+D2
+South~
+~
+0 0 1010789 0
+S
+#1010783
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dark volcanic ground extends through shallow folds in the land in the open air
+past blackened ridges, brittle shrubs and twisted roots along the dusty track.
+Dry wind runs across the barren slopes and powdered earth lifts from the trail
+with loose grit skittering among the rocks.~
+0 0 2 0 0 82
+D1
+East~
+~
+0 0 1010784 0
+D2
+South~
+~
+0 0 1010790 0
+D3
+West~
+~
+0 0 1010782 0
+S
+#1010784
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Gray dust-covered ground slopes through open wastes beneath pale volcanic haze
+among wind-carved rocks, dusty weeds and scattered pebbles in shallow hollows.
+Cold air slides along the empty trail as small stones click against the basalt
+and windblown ash gathers beneath the clouded sky.~
+0 0 2 0 0 83
+D0
+North~
+~
+0 0 1010777 0
+D2
+South~
+~
+0 0 1010791 0
+D3
+West~
+~
+0 0 1010783 0
+S
+#1010785
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An ash-covered track winds across a broad expanse of cinders beneath dim light
+beside dry grass clumps, twisted roots and flat stones across the open ground.
+Fine ash sweeps along the empty trail and faint tracks vanish beneath the dust
+as ash drifts among the rocks.~
+0 0 2 0 0 84
+D1
+East~
+~
+0 0 1010786 0
+S
+#1010786
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Uneven shelves of lava run over cracked earth amid fine grit borne on the wind
+past pale thorn bushes, jagged boulders and weathered stones among low ridges.
+Thin grit moves across the open waste and gray haze closes over distant ground
+with powdered grit shifting beneath the clouded sky.~
+0 0 2 0 0 85
+D0
+North~
+~
+0 0 1010779 0
+D2
+South~
+~
+0 0 1010793 0
+D3
+West~
+~
+0 0 1010785 0
+S
+#1010788
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A wind-scoured path runs over hard ground strewn with cinders under a gray sky
+among black shards, dusty weeds and loose grit clustered along the worn route.
+Gray dust blows along the empty trail as dark gravel slides from exposed banks
+and pale haze lingers among the rocks.~
+0 0 2 0 0 87
+D1
+East~
+~
+0 0 1010789 0
+D2
+South~
+~
+0 0 1010795 0
+S
+#1010789
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A shallow stony basin opens over uneven shelves of old lava under drifting ash
+beside sparse scrub, low banks and dark rocks spread over hard volcanic earth.
+Pale dust spreads over the broken ground as brittle twigs rasp over the gravel
+and small stones click along the dusty trail.~
+0 0 2 0 0 88
+D0
+North~
+~
+0 0 1010782 0
+D2
+South~
+~
+0 0 1010796 0
+D3
+West~
+~
+0 0 1010788 0
+S
+#1010790
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A narrow cinder trail threads between dark rocks in thin light filtered by ash
+past bare roots, low banks and loose grit marking the otherwise empty terrain.
+Cold air drifts across the open waste as dry branches scrape against the stone
+with the mineral scent lingering inside shallow hollows.~
+0 0 2 0 0 89
+D0
+North~
+~
+0 0 1010783 0
+D1
+East~
+~
+0 0 1010791 0
+S
+#1010791
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dry broken terrain rises over hard ground strewn with cinders in pale ash haze
+among dark rocks, flat stones and dusty weeds caught in shallow folds of land.
+Thin grit moves above the powdery earth as pale dust curls around the boulders
+and silence returns under the steady wind.~
+0 0 2 0 0 90
+D0
+North~
+~
+0 0 1010784 0
+D3
+West~
+~
+0 0 1010790 0
+S
+#1010793
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Rugged volcanic slopes rise along a dusty hollow under a veil of drifting dust
+beside black shards, dark rocks and gray stones set amid broad reaches of ash.
+Dry wind runs above the powdery earth and dim light glances across the cinders
+as the mineral scent deepens over the open waste.~
+0 0 2 0 0 92
+D0
+North~
+~
+0 0 1010786 0
+D1
+East~
+~
+0 0 1010794 0
+S
+#1010794
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+An exposed ash plain stretches over old lava fields under banks of ashen cloud
+past dusty weeds, bare roots and loose grit lying beneath the open silent sky.
+Fine ash blows around the dark outcrops as brittle stems bow close to the soil
+with silence deepening under the steady wind.~
+0 0 2 0 0 93
+D1
+East~
+~
+0 0 1010795 0
+D3
+West~
+~
+0 0 1010793 0
+S
+#1010795
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Black cinder earth extends between low ridges of weathered stone amid dry wind
+among bare roots, loose grit and ash drifts rising from the powdery gray soil.
+Pale dust spreads across the open waste as tiny stones rattle into the gullies
+and fine cinders collect across distant slopes.~
+0 0 2 0 0 94
+D0
+North~
+~
+0 0 1010788 0
+D1
+East~
+~
+0 0 1010796 0
+D3
+West~
+~
+0 0 1010794 0
+D2
+Exit description
+~
+~
+0 0 4013011 0
+S
+#1010796
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+A faint volcanic trail curves between dark rocks amid the chill of steady wind
+beside low banks, dry scrub and gray stones breaking the sweep of bare ground.
+Gray dust rises across the open waste as weathered rock faces lose their edges
+and the mineral scent hangs inside shallow hollows.~
+0 0 2 0 0 95
+D0
+North~
+~
+0 0 1010789 0
+D1
+East~
+~
+0 0 1010797 0
+D3
+West~
+~
+0 0 1010795 0
+S
+#1010797
+Ashlands, Wilderness, near, Ald' Ruhn's town~
+Dark volcanic ground spreads along broken slopes beneath a dim and clouded sky
+past ash drifts, low banks and flat stones standing against the muted horizon.
+Cold air passes along the exposed ridges and dry roots creak beneath the gusts
+with gray light resting along the dusty trail.~
+0 0 2 0 0 96
+D3
+West~
+~
+0 0 1010796 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

@@ -1,0 +1,59 @@
+#VERSION 1
+
+#CELL		0 0
+Climate     desert~
+Hemisphere  south~
+State       70 9 31 26 100 53 38 21
+End
+
+#CELL		1 0
+Climate     deciduous_forest~
+Hemisphere  north~
+State       58 27 20 68 66 40 12 -97
+End
+
+#CELL		2 0
+Climate     tundra~
+Hemisphere  north~
+State       70 0 12 71 38 21 36 -64
+End
+
+#CELL		0 1
+Climate     taiga~
+Hemisphere  south~
+State       74 34 27 65 90 44 9 -21
+End
+
+#CELL		1 1
+Climate     taiga~
+Hemisphere  north~
+State       87 40 35 35 93 42 5 -100
+End
+
+#CELL		2 1
+Climate     desert~
+Hemisphere  south~
+State       87 98 34 32 100 45 -37 -73
+End
+
+#CELL		0 2
+Climate     deciduous_forest~
+Hemisphere  south~
+State       78 9 35 63 94 64 13 33
+End
+
+#CELL		1 2
+Climate     grasslands~
+Hemisphere  south~
+State       58 46 28 61 99 57 -63 -51
+End
+
+#CELL		2 2
+Climate     grasslands~
+Hemisphere  south~
+State       56 17 32 30 100 71 -43 9
+End
+
+
+#END
+

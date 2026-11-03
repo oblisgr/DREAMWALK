@@ -1,0 +1,145 @@
+Name		Nightblade~
+Class		31
+AttrPrime		2
+AttrSecond	2
+AttrDeficient	1
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		11
+Hpmin		1
+Hpmax		8
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Recall' 1 95
+Skill 'Rob' 1 95
+Skill 'Siphon' 1 95
+Skill 'Steal' 1 95
+Skill 'Extract' 1 95
+Skill 'Consume' 1 95
+Skill 'Appropriate' 1 95
+Skill 'Pilfer' 1 95
+Skill 'Absorb' 1 95
+Skill 'Devour' 1 95
+Skill 'Tap' 1 95
+Skill 'Soultrap' 1 95
+Skill 'Sense' 1 95
+Skill 'Discern' 1 95
+Skill 'Locate' 1 95
+Skill 'Reflect' 1 95
+Skill 'Pray' 1 95
+Skill 'Dispel' 1 95
+Skill 'Devote' 1 95
+Skill 'Camouflage' 1 90
+Skill 'Bless' 1 90
+Skill 'Conceal' 1 90
+Skill 'Enlighten' 1 90
+Skill 'Silence' 1 90
+Skill 'Blind' 1 90
+Skill 'Charm' 1 90
+Skill 'Paralyze' 1 90
+Skill 'Sound' 1 90
+Skill 'Demoralize' 1 90
+Skill 'Calm' 1 90
+Skill 'Rally' 1 90
+Skill 'Frenzy' 1 90
+Skill 'Illuminate' 1 90
+Skill 'Open' 1 85
+Skill 'Lock' 1 85
+Skill 'Ignite' 1 85
+Skill 'Frost' 1 85
+Skill 'Storm' 1 85
+Skill 'Coat' 1 85
+Skill 'Levitate' 1 85
+Skill 'Breath' 1 85
+Skill 'Burden' 1 85
+Skill 'Feather' 1 85
+Skill 'Shield' 1 85
+Skill 'Pickpocket' 1 80
+Skill 'Sneak' 1 80
+Skill 'Hide' 1 80
+Skill 'Peek' 1 80
+Skill 'Backstab' 1 80
+Skill 'Creep' 1 80
+Skill 'Dirk' 1 75
+Skill 'Dagger' 1 75
+Skill 'Tanto' 1 75
+Skill 'Wakizashi' 1 75
+Skill 'Shortsword' 1 75
+Skill 'Fight' 1 75
+Skill 'Gouge' 1 75
+Skill 'Grip' 1 75
+Skill 'Razor' 1 75
+Skill 'Outplay' 1 75
+Skill 'Riposte' 1 75
+Skill 'Stab' 1 75
+Skill 'Sting' 1 75
+Skill 'Leather' 1 70
+Skill 'Suppress' 1 70
+Skill 'Unchain' 1 70
+Skill 'Cloth' 1 65
+Skill 'Disengage' 1 65
+Skill 'Distract' 1 65
+Skill 'Parry' 1 65
+Skill 'Rescue' 1 65
+Skill 'Focus' 1 65
+Skill 'Unyield' 1 65
+Skill 'Guard' 1 65
+Skill 'Recover' 1 65
+Skill 'Trample' 1 65
+Skill 'Burn' 1 60
+Skill 'Freeze' 1 60
+Skill 'Shock' 1 60
+Skill 'Poison' 1 60
+Skill 'Blast' 1 60
+Skill 'Sear' 1 60
+Skill 'Chill' 1 60
+Skill 'Electrify' 1 60
+Skill 'Sensitize' 1 60
+Skill 'Expose' 1 60
+Skill 'Contaminate' 1 60
+Skill 'Taint' 1 60
+Skill 'Corrupt' 1 60
+Skill 'Disable' 1 60
+Skill 'Soften' 1 60
+Skill 'Leech' 1 60
+Skill 'Enervate' 1 60
+Skill 'Slow' 1 60
+Skill 'Stultify' 1 60
+Skill 'Temptate' 1 60
+Skill 'Spite' 1 60
+Skill 'Jinx' 1 60
+Skill 'Hinder' 1 60
+Skill 'Drain' 1 60
+Skill 'Deplete' 1 60
+Skill 'Weary' 1 60
+Skill 'Weaken' 1 60
+Skill 'Emasculate' 1 60
+Skill 'Stumble' 1 60
+Skill 'Fuddle' 1 60
+Skill 'Woe' 1 60
+Skill 'Degrade' 1 60
+Skill 'Hex' 1 60
+Skill 'Wound' 1 60
+Skill 'Disrupt' 1 60
+Skill 'Doze' 1 60
+Skill 'Corrode' 1 60
+Skill 'Erode' 1 60
+Skill 'Dart' 1 55
+Skill 'Ninjaku' 1 55
+Skill 'Knife' 1 55
+Skill 'Shortbow' 1 55
+Skill 'Longbow' 1 55
+Skill 'Crossbow' 1 55
+Skill 'Barrage' 1 55
+Skill 'Lockpick' 1 50
+Skill 'Search' 1 50
+Skill 'Detect' 1 50
+Skill 'Detrap' 1 50
+Skill 'Scan' 1 50
+Skill 'Track' 1 50
+End	

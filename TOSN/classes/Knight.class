@@ -1,0 +1,130 @@
+Name		Knight~
+Class		2
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Rapier' 1 95
+Skill 'Cutlass' 1 95
+Skill 'Saber' 1 95
+Skill 'Falchion' 1 95
+Skill 'Katana' 1 95
+Skill 'Longsword' 1 95
+Skill 'Broadsword' 1 95
+Skill 'Claymore' 1 95
+Skill 'Daikatana' 1 95
+Skill 'Charge' 1 95
+Skill 'Disarm' 1 95
+Skill 'Skirmish' 1 95
+Skill 'Slice' 1 95
+Skill 'Overkill' 1 95
+Skill 'Strike' 1 95
+Skill 'Sickle' 1 90
+Skill 'Handaxe' 1 90
+Skill 'Waraxe' 1 90
+Skill 'Pickaxe' 1 90
+Skill 'Battleaxe' 1 90
+Skill 'Berserk' 1 90
+Skill 'Execute' 1 90
+Skill 'Overpower' 1 90
+Skill 'Cleave' 1 90
+Skill 'Wirlwind' 1 90
+Skill 'Mutilate' 1 90
+Skill 'Cripple' 1 90
+Skill 'Slaughter' 1 90
+Skill 'Sever' 1 90
+Skill 'Chop' 1 90
+Skill 'Swing' 1 90
+Skill 'Hack' 1 90
+Skill 'Bluff' 1 85
+Skill 'Flirt' 1 85
+Skill 'Intimidate' 1 85
+Skill 'Judge' 1 85
+Skill 'Shame' 1 85
+Skill 'Daunt' 1 85
+Skill 'Gaze' 1 85
+Skill 'Surge' 1 85
+Skill 'Bully' 1 85
+Skill 'Harry' 1 85
+Skill 'Rebuke' 1 85
+Skill 'Plate' 1 80
+Skill 'Deflect' 1 80
+Skill 'Withstand' 1 80
+Skill 'Spook' 1 80
+Skill 'Overlay' 1 80
+Skill 'Taunt' 1 75
+Skill 'Bash' 1 75
+Skill 'Block' 1 75
+Skill 'Revenge' 1 75
+Skill 'Defend' 1 75
+Skill 'Rebuff' 1 75
+Skill 'Shelter' 1 75
+Skill 'Shroud' 1 75
+Skill 'Thrust' 1 75
+Skill 'Destabilize' 1 75
+Skill 'Cool' 1 70
+Skill 'Warm' 1 70
+Skill 'Ground' 1 70
+Skill 'Detoxify' 1 70
+Skill 'Unjinx' 1 70
+Skill 'Vaccinate' 1 70
+Skill 'Cleanse' 1 70
+Skill 'Stabilize' 1 70
+Skill 'Steady' 1 70
+Skill 'Toughen' 1 70
+Skill 'Strengthen' 1 70
+Skill 'Fortitude' 1 70
+Skill 'Quicken' 1 70
+Skill 'Outsmart' 1 70
+Skill 'Embolden' 1 70
+Skill 'Inspire' 1 70
+Skill 'Favor' 1 70
+Skill 'Rejuvenate' 1 70
+Skill 'Empower' 1 70
+Skill 'Refresh' 1 70
+Skill 'Rebuild' 1 70
+Skill 'Revitalize' 1 70
+Skill 'Rebalance' 1 70
+Skill 'Clarify' 1 70
+Skill 'Reassure' 1 70
+Skill 'Uplift' 1 70
+Skill 'Redeem' 1 70
+Skill 'Heal' 1 70
+Skill 'Replenish' 1 70
+Skill 'Renew' 1 70
+Skill 'Hire' 1 65
+Skill 'Dig' 1 65
+Skill 'Trick' 1 65
+Skill 'Anger' 1 65
+Skill 'Humiliate' 1 65
+Skill 'Mail' 1 60
+Skill 'Enrage' 1 60
+Skill 'Trammel' 1 60
+Skill 'Spurn' 1 60
+Skill 'Cover' 1 60
+Skill 'Scribe' 1 55
+Skill 'Imbue' 1 55
+Skill 'Enchant' 1 55
+Skill 'Meditate' 1 55
+Skill 'Banish' 1 55
+Skill 'Innervate' 1 55
+Skill 'Blink' 1 55
+Skill 'Entangle' 1 55
+Skill 'Sleep' 1 55
+Skill 'Smith' 1 50
+Skill 'Sharpen' 1 50
+Skill 'Reinforce' 1 50
+Skill 'Repair' 1 50
+Skill 'Inspect' 1 50
+End

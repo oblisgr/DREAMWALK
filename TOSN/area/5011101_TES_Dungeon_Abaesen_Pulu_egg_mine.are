@@ -1,0 +1,316 @@
+#AREA Abaesen pulu egg mine~
+
+#VERSION 1
+
+#CLIMATE 1 4 0
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 0
+
+#ECONOMY 0 0
+
+#MOBILES
+#5011101
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#5011101
+RESERVED~
+RESERVED~
+RESERVED~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#5011101
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011102 0
+S
+#5011102
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011103 0
+D2
+South~
+~
+0 0 5011101 0
+S
+#5011103
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011104 0
+D2
+South~
+~
+0 0 5011102 0
+S
+#5011104
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011103 0
+D3
+West~
+~
+0 0 5011105 0
+S
+#5011105
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011104 0
+D2
+South~
+~
+0 0 5011106 0
+S
+#5011106
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011105 0
+D3
+West~
+~
+0 0 5011107 0
+S
+#5011107
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011108 0
+D1
+East~
+~
+0 0 5011106 0
+S
+#5011108
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011109 0
+D2
+South~
+~
+0 0 5011107 0
+S
+#5011109
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011110 0
+D2
+South~
+~
+0 0 5011108 0
+S
+#5011110
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011111 0
+D2
+South~
+~
+0 0 5011109 0
+D3
+West~
+~
+0 0 5011119 0
+S
+#5011111
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011112 0
+D3
+West~
+~
+0 0 5011110 0
+S
+#5011112
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011113 0
+D3
+West~
+~
+0 0 5011111 0
+S
+#5011113
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011114 0
+D2
+South~
+~
+0 0 5011112 0
+S
+#5011114
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011113 0
+D3
+West~
+~
+0 0 5011115 0
+S
+#5011115
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011114 0
+D3
+West~
+~
+0 0 5011116 0
+S
+#5011116
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011120 0
+D1
+East~
+~
+0 0 5011115 0
+D3
+West~
+~
+0 0 5011117 0
+S
+#5011117
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D1
+East~
+~
+0 0 5011116 0
+D2
+South~
+~
+0 0 5011118 0
+S
+#5011118
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011117 0
+D2
+South~
+~
+0 0 5011119 0
+S
+#5011119
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D0
+North~
+~
+0 0 5011118 0
+D1
+East~
+~
+0 0 5011110 0
+S
+#5011120
+Bitter coast, Abaesen-Pulu, egg mine~
+~
+0 8 13 0 0 0
+D2
+South~
+~
+0 0 5011116 0
+S
+#0
+
+#SPECIALS
+S
+
+#$

@@ -1,0 +1,386 @@
+#AREA Arvel plantation~
+
+#VERSION 1
+
+#CLIMATE 2 2 2
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4014001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4014001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4014001
+Ascadian isles, Arvel, plantation, fields~
+Broad crop rows stretch across dark fertile soil beneath the gentle island sky
+with low irrigation ditches carrying water between sturdy green plants nearby.
+Hot air moves over the leaves as workers gather roots into woven field baskets
+and the rich earth bears the scent of water, stems and freshly turned loam.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014002 0
+S
+#4014002
+Ascadian isles, Arvel, plantation, fields~
+Neat furrows cross a softly rolling field bordered by low banks of packed soil
+among broad crop foliage, scattered tools and baskets waiting beside the rows.
+Insects hum through the humid air as careful hands loosen roots from soft soil
+and distant voices mingle with the whisper of crops moving in the breeze.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014003 0
+D2
+South~
+~
+0 0 4014001 0
+D3
+West~
+~
+0 0 4014016 0
+S
+#4014003
+Ascadian isles, Arvel, plantation, fields~
+Long cultivated rows trace the rise and fall of well-watered plantation ground
+beside shallow channels, wooden stakes and bundles of fresh harvested produce.
+Sunlight glints across damp leaves as laborers work steadily through the field
+and soft mud clings to boots along the narrow paths between the crops.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014004 0
+D1
+East~
+~
+0 0 4014006 0
+D2
+South~
+~
+0 0 4014002 0
+D3
+West~
+~
+0 0 4014014 0
+S
+#4014004
+Ascadian isles, Arvel, plantation, fields~
+A wide field spreads over level earth divided by worn paths and water channels
+among tender shoots growing beside mature plants ready for the coming harvest.
+A breeze stirs the thick leaves as filled baskets collect near the field paths
+and the fertile ground carries the smell of damp soil and crushed greenery.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014005 0
+D2
+South~
+~
+0 0 4014003 0
+D3
+West~
+~
+0 0 4014015 0
+S
+#4014005
+Ascadian isles, Arvel, plantation, fields~
+Dense crops cover a carefully tended plot beneath a warm and hazy island light
+among narrow furrows, irrigation cuts and low wooden tools left close at hand.
+Workers pass between the rows as insects now drift above the sun-warmed leaves
+and the orderly field shows the patient labor behind every growing season.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014011 0
+D2
+South~
+~
+0 0 4014004 0
+S
+#4014006
+Ascadian isles, Arvel, plantation, fields~
+Low earthen banks divide this cultivated field into long well-watered sections
+with healthy leaves crowding the soil between low stakes and shallow channels.
+The rhythmic sounds of digging follow workers walking from one row to the next
+as warm moisture rises from the earth beneath the afternoon light.~
+0 0 2 0 0 0
+D1
+East~
+~
+0 0 4014007 0
+D2
+South~
+~
+0 0 4014010 0
+D3
+West~
+~
+0 0 4014003 0
+S
+#4014007
+Ascadian isles, Arvel, plantation, fields~
+A patchwork of planted rows covers the dark soil beneath a lightly clouded sky
+beside muddy footpaths, woven baskets and simple tools readied during harvest.
+Broad leaves rustle in the breeze as field workers tend the roots below ground
+and water trickles quietly through channels cut between the growing crops.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014008 0
+D2
+South~
+~
+0 0 4014009 0
+D3
+West~
+~
+0 0 4014006 0
+S
+#4014008
+Ascadian isles, Arvel, plantation, fields~
+Rich tilled soil extends across broad ordered rows of healthy plantation crops
+with low wooden markers, narrow drainage cuts and baskets set beside the path.
+Warm sunlight rests upon broad leaves as workers remove weeds from the furrows
+and the field smells of moist earth, roots and recently cut stems.~
+0 0 2 0 0 0
+D2
+South~
+~
+0 0 4014007 0
+S
+#4014009
+Ascadian isles, Arvel, plantation, fields~
+Cultivated ground stretches through a broad plot crossed by shallow water runs
+among healthy green plants, trampled paths and tools worn smooth by fieldwork.
+A mild breeze passes over the rows as baskets slowly fill with harvested crops
+and dark loam gathers beneath the hands and boots of the workers.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014007 0
+S
+#4014010
+Ascadian isles, Arvel, plantation, fields~
+Carefully raised banks frame one productive field of strong low-growing plants
+with broad irrigation channels feeding the rows across wet and fertile ground.
+Leaves now brush against passing workers as roots are lifted and sorted nearby
+and the warm air carries the mingled scents of soil, water and vegetation.~
+0 0 2 0 0 0
+D0
+North~
+~
+0 0 4014006 0
+S
+#4014011
+Ascadian isles, Arvel, plantation, manor~
+Rounded plaster walls surround a comfortable manor interior under timber beams
+with polished cabinets, woven floor rugs and fine ceramics arranged with care.
+Soft lamplight warms the restrained furnishings as quiet footsteps pass nearby
+and the orderly chamber reflects prosperous yet practical domestic life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4014012 0
+D2
+South~
+~
+0 0 4014005 0
+S
+#4014012
+Ascadian isles, Arvel, plantation, manor~
+Warm ochre walls enclose a refined household chamber beneath dark wood rafters
+among carved furniture, folded fabrics and ceramic vessels kept neatly stored.
+Filtered light settles across the clean floor as soft conversation drifts past
+and every furnishing displays comfort without wasteful ornament.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4014013 0
+D3
+West~
+~
+0 0 4014011 0
+S
+#4014013
+Ascadian isles, Arvel, plantation, manor~
+Wide native walls shelter a well-kept manor room beneath a low rounded ceiling
+with woven hangings, solid tables and polished containers lining the interior.
+Golden lamplight plays across the warm plaster as household activity continues
+and the calm chamber bears the habits of an established rural estate.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4014012 0
+S
+#4014014
+Ascadian isles, Arvel, plantation, slave shack~
+Coarse plaster walls enclose cramped sleeping quarters beneath patched rafters
+with thin bedrolls, shared bowls and worn baskets pressed against inner walls.
+Stale air carries harsh scents of sweat, straw and smoke from a weak clay lamp
+and little space remains between the few possessions kept by the laborers.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4014003 0
+S
+#4014015
+Ascadian isles, Arvel, plantation, slavemaster's shack~
+A stronger plastered shack provides plain but comfortable supervisory quarters
+with a plain bed, locked chest and work records arranged beneath wooden beams.
+Lamplight falls across hanging keys and serviceable gear beside a narrow table
+and the ordered room stands apart from the poorer shelters outside.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4014004 0
+S
+#4014016
+Ascadian isles, Arvel, plantation, storage shack~
+Weathered plank walls surround a crowded storehouse beneath a low pitched roof
+with sacks, barrels and wooden crates stacked carefully along confined aisles.
+Dry scents of grain, rope and timber fill the dim air near bundled field tools
+and every corner is used to protect supplies from damp weather and vermin.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4014002 0
+S
+#0
+
+#RESETS
+M 0 2300037 1 4014001  ;  Mob: Affri [Npcs] => #4014001 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300399 1 4014002  ;  Mob: Breyns Randas [Npcs] => #4014002 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301045 1 3  ; -- Equip: Pewter amulet [Items] (neck-1)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2301356 1 4014003  ;  Mob: J'Kara [Npcs] => #4014003 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2301398 1 4014004  ;  Mob: Kal-Ma [Npcs] => #4014004 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2301409 1 4014005  ;  Mob: Kasa [Npcs] => #4014005 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2301551 1 4014006  ;  Mob: Ma'Dara [Npcs] => #4014006 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2302057 1 4014007  ;  Mob: Relyn Sarano [Npcs] => #4014007 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3237031 1 16  ; -- Equip: Wooden staff [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302106 1 4014008  ;  Mob: Rovone Arvel [Npcs] => #4014008 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3106006 1 7  ; -- Equip: Exquisite pants [Items] (legs)
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3106004 1 13  ; -- Equip: Exquisite sash [Items] (waist)
+E 1 3301020 1 1  ; -- Equip: Emerald ring [Items] (finger-r)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302182 1 4014009  ;  Mob: Sedrane Arvel [Npcs] => #4014009 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3106006 1 7  ; -- Equip: Exquisite pants [Items] (legs)
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3106004 1 13  ; -- Equip: Exquisite sash [Items] (waist)
+E 1 3301020 1 1  ; -- Equip: Emerald ring [Items] (finger-r)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302247 1 4014010  ;  Mob: Shatalg [Npcs] => #4014010 [Arvel plantation] Ascadian isles, Arvel, plantation, fields
+E 1 3019001 1 9  ; -- Equip: Slave's bracers [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300666 1 4014011  ;  Mob: Dredase Arvel [Npcs] => #4014011 [Arvel plantation] Ascadian isles, Arvel, plantation, manor
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3301016 1 1  ; -- Equip: Diamond ring [Items] (finger-r)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302360 1 4014012  ;  Mob: Talare Arvel [Npcs] => #4014012 [Arvel plantation] Ascadian isles, Arvel, plantation, manor
+E 1 3106010 1 7  ; -- Equip: Exquisite skirt [Items] (legs)
+E 1 3106007 1 8  ; -- Equip: Exquisite shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3301016 1 1  ; -- Equip: Diamond ring [Items] (finger-r)
+E 1 3223009 1 16  ; -- Equip: Iron dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2302593 1 4014013  ;  Mob: Urene Arvel [Npcs] => #4014013 [Arvel plantation] Ascadian isles, Arvel, plantation, manor
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3105003 1 5  ; -- Equip: Extravagant shirt [Items] (body)
+E 1 3105005 1 9  ; -- Equip: Extravagant gloves [Items] (hands)
+E 1 3105010 1 7  ; -- Equip: Extravagant skirt [Items] (legs)
+E 1 3301034 1 3  ; -- Equip: Jeweled necklace [Items] (neck-1)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+S
+
+#SPECIALS
+S
+
+#HELPS
+1 ARVEL PLANTATION~
+Arvel Plantation is a wealthy Hlaalu estate located between Pelagiad and Suran
+where corkbulb fields sustain the wealth and influence of its noble household.
+Fine clothing and guarded comforts reveal the success enjoyed within the manor
+as enslaved workers labor across the surrounding farmland.~
+0 $~
+
+#$

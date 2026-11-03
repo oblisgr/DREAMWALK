@@ -1,0 +1,1494 @@
+duplicate vnum
+[*****] BUG: Get_mob_index: bad vnum 2300104.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2796
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2797
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2798
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2799
+[*****] BUG: Get_obj_index: bad vnum 3223025.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2800
+[*****] BUG: Get_mob_index: bad vnum 2300557.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2801
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2802
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2803
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2804
+[*****] BUG: Get_obj_index: bad vnum 3223025.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2805
+[*****] BUG: Get_mob_index: bad vnum 2301676.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2806
+[*****] BUG: Get_obj_index: bad vnum 3104003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2807
+[*****] BUG: Get_obj_index: bad vnum 3104006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2808
+[*****] BUG: Get_obj_index: bad vnum 3104007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2809
+[*****] BUG: Get_obj_index: bad vnum 3104004.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2810
+[*****] BUG: Get_obj_index: bad vnum 3235025.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2811
+[*****] BUG: Get_obj_index: bad vnum 3403103.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2812
+[*****] BUG: Get_mob_index: bad vnum 2302062.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2813
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2814
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2815
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2816
+[*****] BUG: Get_obj_index: bad vnum 3223025.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2817
+[*****] BUG: Get_mob_index: bad vnum 2300649.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2818
+[*****] BUG: Get_obj_index: bad vnum 3102009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2819
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2820
+[*****] BUG: Get_obj_index: bad vnum 3301009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2821
+[*****] BUG: Get_obj_index: bad vnum 3003001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2822
+[*****] BUG: Get_obj_index: bad vnum 3401004.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2823
+[*****] BUG: Get_mob_index: bad vnum 2301609.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2824
+[*****] BUG: Get_obj_index: bad vnum 3102009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2825
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2826
+[*****] BUG: Get_obj_index: bad vnum 3301061.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2827
+[*****] BUG: Get_obj_index: bad vnum 3203012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2828
+[*****] BUG: Get_obj_index: bad vnum 3401027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2829
+[*****] BUG: Get_obj_index: bad vnum 3401028.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2830
+[*****] BUG: Get_mob_index: bad vnum 2300053.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2831
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2832
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2833
+[*****] BUG: Get_obj_index: bad vnum 3237027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2834
+[*****] BUG: Get_mob_index: bad vnum 2300520.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2835
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2836
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2837
+[*****] BUG: Get_obj_index: bad vnum 3237027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2838
+[*****] BUG: Get_mob_index: bad vnum 2300693.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2839
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2840
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2841
+[*****] BUG: Get_obj_index: bad vnum 3237027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2842
+[*****] BUG: Get_mob_index: bad vnum 2300761.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2843
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2844
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2845
+[*****] BUG: Get_obj_index: bad vnum 3237027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2846
+[*****] BUG: Get_mob_index: bad vnum 2301352.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2847
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2848
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2849
+[*****] BUG: Get_obj_index: bad vnum 3237027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2850
+[*****] BUG: Get_mob_index: bad vnum 2302185.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2851
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2852
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2853
+[*****] BUG: Get_obj_index: bad vnum 3237027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2854
+[*****] BUG: Get_mob_index: bad vnum 2300093.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2855
+[*****] BUG: Get_obj_index: bad vnum 3119003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2856
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2857
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2858
+[*****] BUG: Get_obj_index: bad vnum 3119005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2859
+[*****] BUG: Get_obj_index: bad vnum 3223009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2860
+[*****] BUG: Get_obj_index: bad vnum 3408045.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2861
+[*****] BUG: Get_obj_index: bad vnum 3408045.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2862
+[*****] BUG: Get_obj_index: bad vnum 3408050.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2863
+[*****] BUG: Get_obj_index: bad vnum 3406021.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2864
+[*****] BUG: Get_mob_index: bad vnum 2300269.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2865
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2866
+[*****] BUG: Get_obj_index: bad vnum 3003002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2867
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2868
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2869
+[*****] BUG: Get_obj_index: bad vnum 3223009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2870
+[*****] BUG: Get_obj_index: bad vnum 3301012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2871
+[*****] BUG: Get_obj_index: bad vnum 3408050.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2872
+[*****] BUG: Get_mob_index: bad vnum 2300527.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2873
+[*****] BUG: Get_obj_index: bad vnum 3301012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2874
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2875
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2876
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2877
+[*****] BUG: Get_obj_index: bad vnum 3223019.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2878
+[*****] BUG: Get_mob_index: bad vnum 2302440.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2879
+[*****] BUG: Get_obj_index: bad vnum 3149007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2880
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2881
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2882
+[*****] BUG: Get_obj_index: bad vnum 3205039.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2883
+[*****] BUG: Get_mob_index: bad vnum 2300926.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2884
+[*****] BUG: Get_obj_index: bad vnum 3144006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2885
+[*****] BUG: Get_obj_index: bad vnum 3003002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2886
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2887
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2888
+[*****] BUG: Get_obj_index: bad vnum 3102004.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2889
+[*****] BUG: Get_obj_index: bad vnum 3205024.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2890
+[*****] BUG: Get_mob_index: bad vnum 2301096.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2891
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2892
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2893
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2894
+[*****] BUG: Get_mob_index: bad vnum 2301483.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2895
+[*****] BUG: Get_obj_index: bad vnum 3144005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2896
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2897
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2898
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2899
+[*****] BUG: Get_obj_index: bad vnum 3205027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2900
+[*****] BUG: Get_mob_index: bad vnum 2301619.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2901
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2902
+[*****] BUG: Get_obj_index: bad vnum 3102010.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2903
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2904
+[*****] BUG: Get_obj_index: bad vnum 3205012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2905
+[*****] BUG: Get_obj_index: bad vnum 3404038.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2906
+[*****] BUG: Get_mob_index: bad vnum 2302464.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2907
+[*****] BUG: Get_obj_index: bad vnum 3144003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2908
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2909
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2910
+[*****] BUG: Get_obj_index: bad vnum 3223018.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2911
+[*****] BUG: Get_mob_index: bad vnum 2300627.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2912
+[*****] BUG: Get_obj_index: bad vnum 3106009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2913
+[*****] BUG: Get_obj_index: bad vnum 3106007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2914
+[*****] BUG: Get_obj_index: bad vnum 3301028.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2915
+[*****] BUG: Get_obj_index: bad vnum 3401062.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2916
+[*****] BUG: Get_obj_index: bad vnum 3401062.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2917
+[*****] BUG: Get_obj_index: bad vnum 3401063.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2918
+[*****] BUG: Get_obj_index: bad vnum 3401063.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2919
+[*****] BUG: Get_mob_index: bad vnum 2300806.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2920
+[*****] BUG: Get_obj_index: bad vnum 3159003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2921
+[*****] BUG: Get_obj_index: bad vnum 3159002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2922
+[*****] BUG: Get_obj_index: bad vnum 3159006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2923
+[*****] BUG: Get_obj_index: bad vnum 3159007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2924
+[*****] BUG: Get_obj_index: bad vnum 3235026.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2925
+[*****] BUG: Get_mob_index: bad vnum 2301252.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2926
+[*****] BUG: Get_obj_index: bad vnum 3111003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2927
+[*****] BUG: Get_obj_index: bad vnum 3111002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2928
+[*****] BUG: Get_obj_index: bad vnum 3111006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2929
+[*****] BUG: Get_obj_index: bad vnum 3111007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2930
+[*****] BUG: Get_obj_index: bad vnum 3209028.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2931
+[*****] BUG: Get_mob_index: bad vnum 2301335.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2932
+[*****] BUG: Get_obj_index: bad vnum 3104007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2933
+[*****] BUG: Get_obj_index: bad vnum 3104008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2934
+[*****] BUG: Get_obj_index: bad vnum 3231009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2935
+[*****] BUG: Get_obj_index: bad vnum 3401021.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2936
+[*****] BUG: Get_mob_index: bad vnum 2301388.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2937
+[*****] BUG: Get_obj_index: bad vnum 3159003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2938
+[*****] BUG: Get_obj_index: bad vnum 3159002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2939
+[*****] BUG: Get_obj_index: bad vnum 3159006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2940
+[*****] BUG: Get_obj_index: bad vnum 3159007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2941
+[*****] BUG: Get_obj_index: bad vnum 3223026.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2942
+[*****] BUG: Get_obj_index: bad vnum 3410030.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2943
+[*****] BUG: Get_mob_index: bad vnum 2301955.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2944
+[*****] BUG: Get_obj_index: bad vnum 3114003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2945
+[*****] BUG: Get_obj_index: bad vnum 3114002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2946
+[*****] BUG: Get_obj_index: bad vnum 3114006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2947
+[*****] BUG: Get_obj_index: bad vnum 3114007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2948
+[*****] BUG: Get_obj_index: bad vnum 3223011.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2949
+[*****] BUG: Get_mob_index: bad vnum 2300251.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2950
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2951
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2952
+[*****] BUG: Get_mob_index: bad vnum 2300275.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2953
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2954
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2955
+[*****] BUG: Get_mob_index: bad vnum 2301656.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2956
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2957
+[*****] BUG: Get_obj_index: bad vnum 3102009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2958
+[*****] BUG: Get_obj_index: bad vnum 3205009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2959
+[*****] BUG: Get_mob_index: bad vnum 2301766.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2960
+[*****] BUG: Get_obj_index: bad vnum 3003002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2961
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2962
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2963
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2964
+[*****] BUG: Get_obj_index: bad vnum 3205009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2965
+[*****] BUG: Get_obj_index: bad vnum 3408045.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2966
+[*****] BUG: Get_obj_index: bad vnum 3408050.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2967
+[*****] BUG: Get_mob_index: bad vnum 2301915.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2968
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2969
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2970
+[*****] BUG: Get_mob_index: bad vnum 2302376.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2971
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2972
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2973
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2974
+[*****] BUG: Get_obj_index: bad vnum 3205009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2975
+[*****] BUG: Get_mob_index: bad vnum 2302232.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2976
+[*****] BUG: Get_obj_index: bad vnum 3117003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2977
+[*****] BUG: Get_obj_index: bad vnum 3117007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2978
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2979
+[*****] BUG: Get_obj_index: bad vnum 3205039.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2980
+[*****] BUG: Get_mob_index: bad vnum 2302465.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2981
+[*****] BUG: Get_obj_index: bad vnum 3144003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2982
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2983
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2984
+[*****] BUG: Get_obj_index: bad vnum 3205034.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2985
+[*****] BUG: Get_mob_index: bad vnum 2302775.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2986
+[*****] BUG: Get_obj_index: bad vnum 3104003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2987
+[*****] BUG: Get_obj_index: bad vnum 3104006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2988
+[*****] BUG: Get_obj_index: bad vnum 3104007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2989
+[*****] BUG: Get_obj_index: bad vnum 3223020.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2990
+[*****] BUG: Get_obj_index: bad vnum 3320021.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2991
+[*****] BUG: Get_mob_index: bad vnum 2300606.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2992
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2993
+[*****] BUG: Get_obj_index: bad vnum 3104008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2994
+[*****] BUG: Get_obj_index: bad vnum 3301012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2995
+[*****] BUG: Get_obj_index: bad vnum 3235009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2996
+[*****] BUG: Get_mob_index: bad vnum 2300817.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2997
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2998
+[*****] BUG: Get_obj_index: bad vnum 3102009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 2999
+[*****] BUG: Get_obj_index: bad vnum 3301012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3000
+[*****] BUG: Get_obj_index: bad vnum 3205009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3001
+[*****] BUG: Get_mob_index: bad vnum 2301253.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3002
+[*****] BUG: Get_obj_index: bad vnum 3132003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3003
+[*****] BUG: Get_obj_index: bad vnum 3130005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3004
+[*****] BUG: Get_obj_index: bad vnum 3144006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3005
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3006
+[*****] BUG: Get_obj_index: bad vnum 3139008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3007
+[*****] BUG: Get_obj_index: bad vnum 3221019.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3008
+[*****] BUG: Get_mob_index: bad vnum 2301496.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3009
+[*****] BUG: Get_obj_index: bad vnum 3102009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3010
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3011
+[*****] BUG: Get_obj_index: bad vnum 3223009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3012
+[*****] BUG: Get_obj_index: bad vnum 3401009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3013
+[*****] BUG: Get_mob_index: bad vnum 2300162.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3014
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3015
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3016
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3017
+[*****] BUG: Get_mob_index: bad vnum 2300257.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3018
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3019
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3020
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3021
+[*****] BUG: Get_mob_index: bad vnum 2300410.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3022
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3023
+[*****] BUG: Get_obj_index: bad vnum 3144005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3024
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3025
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3026
+[*****] BUG: Get_obj_index: bad vnum 3301045.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3027
+[*****] BUG: Get_obj_index: bad vnum 3223009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3028
+[*****] BUG: Get_mob_index: bad vnum 2301431.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3029
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3030
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3031
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3032
+[*****] BUG: Get_mob_index: bad vnum 2301885.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3033
+[*****] BUG: Get_obj_index: bad vnum 3149003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3034
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3035
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3036
+[*****] BUG: Get_obj_index: bad vnum 3223018.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3037
+[*****] BUG: Get_mob_index: bad vnum 2302635.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3038
+[*****] BUG: Get_obj_index: bad vnum 3144003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3039
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3040
+[*****] BUG: Get_obj_index: bad vnum 3223023.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3041
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3042
+[*****] BUG: Get_mob_index: bad vnum 2302731.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3043
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3044
+[*****] BUG: Get_obj_index: bad vnum 3019001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3045
+[*****] BUG: Get_mob_index: bad vnum 2302756.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3046
+[*****] BUG: Get_obj_index: bad vnum 3144006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3047
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3048
+[*****] BUG: Get_obj_index: bad vnum 3144005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3049
+[*****] BUG: Get_obj_index: bad vnum 3223026.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3050
+[*****] BUG: Get_obj_index: bad vnum 3406006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3051
+[*****] BUG: Get_mob_index: bad vnum 2300397.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3052
+[*****] BUG: Get_obj_index: bad vnum 3117003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3053
+[*****] BUG: Get_obj_index: bad vnum 3117006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3054
+[*****] BUG: Get_obj_index: bad vnum 3117007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3055
+[*****] BUG: Get_obj_index: bad vnum 3117005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3056
+[*****] BUG: Get_obj_index: bad vnum 3235012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3057
+[*****] BUG: Get_obj_index: bad vnum 3408050.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3058
+[*****] BUG: Get_obj_index: bad vnum 3408046.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3059
+[*****] BUG: Get_mob_index: bad vnum 2300700.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3060
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3061
+[*****] BUG: Get_obj_index: bad vnum 3144003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3062
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3063
+[*****] BUG: Get_obj_index: bad vnum 3144005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3064
+[*****] BUG: Get_obj_index: bad vnum 3408050.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3065
+[*****] BUG: Get_obj_index: bad vnum 3408046.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3066
+[*****] BUG: Get_mob_index: bad vnum 2300912.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3067
+[*****] BUG: Get_obj_index: bad vnum 3117003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3068
+[*****] BUG: Get_obj_index: bad vnum 3117006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3069
+[*****] BUG: Get_obj_index: bad vnum 3117007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3070
+[*****] BUG: Get_obj_index: bad vnum 3117005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3071
+[*****] BUG: Get_obj_index: bad vnum 3231012.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3072
+[*****] BUG: Get_obj_index: bad vnum 3408050.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3073
+[*****] BUG: Get_obj_index: bad vnum 3408046.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3074
+[*****] BUG: Get_mob_index: bad vnum 2300930.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3075
+[*****] BUG: Get_obj_index: bad vnum 3139003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3076
+[*****] BUG: Get_obj_index: bad vnum 3139006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3077
+[*****] BUG: Get_obj_index: bad vnum 3139005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3078
+[*****] BUG: Get_obj_index: bad vnum 3139007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3079
+[*****] BUG: Get_obj_index: bad vnum 3139008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3080
+[*****] BUG: Get_obj_index: bad vnum 3235028.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3081
+[*****] BUG: Get_mob_index: bad vnum 2301130.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3082
+[*****] BUG: Get_obj_index: bad vnum 3144003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3083
+[*****] BUG: Get_obj_index: bad vnum 3144006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3084
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3085
+[*****] BUG: Get_obj_index: bad vnum 3235040.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3086
+[*****] BUG: Get_mob_index: bad vnum 2301454.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3087
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3088
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3089
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3090
+[*****] BUG: Get_obj_index: bad vnum 3401062.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3091
+[*****] BUG: Get_mob_index: bad vnum 2300006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3092
+[*****] BUG: Get_obj_index: bad vnum 3114003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3093
+[*****] BUG: Get_obj_index: bad vnum 3144006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3094
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3095
+[*****] BUG: Get_obj_index: bad vnum 3144005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3096
+[*****] BUG: Get_obj_index: bad vnum 3205024.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3097
+[*****] BUG: Get_mob_index: bad vnum 2301443.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3098
+[*****] BUG: Get_obj_index: bad vnum 3114003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3099
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3100
+[*****] BUG: Get_obj_index: bad vnum 3144002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3101
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3102
+[*****] BUG: Get_obj_index: bad vnum 3223018.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3103
+[*****] BUG: Get_mob_index: bad vnum 2301562.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3104
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3105
+[*****] BUG: Get_obj_index: bad vnum 3102010.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3106
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3107
+[*****] BUG: Get_obj_index: bad vnum 3320009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3108
+[*****] BUG: Get_mob_index: bad vnum 2302032.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3109
+[*****] BUG: Get_obj_index: bad vnum 3114003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3110
+[*****] BUG: Get_obj_index: bad vnum 3144006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3111
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3112
+[*****] BUG: Get_obj_index: bad vnum 3205027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3113
+[*****] BUG: Get_mob_index: bad vnum 2300648.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3114
+[*****] BUG: Get_obj_index: bad vnum 3144005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3115
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3116
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3117
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3118
+[*****] BUG: Get_obj_index: bad vnum 3223024.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3119
+[*****] BUG: Get_mob_index: bad vnum 2301484.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3120
+[*****] BUG: Get_obj_index: bad vnum 3114003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3121
+[*****] BUG: Get_obj_index: bad vnum 3003002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3122
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3123
+[*****] BUG: Get_obj_index: bad vnum 3102007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3124
+[*****] BUG: Get_obj_index: bad vnum 3205039.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3125
+[*****] BUG: Get_mob_index: bad vnum 2301561.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3126
+[*****] BUG: Get_obj_index: bad vnum 3144007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3127
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3128
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3129
+[*****] BUG: Get_obj_index: bad vnum 3205027.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3130
+[*****] BUG: Get_mob_index: bad vnum 2302575.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3131
+[*****] BUG: Get_obj_index: bad vnum 3117007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3132
+[*****] BUG: Get_obj_index: bad vnum 3117005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3133
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3134
+[*****] BUG: Get_obj_index: bad vnum 3102003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3135
+[*****] BUG: Get_obj_index: bad vnum 3223020.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3136
+[*****] BUG: Get_mob_index: bad vnum 2300325.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3137
+[*****] BUG: Get_obj_index: bad vnum 3138001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3138
+[*****] BUG: Get_obj_index: bad vnum 3138007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3139
+[*****] BUG: Get_obj_index: bad vnum 3138008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3140
+[*****] BUG: Get_obj_index: bad vnum 3138004.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3141
+[*****] BUG: Get_obj_index: bad vnum 3104008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3142
+[*****] BUG: Get_obj_index: bad vnum 3004001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3143
+[*****] BUG: Get_obj_index: bad vnum 3320009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3144
+[*****] BUG: Get_obj_index: bad vnum 3401062.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3145
+[*****] BUG: Get_obj_index: bad vnum 3401063.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3146
+[*****] BUG: Get_mob_index: bad vnum 2300701.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3147
+[*****] BUG: Get_obj_index: bad vnum 3138001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3148
+[*****] BUG: Get_obj_index: bad vnum 3138007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3149
+[*****] BUG: Get_obj_index: bad vnum 3138008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3150
+[*****] BUG: Get_obj_index: bad vnum 3138004.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3151
+[*****] BUG: Get_obj_index: bad vnum 3104008.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3152
+[*****] BUG: Get_obj_index: bad vnum 3004001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3153
+[*****] BUG: Get_obj_index: bad vnum 3320009.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3154
+[*****] BUG: Get_obj_index: bad vnum 3401062.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3155
+[*****] BUG: Get_obj_index: bad vnum 3401063.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3156
+[*****] BUG: Get_mob_index: bad vnum 2300947.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3157
+[*****] BUG: Get_obj_index: bad vnum 3111003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3158
+[*****] BUG: Get_obj_index: bad vnum 3115007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3159
+[*****] BUG: Get_obj_index: bad vnum 3115006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3160
+[*****] BUG: Get_obj_index: bad vnum 3003003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3161
+[*****] BUG: Get_obj_index: bad vnum 3004002.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3162
+[*****] BUG: Get_mob_index: bad vnum 2300971.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3163
+[*****] BUG: Get_obj_index: bad vnum 3111003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3164
+[*****] BUG: Get_obj_index: bad vnum 3115007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3165
+[*****] BUG: Get_obj_index: bad vnum 3115005.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3166
+[*****] BUG: Get_obj_index: bad vnum 3102006.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3167
+[*****] BUG: Get_obj_index: bad vnum 3003003.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3168
+[*****] BUG: Get_obj_index: bad vnum 3009001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3169
+[*****] BUG: Get_mob_index: bad vnum 2300387.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3170
+[*****] BUG: Get_obj_index: bad vnum 3138001.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3171
+[*****] BUG: Get_obj_index: bad vnum 3138007.
+[*****] FILE: TES_Database_Dungeons.are LINE: 3172
+[*****] BUG: Load_mobiles: vnum 2300001 duplicated.
+[*****] FILE: 003_TES_Database_Npcs.are LINE: 29575
+duplicate vnum
+[*****] BUG: Load_mobiles: vnum 2300003 duplicated.
+[*****] FILE: 003_TES_Database_Npcs.are LINE: 29575
+duplicate vnum
+[*****] BUG: Load_mobiles: vnum 9900 duplicated.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 21
+duplicate vnum
+[*****] BUG: get_room_index: bad vnum 4000798.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 602
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 603
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 604
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 605
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 606
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 607
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 608
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 609
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 610
+[*****] BUG: get_room_index: bad vnum 4000799.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 611
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 612
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 613
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 614
+[*****] BUG: get_room_index: bad vnum 4000803.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 615
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 616
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 617
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 618
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 619
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 620
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 621
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 622
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 623
+[*****] BUG: get_room_index: bad vnum 4000804.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 624
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 625
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 626
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 627
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 628
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 629
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 630
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 631
+[*****] BUG: get_room_index: bad vnum 4000805.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 632
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 633
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 634
+[*****] BUG: get_room_index: bad vnum 4000806.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 635
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 636
+[*****] BUG: get_room_index: bad vnum 4000807.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 637
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 638
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 639
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 640
+[*****] BUG: get_room_index: bad vnum 4000808.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 641
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 642
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 643
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 644
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 645
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 646
+[*****] BUG: get_room_index: bad vnum 4000809.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 647
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 648
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 649
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 650
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 651
+[*****] BUG: get_room_index: bad vnum 4000810.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 652
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 653
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 654
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 655
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 656
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 657
+[*****] BUG: get_room_index: bad vnum 4000811.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 658
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 659
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 660
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 661
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 662
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 663
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 664
+[*****] BUG: get_room_index: bad vnum 4000812.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 665
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 666
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 667
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 668
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 669
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 670
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 671
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 672
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 673
+[*****] BUG: get_room_index: bad vnum 4000813.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 674
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 675
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 676
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 677
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 678
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 679
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 680
+[*****] BUG: get_room_index: bad vnum 4000814.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 681
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 682
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 683
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 684
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 685
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 686
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 687
+[*****] BUG: get_room_index: bad vnum 4000815.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 688
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 689
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 690
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 691
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 692
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 693
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 694
+[*****] BUG: get_room_index: bad vnum 4000816.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 695
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 696
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 697
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 698
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 699
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 700
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 701
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 702
+[*****] BUG: get_room_index: bad vnum 4000817.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 703
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 704
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 705
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 706
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 707
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 708
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 709
+[*****] BUG: get_room_index: bad vnum 4000818.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 710
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 711
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 712
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 713
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 714
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 715
+[*****] BUG: get_room_index: bad vnum 4000819.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 716
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 717
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 718
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 719
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 720
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 721
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 722
+[*****] BUG: get_room_index: bad vnum 4000820.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 723
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 724
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 725
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 726
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 727
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 728
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 729
+[*****] BUG: get_room_index: bad vnum 4000821.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 730
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 731
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 732
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 733
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 734
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 735
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 736
+[*****] BUG: get_room_index: bad vnum 4000822.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 737
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 738
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 739
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 740
+[*****] BUG: get_room_index: bad vnum 4000823.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 741
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 742
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 743
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 744
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 745
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 746
+[*****] BUG: get_room_index: bad vnum 4000824.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 747
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 748
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 749
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 750
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 751
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 752
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 753
+[*****] BUG: get_room_index: bad vnum 4000825.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 754
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 755
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 756
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 757
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 758
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 759
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 760
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 041_TES_Town_DagonFel.are LINE: 761
+[*****] BUG: Load_rooms: vnum 4000344 duplicated.
+[*****] FILE: 014_TES_Town_Arano_Plantation.are LINE: 51
+duplicate vnum
+[*****] BUG: add_help: duplicate: new help topic.  Deleting.
+[*****] FILE: 005_TES_Bitter_Coast_North.are LINE: 9161
+[*****] BUG: add_help: duplicate: new help topic.  Deleting.
+[*****] FILE: 005_TES_Bitter_Coast_South.are LINE: 9051
+[*****] BUG: add_help: duplicate: new help topic.  Deleting.
+[*****] FILE: 005_TES_Bitter_Coast_South.are LINE: 9053
+[*****] BUG: Load_mobiles: vnum 9999004 duplicated.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 21
+duplicate vnum
+[*****] BUG: Load_mobiles: vnum 4011001 duplicated.
+[*****] FILE: 4011001_TES_Town_Ahemmusa_Camp.are LINE: 21
+duplicate vnum
+[*****] BUG: get_room_index: bad vnum 4011010.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 635
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 636
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 637
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 638
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 639
+[*****] BUG: get_room_index: bad vnum 4011012.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 640
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 641
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 642
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 643
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 644
+[*****] BUG: get_room_index: bad vnum 4011014.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 645
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 646
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 647
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 648
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 649
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 650
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 651
+[*****] BUG: get_room_index: bad vnum 4011016.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 652
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 653
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 654
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 655
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 656
+[*****] BUG: get_room_index: bad vnum 4011211.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 657
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 658
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 659
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 660
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 661
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 662
+[*****] BUG: get_room_index: bad vnum 4011214.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 663
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 664
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 665
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 666
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 667
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 668
+[*****] BUG: load_resets: Unable to add room reset - room not found.
+[*****] FILE: 2200001_TES_Dungeons_A.are LINE: 669
+[*****] BUG: Load_mobiles: vnum 4011001 duplicated.
+[*****] FILE: 4011001_TES_Town_Ahemmusa_Camp.are LINE: 21
+duplicate vnum
+[*****] BUG: Load_mobiles: vnum 4011001 duplicated.
+[*****] FILE: 4011001_TES_Town_Ahemmusa_Camp.are LINE: 21
+duplicate vnum
+[*****] BUG: Load_mobiles: vnum 4011001 duplicated.
+[*****] FILE: 4011001_TES_Town_Ahemmusa_Camp.are LINE: 21
+duplicate vnum
+[*****] BUG: Load_mobiles: vnum 4011001 duplicated.
+[*****] FILE: 4011001_TES_Town_Ahemmusa_Camp.are LINE: 21
+duplicate vnum
+[*****] BUG: add_help: duplicate: Seyda Neen.  Deleting.
+[*****] FILE: 4192001_TES_Town_Seyda_Neen.are LINE: 733
+[*****] BUG: Load_mobiles: vnum 5011001 duplicated.
+[*****] FILE: 5011001_TES_Dungeon_Abaelun_diamond_mine.are LINE: 21
+duplicate vnum
+[*****] BUG: Load_mobiles: vnum 5011001 duplicated.
+[*****] FILE: 5011001_TES_Dungeon_Abaelun_diamond_mine.are LINE: 21
+duplicate vnum
+[*****] BUG: fread_number: number too large
+[*****] FILE: limbo.are LINE: 249
+[*****] BUG: fread_number: number too large
+[*****] FILE: limbo.are LINE: 249
+[*****] BUG: fread_number: number too large
+[*****] FILE: limbo.are LINE: 249
+[*****] BUG: fread_number: number too large
+[*****] FILE: ../player/a/Admin LINE: 182
+[*****] BUG: fread_number: number too large
+[*****] FILE: ../player/a/Admin LINE: 182
+[*****] BUG: fread_number: number too large
+[*****] FILE: ../player/a/Admin LINE: 182
+[*****] BUG: fread_char: no match: FightersGuild
+[*****] FILE: ../player/a/Aramis LINE: 30
+[*****] BUG: fread_char: no match: MagesGuild
+[*****] FILE: ../player/a/Aramis LINE: 31
+[*****] BUG: fread_char: no match: ThievesGuild
+[*****] FILE: ../player/a/Aramis LINE: 32
+[*****] BUG: fread_char: no match: DarkBrotherhood
+[*****] FILE: ../player/a/Aramis LINE: 33
+[*****] BUG: fread_char: no match: Blades
+[*****] FILE: ../player/a/Aramis LINE: 34
+[*****] BUG: fread_char: no match: ImperialLegion
+[*****] FILE: ../player/a/Aramis LINE: 35
+[*****] BUG: fread_char: no match: TribunalTemple
+[*****] FILE: ../player/a/Aramis LINE: 36
+[*****] BUG: fread_char: no match: MoragTong
+[*****] FILE: ../player/a/Aramis LINE: 37
+[*****] BUG: fread_char: no match: Redoran
+[*****] FILE: ../player/a/Aramis LINE: 38
+[*****] BUG: fread_char: no match: Hlaalu
+[*****] FILE: ../player/a/Aramis LINE: 39
+[*****] BUG: fread_char: no match: Telvani
+[*****] FILE: ../player/a/Aramis LINE: 40
+[*****] BUG: fread_char: no match: ImperialCult
+[*****] FILE: ../player/a/Aramis LINE: 41
+[*****] BUG: fread_char: no match: SixthHouse
+[*****] FILE: ../player/a/Aramis LINE: 42
+[*****] BUG: fread_char: no match: TwinLambs
+[*****] FILE: ../player/a/Aramis LINE: 43
+[*****] BUG: fread_char: no match: FightersGuild
+[*****] FILE: ../player/a/Aramis LINE: 30
+[*****] BUG: fread_char: no match: MagesGuild
+[*****] FILE: ../player/a/Aramis LINE: 31
+[*****] BUG: fread_char: no match: ThievesGuild
+[*****] FILE: ../player/a/Aramis LINE: 32
+[*****] BUG: fread_char: no match: DarkBrotherhood
+[*****] FILE: ../player/a/Aramis LINE: 33
+[*****] BUG: fread_char: no match: Blades
+[*****] FILE: ../player/a/Aramis LINE: 34
+[*****] BUG: fread_char: no match: ImperialLegion
+[*****] FILE: ../player/a/Aramis LINE: 35
+[*****] BUG: fread_char: no match: TribunalTemple
+[*****] FILE: ../player/a/Aramis LINE: 36
+[*****] BUG: fread_char: no match: MoragTong
+[*****] FILE: ../player/a/Aramis LINE: 37
+[*****] BUG: fread_char: no match: Redoran
+[*****] FILE: ../player/a/Aramis LINE: 38
+[*****] BUG: fread_char: no match: Hlaalu
+[*****] FILE: ../player/a/Aramis LINE: 39
+[*****] BUG: fread_char: no match: Telvani
+[*****] FILE: ../player/a/Aramis LINE: 40
+[*****] BUG: fread_char: no match: ImperialCult
+[*****] FILE: ../player/a/Aramis LINE: 41
+[*****] BUG: fread_char: no match: SixthHouse
+[*****] FILE: ../player/a/Aramis LINE: 42
+[*****] BUG: fread_char: no match: TwinLambs
+[*****] FILE: ../player/a/Aramis LINE: 43
+[*****] BUG: fread_char: no match: FightersGuild
+[*****] FILE: ../player/a/Aramis LINE: 30
+[*****] BUG: fread_char: no match: MagesGuild
+[*****] FILE: ../player/a/Aramis LINE: 31
+[*****] BUG: fread_char: no match: ThievesGuild
+[*****] FILE: ../player/a/Aramis LINE: 32
+[*****] BUG: fread_char: no match: DarkBrotherhood
+[*****] FILE: ../player/a/Aramis LINE: 33
+[*****] BUG: fread_char: no match: Blades
+[*****] FILE: ../player/a/Aramis LINE: 34
+[*****] BUG: fread_char: no match: ImperialLegion
+[*****] FILE: ../player/a/Aramis LINE: 35
+[*****] BUG: fread_char: no match: TribunalTemple
+[*****] FILE: ../player/a/Aramis LINE: 36
+[*****] BUG: fread_char: no match: MoragTong
+[*****] FILE: ../player/a/Aramis LINE: 37
+[*****] BUG: fread_char: no match: Redoran
+[*****] FILE: ../player/a/Aramis LINE: 38
+[*****] BUG: fread_char: no match: Hlaalu
+[*****] FILE: ../player/a/Aramis LINE: 39
+[*****] BUG: fread_char: no match: Telvani
+[*****] FILE: ../player/a/Aramis LINE: 40
+[*****] BUG: fread_char: no match: ImperialCult
+[*****] FILE: ../player/a/Aramis LINE: 41
+[*****] BUG: fread_char: no match: SixthHouse
+[*****] FILE: ../player/a/Aramis LINE: 42
+[*****] BUG: fread_char: no match: TwinLambs
+[*****] FILE: ../player/a/Aramis LINE: 43
+[*****] BUG: fread_char: no match: FightersGuild
+[*****] FILE: ../player/a/Aramis LINE: 30
+[*****] BUG: fread_char: no match: MagesGuild
+[*****] FILE: ../player/a/Aramis LINE: 31
+[*****] BUG: fread_char: no match: ThievesGuild
+[*****] FILE: ../player/a/Aramis LINE: 32
+[*****] BUG: fread_char: no match: DarkBrotherhood
+[*****] FILE: ../player/a/Aramis LINE: 33
+[*****] BUG: fread_char: no match: Blades
+[*****] FILE: ../player/a/Aramis LINE: 34
+[*****] BUG: fread_char: no match: ImperialLegion
+[*****] FILE: ../player/a/Aramis LINE: 35
+[*****] BUG: fread_char: no match: TribunalTemple
+[*****] FILE: ../player/a/Aramis LINE: 36
+[*****] BUG: fread_char: no match: MoragTong
+[*****] FILE: ../player/a/Aramis LINE: 37
+[*****] BUG: fread_char: no match: Redoran
+[*****] FILE: ../player/a/Aramis LINE: 38
+[*****] BUG: fread_char: no match: Hlaalu
+[*****] FILE: ../player/a/Aramis LINE: 39
+[*****] BUG: fread_char: no match: Telvani
+[*****] FILE: ../player/a/Aramis LINE: 40
+[*****] BUG: fread_char: no match: ImperialCult
+[*****] FILE: ../player/a/Aramis LINE: 41
+[*****] BUG: fread_char: no match: SixthHouse
+[*****] FILE: ../player/a/Aramis LINE: 42
+[*****] BUG: fread_char: no match: TwinLambs
+[*****] FILE: ../player/a/Aramis LINE: 43
+[*****] BUG: slot_lookup: bad slot 1012003.
+[*****] FILE: 002_TES_Database_Items.are LINE: 236
+[*****] BUG: slot_lookup: bad slot 1012003.
+[*****] FILE: 002_TES_Database_Items.are LINE: 236
+[*****] BUG: slot_lookup: bad slot 1012003.
+[*****] FILE: 002_TES_Database_Items.are LINE: 236
+[*****] BUG: fread_char: unknown skill/spell 'Archery'.
+[*****] FILE: ../player/a/Admin LINE: 162
+[*****] BUG: fread_char: unknown skill/spell 'Thrown weapon'.
+[*****] FILE: ../player/a/Admin LINE: 198
+[*****] BUG: fread_char: unknown skill/spell 'Archery'.
+[*****] FILE: ../player/a/Admin LINE: 162
+[*****] BUG: fread_char: unknown skill/spell 'Thrown weapon'.
+[*****] FILE: ../player/a/Admin LINE: 198
+[*****] BUG: fread_char: unknown skill/spell 'Archery'.
+[*****] FILE: ../player/a/Admin LINE: 162
+[*****] BUG: fread_char: unknown skill/spell 'Thrown weapon'.
+[*****] FILE: ../player/a/Admin LINE: 198
+[*****] BUG: fread_char: unknown skill/spell 'Archery'.
+[*****] FILE: ../player/a/Admin LINE: 162
+[*****] BUG: fread_char: unknown skill/spell 'Thrown weapon'.
+[*****] FILE: ../player/a/Admin LINE: 198
+[*****] BUG: fread_char: unknown skill/spell 'Absorb fatigue'.
+[*****] FILE: ../player/a/Admin LINE: 159
+[*****] BUG: fread_char: unknown skill/spell 'Absorb health'.
+[*****] FILE: ../player/a/Admin LINE: 160
+[*****] BUG: fread_char: unknown skill/spell 'Absorb magicka'.
+[*****] FILE: ../player/a/Admin LINE: 161
+[*****] BUG: fread_char: unknown skill/spell 'Drain luck'.
+[*****] FILE: ../player/a/Admin LINE: 169
+[*****] BUG: fread_char: unknown skill/spell 'Drain magicka'.
+[*****] FILE: ../player/a/Admin LINE: 170
+[*****] BUG: fread_char: unknown skill/spell 'Drain strength'.
+[*****] FILE: ../player/a/Admin LINE: 171
+[*****] BUG: fread_char: unknown skill/spell 'Fire shield'.
+[*****] FILE: ../player/a/Admin LINE: 174
+[*****] BUG: fread_char: unknown skill/spell 'Frost shield'.
+[*****] FILE: ../player/a/Admin LINE: 177
+[*****] BUG: fread_char: unknown skill/spell 'Heavy armor'.
+[*****] FILE: ../player/a/Admin LINE: 179
+[*****] BUG: fread_char: unknown skill/spell 'Light armor'.
+[*****] FILE: ../player/a/Admin LINE: 182
+[*****] BUG: fread_char: unknown skill/spell 'Medium armor'.
+[*****] FILE: ../player/a/Admin LINE: 186
+[*****] BUG: fread_char: unknown skill/spell 'Paralysis'.
+[*****] FILE: ../player/a/Admin LINE: 187
+[*****] BUG: fread_char: unknown skill/spell 'Poison shield'.
+[*****] FILE: ../player/a/Admin LINE: 189
+[*****] BUG: fread_char: unknown skill/spell 'Restore health'.
+[*****] FILE: ../player/a/Admin LINE: 190
+[*****] BUG: fread_char: unknown skill/spell 'Shock shield'.
+[*****] FILE: ../player/a/Admin LINE: 193
+[*****] BUG: fread_char: unknown skill/spell 'Unarmored'.
+[*****] FILE: ../player/a/Admin LINE: 197
+[*****] BUG: Fread_char: unknown skill Water breathing.
+[*****] FILE: ../player/a/Admin LINE: 200
+[*****] BUG: Fread_char: unknown skill Poison resistance.
+[*****] FILE: ../player/a/Admin LINE: 201
+[*****] BUG: Fread_char: unknown skill Disease resistance.
+[*****] FILE: ../player/a/Admin LINE: 202
+[*****] BUG: fread_obj: unknown skill.
+[*****] FILE: ../player/a/Admin LINE: 282
+[*****] BUG: Fread_char: unknown skill Magic resistance.
+[*****] FILE: ../player/o/Oblisgr LINE: 160
+[*****] BUG: fread_char: unknown skill/spell 'enchant weapon'.
+[*****] FILE: ../player/a/Admin LINE: 169
+[*****] BUG: fread_char: unknown skill/spell 'fireball'.
+[*****] FILE: ../player/a/Admin LINE: 170
+[*****] BUG: fread_char: unknown skill/spell 'lightning bolt'.
+[*****] FILE: ../player/a/Admin LINE: 174
+[*****] BUG: fread_char: unknown skill/spell 'sanctuary'.
+[*****] FILE: ../player/a/Admin LINE: 179
+[*****] BUG: fread_obj: unknown skill.
+[*****] FILE: ../player/a/Admin LINE: 271
+[*****] BUG: fread_char: unknown skill/spell 'enchant weapon'.
+[*****] FILE: ../player/a/Admin LINE: 169
+[*****] BUG: fread_char: unknown skill/spell 'fireball'.
+[*****] FILE: ../player/a/Admin LINE: 170
+[*****] BUG: fread_char: unknown skill/spell 'lightning bolt'.
+[*****] FILE: ../player/a/Admin LINE: 174
+[*****] BUG: fread_char: unknown skill/spell 'sanctuary'.
+[*****] FILE: ../player/a/Admin LINE: 179
+[*****] BUG: fread_obj: unknown skill.
+[*****] FILE: ../player/a/Admin LINE: 271
+[*****] BUG: fread_char: unknown skill/spell 'enchant weapon'.
+[*****] FILE: ../player/a/Admin LINE: 169
+[*****] BUG: fread_char: unknown skill/spell 'fireball'.
+[*****] FILE: ../player/a/Admin LINE: 170
+[*****] BUG: fread_char: unknown skill/spell 'lightning bolt'.
+[*****] FILE: ../player/a/Admin LINE: 174
+[*****] BUG: fread_char: unknown skill/spell 'sanctuary'.
+[*****] FILE: ../player/a/Admin LINE: 179
+[*****] BUG: fread_obj: unknown skill.
+[*****] FILE: ../player/a/Admin LINE: 271
+[*****] BUG: fread_char: unknown skill/spell 'enchant weapon'.
+[*****] FILE: ../player/a/Admin LINE: 169
+[*****] BUG: fread_char: unknown skill/spell 'fireball'.
+[*****] FILE: ../player/a/Admin LINE: 170
+[*****] BUG: fread_char: unknown skill/spell 'lightning bolt'.
+[*****] FILE: ../player/a/Admin LINE: 174
+[*****] BUG: fread_char: unknown skill/spell 'sanctuary'.
+[*****] FILE: ../player/a/Admin LINE: 179
+[*****] BUG: fread_obj: unknown skill.
+[*****] FILE: ../player/a/Admin LINE: 271
+[*****] BUG: Load_rooms: vnum 1 has flag '9' not 'DES'.
+[*****] FILE: limbo.are LINE: 734
+Room flag not DES
+[*****] BUG: Load_rooms: vnum 1 has flag '9' not 'DES'.
+[*****] FILE: limbo.are LINE: 737
+Room flag not DES
+[*****] BUG: Load_rooms: vnum 1 has flag '9' not 'DES'.
+[*****] FILE: limbo.are LINE: 737
+Room flag not DES
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 55
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 56
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 57
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 58
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 59
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 60
+[*****] BUG: add_help: duplicate: RESTORATION.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 629
+[*****] BUG: add_help: duplicate: COOK.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1594
+[*****] BUG: add_help: duplicate: GOUGE.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1743
+[*****] BUG: add_help: duplicate: PUMMEL.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1750
+[*****] BUG: add_help: duplicate: DISARM.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1772
+[*****] BUG: add_help: duplicate: KICK.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1796
+[*****] BUG: add_help: duplicate: PUNCH.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1804
+[*****] BUG: add_help: duplicate: GRIP.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1811
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 55
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 56
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 57
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 58
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 59
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 60
+[*****] BUG: add_help: duplicate: RESTORATION.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 629
+[*****] BUG: add_help: duplicate: COOK.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1594
+[*****] BUG: add_help: duplicate: GOUGE.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1743
+[*****] BUG: add_help: duplicate: PUMMEL.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1750
+[*****] BUG: add_help: duplicate: DISARM.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1772
+[*****] BUG: add_help: duplicate: KICK.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1796
+[*****] BUG: add_help: duplicate: PUNCH.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1804
+[*****] BUG: add_help: duplicate: GRIP.  Deleting.
+[*****] FILE: 001_TES_Database_Help.are LINE: 1811
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 55
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 56
+[*****] BUG: Get_mob_index: bad vnum 10415.
+[*****] FILE: gods.are LINE: 57
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 58
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 59
+[*****] BUG: Get_mob_index: bad vnum 21045.
+[*****] FILE: gods.are LINE: 60

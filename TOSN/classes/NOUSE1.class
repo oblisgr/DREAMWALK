@@ -1,0 +1,18 @@
+Name        NOUSE1~
+Class       22
+AttrPrime   2
+AttrSecond   25
+AttrDeficient   4
+Weapon      0
+Guild       0
+Skilladept  95
+Thac0       18
+Thac32      4
+Hpmin       1
+Hpmax       8
+Mana        1
+Expbase     200
+Affected    0
+Resist	 0
+Suscept	 0
+End

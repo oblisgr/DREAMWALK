@@ -1,0 +1,158 @@
+Name		Healer~
+Class		29
+AttrPrime		1
+AttrSecond	5
+AttrDeficient	25
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		17
+Hpmin		1
+Hpmax		4
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Cool' 1 95
+Skill 'Warm' 1 95
+Skill 'Ground' 1 95
+Skill 'Detoxify' 1 95
+Skill 'Unjinx' 1 95
+Skill 'Vaccinate' 1 95
+Skill 'Cleanse' 1 95
+Skill 'Stabilize' 1 95
+Skill 'Steady' 1 95
+Skill 'Toughen' 1 95
+Skill 'Strengthen' 1 95
+Skill 'Fortitude' 1 95
+Skill 'Quicken' 1 95
+Skill 'Outsmart' 1 95
+Skill 'Embolden' 1 95
+Skill 'Inspire' 1 95
+Skill 'Favor' 1 95
+Skill 'Rejuvenate' 1 95
+Skill 'Empower' 1 95
+Skill 'Refresh' 1 95
+Skill 'Rebuild' 1 95
+Skill 'Revitalize' 1 95
+Skill 'Rebalance' 1 95
+Skill 'Clarify' 1 95
+Skill 'Reassure' 1 95
+Skill 'Uplift' 1 95
+Skill 'Redeem' 1 95
+Skill 'Heal' 1 95
+Skill 'Replenish' 1 95
+Skill 'Renew' 1 95
+Skill 'Recall' 1 90
+Skill 'Rob' 1 90
+Skill 'Siphon' 1 90
+Skill 'Steal' 1 90
+Skill 'Extract' 1 90
+Skill 'Consume' 1 90
+Skill 'Appropriate' 1 90
+Skill 'Pilfer' 1 90
+Skill 'Absorb' 1 90
+Skill 'Devour' 1 90
+Skill 'Tap' 1 90
+Skill 'Soultrap' 1 90
+Skill 'Sense' 1 90
+Skill 'Discern' 1 90
+Skill 'Locate' 1 90
+Skill 'Reflect' 1 90
+Skill 'Pray' 1 90
+Skill 'Dispel' 1 90
+Skill 'Devote' 1 90
+Skill 'Open' 1 85
+Skill 'Lock' 1 85
+Skill 'Ignite' 1 85
+Skill 'Frost' 1 85
+Skill 'Storm' 1 85
+Skill 'Coat' 1 85
+Skill 'Levitate' 1 85
+Skill 'Breath' 1 85
+Skill 'Burden' 1 85
+Skill 'Feather' 1 85
+Skill 'Shield' 1 85
+Skill 'Claw' 1 80
+Skill 'Katar' 1 80
+Skill 'Knuckle' 1 80
+Skill 'Cestus' 1 80
+Skill 'Evade' 1 80
+Skill 'Slam' 1 80
+Skill 'Kick' 1 80
+Skill 'Punch' 1 80
+Skill 'Pounce' 1 80
+Skill 'Grapple' 1 80
+Skill 'Batter' 1 80
+Skill 'Swipe' 1 80
+Skill 'Hold' 1 80
+Skill 'Frazzle' 1 80
+Skill 'Pincer' 1 80
+Skill 'Knock' 1 80
+Skill 'Bluff' 1 75
+Skill 'Flirt' 1 75
+Skill 'Intimidate' 1 75
+Skill 'Judge' 1 75
+Skill 'Shame' 1 75
+Skill 'Daunt' 1 75
+Skill 'Gaze' 1 75
+Skill 'Surge' 1 75
+Skill 'Bully' 1 75
+Skill 'Harry' 1 75
+Skill 'Rebuke' 1 75
+Skill 'Camouflage' 1 70
+Skill 'Bless' 1 70
+Skill 'Conceal' 1 70
+Skill 'Enlighten' 1 70
+Skill 'Silence' 1 70
+Skill 'Blind' 1 70
+Skill 'Charm' 1 70
+Skill 'Paralyze' 1 70
+Skill 'Sound' 1 70
+Skill 'Demoralize' 1 70
+Skill 'Calm' 1 70
+Skill 'Rally' 1 70
+Skill 'Frenzy' 1 70
+Skill 'Illuminate' 1 70
+Skill 'Envenom' 1 65
+Skill 'Brew' 1 65
+Skill 'Cook' 1 65
+Skill 'Bandage' 1 65
+Skill 'Fade' 1 65
+Skill 'Aid' 1 65
+Skill 'Cloth' 1 60
+Skill 'Disengage' 1 60
+Skill 'Distract' 1 60
+Skill 'Parry' 1 60
+Skill 'Rescue' 1 60
+Skill 'Focus' 1 60
+Skill 'Unyield' 1 60
+Skill 'Guard' 1 60
+Skill 'Recover' 1 60
+Skill 'Trample' 1 60
+Skill 'Leather' 1 55
+Skill 'Suppress' 1 55
+Skill 'Unchain' 1 55
+Skill 'Club' 1 50
+Skill 'Mace' 1 50
+Skill 'Flail' 1 50
+Skill 'Morningstar' 1 50
+Skill 'Staff' 1 50
+Skill 'Warhammer' 1 50
+Skill 'Maul' 1 50
+Skill 'Safeguard' 1 50
+Skill 'Stun' 1 50
+Skill 'Pummel' 1 50
+Skill 'Doorbash' 1 50
+Skill 'Smash' 1 50
+Skill 'Crush' 1 50
+Skill 'Punish' 1 50
+Skill 'Clobber' 1 50
+Skill 'Payback' 1 50
+Skill 'Bleed' 1 50
+Skill 'Splinter' 1 50
+Skill 'Bludgeon' 1 50
+Skill 'Waste' 1 50
+End	

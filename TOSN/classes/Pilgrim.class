@@ -1,0 +1,135 @@
+Name		Pilgrim~
+Class		19
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Bluff' 1 95
+Skill 'Flirt' 1 95
+Skill 'Intimidate' 1 95
+Skill 'Judge' 1 95
+Skill 'Shame' 1 95
+Skill 'Daunt' 1 95
+Skill 'Gaze' 1 95
+Skill 'Surge' 1 95
+Skill 'Bully' 1 95
+Skill 'Harry' 1 95
+Skill 'Rebuke' 1 95
+Skill 'Hire' 1 90
+Skill 'Dig' 1 90
+Skill 'Trick' 1 90
+Skill 'Anger' 1 90
+Skill 'Humiliate' 1 90
+Skill 'Dart' 1 85
+Skill 'Ninjaku' 1 85
+Skill 'Knife' 1 85
+Skill 'Shortbow' 1 85
+Skill 'Longbow' 1 85
+Skill 'Crossbow' 1 85
+Skill 'Barrage' 1 85
+Skill 'Cool' 1 80
+Skill 'Warm' 1 80
+Skill 'Ground' 1 80
+Skill 'Detoxify' 1 80
+Skill 'Unjinx' 1 80
+Skill 'Vaccinate' 1 80
+Skill 'Cleanse' 1 80
+Skill 'Stabilize' 1 80
+Skill 'Steady' 1 80
+Skill 'Toughen' 1 80
+Skill 'Strengthen' 1 80
+Skill 'Fortitude' 1 80
+Skill 'Quicken' 1 80
+Skill 'Outsmart' 1 80
+Skill 'Embolden' 1 80
+Skill 'Inspire' 1 80
+Skill 'Favor' 1 80
+Skill 'Rejuvenate' 1 80
+Skill 'Empower' 1 80
+Skill 'Refresh' 1 80
+Skill 'Rebuild' 1 80
+Skill 'Revitalize' 1 80
+Skill 'Rebalance' 1 80
+Skill 'Clarify' 1 80
+Skill 'Reassure' 1 80
+Skill 'Uplift' 1 80
+Skill 'Redeem' 1 80
+Skill 'Heal' 1 80
+Skill 'Replenish' 1 80
+Skill 'Renew' 1 80
+Skill 'Mail' 1 75
+Skill 'Enrage' 1 75
+Skill 'Trammel' 1 75
+Skill 'Spurn' 1 75
+Skill 'Cover' 1 75
+Skill 'Camouflage' 1 70
+Skill 'Bless' 1 70
+Skill 'Conceal' 1 70
+Skill 'Enlighten' 1 70
+Skill 'Silence' 1 70
+Skill 'Blind' 1 70
+Skill 'Charm' 1 70
+Skill 'Paralyze' 1 70
+Skill 'Sound' 1 70
+Skill 'Demoralize' 1 70
+Skill 'Calm' 1 70
+Skill 'Rally' 1 70
+Skill 'Frenzy' 1 70
+Skill 'Illuminate' 1 70
+Skill 'Claw' 1 65
+Skill 'Katar' 1 65
+Skill 'Knuckle' 1 65
+Skill 'Cestus' 1 65
+Skill 'Evade' 1 65
+Skill 'Slam' 1 65
+Skill 'Kick' 1 65
+Skill 'Punch' 1 65
+Skill 'Pounce' 1 65
+Skill 'Grapple' 1 65
+Skill 'Batter' 1 65
+Skill 'Swipe' 1 65
+Skill 'Hold' 1 65
+Skill 'Frazzle' 1 65
+Skill 'Pincer' 1 65
+Skill 'Knock' 1 65
+Skill 'Dirk' 1 60
+Skill 'Dagger' 1 60
+Skill 'Tanto' 1 60
+Skill 'Wakizashi' 1 60
+Skill 'Shortsword' 1 60
+Skill 'Fight' 1 60
+Skill 'Gouge' 1 60
+Skill 'Grip' 1 60
+Skill 'Razor' 1 60
+Skill 'Outplay' 1 60
+Skill 'Riposte' 1 60
+Skill 'Stab' 1 60
+Skill 'Sting' 1 60
+Skill 'Taunt' 1 55
+Skill 'Bash' 1 55
+Skill 'Block' 1 55
+Skill 'Revenge' 1 55
+Skill 'Defend' 1 55
+Skill 'Rebuff' 1 55
+Skill 'Shelter' 1 55
+Skill 'Shroud' 1 55
+Skill 'Thrust' 1 55
+Skill 'Destabilize' 1 55
+Skill 'Envenom' 1 50
+Skill 'Brew' 1 50
+Skill 'Cook' 1 50
+Skill 'Bandage' 1 50
+Skill 'Fade' 1 50
+Skill 'Aid' 1 50
+End	

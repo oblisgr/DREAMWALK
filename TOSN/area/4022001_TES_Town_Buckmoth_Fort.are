@@ -1,0 +1,569 @@
+#AREA Buckmoth fortress~
+
+#VERSION 1
+
+#CLIMATE 3 0 4
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4022001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4022001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4022001
+Ashlands, Buckmoth, legion fortress, outside~
+This place surrounds an Imperial frontier fort of dark stone and square towers
+where Legion sentries drill in the yard beneath banners snapping in ash winds.
+A road passes guarded gates as distant volcanic smoke stains the northern sky,
+while weapons ring on shields across the training ground.~
+0 1024 1 0 0 0
+D0
+North~
+~
+0 0 4022002 0
+S
+#4022002
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place is the fort's central hall, built for passage between fort sections
+where trained soldiers cross beneath Imperial banners and brass wall lanterns.
+Bootsteps echo over fitted stone as orders carry from doors leading further in
+while armed sentries inspect visitors entering the garrison.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022003 0
+D1
+East~
+~
+0 0 4022015 0
+D2
+South~
+~
+0 0 4022001 0
+D3
+West~
+~
+0 0 4022013 0
+S
+#4022003
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place follows a spacious stone corridor through the heart of the fortress
+where iron-banded doors and dim wall lanterns divide the heavy fitted masonry.
+Bootsteps travel beneath the arches as the guards move between adjoining rooms
+and muted orders carry from deeper within the garrison.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022004 0
+D2
+South~
+~
+0 0 4022002 0
+S
+#4022004
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place forms a disciplined duty room beside the fortress interior passages
+where plain benches, weapon racks, and patrol rosters stand against the walls.
+Sentries check their equipment beneath bright wall lamps before changing watch
+and the chamber remains prepared for any sudden alarm.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022005 0
+D1
+East~
+~
+0 0 4022010 0
+D2
+South~
+~
+0 0 4022003 0
+D3
+West~
+~
+0 0 4022007 0
+S
+#4022005
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place surrounds a broad stone stair linking the fortress's several levels
+where iron railings and fortified landings bear the marks of constant traffic.
+Lantern light follows the steps as soldiers climb between the guarded sections
+and measured footsteps echo through the heavy masonry.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4022004 0
+D4
+Up~
+~
+0 0 4022016 0
+D5
+Down~
+~
+0 0 4022019 0
+S
+#4022006
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place serves as a crowded Legion barracks with bunks and equipment racks,
+where spare uniforms, shields and field packs stand ready beside troops' beds.
+Muted talk drifts between wooden screens as off-duty troops polish their armor
+while the next watch prepares to answer the sounding bell.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022007 0
+S
+#4022007
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place is a training chamber cleared for weapon drills and shield practice
+where scarred targets, wood dummies and weapon racks line the fortified walls.
+Commands cut through the room as soldiers drill steady steps and guarded blows
+while sweat and leather thicken the air beneath windows.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022008 0
+D1
+East~
+~
+0 0 4022004 0
+D2
+South~
+~
+0 0 4022006 0
+S
+#4022008
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place houses a military smithy where a blazing forge heats the stone room
+and weapon racks, repair tools and spare armor jam the soot-darkened workshop.
+Hammer blows strike in a steady rhythm as sparks scatter across the hard floor
+while hot iron and coal lend the chamber a bitter scent.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4022007 0
+S
+#4022009
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place houses an Imperial apothecary stocked with salves and bottled cures
+where dried herbs, mortars and healing draughts cover tidy tables and shelves.
+Bitter scents mingle in the warm air as medicines are mixed for wounded troops
+while sealed cabinets guard rarer mixtures from misuse.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022010 0
+S
+#4022010
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place forms a quiet sickroom where the injured receive rest and treatment
+where simple beds stand behind curtains beside washbasins and folded bandages.
+Low prayers accompany the healer's work as pain gives way to exhausted silence
+while lanterns burn gently through every long Ashland night.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022011 0
+D2
+South~
+~
+0 0 4022009 0
+D3
+West~
+~
+0 0 4022004 0
+S
+#4022011
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place is a modest Imperial Cult chapel sheltered within the military fort
+where a consecrated altar stands among candles, tributes and polished emblems.
+Incense tempers the smell of steel as troops pause for blessings before patrol
+while hushed devotion tempers the garrison's stern routine.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4022010 0
+S
+#4022012
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place serves fort battlemages, combining martial order with arcane study,
+where spellbooks, maps and ritual tools lie beside armor and sharpened blades.
+Faint energy gathers around raised hands as defensive spells are tested nearby
+while mages discuss threats beyond the garrison walls.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022013 0
+D4
+Up~
+~
+0 0 4022022 0
+S
+#4022013
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place belongs to a Legion enchanter whose wares hum with restrained magic
+where scrolls, magic trinkets and soul gems share shelves with plain supplies.
+Pale light glints upon iron fittings as quiet spells are woven behind the desk
+while the air carries a dry scent of wax and old parchment.~
+0 1032 0 0 0 0
+D1
+East~
+~
+0 0 4022002 0
+D2
+South~
+~
+0 0 4022012 0
+S
+#4022014
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place is a fort trader's room stocked for soldiers and passing travelers,
+where supplies, weapons and basic goods are arranged behind a guarded counter.
+Crates fill the corners as measured bargains pass beneath the eyes of soldiers
+while shelves favor useful needs over comfort or ornament.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022015 0
+D4
+Up~
+~
+0 0 4022023 0
+S
+#4022015
+Ashlands, Buckmoth, legion fortress, ground floor~
+This place is the garrison mess where long tables serve troops between watches
+where bowls, tankards and plain meals cover boards worn by years of heavy use.
+Laughter rises above scraping benches as rumors pass between tired legionaries
+while kitchen fires keep the mess hall warm against storms.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4022014 0
+D3
+West~
+~
+0 0 4022002 0
+S
+#4022016
+Ashlands, Buckmoth, legion fortress, upper floor~
+This place contains an upper command room overlooking the surrounding Ashlands
+with regional maps, patrol reports and dispatches spread across a broad table.
+Officers plan marches and review distant threats under stern Imperial standard
+as sentries guard the stairway leading to the lower halls.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4022017 0
+D5
+Down~
+~
+0 0 4022005 0
+S
+#4022017
+Ashlands, Buckmoth, legion fortress, upper floor~
+This place contains an officer's room furnished with restrained Imperial order
+where maps, reports and sealed correspondence cover a spacious campaign table.
+A neatly made bed stands beside locked chests and carefully polished equipment
+while the room remains quiet for plans and private counsel.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022016 0
+D2
+South~
+~
+0 0 4022018 0
+S
+#4022018
+Ashlands, Buckmoth, legion fortress, upper floor~
+This place forms an upper records room beneath the strong timber roof supports
+where sealed dispatches, duty ledgers, and maps fill cabinets along the walls.
+Watchful clerks sort reports by lantern light as steady footsteps pass outside
+and the ordered chamber preserves the business of the fort.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022017 0
+S
+#4022019
+Ashlands, Buckmoth, legion fortress, prison~
+This place guards entry to the fort prison through iron doors and stone stairs
+where a duty desk, key rings and arms racks stand under constant Legion watch.
+Every visitor is recorded before iron gates open toward the prison's two tiers
+while prisoners' voices echo dimly from the stone corridors.~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4022020 0
+D4
+Up~
+~
+0 0 4022005 0
+S
+#4022020
+Ashlands, Buckmoth, legion fortress, prison~
+This place lines the prison's upper floor with rows of barred and narrow cells
+where straw pallets, iron chains and bare walls offer captives little comfort.
+Torchlight gleams on bars as guards walk between sealed doors and tight stairs
+while voices fall silent whenever armed footsteps approach.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022019 0
+D2
+South~
+~
+0 0 4022021 0
+S
+#4022021
+Ashlands, Buckmoth, legion fortress, prison~
+This place sinks to the prison's low tier, far from daylight and the courtyard
+where sunken cells confine lawbreakers behind iron bars and heavy stone walls.
+Water drips through shallow channels as chains scrape beyond the nearest door,
+while stale air settles heavily beneath the vaulted ceiling.~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4022020 0
+S
+#4022022
+Ashlands, Buckmoth, legion fortress, east tower~
+This place rises through a tall east tower overlooking the fort's nearby road,
+where arrow slits frame barren slopes and guards watch movement outside walls.
+Spare bows, shields and signal gear wait near the narrow stair circling upward
+while morning light cuts through the dust on each landing.~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4022012 0
+S
+#4022023
+Ashlands, Buckmoth, legion fortress, west tower~
+This place occupies the high western tower facing the open Ashland approaches,
+where sentries scan broken hills for raiders, beasts and signs of new trouble.
+A brazier, warning horn and stored ammunition stand ready upon the upper watch
+while dusk throws long shadows across the fort's stonework.~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4022014 0
+S
+#0
+
+#RESETS
+M 0 2302238 1 4022001  ;  Mob: Shardie [Npcs] => #4022001 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, outside
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136002 1 10  ; -- Equip: Imperial steel pauldrons [Items] (arms)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3136005 1 9  ; -- Equip: Imperial steel gauntlets [Items] (hands)
+E 1 3136008 1 17  ; -- Equip: Imperial steel bulwark [Items] (hold)
+E 1 3101002 1 7  ; -- Equip: Imperial skirt [Items] (legs)
+E 1 3009005 1 13  ; -- Equip: Imperial belt [Items] (waist)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300072 1 4022002  ;  Mob: Aldaril [Npcs] => #4022002 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3301005 1 3  ; -- Equip: Amethyst amulet [Items] (neck-1)
+E 1 3401064 1 0  ; -- Equip: Potion of restore magicka [Items] (take)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300178 1 4022003  ;  Mob: Arnand Liric [Npcs] => #4022003 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3403094 1 ; -- Give: Corprus weeping [Items]
+G 1 3403162 1 ; -- Give: Gravedust [Items]
+G 1 3403188 1 ; -- Give: Hound meat [Items]
+G 1 3403249 1 ; -- Give: Netch leather [Items]
+G 1 3403312 1 ; -- Give: Scamp skin [Items]
+G 1 3403317 1 ; -- Give: Scrib jelly [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300235 1 4022004  ;  Mob: Attelivupis Catius [Npcs] => #4022004 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300484 1 4022005  ;  Mob: Cocistian Quaspus [Npcs] => #4022005 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+G 1 3403035 1 ; -- Give: Bittergreen petal [Items]
+G 1 3403119 1 ; -- Give: Emerald [Items]
+G 1 3403208 1 ; -- Give: Kresh fiber [Items]
+G 1 3403279 1 ; -- Give: Rat meat [Items]
+G 1 3403313 1 ; -- Give: Scathecraw [Items]
+G 1 3403347 1 ; -- Give: Stoneflower petal [Items]
+G 1 3403128 1 ; -- Give: Fire petal [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2300713 1 4022006  ;  Mob: Dulian [Npcs] => #4022006 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+E 1 3301056 1 1  ; -- Equip: Ruby ring [Items] (finger-r)
+G 1 3403366 1 ; -- Give: Trama root [Items]
+G 1 3403394 1 ; -- Give: Willow anther [Items]
+G 1 3403318 1 ; -- Give: Scrib jerky [Items]
+G 1 3403291 1 ; -- Give: Resin [Items]
+G 1 3403242 1 ; -- Give: Muck [Items]
+G 1 3403209 1 ; -- Give: Kwama cuttle [Items]
+G 1 3403021 1 ; -- Give: Ash yam [Items]
+G 1 3406007 1 ; -- Give: Aedra and daedra [Items]
+G 1 3406010 1 ; -- Give: Ancestors and the dunmer [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301228 1 4022007  ;  Mob: Hingor [Npcs] => #4022007 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3160003 1 5  ; -- Equip: Studded leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3128007 1 8  ; -- Equip: Heavy leather striders [Items] (feet)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301317 1 4022008  ;  Mob: Imsin the Dreamer [Npcs] => #4022008 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3137003 1 5  ; -- Equip: Imperial templar cuirass [Items] (body)
+E 1 3137002 1 10  ; -- Equip: Imperial templar pauldrons [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3128007 1 8  ; -- Equip: Heavy leather striders [Items] (feet)
+E 1 3137004 1 13  ; -- Equip: Imperial templar girdle [Items] (waist)
+E 1 3221019 1 16  ; -- Equip: Imperial broadsword [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2301922 1 4022009  ;  Mob: Olquar [Npcs] => #4022009 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3019018 1 16  ; -- Equip: Steel staff of shaming [Items] (wield)
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2301996 1 4022010  ;  Mob: Raesa Pullia [Npcs] => #4022010 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3136003 1 5  ; -- Equip: Imperial steel cuirass [Items] (body)
+E 1 3136002 1 10  ; -- Equip: Imperial steel pauldrons [Items] (arms)
+E 1 3136006 1 7  ; -- Equip: Imperial steel greaves [Items] (legs)
+E 1 3136007 1 8  ; -- Equip: Imperial steel sabatons [Items] (feet)
+E 1 3136005 1 9  ; -- Equip: Imperial steel gauntlets [Items] (hands)
+E 1 3019019 1 13  ; -- Equip: Second barrier belt [Items] (waist)
+E 1 3232141 1 16  ; -- Equip: Silver longsword of poison [Items] (wield)
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2302187 1 4022011  ;  Mob: Segunivus Mantedius [Npcs] => #4022011 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3301016 1 1  ; -- Equip: Diamond ring [Items] (finger-r)
+G 1 3406181 1 ; -- Give: Guide to Balmora [Items]
+G 1 3406180 1 ; -- Give: Guide to Ald'ruhn [Items]
+G 1 3406132 1 ; -- Give: Dreamstride [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302352 1 4022012  ;  Mob: Syloria Siruliulus [Npcs] => #4022012 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3301009 1 3  ; -- Equip: Copper amulet [Items] (neck-1)
+G 1 3130001 1 ; -- Give: Imperial chain scullcap [Items]
+G 1 3130002 1 ; -- Give: Imperial chain armcops [Items]
+G 1 3130003 1 ; -- Give: Imperial chain jack [Items]
+G 1 3159005 1 ; -- Give: Steel gauntlets [Items]
+G 1 3139001 1 ; -- Give: Iron helm [Items]
+G 1 3223036 1 ; -- Give: Iron halberd [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3405003 1 ; -- Give: Iron candlestick [Items]
+G 1 3405004 1 ; -- Give: Pewter candlestick [Items]
+E 1 3320006 1 2  ; -- Equip: Imperial cult's insignia [Items] (finger-l)
+M 0 2302742 1 4022013  ;  Mob: Yambagorn gor-Shulor [Npcs] => #4022013 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, ground floor
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3132003 1 5  ; -- Equip: Imperial iron cuirass [Items] (body)
+G 1 3223018 1 ; -- Give: Iron longsword [Items]
+G 1 3223038 1 ; -- Give: Iron pike [Items]
+G 1 3221037 1 ; -- Give: Imperial lance [Items]
+G 1 3221012 1 ; -- Give: Imperial shortsword [Items]
+G 1 3132003 1 ; -- Give: Imperial iron cuirass [Items]
+G 1 3132007 1 ; -- Give: Imperial iron sabatons [Items]
+G 1 3408039 1 ; -- Give: Apprentice armorer's hammer [Items]
+E 1 3320005 1 2  ; -- Equip: Imperial legion's insignia [Items] (finger-l)
+M 0 2300757 1 4022019  ;  Mob: Eldil Bradyn [Npcs] => #4022019 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, prison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2302109 1 4022020  ;  Mob: Rulfim gra-Ogdub [Npcs] => #4022020 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, prison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2302448 1 4022021  ;  Mob: Thetrard Phirrienele [Npcs] => #4022021 [Buckmoth fortress] Ashlands, Buckmoth, legion fortress, prison
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+S
+
+#SHOPS
+2302742 5 9 0 0 0 120 90 0 23 ; Yambagorn gor-Shulor
+2300484 10 13 19 0 0 120 90 0 23 ; Cocistian Quaspus
+2302352 5 9 12 8 35 120 90 0 23 ; Syloria Siruliulus
+2300713 10 0 0 0 0 120 90 0 23 ; Dulian
+2302187 35 0 0 0 0 120 90 0 23 ; Segunivus Mantedius
+2300178 10 13 0 0 0 120 90 0 23 ; Arnand Liric
+0
+
+#REPAIRS
+2302742 9 5 0 100 1 0 23 ; Yambagorn gor-Shulor
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 BUCKMOTH LEGION FORTRESS~
+Buckmoth Legion Fort is an old Imperial stronghold south of windswept Ald'ruhn
+standing beside the road to Ghostgate beneath smoke from distant Red Mountain.
+Stone walls and tall watchtowers enclose a busy courtyard where soldiers drill
+and traders, healers and smiths serve the frontier post.~
+0 $~
+
+#$

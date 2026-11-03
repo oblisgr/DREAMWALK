@@ -1,0 +1,104 @@
+Name		Barbarian~
+Class		7
+AttrPrime		2
+AttrSecond	1
+AttrDeficient	4
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		8
+Hpmin		1
+Hpmax		10
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Sickle' 1 95
+Skill 'Handaxe' 1 95
+Skill 'Waraxe' 1 95
+Skill 'Pickaxe' 1 95
+Skill 'Battleaxe' 1 95
+Skill 'Berserk' 1 95
+Skill 'Execute' 1 95
+Skill 'Overpower' 1 95
+Skill 'Cleave' 1 95
+Skill 'Wirlwind' 1 95
+Skill 'Mutilate' 1 95
+Skill 'Cripple' 1 95
+Skill 'Slaughter' 1 95
+Skill 'Sever' 1 95
+Skill 'Chop' 1 95
+Skill 'Swing' 1 95
+Skill 'Hack' 1 95
+Skill 'Mail' 1 90
+Skill 'Enrage' 1 90
+Skill 'Trammel' 1 90
+Skill 'Spurn' 1 90
+Skill 'Cover' 1 90
+Skill 'Club' 1 85
+Skill 'Mace' 1 85
+Skill 'Flail' 1 85
+Skill 'Morningstar' 1 85
+Skill 'Staff' 1 85
+Skill 'Warhammer' 1 85
+Skill 'Maul' 1 85
+Skill 'Safeguard' 1 85
+Skill 'Stun' 1 85
+Skill 'Pummel' 1 85
+Skill 'Doorbash' 1 85
+Skill 'Smash' 1 85
+Skill 'Crush' 1 85
+Skill 'Punish' 1 85
+Skill 'Clobber' 1 85
+Skill 'Payback' 1 85
+Skill 'Bleed' 1 85
+Skill 'Splinter' 1 85
+Skill 'Bludgeon' 1 85
+Skill 'Waste' 1 85
+Skill 'Dodge' 1 80
+Skill 'Lunge' 1 80
+Skill 'Sweep' 1 80
+Skill 'Assault' 1 80
+Skill 'Taunt' 1 75
+Skill 'Bash' 1 75
+Skill 'Block' 1 75
+Skill 'Revenge' 1 75
+Skill 'Defend' 1 75
+Skill 'Rebuff' 1 75
+Skill 'Shelter' 1 75
+Skill 'Shroud' 1 75
+Skill 'Thrust' 1 75
+Skill 'Destabilize' 1 75
+Skill 'Tumble' 1 70
+Skill 'Climb' 1 70
+Skill 'Slip' 1 70
+Skill 'Twist' 1 70
+Skill 'Poise' 1 70
+Skill 'Leather' 1 65
+Skill 'Suppress' 1 65
+Skill 'Unchain' 1 65
+Skill 'Smith' 1 60
+Skill 'Sharpen' 1 60
+Skill 'Reinforce' 1 60
+Skill 'Repair' 1 60
+Skill 'Inspect' 1 60
+Skill 'Dart' 1 55
+Skill 'Ninjaku' 1 55
+Skill 'Knife' 1 55
+Skill 'Shortbow' 1 55
+Skill 'Longbow' 1 55
+Skill 'Crossbow' 1 55
+Skill 'Barrage' 1 55
+Skill 'Cloth' 1 50
+Skill 'Disengage' 1 50
+Skill 'Distract' 1 50
+Skill 'Parry' 1 50
+Skill 'Rescue' 1 50
+Skill 'Focus' 1 50
+Skill 'Unyield' 1 50
+Skill 'Guard' 1 50
+Skill 'Recover' 1 50
+Skill 'Trample' 1 50
+End	

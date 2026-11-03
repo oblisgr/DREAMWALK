@@ -1,0 +1,902 @@
+#AREA Dagon fel~
+
+#VERSION 1
+
+#CLIMATE 1 4 3
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4041001
+new mob~
+A newly created mob~
+A newly created mob is standing here
+~
+Someone has abandoned a new mob here
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4041001
+Object name~
+A newly created object~
+A newly created object sits here.
+~
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4041001
+Sheogorad, Dagon fel, town~
+Rough northern paths curve between timbered cottages in a cold salt-laden wind
+beside low plank houses and clay storage jars arranged beside narrow doorways.
+A chilly draft follows the winding lanes and fisherfolk sort their daily catch
+while the stony roadway carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041002 0
+D1
+East~
+~
+0 0 4041037 0
+S
+#4041002
+Sheogorad, Dagon fel, town~
+Worn island tracks curve between timbered cottages beneath a pale northern sky
+past sturdy wooden homes and split firewood scattered across the stony ground.
+A chilly draft follows the winding lanes as woodsmoke drifts from low chimneys
+and the rough street bears the marks of wind and salt.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041003 0
+D2
+South~
+~
+0 0 4041001 0
+S
+#4041003
+Sheogorad, Dagon fel, town~
+Wind-scoured streets cross among low wooden houses beneath a pale northern sky
+with weathered doorways and clay storage jars resting beside the beaten track.
+Salt-laden air drifts across the uneven ground as smoke rises from the hearths
+and the island town remains active despite the chill.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041004 0
+D2
+South~
+~
+0 0 4041002 0
+S
+#4041004
+Sheogorad, Dagon fel, town~
+Narrow village lanes pass among low wooden houses under weak northern sunlight
+past timber cottages and stacked fishing baskets placed clear of passing feet.
+Salt-laden air swirls across the uneven ground as smoke rises from the hearths
+and the rough street carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041005 0
+D2
+South~
+~
+0 0 4041003 0
+S
+#4041005
+Sheogorad, Dagon fel, town~
+Rocky settlement roads cross among low wooden houses in a cold salt-laden wind
+beside smoke-darkened roofs and drying nets scattered across the stony ground.
+Loose grit shifts along the narrow paths and fishing gear knocks against walls
+while the remote village feels hardy and firmly established.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4041006 0
+D2
+South~
+~
+0 0 4041004 0
+D3
+West~
+~
+0 0 4041007 0
+S
+#4041006
+Sheogorad, Dagon fel, town~
+Broad village ways curve across uneven island ground in a cold salt-laden wind
+beside sturdy wooden homes and split firewood resting beside the beaten track.
+The northern breeze stirs hanging cloth and woodsmoke drifts from low chimneys
+while the rough street carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D3
+West~
+~
+0 0 4041005 0
+S
+#4041007
+Sheogorad, Dagon fel, town~
+Hard-packed footpaths pass among low wooden houses beneath a pale northern sky
+with timber cottages and stacked fishing baskets placed clear of passing feet.
+Salt-laden air rolls across the uneven ground as workers haul supplies indoors
+and the remote village remains active despite the chill.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041008 0
+D1
+East~
+~
+0 0 4041005 0
+D2
+South~
+~
+0 0 4041029 0
+D3
+West~
+~
+0 0 4041012 0
+S
+#4041008
+Sheogorad, Dagon fel, town~
+Uneven island roads run among low wooden houses through drifting chimney smoke
+beside timber cottages and covered supply crates placed clear of passing feet.
+The northern breeze stirs hanging cloth and villagers move between their homes
+while the rough street feels hardy and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041009 0
+D1
+East~
+~
+0 0 4041033 0
+D2
+South~
+~
+0 0 4041007 0
+S
+#4041009
+Sheogorad, Dagon fel, town~
+Hard-packed footpaths thread among low wooden houses in a cold salt-laden wind
+past weathered doorways and clay storage jars resting beside the beaten track.
+The northern breeze stirs hanging cloth and travelers follow the clearest path
+while the island town carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041010 0
+D1
+East~
+~
+0 0 4041019 0
+D2
+South~
+~
+0 0 4041008 0
+D3
+West~
+~
+0 0 4041020 0
+S
+#4041010
+Sheogorad, Dagon fel, town~
+Wind-scoured streets run among low wooden houses amid the chill of the islands
+past weathered doorways and split firewood grouped under shallow wooden eaves.
+Salt-laden air rolls across the uneven ground and boots grind over loose stone
+while the stony roadway feels hardy and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041011 0
+D2
+South~
+~
+0 0 4041009 0
+D3
+West~
+~
+0 0 4041021 0
+S
+#4041011
+Sheogorad, Dagon fel, town~
+Hard-packed footpaths wind among low wooden houses beneath a pale northern sky
+with rough wooden fences and stacked fishing baskets set along the worn paths.
+Salt-laden air rolls across the uneven ground and smoke rises from the hearths
+while the stony roadway endures the cold island weather.~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4041010 0
+S
+#4041012
+Sheogorad, Dagon fel, town~
+Weathered village paths pass among low wooden houses in a cold salt-laden wind
+beside sturdy wooden homes and split firewood arranged beside narrow doorways.
+Loose road grit rolls across the uneven ground as smoke rises from the hearths
+and the island town carries the rhythm of ordinary life.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4041007 0
+D2
+South~
+~
+0 0 4041013 0
+D3
+West~
+~
+0 0 4041015 0
+S
+#4041013
+Sheogorad, Dagon fel, town~
+Hard-packed footpaths run among low wooden houses under weak northern sunlight
+among smoke-darkened roofs and split firewood arranged beside narrow doorways.
+A chilly draft follows the winding lanes and fishing gear knocks against walls
+while the rough street bears the marks of wind and salt.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041012 0
+D2
+South~
+~
+0 0 4041014 0
+S
+#4041014
+Sheogorad, Dagon fel, town~
+Wind-scoured streets curve among low wooden houses beneath a pale northern sky
+beside rough wooden fences and covered supply crates set along the worn paths.
+Weak sunlight lies across the stony ground while boots scrape over loose stone
+and the remote village feels hardy and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041013 0
+D2
+South~
+~
+0 0 4041034 0
+D3
+West~
+~
+0 0 4041042 0
+S
+#4041015
+Sheogorad, Dagon fel, town~
+Wind-scoured streets pass among low wooden houses under weak northern sunlight
+among smoke-darkened roofs and clay storage jars placed clear of passing feet.
+Salt-laden air passes across the uneven ground as boots grind over loose stone
+and this weathered quarter endures the cold island weather.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041035 0
+D1
+East~
+~
+0 0 4041012 0
+D2
+South~
+~
+0 0 4041028 0
+D3
+West~
+~
+0 0 4041016 0
+S
+#4041016
+Sheogorad, Dagon fel, town~
+Broad village ways pass between timbered cottages under weak northern sunlight
+beside rough wooden fences and clay storage jars placed clear of passing feet.
+A chilly draft follows the winding lanes and distant voices carry through town
+while the stony roadway bears the marks of wind and salt.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041036 0
+D1
+East~
+~
+0 0 4041015 0
+D2
+South~
+~
+0 0 4041017 0
+S
+#4041017
+Sheogorad, Dagon fel, town~
+Uneven island roads thread between timbered cottages in a cold salt-laden wind
+among smoke-darkened roofs and drying nets grouped under shallow wooden eaves.
+Weak sunlight lies across the stony ground as voices travel between the houses
+and the rough street remains active despite the chill.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041016 0
+D2
+South~
+~
+0 0 4041018 0
+S
+#4041018
+Sheogorad, Dagon fel, town~
+Narrow village lanes cross among low wooden houses beneath a pale northern sky
+among timber cottages and clay storage jars scattered across the stony ground.
+Salt air moves through the timbered streets and doors creak in the cold breeze
+while the island town feels hardy and firmly established.~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4041017 0
+D2
+South~
+~
+0 0 4041022 0
+D3
+West~
+~
+0 0 4041030 0
+S
+#4041019
+Sheogorad, Dagon fel, town~
+Worn island tracks thread among low wooden houses under weak northern sunlight
+among weathered doorways and split firewood scattered across the stony ground.
+Salt air moves through the timbered streets and villagers cross the open paths
+while the remote village remains active despite the chill.~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4041041 0
+D3
+West~
+~
+0 0 4041009 0
+S
+#4041020
+Sheogorad, Dagon fel, town, Andre Maul's tower~
+Old riveted walls frame this dim tower chamber beneath an ancient fitted vault
+past a broad stone platform and stacked supply sacks placed within easy reach.
+Nearby lantern light moves over the worn floor and the room settles into quiet
+while the chamber retains the chill of its construction.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4041009 0
+S
+#4041021
+Sheogorad, Dagon fel, town, Anja Swift-Sailer's house~
+Rough timber walls enclose a tidy private dwelling beneath aged overhead beams
+past a plain sleeping cot and clay cooking pots ordered across the hard floor.
+Pale lamplight falls upon the nearby shelves as ordinary work continues nearby
+and the modest room bears the marks of careful daily use.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4041010 0
+S
+#4041022
+Sheogorad, Dagon fel, town, End of the World's tavern~
+Rough timber walls frame this noisy tavern chamber beneath stout ceiling beams
+among a scarred serving counter, sealed ale barrels and plain eating utensils.
+Nearby lantern light falls over the worn floor as dust turns slowly in the air
+and the lively inn welcomes travelers from the island roads.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041018 0
+D2
+South~
+~
+0 0 4041023 0
+S
+#4041023
+Sheogorad, Dagon fel, town, End of the World's tavern~
+Salt-stained wooden walls enclose a lively taproom beneath stout ceiling beams
+past long common benches and sealed ale barrels ordered across the hard floor.
+Pale lamplight falls upon the nearby shelves as distant movement sounds beyond
+and the warm interior stays noisy well into the evening.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041022 0
+D2
+South~
+~
+0 0 4041024 0
+S
+#4041024
+Sheogorad, Dagon fel, town, End of the World's tavern~
+A lively taproom opens within smoke-darkened walls under several covered lamps
+past small dining tables and stacked meal bowls set between the narrow aisles.
+Faint candlelight shines upon the nearby shelves as muted voices rise and fall
+and the public chamber stays noisy well into the evening.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041023 0
+D2
+South~
+~
+0 0 4041025 0
+S
+#4041025
+Sheogorad, Dagon fel, town, End of the World's tavern~
+The lively taproom rests within sturdy wooden walls beneath rough roof timbers
+with long common benches and stacked meal bowls set between the narrow aisles.
+Amber lamplight drifts between the darkened beams as a dry draft stirs the air
+and this crowded room stays noisy well into the evening.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041024 0
+D4
+Up~
+~
+0 0 4041027 0
+S
+#4041026
+Sheogorad, Dagon fel, town, End of the World's renter rooms~
+The cramped rented room rests within aged plank walls beneath heavy roof beams
+among plain straw mattresses and clay water jugs resting in well-used corners.
+A shifting glow drifts over the worn floor and low conversation carries softly
+while this guest chamber keeps out most of the island chill.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4041027 0
+S
+#4041027
+Sheogorad, Dagon fel, town, End of the World's renter rooms~
+Thick timber walls frame this orderly guest room beneath broad wooden supports
+past plain straw mattresses and clay water jugs set neatly around the chamber.
+A shifting glow trembles over the worn floor as distant movement sounds beyond
+and the quiet lodging contains only practical comforts.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041026 0
+D5
+Down~
+~
+0 0 4041025 0
+S
+#4041028
+Sheogorad, Dagon fel, town, Fanar Fork-Beard's house~
+Smoke-darkened walls enclose a plain private dwelling beneath heavy roof beams
+past a simple bedroll and earthen water jars arranged for practical daily use.
+Dim red candlelight drifts over the worn floor as dust turns slowly in the air
+and the modest room holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041015 0
+S
+#4041029
+Sheogorad, Dagon fel, town, Fjorrod's house~
+Weathered plank walls frame this quiet living room beneath aged overhead beams
+beside folded bedding and woven storage baskets set between the narrow aisles.
+Nearby lantern light falls over the worn floor while a dry draft stirs the air
+and the plain interior contains familiar household comforts.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041007 0
+S
+#4041030
+Sheogorad, Dagon fel, town, Greidil Half-Troll's house~
+A quiet sleeping room opens within thick timber walls under steady red candles
+past a simple bedroll and woven storage baskets arranged in disciplined order.
+A shifting glow moves upon the nearby shelves while muted voices rise and fall
+and the plain interior holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4041018 0
+S
+#4041031
+Sheogorad, Dagon fel, town, Heifnir's trading shop~
+A practical supply shop opens within aged plank walls under pale lantern light
+among rows of common wares and sealed bottles kept clear of the central aisle.
+A shifting glow glimmers over the worn floor while the room settles into quiet
+and this busy store smells of rope, cloth and seasoned wood.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041042 0
+D2
+South~
+~
+0 0 4041032 0
+S
+#4041032
+Sheogorad, Dagon fel, town, Heifnir's trading shop~
+Rough timber walls frame this crowded trade shop beneath broad wooden supports
+past rows of common wares and travel provisions set neatly around the chamber.
+Warm hearth light shines upon the nearby shelves as soft footsteps pass nearby
+and this busy store keeps useful goods within easy reach.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041031 0
+S
+#4041033
+Sheogorad, Dagon fel, town, Hurg's house~
+Smoke-darkened walls frame this warm sleeping room beneath aged overhead beams
+among a simple bedroll and clay cooking pots arranged for practical daily use.
+Muted firelight trembles upon the nearby shelves and a dry draft stirs the air
+while this quiet home holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4041008 0
+S
+#4041034
+Sheogorad, Dagon fel, town, Itar the Gentle's house~
+Smoke-darkened walls frame this warm domestic room beneath aged overhead beams
+beside folded bedding and woven storage baskets arranged in disciplined order.
+Pale lamplight shines upon the nearby shelves while soft footsteps pass nearby
+and this quiet home bears the marks of careful daily use.~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4041014 0
+S
+#4041035
+Sheogorad, Dagon fel, town, Mette's house~
+Weathered plank walls frame this modest living room beneath rough roof timbers
+with a plain sleeping cot, woven storage baskets and small personal keepsakes.
+Low amber light moves between the darkened beams as soft footsteps pass nearby
+and this quiet home holds the warmth of ordinary life.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4041015 0
+S
+#4041036
+Sheogorad, Dagon fel, town, Onmi Hard-mouth's house~
+Rough timber walls frame this plain domestic room beneath a low wooden ceiling
+beside folded bedding and earthen water jars arranged for practical daily use.
+Smoky yellow light glimmers over the worn floor and soft footsteps pass nearby
+while this quiet home contains familiar household comforts.~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4041016 0
+S
+#4041037
+Sheogorad, Dagon fel, town, Sorkvild's tower~
+Brass-banded walls enclose a cold machine hall beneath an ancient fitted vault
+beside heavy bronze doors and blackened candles arranged in disciplined order.
+Pale lamplight moves between the darkened beams as the room settles into quiet
+and the shadowed ruin holds the dust of countless years.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4041001 0
+D4
+Up~
+~
+0 0 4041039 0
+D5
+Down~
+~
+0 0 4041038 0
+S
+#4041038
+Sheogorad, Dagon fel, town, Sorkvild's tower~
+A dusty stone passage opens within brass-banded walls under muted hearth light
+beside heavy bronze doors and scattered books kept clear of the central aisle.
+Pale lamplight drifts upon the nearby shelves while soft footsteps pass nearby
+and the shadowed ruin echoes with uncertain movement.~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4041037 0
+S
+#4041039
+Sheogorad, Dagon fel, town, Sorkvild's tower~
+Brass-banded walls enclose an echoing ancient gallery beneath broad stone ribs
+beside heavy bronze doors and blackened candles set between the narrow aisles.
+Muted firelight shines over the worn floor and the lamps give off faint warmth
+while the machine hall echoes with uncertain movement.~
+0 8 0 0 0 0
+D4
+Up~
+~
+0 0 4041040 0
+D5
+Down~
+~
+0 0 4041037 0
+S
+#4041040
+Sheogorad, Dagon fel, town, Sorkvild's tower~
+Brass-banded walls enclose a cold ancient gallery beneath a high masonry vault
+past heavy bronze doors and dusty storage chests resting in well-used corners.
+Faint candlelight plays over the worn floor as low conversation carries softly
+and the old tower echoes with uncertain movement.~
+0 8 0 0 0 0
+D5
+Down~
+~
+0 0 4041039 0
+S
+#4041041
+Sheogorad, Dagon fel, town, vacant tower~
+Brass-banded walls frame this dusty abandoned chamber beneath broad stone ribs
+with empty wall recesses, fallen masonry and dead lamps left across the floor.
+Cold northern air sweeps through the empty ruin as loose metal knocks overhead
+and the vacant tower offers nothing beyond dust and shelter.~
+0 8 0 0 0 0
+D3
+West~
+~
+0 0 4041019 0
+S
+#4041042
+Sheogorad, Dagon fel, town, watch tower~
+Rough defensive walls enclose a narrow sentry post beneath dark wooden rafters
+past heavy inner steps, spare bows and watch rosters placed within easy reach.
+Dusty golden light moves upon the nearby shelves as muted voices rise and fall
+and the guarded tower remains ready to sound an alarm.~
+0 8 0 0 0 0
+D1
+East~
+~
+0 0 4041014 0
+D2
+South~
+~
+0 0 4041031 0
+S
+#0
+
+#RESETS
+M 0 2301173 1 4041001  ;  Mob: Haema Farseer [Npcs] => #4041001 [Dagon fel] Sheogorad, Dagon fel, town
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3223026 1 16  ; -- Equip: Iron battleaxe [Items] (wield)
+M 0 2301233 1 4041002  ;  Mob: Hjoldir [Npcs] => #4041002 [Dagon fel] Sheogorad, Dagon fel, town
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3223010 1 16  ; -- Equip: Iron tanto [Items] (wield)
+M 0 2300126 1 4041020  ;  Mob: Andre Maul [Npcs] => #4041020 [Dagon fel] Sheogorad, Dagon fel, town, Andre Maul's tower
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3106003 1 5  ; -- Equip: Exquisite shirt [Items] (body)
+E 1 3213009 1 16  ; -- Equip: Ebony dagger [Items] (wield)
+M 0 2300141 1 4041021  ;  Mob: Anja Swift-Sailer [Npcs] => #4041021 [Dagon fel] Sheogorad, Dagon fel, town, Anja Swift-Sailer's house
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102005 1 9  ; -- Equip: Common gloves [Items] (hands)
+M 0 2302712 1 4041022  ;  Mob: Vongvild [Npcs] => #4041022 [Dagon fel] Sheogorad, Dagon fel, town, End of the World's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3227019 1 16  ; -- Equip: Nordic broadsword [Items] (wield)
+M 0 2300992 1 4041023  ;  Mob: Fryfnhild [Npcs] => #4041023 [Dagon fel] Sheogorad, Dagon fel, town, End of the World's tavern
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3227019 1 16  ; -- Equip: Nordic broadsword [Items] (wield)
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102010 1 ; -- Give: Common skirt [Items]
+G 1 3105007 1 ; -- Give: Extravagant shoes [Items]
+G 1 3403228 1 ; -- Give: Marshmerrow [Items]
+G 1 3403279 1 ; -- Give: Rat meat [Items]
+G 1 3401062 1 ; -- Give: Potion of restore health [Items]
+G 1 3404009 1 ; -- Give: Bottle [Items]
+M 0 2302160 1 4041024  ;  Mob: Sarnir the Clerk [Npcs] => #4041024 [Dagon fel] Sheogorad, Dagon fel, town, End of the World's tavern
+E 1 3104006 1 7  ; -- Equip: Expensive pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3227026 1 16  ; -- Equip: Nordic battleaxe [Items] (wield)
+M 0 2302307 1 4041025  ;  Mob: Sold Fine-Hair [Npcs] => #4041025 [Dagon fel] Sheogorad, Dagon fel, town, End of the World's tavern
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102004 1 13  ; -- Equip: Common sash [Items] (waist)
+E 1 3301012 1 1  ; -- Equip: Copper ring [Items] (finger-r)
+E 1 3301045 1 3  ; -- Equip: Pewter amulet [Items] (neck-1)
+E 1 3236069 1 16  ; -- Equip: Steel mace of frost [Items] (wield)
+M 0 2301260 1 4041026  ;  Mob: Hreirek the Lean [Npcs] => #4041026 [Dagon fel] Sheogorad, Dagon fel, town, End of the World's renter rooms
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3144005 1 9  ; -- Equip: Netch leather bracers [Items] (hands)
+E 1 3232135 1 16  ; -- Equip: Silver shortsword of poison [Items] (wield)
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301234 1 4041027  ;  Mob: Hjotra the Peacock [Npcs] => #4041027 [Dagon fel] Sheogorad, Dagon fel, town, End of the World's renter rooms
+E 1 3111001 1 6  ; -- Equip: Armun an bonemold scullcap [Items] (head)
+E 1 3111002 1 10  ; -- Equip: Armun an bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3235018 1 16  ; -- Equip: Steel longsword [Items] (wield)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3119001 1 ; -- Give: Colovian fur coif [Items]
+G 1 3003008 1 ; -- Give: Chitin cephalopod helm [Items]
+G 1 3231009 1 ; -- Give: Silver dagger [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+G 1 3403173 1 ; -- Give: Hackle-lo leaf [Items]
+G 1 3403306 1 ; -- Give: Saltrice [Items]
+G 1 3410010 1 ; -- Give: Flin [Items]
+G 1 3410009 1 ; -- Give: Greef [Items]
+G 1 3410003 1 ; -- Give: Telvanni bug musk [Items]
+M 0 2300874 1 4041028  ;  Mob: Fanar Fork-Beard [Npcs] => #4041028 [Dagon fel] Sheogorad, Dagon fel, town, Fanar Fork-Beard's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+M 0 2300957 1 4041029  ;  Mob: Fjorrod [Npcs] => #4041029 [Dagon fel] Sheogorad, Dagon fel, town, Fjorrod's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301156 1 4041030  ;  Mob: Greidil Half-Troll [Npcs] => #4041030 [Dagon fel] Sheogorad, Dagon fel, town, Greidil Half-Troll's house
+E 1 3115002 1 10  ; -- Equip: Bonemold armcops [Items] (arms)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3236028 1 16  ; -- Equip: Steel mace of fire [Items] (wield)
+M 0 2301207 1 4041031  ;  Mob: Heifnir [Npcs] => #4041031 [Dagon fel] Sheogorad, Dagon fel, town, Heifnir's trading shop
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3104003 1 5  ; -- Equip: Expensive shirt [Items] (body)
+E 1 3235032 1 16  ; -- Equip: Steel warhammer [Items] (wield)
+G 1 3145003 1 ; -- Give: Nordic bearskin jerkin [Items]
+G 1 3149005 1 ; -- Give: Nordic fur bracers [Items]
+G 1 3221019 1 ; -- Give: Imperial broadsword [Items]
+G 1 3227020 1 ; -- Give: Nordic claymore [Items]
+G 1 3104007 1 ; -- Give: Expensive shoes [Items]
+G 1 3104070 1 ; -- Give: Expensive robe of resist frost [Items]
+G 1 3403235 1 ; -- Give: Moon sugar [Items]
+G 1 3403162 1 ; -- Give: Gravedust [Items]
+M 0 2302432 1 4041032  ;  Mob: Thalestris [Npcs] => #4041032 [Dagon fel] Sheogorad, Dagon fel, town, Heifnir's trading shop
+E 1 3131001 1 6  ; -- Equip: Imperial dragonscale scullcap [Items] (head)
+E 1 3152003 1 5  ; -- Equip: Nordic ringmail jack [Items] (body)
+E 1 3130002 1 10  ; -- Equip: Imperial chain armcops [Items] (arms)
+E 1 3154006 1 7  ; -- Equip: Orcish guards [Items] (legs)
+E 1 3126008 1 17  ; -- Equip: Glass buckler [Items] (hold)
+E 1 3154007 1 8  ; -- Equip: Orcish boots [Items] (feet)
+E 1 3232147 1 16  ; -- Equip: Silver waraxe of poison [Items] (wield)
+M 0 2301270 1 4041033  ;  Mob: Hurg [Npcs] => #4041033 [Dagon fel] Sheogorad, Dagon fel, town, Hurg's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301344 1 4041034  ;  Mob: Itar the Gentle [Npcs] => #4041034 [Dagon fel] Sheogorad, Dagon fel, town, Itar the Gentle's house
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301683 1 4041035  ;  Mob: Mette [Npcs] => #4041035 [Dagon fel] Sheogorad, Dagon fel, town, Mette's house
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301933 1 4041036  ;  Mob: Onmi Hard-Mouth [Npcs] => #4041036 [Dagon fel] Sheogorad, Dagon fel, town, Onmi Hard-mouth's house
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301093 1 4041037  ;  Mob: Gilse Darethi [Npcs] => #4041037 [Dagon fel] Sheogorad, Dagon fel, town, Sorkvild's tower
+E 1 3105007 1 8  ; -- Equip: Extravagant shoes [Items] (feet)
+E 1 3006005 1 5  ; -- Equip: Frosteater robe [Items] (body)
+E 1 3006006 1 1  ; -- Equip: First barrier ring [Items] (finger-r)
+E 1 3006007 1 3  ; -- Equip: Fuddle charm [Items] (neck-1)
+E 1 3211012 1 16  ; -- Equip: Dwarven shortsword [Items] (wield)
+M 0 2301246 1 4041038  ;  Mob: Hlora Long-Leg [Npcs] => #4041038 [Dagon fel] Sheogorad, Dagon fel, town, Sorkvild's tower
+E 1 3115001 1 6  ; -- Equip: Bonemold scullcap [Items] (head)
+E 1 3115003 1 5  ; -- Equip: Bonemold jack [Items] (body)
+E 1 3111002 1 10  ; -- Equip: Armun an bonemold armcops [Items] (arms)
+E 1 3115006 1 7  ; -- Equip: Bonemold guards [Items] (legs)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3115008 1 17  ; -- Equip: Bonemold shield [Items] (hold)
+E 1 3115005 1 9  ; -- Equip: Bonemold wristguards [Items] (hands)
+E 1 3211028 1 16  ; -- Equip: Dwarven mace [Items] (wield)
+M 0 2301713 1 4041039  ;  Mob: Minedhel [Npcs] => #4041039 [Dagon fel] Sheogorad, Dagon fel, town, Sorkvild's tower
+E 1 3003004 1 6  ; -- Equip: Chitin mask helm [Items] (head)
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3144002 1 10  ; -- Equip: Netch leather epaulets [Items] (arms)
+E 1 3117006 1 7  ; -- Equip: Chitin breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3117005 1 9  ; -- Equip: Chitin bracers [Items] (hands)
+E 1 3019022 1 16  ; -- Equip: Saint's black sword [Items] (wield)
+M 0 2302316 1 4041040  ;  Mob: Sorkvild the Raven [Npcs] => #4041040 [Dagon fel] Sheogorad, Dagon fel, town, Sorkvild's tower
+E 1 3013002 1 1  ; -- Equip: Masque of Clavicus Vile [Items] (finger-r)
+E 1 3002008 1 13  ; -- Equip: Belt of nimbleness [Items] (waist)
+E 1 3001004 1 3  ; -- Equip: Amulet of mighty blows [Items] (neck-1)
+E 1 3207024 1 16  ; -- Equip: Daedric waraxe [Items] (wield)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3104008 1 5  ; -- Equip: Expensive robe [Items] (body)
+M 0 2301421 1 4041041  ;  Mob: Khargol gro-Boguk [Npcs] => #4041041 [Dagon fel] Sheogorad, Dagon fel, town, vacant tower
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102004 1 13  ; -- Equip: common sash [Items] (waist)
+S
+
+#SHOPS
+2300992 5 9 12 8 35 120 90 0 23 ; Fryfnhild
+2301207 5 9 12 8 35 120 90 0 23 ; Heifnir
+2301234 5 9 12 1 8 120 90 0 23 ; Hjotra the Peacock
+2301260 13 5 0 0 0 120 90 0 23 ; Hreirek the Lean
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 DAGON FEL~
+Dagon Fel is Vvardenfell's northernmost settlement, set on windswept Sheogorad
+where Nord fishermen share a remote harbor under the watch of Imperial guards.
+Simple homes, a tiny inn and traders cluster near three ancient Dwemer towers,
+while cold seas batter the rocky shore beyond the village.~
+0 $~
+
+#$

@@ -1,0 +1,94 @@
+Name		Thief~
+Class		20
+AttrPrime		1
+AttrSecond	5
+AttrDeficient	25
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		17
+Hpmin		1
+Hpmax		4
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Lockpick' 1 95
+Skill 'Search' 1 95
+Skill 'Detect' 1 95
+Skill 'Detrap' 1 95
+Skill 'Scan' 1 95
+Skill 'Track' 1 95
+Skill 'Pickpocket' 1 90
+Skill 'Sneak' 1 90
+Skill 'Hide' 1 90
+Skill 'Peek' 1 90
+Skill 'Backstab' 1 90
+Skill 'Creep' 1 90
+Skill 'Tumble' 1 85
+Skill 'Climb' 1 85
+Skill 'Slip' 1 85
+Skill 'Twist' 1 85
+Skill 'Poise' 1 85
+Skill 'Leather' 1 80
+Skill 'Suppress' 1 80
+Skill 'Unchain' 1 80
+Skill 'Dirk' 1 75
+Skill 'Dagger' 1 75
+Skill 'Tanto' 1 75
+Skill 'Wakizashi' 1 75
+Skill 'Shortsword' 1 75
+Skill 'Fight' 1 75
+Skill 'Gouge' 1 75
+Skill 'Grip' 1 75
+Skill 'Razor' 1 75
+Skill 'Outplay' 1 75
+Skill 'Riposte' 1 75
+Skill 'Stab' 1 75
+Skill 'Sting' 1 75
+Skill 'Dart' 1 70
+Skill 'Ninjaku' 1 70
+Skill 'Knife' 1 70
+Skill 'Shortbow' 1 70
+Skill 'Longbow' 1 70
+Skill 'Crossbow' 1 70
+Skill 'Barrage' 1 70
+Skill 'Bluff' 1 65
+Skill 'Flirt' 1 65
+Skill 'Intimidate' 1 65
+Skill 'Judge' 1 65
+Skill 'Shame' 1 65
+Skill 'Daunt' 1 65
+Skill 'Gaze' 1 65
+Skill 'Surge' 1 65
+Skill 'Bully' 1 65
+Skill 'Harry' 1 65
+Skill 'Rebuke' 1 65
+Skill 'Claw' 1 60
+Skill 'Katar' 1 60
+Skill 'Knuckle' 1 60
+Skill 'Cestus' 1 60
+Skill 'Evade' 1 60
+Skill 'Slam' 1 60
+Skill 'Kick' 1 60
+Skill 'Punch' 1 60
+Skill 'Pounce' 1 60
+Skill 'Grapple' 1 60
+Skill 'Batter' 1 60
+Skill 'Swipe' 1 60
+Skill 'Hold' 1 60
+Skill 'Frazzle' 1 60
+Skill 'Pincer' 1 60
+Skill 'Knock' 1 60
+Skill 'Hire' 1 55
+Skill 'Dig' 1 55
+Skill 'Trick' 1 55
+Skill 'Anger' 1 55
+Skill 'Humiliate' 1 55
+Skill 'Dodge' 1 50
+Skill 'Lunge' 1 50
+Skill 'Sweep' 1 50
+Skill 'Assault' 1 50
+End	

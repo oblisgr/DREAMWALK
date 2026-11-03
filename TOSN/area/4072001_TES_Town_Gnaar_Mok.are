@@ -1,0 +1,658 @@
+#AREA Gnaar mok~
+
+#VERSION 1
+
+#CLIMATE 4 3 1
+
+#AUTHOR Oblisgr~
+
+#RANGES
+0 65 0 65
+$
+
+#RESETMSG Reseting...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 0
+
+#MOBILES
+#4072001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+1 0 0 C
+1 0 0 8d1+0 0d0+0
+0 0
+12 12 0
+13 13 13 13 13 13 13
+0 0 0 0 0
+0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+#0
+
+#OBJECTS
+#4072001
+RESERVED~
+RESERVED~
+RESERVED
+~
+RESERVED
+~
+13 0 0 0
+0 0 0 0
+1 0 0
+#0
+
+#ROOMS
+#4072001
+Bitter coast, Gnaar Mok, village~
+Shallow muddy lanes run among low wooden dwellings through a haze of woodsmoke
+past woven traps, old handcarts and fishing poles resting against damp planks.
+Faint rain hangs across the quiet settlement, carrying the odor of soaked wood
+and steady drizzle darkens the pathways.
+~
+0 0 1 0 0 0
+D3
+West
+~
+~
+0 0 4072002 0
+D1
+Exit description
+~
+~
+0 0 1070243 0
+S
+#4072002
+Bitter coast, Gnaar Mok, village~
+Rain-dark paths wander past squat timber buildings amid the smell of wet reeds
+beside empty fish crates, clay vessels and low fences set upon narrow porches.
+Marsh haze settles beneath the sagging eaves, carrying the odor of soaked wood
+as the soft ground yields beneath each step.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072023 0
+D1
+East~
+~
+0 0 4072001 0
+D2
+South~
+~
+0 0 4072018 0
+D3
+West~
+~
+0 0 4072003 0
+S
+#4072003
+Bitter coast, Gnaar Mok, village~
+Rough earthen ways wind between moss-streaked walls beneath drifting marsh fog
+with reed baskets, coiled nets and drying racks scattered beside the footways.
+Woodsmoke spreads over the trodden earth, carrying the smell of brackish water
+and distant voices fade through the mist.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072022 0
+D1
+East~
+~
+0 0 4072002 0
+D2
+South~
+~
+0 0 4072028 0
+D3
+West~
+~
+0 0 4072004 0
+S
+#4072004
+Bitter coast, Gnaar Mok, village~
+Uneven walkways thread past rows of weathered shacks under a veil of damp mist
+with low fences, wooden buckets and bundled reeds left beside raised doorways.
+Thin smoke lingers along the softened ground, carrying the scent of wet timber
+and loose shutters tap against the walls.
+~
+0 0 1 0 0 0
+D1
+East~
+~
+0 0 4072003 0
+D2
+South~
+~
+0 0 4072013 0
+D3
+West~
+~
+0 0 4072005 0
+S
+#4072005
+Bitter coast, Gnaar Mok, village~
+Rutted footpaths run around simple wooden homes under dim and clouded daylight
+past split firewood, woven traps and coiled nets kept under sagging rooflines.
+Damp wind slides above shallow puddles, carrying cool scents of reeds and clay
+as wet boards creak beneath passing feet.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072019 0
+D1
+East~
+~
+0 0 4072004 0
+D2
+South~
+~
+0 0 4072024 0
+D3
+West~
+~
+0 0 4072006 0
+S
+#4072006
+Bitter coast, Gnaar Mok, village~
+Narrow dirt tracks curve between closely built shelters beneath a low gray sky
+past clay vessels, drying racks and reed baskets placed near rough thresholds.
+Moist air moves among the leaning shacks, carrying the smell of rain-dark soil
+as small fires smolder inside the dwellings.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072007 0
+D1
+East~
+~
+0 0 4072005 0
+D2
+South~
+~
+0 0 4072012 0
+S
+#4072007
+Bitter coast, Gnaar Mok, village~
+Muddy footpaths extend among faded timber buildings through the cool marsh air
+past stacked barrels, patched awnings and woven traps set upon narrow porches.
+Woodsmoke hangs over the trodden earth, carrying the smell of mud and fish oil
+as reeds rustle beyond the outer huts.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072008 0
+D2
+South~
+~
+0 0 4072006 0
+S
+#4072008
+Bitter coast, Gnaar Mok, village~
+Uneven walkways wind around simple wooden homes under clouds swollen with rain
+past low fences, bundled reeds and fishing poles resting above the wet ground.
+Cool mist drifts between the rough buildings, carrying the odor of soaked wood
+as smoke thins beneath the clouded sky.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072009 0
+D2
+South~
+~
+0 0 4072007 0
+D3
+West~
+~
+0 0 4072014 0
+S
+#4072009
+Bitter coast, Gnaar Mok, village~
+Packed earth trails curve past rows of weathered shacks beneath a low gray sky
+with drying racks, coiled nets and clay vessels spread beside the muddy lanes.
+Damp wind passes through the narrow passages, carrying the scent of wet timber
+and cool droplets gather along the eaves.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072010 0
+D2
+South~
+~
+0 0 4072008 0
+S
+#4072010
+Bitter coast, Gnaar Mok, village~
+Rain-dark paths run between humble plank dwellings through a haze of woodsmoke
+with wooden buckets, old handcarts and split firewood set upon narrow porches.
+Moist air passes around the timber walls, carrying the smell of brackish water
+as puddles tremble beneath the rain.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072011 0
+D2
+South~
+~
+0 0 4072009 0
+S
+#4072011
+Bitter coast, Gnaar Mok, village~
+Worn village paths curve between moss-streaked walls under a veil of damp mist
+past reed baskets, low fences and stacked barrels left beside raised doorways.
+Gray daylight hangs among the leaning shacks, carrying the scent of wet timber
+and pale reflections stir in every puddle.
+~
+0 0 1 0 0 0
+D2
+South~
+~
+0 0 4072010 0
+S
+#4072012
+Bitter coast, Gnaar Mok, village~
+Rutted footpaths extend past squat timber buildings beneath drifting marsh fog
+with coiled nets, old handcarts and fishing poles set close against the walls.
+Woodsmoke drifts above shallow puddles, carrying cool scents of reeds and clay
+as insects drone beyond the fences.
+~
+0 0 1 0 0 0
+D0
+North~
+~
+0 0 4072006 0
+S
+#4072013
+Bitter coast, Gnaar Mok, village, Anglalos's shack~
+A shadowed wooden chamber lies within rough plank walls beneath uneven rafters
+among old tools, basic cookware and fishing gear tucked into every dry corner.
+Lamplight moves along the patched wall seams as smoke stains the ceiling above
+and quiet creaks travel through the frame.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072004 0
+S
+#4072014
+Bitter coast, Gnaar Mok, village, Arenim's manor~
+Thick plastered walls enclose a quiet manor room beneath a high timber ceiling
+with polished dishes, woven rugs and low cabinets kept beneath carved shelves.
+Filtered daylight shines among the ordered possessions and shadows move gently
+as faint footsteps pass beyond the doorway.
+~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4072015 0
+D1
+East~
+~
+0 0 4072008 0
+D2
+South~
+~
+0 0 4072016 0
+D4
+Up~
+~
+0 0 4072017 0
+S
+#4072015
+Bitter coast, Gnaar Mok, village, Arenim's manor~
+Warm ochre walls enclose a formal domestic chamber beneath carved wooden beams
+with ceramic lamps, woven rugs and folded linens arranged for comfortable use.
+A mild fragrance drifts around the quiet interior as soft light fills the room
+and polished surfaces catch the soft glow.
+~
+0 1032 0 0 0 0
+D2
+South~
+~
+0 0 4072014 0
+S
+#4072016
+Bitter coast, Gnaar Mok, village, Arenim's manor~
+A quiet manor room rests behind warm ochre walls beneath dark polished rafters
+with bound records, woven rugs and writing tools arranged in restrained order.
+Faint incense lingers along the plastered surfaces and lamp oil scents the air
+as thick walls soften every outside sound.
+~
+0 1032 0 0 0 0
+D0
+North~
+~
+0 0 4072014 0
+S
+#4072017
+Bitter coast, Gnaar Mok, village, Arenim's manor~
+Smooth plaster walls enclose a formal private room beneath broad ceiling beams
+with woven rugs, wooden chests and fine tableware kept beneath carved shelves.
+Soft lamplight falls across the polished furnishings as dust glitters overhead
+and clean fabrics warm the formal interior.
+~
+0 1032 0 0 0 0
+D5
+Down~
+~
+0 0 4072014 0
+S
+#4072018
+Bitter coast, Gnaar Mok, village, Caryarel's shack~
+Patched board walls enclose a simple living space beneath low smoke-dark beams
+among wooden bowls, bundled nets and reed baskets stored below shallow ledges.
+Damp air lingers beneath the cramped rafters as the timber frame creaks softly
+and every possession shows long, practical use.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072002 0
+S
+#4072019
+Bitter coast, Gnaar Mok, village, Druegh-jigger rest's tavern~
+A smoky common room lies within aged plank walls beneath a dark timber ceiling
+among cooking pots, clay cups and earthen jugs kept ready beside broad tables.
+The hearth glow moves above the worn wooden benches as lamp flames bend gently
+before the low fire settles into embers.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072020 0
+D2
+South~
+~
+0 0 4072005 0
+S
+#4072020
+Bitter coast, Gnaar Mok, village, Druegh-jigger rest's tavern~
+Rough plaster walls enclose a lively public chamber beneath low wooden rafters
+with plain stools, food platters and covered baskets placed within easy reach.
+Warm firelight flickers across the crowded common room and cups knock together
+as benches scrape across the worn floor.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072021 0
+D2
+South~
+~
+0 0 4072019 0
+S
+#4072021
+Bitter coast, Gnaar Mok, village, Druegh-jigger rest's tavern~
+A warm tavern room opens inside lamp-stained walls beneath heavy ceiling beams
+among stacked bowls, drink barrels and serving trays placed within easy reach.
+Cooked aromas drift among the closely set tables and coins ring on the counter
+with warm air gathering beneath the rafters.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4072020 0
+S
+#4072022
+Bitter coast, Gnaar Mok, village, Jerian Dolbanitte''s shack~
+Smoke-darkened walls enclose a plain single room beneath a sagging timber roof
+among low shelves, worn stools and coiled rope placed around the narrow floor.
+A cool draft slips around the humble furnishings as old boards shift underfoot
+before the faint fire settles into embers.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4072003 0
+S
+#4072023
+Bitter coast, Gnaar Mok, village, Mush-Mere's shack~
+A cramped shack interior opens inside damp wooden walls beneath uneven rafters
+among storage sacks, folded blankets and plain utensils set within easy reach.
+The low fire glows over the packed belongings as rain whispers across the roof
+until a passing draft disturbs the warm air.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4072002 0
+S
+#4072024
+Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack~
+A dim single room lies within smoke-darkened walls beneath a patched reed roof
+with clay pots, simple bedding and small barrels resting across uneven boards.
+Damp air drifts over the packed belongings as shadows sway beneath the rafters
+and the low ceiling traps the hearth warmth.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072005 0
+D2
+South~
+~
+0 0 4072025 0
+S
+#4072025
+Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack~
+A narrow living space rests behind smoke-darkened walls beneath uneven rafters
+with old tools, patched clothing and coiled rope gathered beneath wooden pegs.
+Lamplight moves among the hanging possessions as rain whispers across the roof
+and the boards smell faintly of damp timber.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072024 0
+D4
+Up~
+~
+0 0 4072026 0
+S
+#4072026
+Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack~
+Rough plank walls enclose a dim one-room dwelling beneath low smoke-dark beams
+with worn stools, fishing gear and clay pots arranged for practical daily use.
+Hearth smoke drifts through gaps in the planking as old boards shift underfoot
+with muted sounds carrying through the walls.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072027 0
+D5
+Down~
+~
+0 0 4072025 0
+S
+#4072027
+Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack~
+A drafty shack interior lies within patched board walls beneath uneven rafters
+with basic cookware, folded blankets and simple bedding set within easy reach.
+Lamplight glows through gaps in the planking as the timber frame creaks softly
+and moisture beads upon the wooden walls.
+~
+0 8 0 0 0 0
+D2
+South~
+~
+0 0 4072026 0
+S
+#4072028
+Bitter coast, Gnaar Mok, village, Rostlogi's shack~
+A plain single room opens inside damp wooden walls beneath darkened roof beams
+among clay pots, bundled nets and small barrels lined beneath the low rafters.
+Lamplight flickers across the uneven boards and smoke stains the ceiling above
+as cool drafts enter through the wall seams.
+~
+0 8 0 0 0 0
+D0
+North~
+~
+0 0 4072003 0
+S
+#0
+
+#RESETS
+M 0 2302636 1 4072011  ;  Mob: Valveli Arelas [Npcs] => #4072011 [Gnaar mok] Bitter coast, Gnaar Mok, village
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2301788 1 4072012  ;  Mob: Nadene Rotheran [Npcs] => #4072012 [Gnaar mok] Bitter coast, Gnaar Mok, village
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300135 1 4072013  ;  Mob: Anglalos [Npcs] => #4072013 [Gnaar mok] Bitter coast, Gnaar Mok, village, Anglalos's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300087 1 4072014  ;  Mob: Almse Arenim [Npcs] => #4072014 [Gnaar mok] Bitter coast, Gnaar Mok, village, Arenim's manor
+E 1 3117003 1 5  ; -- Equip: Chitin jerkin [Items] (body)
+E 1 3117002 1 10  ; -- Equip: Chitin epaulets [Items] (arms)
+E 1 3117007 1 8  ; -- Equip: Chitin striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3231012 1 16  ; -- Equip: Silver shortsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300655 1 4072015  ;  Mob: Drarus Berano [Npcs] => #4072015 [Gnaar mok] Bitter coast, Gnaar Mok, village, Arenim's manor
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3217009 1 16  ; -- Equip: Glass dagger [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300681 1 4072016  ;  Mob: Dridas Salvani [Npcs] => #4072016 [Gnaar mok] Bitter coast, Gnaar Mok, village, Arenim's manor
+E 1 3121003 1 5  ; -- Equip: Dreugh jack [Items] (body)
+E 1 3115007 1 8  ; -- Equip: Bonemold boots [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3231018 1 16  ; -- Equip: Silver longsword [Items] (wield)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300124 1 4072017  ;  Mob: Andilo Thelas [Npcs] => #4072017 [Gnaar mok] Bitter coast, Gnaar Mok, village, Arenim's manor
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3320015 1 2  ; -- Equip: House Hlaalu's insignia [Items] (finger-l)
+M 0 2300448 1 4072018  ;  Mob: Caryarel [Npcs] => #4072018 [Gnaar mok] Bitter coast, Gnaar Mok, village, Caryarel's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300262 1 4072019  ;  Mob: Balan [Npcs] => #4072019 [Gnaar mok] Bitter coast, Gnaar Mok, village, Druegh-jigger rest's tavern
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144006 1 7  ; -- Equip: Netch leather breeches [Items] (legs)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3235018 1 16  ; -- Equip: Steel longsword [Items] (wield)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301226 1 4072020  ;  Mob: Hinald [Npcs] => #4072020 [Gnaar mok] Bitter coast, Gnaar Mok, village, Druegh-jigger rest's tavern
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3003002 1 9  ; -- Equip: Cloth bracers [Items] (hands)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3236018 1 16  ; -- Equip: Steel longsword of fire [Items] (wield)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3205012 1 ; -- Give: Chitin shortsword [Items]
+G 1 3205009 1 ; -- Give: Chitin dagger [Items]
+G 1 3236059 1 ; -- Give: Steel longsword of frost [Items]
+G 1 3205039 1 ; -- Give: Chitin shortbow [Items]
+G 1 3205002 1 ; -- Give: Chitin throwing star [Items]
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2302720 1 4072021  ;  Mob: Wadarkhu [Npcs] => #4072021 [Gnaar mok] Bitter coast, Gnaar Mok, village, Druegh-jigger rest's tavern
+E 1 3106006 1 7  ; -- Equip: Exquisite pants [Items] (legs)
+E 1 3105009 1 5  ; -- Equip: Extravagant robe [Items] (body)
+E 1 3231009 1 16  ; -- Equip: Silver dagger [Items] (wield)
+E 1 3320002 1 2  ; -- Equip: Thieves guild's insignia [Items] (finger-l)
+M 0 2301379 1 4072022  ;  Mob: Jerian Dolbanitte [Npcs] => #4072022 [Gnaar mok] Bitter coast, Gnaar Mok, village, Jerian Dolbanitte''s shack
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+M 0 2301780 1 4072023  ;  Mob: Mush-Mere [Npcs] => #4072023 [Gnaar mok] Bitter coast, Gnaar Mok, village, Mush-Mere's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+M 0 2300118 1 4072024  ;  Mob: Anas Ulven [Npcs] => #4072024 [Gnaar mok] Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack
+E 1 3144003 1 5  ; -- Equip: Netch leather jerkin [Items] (body)
+E 1 3144007 1 8  ; -- Equip: Netch leather striders [Items] (feet)
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3235009 1 16  ; -- Equip: Steel dagger [Items] (wield)
+G 1 3408050 1 ; -- Give: Apprentice's probe [Items]
+G 1 3408051 1 ; -- Give: Journeyman's probe [Items]
+G 1 3408045 1 ; -- Give: Apprentice's lockpick [Items]
+G 1 3408046 1 ; -- Give: Journeyman's lockpick [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2300537 1 4072025  ;  Mob: Daren Adryn [Npcs] => #4072025 [Gnaar mok] Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102009 1 5  ; -- Equip: Common robe [Items] (body)
+E 1 3004009 1 16  ; -- Equip: Demon tanto [Items] (wield)
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302198 1 4072026  ;  Mob: Selvura Andrano [Npcs] => #4072026 [Gnaar mok] Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3102010 1 7  ; -- Equip: Common skirt [Items] (legs)
+E 1 3223003 1 16  ; -- Equip: Iron throwing knife [Items] (wield)
+G 1 3405023 1 ; -- Give: Torch [Items]
+G 1 3139008 1 ; -- Give: Iron bulwark [Items]
+G 1 3223003 1 ; -- Give: Iron throwing knife [Items]
+G 1 3102003 1 ; -- Give: Common shirt [Items]
+G 1 3102010 1 ; -- Give: Common skirt [Items]
+G 1 3102007 1 ; -- Give: Common shoes [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302305 1 4072027  ;  Mob: Sodrara Andalas [Npcs] => #4072027 [Gnaar mok] Bitter coast, Gnaar Mok, village, Nadene Rotheran's shack
+E 1 3104007 1 8  ; -- Equip: Expensive shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+E 1 3104009 1 7  ; -- Equip: Expensive skirt [Items] (legs)
+E 1 3019021 1 16  ; -- Equip: Steel dagger of swiftblade [Items] (wield)
+G 1 3406209 1 ; -- Give: Hope of the Redoran [Items]
+G 1 3406284 1 ; -- Give: Path of trancendence [Items]
+E 1 3320011 1 2  ; -- Equip: Camonna tong's insignia [Items] (finger-l)
+M 0 2302104 1 4072028  ;  Mob: Rostlogi [Npcs] => #4072028 [Gnaar mok] Bitter coast, Gnaar Mok, village, Rostlogi's shack
+E 1 3102006 1 7  ; -- Equip: Common pants [Items] (legs)
+E 1 3102007 1 8  ; -- Equip: Common shoes [Items] (feet)
+E 1 3102003 1 5  ; -- Equip: Common shirt [Items] (body)
+S
+
+#SHOPS
+2301226 5 9 12 1 8 120 90 0 23
+2302198 5 9 12 1 8 120 90 0 23
+2300118 13 5 0 0 0 120 90 0 23
+2302305 35 0 0 0 0 120 90 0 23
+0
+
+#SPECIALS
+S
+
+#HELPS
+1 GNAAR MOK~
+Gnaar Mok is a poor fishing village built amid the marshes of the Bitter Coast
+where weathered shacks and narrow walkways gather beside a small quiet harbor.
+Fisherfolk, thieves and local thugs share the settlement's few humble services
+as mist and brackish water surround its lonely wooden homes.~
+0 $~
+
+#$

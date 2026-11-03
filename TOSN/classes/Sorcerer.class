@@ -1,0 +1,161 @@
+Name		Sorcerer~
+Class		33
+AttrPrime		2
+AttrSecond	2
+AttrDeficient	1
+Weapon		0
+Guild		0
+Skilladept		99
+Thac0		20
+Thac32		11
+Hpmin		1
+Hpmax		8
+Mana		1
+Expbase		200
+Affected		0
+Resist		0
+Suscept		0
+Skill 'Scribe' 1 95
+Skill 'Imbue' 1 95
+Skill 'Enchant' 1 95
+Skill 'Meditate' 1 95
+Skill 'Banish' 1 95
+Skill 'Innervate' 1 95
+Skill 'Blink' 1 95
+Skill 'Entangle' 1 95
+Skill 'Sleep' 1 95
+Skill 'Materialize' 1 90
+Skill 'Evoke' 1 90
+Skill 'Forge' 1 90
+Skill 'Shape' 1 90
+Skill 'Fabricate' 1 90
+Skill 'Assemble' 1 90
+Skill 'Fashion' 1 90
+Skill 'Equip' 1 90
+Skill 'Crown' 1 90
+Skill 'Support' 1 90
+Skill 'Butrress' 1 90
+Skill 'Arm' 1 90
+Skill 'Clothe' 1 90
+Skill 'Shoe' 1 90
+Skill 'Raise' 1 90
+Skill 'Invoke' 1 90
+Skill 'Tame' 1 90
+Skill 'Activate' 1 90
+Skill 'Beckon' 1 90
+Skill 'Reanimate' 1 90
+Skill 'Conjure' 1 90
+Skill 'Produce' 1 90
+Skill 'Recall' 1 85
+Skill 'Rob' 1 85
+Skill 'Siphon' 1 85
+Skill 'Steal' 1 85
+Skill 'Extract' 1 85
+Skill 'Consume' 1 85
+Skill 'Appropriate' 1 85
+Skill 'Pilfer' 1 85
+Skill 'Absorb' 1 85
+Skill 'Devour' 1 85
+Skill 'Tap' 1 85
+Skill 'Soultrap' 1 85
+Skill 'Sense' 1 85
+Skill 'Discern' 1 85
+Skill 'Locate' 1 85
+Skill 'Reflect' 1 85
+Skill 'Pray' 1 85
+Skill 'Dispel' 1 85
+Skill 'Devote' 1 85
+Skill 'Burn' 1 80
+Skill 'Freeze' 1 80
+Skill 'Shock' 1 80
+Skill 'Poison' 1 80
+Skill 'Blast' 1 80
+Skill 'Sear' 1 80
+Skill 'Chill' 1 80
+Skill 'Electrify' 1 80
+Skill 'Sensitize' 1 80
+Skill 'Expose' 1 80
+Skill 'Contaminate' 1 80
+Skill 'Taint' 1 80
+Skill 'Corrupt' 1 80
+Skill 'Disable' 1 80
+Skill 'Soften' 1 80
+Skill 'Leech' 1 80
+Skill 'Enervate' 1 80
+Skill 'Slow' 1 80
+Skill 'Stultify' 1 80
+Skill 'Temptate' 1 80
+Skill 'Spite' 1 80
+Skill 'Jinx' 1 80
+Skill 'Hinder' 1 80
+Skill 'Drain' 1 80
+Skill 'Deplete' 1 80
+Skill 'Weary' 1 80
+Skill 'Weaken' 1 80
+Skill 'Emasculate' 1 80
+Skill 'Stumble' 1 80
+Skill 'Fuddle' 1 80
+Skill 'Woe' 1 80
+Skill 'Degrade' 1 80
+Skill 'Hex' 1 80
+Skill 'Wound' 1 80
+Skill 'Disrupt' 1 80
+Skill 'Doze' 1 80
+Skill 'Corrode' 1 80
+Skill 'Erode' 1 80
+Skill 'Open' 1 75
+Skill 'Lock' 1 75
+Skill 'Ignite' 1 75
+Skill 'Frost' 1 75
+Skill 'Storm' 1 75
+Skill 'Coat' 1 75
+Skill 'Levitate' 1 75
+Skill 'Breath' 1 75
+Skill 'Burden' 1 75
+Skill 'Feather' 1 75
+Skill 'Shield' 1 75
+Skill 'Camouflage' 1 70
+Skill 'Bless' 1 70
+Skill 'Conceal' 1 70
+Skill 'Enlighten' 1 70
+Skill 'Silence' 1 70
+Skill 'Blind' 1 70
+Skill 'Charm' 1 70
+Skill 'Paralyze' 1 70
+Skill 'Sound' 1 70
+Skill 'Demoralize' 1 70
+Skill 'Calm' 1 70
+Skill 'Rally' 1 70
+Skill 'Frenzy' 1 70
+Skill 'Illuminate' 1 70
+Skill 'Mail' 1 65
+Skill 'Enrage' 1 65
+Skill 'Trammel' 1 65
+Skill 'Spurn' 1 65
+Skill 'Cover' 1 65
+Skill 'Plate' 1 60
+Skill 'Deflect' 1 60
+Skill 'Withstand' 1 60
+Skill 'Spook' 1 60
+Skill 'Overlay' 1 60
+Skill 'Dart' 1 55
+Skill 'Ninjaku' 1 55
+Skill 'Knife' 1 55
+Skill 'Shortbow' 1 55
+Skill 'Longbow' 1 55
+Skill 'Crossbow' 1 55
+Skill 'Barrage' 1 55
+Skill 'Dirk' 1 50
+Skill 'Dagger' 1 50
+Skill 'Tanto' 1 50
+Skill 'Wakizashi' 1 50
+Skill 'Shortsword' 1 50
+Skill 'Fight' 1 50
+Skill 'Gouge' 1 50
+Skill 'Grip' 1 50
+Skill 'Razor' 1 50
+Skill 'Outplay' 1 50
+Skill 'Riposte' 1 50
+Skill 'Stab' 1 50
+Skill 'Sting' 1 50
+End	
