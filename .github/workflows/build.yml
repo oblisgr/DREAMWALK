@@ -1,0 +1,20 @@
+name: Build DREAMWALK
+
+on:
+  push:
+    branches: [android-build]
+  workflow_dispatch:
+
+jobs:
+  compile:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y build-essential zlib1g-dev perl
+      - name: Compile MUD
+        working-directory: TOSN/src
+        run: |
+          mkdir -p o
+          make clean
+          make -j2
