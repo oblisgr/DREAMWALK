@@ -228,9 +228,9 @@ const char *ActColor = "&O";
 //==================================================================================================//
 // DREAMWALK PROCEDURE                                                                              //
 //==================================================================================================//
-static bool DREAMWALK_EVENT_CHECK_SAFETY            (CHAR_DATA *ch);
-static bool DREAMWALK_EVENT_SAFE_EXIT               (EXIT_DATA *pexit);
-static bool DREAMWALK_EVENT_SAFE_TARGET             (CHAR_DATA *ch, CHAR_DATA *victim);
+bool DREAMWALK_EVENT_CHECK_SAFETY            (CHAR_DATA *ch);
+bool DREAMWALK_EVENT_SAFE_EXIT               (EXIT_DATA *pexit);
+bool DREAMWALK_EVENT_SAFE_TARGET             (CHAR_DATA *ch, CHAR_DATA *victim);
 static EXIT_DATA *DREAMWALK_EVENT_FIND_OUTSIDE_EXIT (ROOM_INDEX_DATA *start);
 
 void DREAMWALK_EVENT_MOVE_AROUND_RANDOMLY           (CHAR_DATA *ch);
@@ -931,7 +931,7 @@ bool DREAMWALK_EVENT_CHECK_SAFETY(CHAR_DATA *ch)
 
     return TRUE;
 }
-static bool DREAMWALK_EVENT_SAFE_EXIT               (EXIT_DATA *pexit){
+bool DREAMWALK_EVENT_SAFE_EXIT               (EXIT_DATA *pexit){
     ROOM_INDEX_DATA *room;
 
     if(!pexit || !(room = pexit->to_room)) return FALSE;
@@ -945,7 +945,7 @@ static bool DREAMWALK_EVENT_SAFE_EXIT               (EXIT_DATA *pexit){
 
     return TRUE;
 }
-static bool DREAMWALK_EVENT_SAFE_TARGET             (CHAR_DATA *ch, CHAR_DATA *victim){
+bool DREAMWALK_EVENT_SAFE_TARGET             (CHAR_DATA *ch, CHAR_DATA *victim){
     if(!ch || !victim || !ch->in_room || ch == victim) return FALSE;
     if(!IS_NPC(victim) || victim->in_room != ch->in_room || victim->hit <= 0) return FALSE;
     if(victim->master || IS_AFFECTED(victim, AFF_CHARM)) return FALSE;
@@ -24259,7 +24259,7 @@ static void MANUAL_SHOW_EFFECT(CHAR_DATA *ch, CHAR_DATA *victim,
     act(AT_BLUE, rMSG, ch, NULL, victim, TO_NOTVICT);
 }
 
-void EFFECT_TYPE_MANUAL_MODIFY_AREA 				(int sn, CHAR_DATA *ch, void *vo, char *target_name){		//SPELL TYPE: MODIFY AREA		(OPEN, LOCK)
+void EFFECT_TYPE_MANUAL_MODIFY_AREA 				(int sn, CHAR_DATA *ch, void *vo, const char *target_name){		//SPELL TYPE: MODIFY AREA		(OPEN, LOCK)
 	CHAR_DATA *victim = (CHAR_DATA *) vo; char cMSG[256], rMSG[256]; 
 	EXIT_DATA *pexit;
 
@@ -37468,7 +37468,7 @@ ch_ret MANUAL_SPELL_DAMAGE_0110_FATIGUE				(int sn, int level, CHAR_DATA *ch, vo
 // DREAMWALK TABLES																					//
 //==================================================================================================//	
 const TES_RACE_INFO 								TES_INFO_TABLE_RACE_INFO[] 				= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Male Argonian"   ,1  ,"Male"   ,1  ,"Argonian" ,1  ,"Beastfolk" ,"him" ,"his" ,"himself" ,"He"  },
     { 2  ,"Female Argonian" ,2  ,"Female" ,1  ,"Argonian" ,1  ,"Beastfolk" ,"her" ,"her" ,"herself" ,"She" },
     { 3  ,"Male Khajiit"    ,1  ,"Male"   ,2  ,"Khajiit"  ,1  ,"Beastfolk" ,"him" ,"his" ,"himself" ,"He"  },
@@ -37509,7 +37509,7 @@ const TES_RACE_INFO 								TES_INFO_TABLE_RACE_INFO[] 				= {
     { 38 ,"Female humanoid" ,2  ,"Female" ,7  ,"Humanoid" ,3  ,"Humanoid"  ,"it"  ,"its" ,"itself"  ,"It"  }		
 };
 const TES_RACE_NATTRIBUTE 							TES_INFO_TABLE_RACE_NATTRIBUTE[] 		= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Male Argonian"   	,5   ,-10 ,10  ,10  ,5   ,-10 ,-10 ,0   },
     { 2  ,"Female Argonian" 	,0   ,-10 ,5   ,0   ,10  ,5   ,-10 ,0   },
     { 3  ,"Male Khajiit"    	,0   ,-10 ,10  ,10  ,0   ,-10 ,0   ,0   },
@@ -37550,7 +37550,7 @@ const TES_RACE_NATTRIBUTE 							TES_INFO_TABLE_RACE_NATTRIBUTE[] 		= {
     { 38 ,"Female humanoid" 	,0   ,0   ,-10 ,-10 ,0   ,0   ,10  ,10  }	
 };
 const TES_RACE_VATTRIBUTE 							TES_INFO_TABLE_RACE_VATTRIBUTE[] 		= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Male Argonian"  		,5   ,-5  ,5   ,5   ,0   ,-5  ,-5  ,0   },
     { 2  ,"Female Argonian"		,0   ,-5  ,5   ,-5  ,5   ,5   ,-5  ,0   },
     { 3  ,"Male Khajiit"   		,-5  ,-5  ,5   ,5   ,0   ,-5  ,5   ,0   },
@@ -37680,7 +37680,7 @@ const TES_RACE_FACTION 								TES_INFO_TABLE_RACE_FACTION[] 			= {
 };
 //--------------------------------------------------------------------------------------------------//
 const TES_BIRTHSIGN_INFO 							TES_INFO_TABLE_BIRTHSIGN_INFO[] 		= {
-	{"RESERVED"},	
+	{0,"RESERVED"},	
     { 1  ,"Atronach-born"   ,1  ,"Winter-born" ,1  ,"Sun's Dusk"   },
     { 2  ,"Serpent-born"    ,1  ,"Winter-born" ,1  ,"Sun's Dusk"   },
     { 3  ,"Thief-born"      ,1  ,"Winter-born" ,2  ,"Evening Star" },
@@ -37696,7 +37696,7 @@ const TES_BIRTHSIGN_INFO 							TES_INFO_TABLE_BIRTHSIGN_INFO[] 		= {
     { 13 ,"Tower-born"      ,4  ,"Fall-born"   ,12 ,"Frostfall"    }
 };
 const TES_BIRTHSIGN_NATTRIBUTE 						TES_INFO_TABLE_BIRTHSIGN_NATTRIBUTE[] 	= {
-	{"RESERVED"},		
+	{0,"RESERVED"},		
     { 1  ,"Atronach-born"  ,0   ,0   ,0   ,0   ,10  ,15  ,0   ,0   },
     { 2  ,"Serpent-born"   ,0   ,0   ,0   ,0   ,0   ,10  ,0   ,15  },
     { 3  ,"Thief-born"     ,0   ,0   ,15  ,0   ,0   ,0   ,0   ,10  },
@@ -37712,7 +37712,7 @@ const TES_BIRTHSIGN_NATTRIBUTE 						TES_INFO_TABLE_BIRTHSIGN_NATTRIBUTE[] 	= {
     { 13 ,"Tower-born"     ,10  ,0   ,0   ,0   ,0   ,0   ,0   ,15  }
 };
 const TES_BIRTHSIGN_VATTRIBUTE 						TES_INFO_TABLE_BIRTHSIGN_VATTRIBUTE[] 	= {
-	{"RESERVED"},	
+	{0,"RESERVED"},	
     { 1  ,"Atronach-born"  ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 2  ,"Serpent-born"   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 3  ,"Thief-born"     ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
@@ -37758,7 +37758,7 @@ const TES_ALIGNMENT_INFO 							TES_INFO_TABLE_ALIGNMENT_INFO[]			= {
 };	
 //--------------------------------------------------------------------------------------------------//
 const TES_CLASS_INFO 								TES_INFO_TABLE_CLASS_INFO[] 			= {
-	{"RESERVED"},                                                    
+	{0,"RESERVED"},                                                    
     { 1  ,"Archer"            ,1  ,"Combat expert"     ,15 ,"Marksman"       },
     { 2  ,"Crusader"          ,1  ,"Combat expert"     ,13 ,"Block"          },
     { 3  ,"Knight"            ,1  ,"Combat expert"     ,3  ,"Blunt weapons"  },
@@ -37819,7 +37819,7 @@ const TES_CLASS_INFO 								TES_INFO_TABLE_CLASS_INFO[] 			= {
     { 58 ,"Magic user"        ,3  ,"Magic user"        ,30 ,"Herbalism"      }
 };
 const TES_CLASS_NATTRIBUTE 							TES_INFO_TABLE_CLASS_NATTRIBUTE[] 		= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Archer"            ,5   ,0   ,10  ,0   ,-5  ,-5  ,-5  ,0   },
     { 2  ,"Crusader"          ,5   ,0   ,10  ,-5  ,-5  ,0   ,-5  ,0   },
     { 3  ,"Knight"            ,10  ,0   ,-5  ,-5  ,0   ,-5  ,5   ,0   },
@@ -37880,7 +37880,7 @@ const TES_CLASS_NATTRIBUTE 							TES_INFO_TABLE_CLASS_NATTRIBUTE[] 		= {
     { 58 ,"Magic user"        ,-5  ,-5  ,0   ,-5  ,10  ,5   ,0   ,0   }	
 };
 const TES_CLASS_VATTRIBUTE 							TES_INFO_TABLE_CLASS_VATTRIBUTE[] 		= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Archer"            ,5   ,5   ,5   ,0   ,-5  ,-5  ,0   ,-5  },
     { 2  ,"Crusader"          ,5   ,-5  ,5   ,-5  ,-5  ,5   ,0   ,0   },
     { 3  ,"Knight"            ,5   ,-5  ,-5  ,-5  ,0   ,0   ,5   ,5   },
@@ -37941,7 +37941,7 @@ const TES_CLASS_VATTRIBUTE 							TES_INFO_TABLE_CLASS_VATTRIBUTE[] 		= {
     { 58 ,"Magic user"        ,-5  ,-5  ,0   ,-5  ,5   ,5   ,5   ,0   }		
 };
 const TES_CLASS_SKILL 								TES_INFO_TABLE_CLASS_SKILL[]			= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1   ,"Archer"            ,0   ,0   ,0   ,18  ,0   ,0   ,0   ,2   ,0   ,8   ,0   ,0   ,16  ,12  ,20  ,4   ,6   ,0   ,14  ,0   ,0   ,0   ,10  ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 2   ,"Crusader"          ,8   ,0   ,20  ,18  ,0   ,0   ,14  ,4   ,0   ,0   ,0   ,0   ,12  ,0   ,0   ,0   ,0   ,0   ,0   ,6   ,0   ,0   ,0   ,0   ,0   ,2   ,0   ,0   ,0   ,0   ,0   ,16  ,0   ,10  ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 3   ,"Knight"            ,2   ,18  ,0   ,20  ,0   ,0   ,14  ,6   ,0   ,0   ,0   ,0   ,12  ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,4   ,0   ,0   ,0   ,0   ,0   ,10  ,0   ,0   ,8   ,16  ,0   ,0   ,0   ,0   },
@@ -38002,7 +38002,7 @@ const TES_CLASS_SKILL 								TES_INFO_TABLE_CLASS_SKILL[]			= {
     { 58  ,"Magic user"        ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,4   ,6   ,0   ,0   ,0   ,8   ,2   ,10  ,0   ,0   ,16  ,18  ,20  ,12  ,0   ,0   ,0   ,0   ,14  ,0   ,0   ,0   }
 };
 const TES_CLASS_FACTION 							TES_INFO_TABLE_CLASS_FACTION[]			= {
-	{"RESERVED"}, 			  //FGD---TGD---MGD---DBD---IML---IMC---BLD---EEC---TRT---MTG---CTG---NVC---TNL---RDN---HLU---TLV---DRS---IND---SIX---CAE---ASH---FCN
+	{0,"RESERVED"}, 			  //FGD---TGD---MGD---DBD---IML---IMC---BLD---EEC---TRT---MTG---CTG---NVC---TNL---RDN---HLU---TLV---DRS---IND---SIX---CAE---ASH---FCN
     { 1  ,"Archer"             ,5    ,5    ,-10  ,10   ,-5   ,-10  ,-10  ,-10  ,-10  ,10   ,15   ,-5   ,-5   ,5    ,10   ,-10  ,10   ,-10  ,15   ,-10  ,10   ,-5  },
     { 2  ,"Crusader"           ,5    ,5    ,-5   ,5    ,-5   ,-5   ,-10  ,-5   ,-10  ,5    ,15   ,-5   ,-10  ,5    ,5    ,-5   ,10   ,-5   ,15   ,-10  ,10   ,-5  },
     { 3  ,"Knight"             ,10   ,0    ,-5   ,-10  ,5    ,0    ,5    ,0    ,5    ,-10  ,5    ,5    ,-5   ,10   ,-10  ,-5   ,-5   ,0    ,5    ,5    ,-5   ,0   },
@@ -38064,7 +38064,7 @@ const TES_CLASS_FACTION 							TES_INFO_TABLE_CLASS_FACTION[]			= {
 };	
 //--------------------------------------------------------------------------------------------------//
 const TES_CLASSTYPE_INFO 							TES_INFO_TABLE_CLASSTYPE_INFO[] 		= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1, "Combat expert"      ,1, "Combat"    },
     { 2, "Stealth specialist" ,2, "Stealth"   },
     { 3, "Magic user"         ,3, "Magic"     },
@@ -38074,7 +38074,7 @@ const TES_CLASSTYPE_INFO 							TES_INFO_TABLE_CLASSTYPE_INFO[] 		= {
     { 7, "Scientist"          ,4, "Community" }
 };	
 const TES_CLASSTYPE_NATTRIBUTE 						TES_INFO_TABLE_CLASSTYPE_NATTRIBUTE[] 	= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Combat expert"     ,10  ,10  ,0   ,0   ,-5  ,0   ,-5  ,0   },
     { 2  ,"Stealth specialist",0   ,-5  ,10  ,10  ,0   ,-5  ,0   ,0   },
     { 3  ,"Magic user"        ,-5  ,-5  ,0   ,0   ,10  ,10  ,0   ,0   },
@@ -38084,7 +38084,7 @@ const TES_CLASSTYPE_NATTRIBUTE 						TES_INFO_TABLE_CLASSTYPE_NATTRIBUTE[] 	= {
     { 7  ,"Scientist"         ,-5  ,-5  ,0   ,0   ,10  ,5   ,0   ,5   }
 };
 const TES_CLASSTYPE_VATTRIBUTE 						TES_INFO_TABLE_CLASSTYPE_VATTRIBUTE[] 	= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Combat expert"     ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 2  ,"Stealth specialist",0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 3  ,"Magic user"        ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
@@ -38094,7 +38094,7 @@ const TES_CLASSTYPE_VATTRIBUTE 						TES_INFO_TABLE_CLASSTYPE_VATTRIBUTE[] 	= {
     { 7  ,"Scientist"         ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   }
 };	
 const TES_CLASSTYPE_SKILL 							TES_INFO_TABLE_CLASSTYPE_SKILL[] 		= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1   ,"Combat expert"     ,0   ,5   ,5   ,5   ,0   ,0   ,5   ,5   ,0   ,5   ,0   ,0   ,5   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,5   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 2   ,"Stealth specialist",0   ,0   ,0   ,0   ,5   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,5   ,5   ,5   ,0   ,0   ,5   ,0   ,5   ,0   ,0   ,0   ,5   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,5   ,0   ,0   ,0   ,0   ,0   },
     { 3   ,"Magic user"        ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,5   ,5   ,5   ,0   ,0   ,5   ,5   ,5   ,5   ,0   ,0   ,0   ,0   ,5   ,0   ,0   ,0   },
@@ -38105,7 +38105,7 @@ const TES_CLASSTYPE_SKILL 							TES_INFO_TABLE_CLASSTYPE_SKILL[] 		= {
 };
 //--------------------------------------------------------------------------------------------------//
 const TES_CLASSSPEC_INFO 							TES_INFO_TABLE_CLASSSPEC_INFO[] 		= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1   ,"Archer"             ,15  ,"Marksman"      },
     { 2   ,"Crusader"           ,13  ,"Block"         },
     { 3   ,"Knight"             ,3   ,"Blunt weapons" },
@@ -38166,7 +38166,7 @@ const TES_CLASSSPEC_INFO 							TES_INFO_TABLE_CLASSSPEC_INFO[] 		= {
     { 58  ,"Magic user"         ,30  ,"Herbalism"     }
 };
 const TES_CLASSSPEC_NATTRIBUTE 						TES_INFO_TABLE_CLASSSPEC_NATTRIBUTE[] 	= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Archer"            ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 2  ,"Crusader"          ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 3  ,"Knight"            ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
@@ -38227,7 +38227,7 @@ const TES_CLASSSPEC_NATTRIBUTE 						TES_INFO_TABLE_CLASSSPEC_NATTRIBUTE[] 	= {
     { 58 ,"Magic user"        ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   }
 };	
 const TES_CLASSSPEC_VATTRIBUTE 						TES_INFO_TABLE_CLASSSPEC_VATTRIBUTE[] 	= {
-	{"RESERVED"},
+	{0,"RESERVED"},
     { 1  ,"Archer"            ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 2  ,"Crusader"          ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 3  ,"Knight"            ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
@@ -38288,7 +38288,7 @@ const TES_CLASSSPEC_VATTRIBUTE 						TES_INFO_TABLE_CLASSSPEC_VATTRIBUTE[] 	= {
     { 58 ,"Magic user"        ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   }
 };	
 const TES_CLASSSPEC_SKILL 							TES_INFO_TABLE_CLASSSPEC_SKILL[] 		= {
- 	{"RESERVED"},
+ 	{0,"RESERVED"},
     { 1   ,"Archer"            ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,20  ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 2   ,"Crusader"          ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,20  ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
     { 3   ,"Knight"            ,0   ,0   ,20  ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   ,0   },
@@ -39026,7 +39026,7 @@ const TES_CREATURE_INFO 							TES_INFO_TABLE_CREATURE_INFO[] 			= {
     { 340, "Elite ash vampire"       ,"Ash vampire"     ,"Magic user"        ,"wandering" ,"an","An",5 ,32 ,42 ,44 ,21 ,33 ,81 ,88 ,54 ,52 }
 };
 const TES_NPC_INFO 									TES_INFO_TABLE_NPC_INFO[] 				= {           
-    {"RESERVED"},
+    {0,"RESERVED"},
     { 1    ,"J'zargo"               ,29  ,1   ,1   ,3   ,2   ,1   ,1   ,7   ,2   ,23  ,6   ,7   ,3   ,20  ,2   ,23  ,1   ,1   ,10  ,2   ,2   ,1   ,2   ,1   ,7   },
     { 2    ,"Penelope Frernele"     ,0   ,4   ,2   ,6   ,3   ,2   ,2   ,9   ,3   ,23  ,8   ,9   ,3   ,5   ,1   ,19  ,9   ,2   ,19  ,3   ,3   ,3   ,1   ,3   ,6   },
     { 3    ,"Fyrulde Winterfist"    ,0   ,2   ,1   ,10  ,5   ,2   ,2   ,11  ,4   ,28  ,10  ,1   ,1   ,4   ,1   ,21  ,15  ,3   ,5   ,1   ,4   ,2   ,2   ,5   ,2   },
@@ -40029,7 +40029,7 @@ const TES_NPC_INFO 									TES_INFO_TABLE_NPC_INFO[] 				= {
     { 1000 ,"Ma'zaka"               ,0   ,4   ,2   ,3   ,2   ,1   ,2   ,9   ,3   ,29  ,8   ,8   ,3   ,28  ,5   ,40  ,1   ,1   ,15  ,3   ,1   ,2   ,2   ,2   ,4   }
 };
 const TES_LOCATION_INFO 							TES_INFO_TABLE_LOCATION_INFO[] 			= {
-	{"RESERVED"},
+	{0,"RESERVED"},
 	{1  ,"House"},
 	{2  ,"Shack"},
 	{3  ,"Manor"},
@@ -40107,7 +40107,7 @@ const TES_LOCATION_INFO 							TES_INFO_TABLE_LOCATION_INFO[] 			= {
 	{75 ,"Grotto"}
 };
 const TES_CRAFTING_STATION_INFO 					TES_INFO_TABLE_CRAFTING_STATION_INFO[]	= {
-	{"RESERVED"},
+	{0,"RESERVED"},
 	{1  ,"Alchemy station"},
 	{2  ,"Armory station"},
 	{3  ,"Blacksmithing station"},
@@ -40122,7 +40122,7 @@ const TES_CRAFTING_STATION_INFO 					TES_INFO_TABLE_CRAFTING_STATION_INFO[]	= {
 	
 };
 const TES_ADVENTURE_INFO 							TES_INFO_TABLE_ADVENTURE_INFO[] 		= {
-	/*000*/ {"RESERVED"},
+	/*000*/ {0,0,"RESERVED"},
 	/*001*/{ 5, 500,
 		"You find an old, abandoned guard tower.",
 		"You attempt to find a way into the guard tower.",		
@@ -40386,7 +40386,7 @@ const TES_ADVENTURE_INFO 							TES_INFO_TABLE_ADVENTURE_INFO[] 		= {
 };
 //--------------------------------------------------------------------------------------------------//
 const TES_ARMOR_INFO 								TES_INFO_TABLE_ARMOR_INFO[] 			= {
-	{"RESERVED"},
+	{0},
     { 0   ,116  ,10  ,10   ,311010 ,"Dremora hood"                    ,"a dremora hood"                             ,"OBJ_DREMORA_HELM"                    ,0  ,0   ,3  ,3  ,0  ,0  ,0  ,0  ,0  ,0  },
     { 0   ,116  ,10  ,11   ,311011 ,"Dremora cloak"                   ,"a dremora cloak"                            ,"OBJ_DREMORA_PAULDRONS"                   ,0  ,0   ,3  ,3  ,0  ,0  ,0  ,0  ,0  ,0  },
     { 0   ,116  ,10  ,12   ,311012 ,"Dremora shirt"                   ,"a dremora shirt"                            ,"OBJ_DREMORA_CUIRASS"                   ,0  ,0   ,7  ,7  ,0  ,0  ,0  ,0  ,0  ,0  },
@@ -40861,7 +40861,7 @@ const TES_ARMOR_INFO 								TES_INFO_TABLE_ARMOR_INFO[] 			= {
     { 472 ,1475 ,68  ,17   ,316817 ,"Nordic carved bulwark"           ,"a nordic carved bulwark"                    ,"OBJ_NORDIC_CARVED_BULWARK"           ,12 ,75  ,13 ,13 ,0  ,3  ,0  ,3  ,0  ,0  }
 };
 const TES_WEAPON_INFO 								TES_INFO_TABLE_WEAPON_INFO[] 			= {
-	{"RESERVED"},
+	{0},
     { 1  ,0  ,10 ,10 ,321010 ,"Dremora throwing dart"    ,"a dremora throwing dart"     ,"OBJ_DREMORA_THROWING_DART"    ,1  ,0    ,12 ,1 ,1  ,1  ,0  },
     { 2  ,0  ,10 ,11 ,321011 ,"Dremora throwing star"    ,"a dremora throwing star"     ,"OBJ_DREMORA_THROWING_STAR"    ,1  ,0    ,12 ,1 ,1  ,1  ,0  },
     { 3  ,0  ,10 ,12 ,321012 ,"Dremora throwing knife"   ,"a dremora throwing knife"    ,"OBJ_DREMORA_THROWING_KNIFE"   ,1  ,0    ,12 ,1 ,2  ,1  ,0  },
@@ -41684,7 +41684,7 @@ const TES_WEAPON_INFO 								TES_INFO_TABLE_WEAPON_INFO[] 			= {
     { 820 ,1968 ,29 ,50 ,322950 ,"Madness pike"             ,"a madness pike"              ,"OBJ_MADNESS_PIKE"             ,17 ,120  ,12 ,1 ,20 ,1  ,4  }
 };
 const TES_NECK_INFO 								TES_INFO_TABLE_NECK_INFO[] 				= {
-	{"RESERVED"},
+	{0,0,0,"RESERVED"},
     { 1   ,1   ,329001 ,"Pewter amulet"               ,"a pewter amulet"               ,"OBJ_APPAREL_PEWTER_AMULET"               ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,10  },
     { 2   ,2   ,329002 ,"Copper amulet"               ,"a copper amulet"               ,"OBJ_APPAREL_COPPER_AMULET"               ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,20  },
     { 3   ,4   ,329003 ,"Silver amulet"               ,"a silver amulet"               ,"OBJ_APPAREL_SILVER_AMULET"               ,0 ,0 ,0 ,0 ,0 ,2 ,0 ,30  },
@@ -41721,7 +41721,7 @@ const TES_NECK_INFO 								TES_INFO_TABLE_NECK_INFO[] 				= {
     { 34  ,103 ,329034 ,"Silver and Sapphire Circlet" ,"a silver and sapphire circlet" ,"OBJ_APPAREL_SILVER_AND_SAPPHIRE_CIRCLET" ,0 ,0 ,0 ,0 ,0 ,4 ,0 ,160 }
 };
 const TES_FINGER_INFO 								TES_INFO_TABLE_FINGER_INFO[] 			= {
-	{"RESERVED"},
+	{0,0,0,"RESERVED"},
     { 41  ,1   ,329041 ,"Pewter ring"         ,"a pewter ring"         ,"OBJ_APPAREL_PEWTER_RING"         ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,10  },
     { 42  ,2   ,329042 ,"Copper ring"         ,"a copper ring"         ,"OBJ_APPAREL_COPPER_RING"         ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,20  },
     { 43  ,4   ,329043 ,"Silver ring"         ,"a silver ring"         ,"OBJ_APPAREL_SILVER_RING"         ,0 ,0 ,0 ,0 ,0 ,2 ,0 ,30  },
@@ -41758,7 +41758,7 @@ const TES_FINGER_INFO 								TES_INFO_TABLE_FINGER_INFO[] 			= {
     { 74  ,120 ,329074 ,"Silver sapphire ring","a silver sapphire ring","OBJ_APPAREL_SILVER_SAPPHIRE_RING",0 ,0 ,0 ,0 ,0 ,5 ,0 ,180 }
 };
 const TES_INGREDIENT_INFO 							TES_INFO_TABLE_INGREDIENT_INFO[] 		= {
-	{"RESERVED"},
+	{0,0,0,"RESERVED"},
     { 1   ,5    ,331001 ,"Abecean longfin"             ,"an abecean longfin"            ,"OBJ_INGREDIENT_ABECEAN_LONGFIN"             ,5  ,0  ,0 ,0 ,0 ,1  ,0  ,15  },
     { 2   ,7    ,331002 ,"Adamantium ore"              ,"an adamantium ore"             ,"OBJ_INGREDIENT_ADAMANTIUM_ORE"              ,0  ,0  ,0 ,0 ,0 ,4  ,5  ,300 },
     { 3   ,11   ,331003 ,"Alit hide"                   ,"an alit hide"                  ,"OBJ_INGREDIENT_ALIT_HIDE"                   ,0  ,0  ,0 ,0 ,0 ,2  ,1  ,5   },
@@ -42166,7 +42166,7 @@ const TES_INGREDIENT_INFO 							TES_INFO_TABLE_INGREDIENT_INFO[] 		= {
     { 405 ,1451 ,331405 ,"Yellow rose"                 ,"a yellow rose"                 ,"OBJ_INGREDIENT_YELLOW_ROSE"                 ,0  ,0  ,0 ,0 ,0 ,2  ,0  ,8   },
 };
 const TES_POTION_INFO 								TES_INFO_TABLE_POTION_INFO[] 			= {
-	{"RESERVED"},
+	{0,0,0,"RESERVED"},
     { 1   ,1   ,336801 ,"Potion of burden"              ,"a potion of burden"              ,"TES_OBJ_POTION_OF_BURDEN"              ,1 ,100001 ,-1 ,-1 ,1 ,3 ,1 ,50  },
     { 2   ,4   ,336802 ,"Potion of feather"             ,"a potion of feather"             ,"TES_OBJ_POTION_OF_FEATHER"             ,1 ,100002 ,-1 ,-1 ,2 ,3 ,1 ,50  },
     { 3   ,7   ,336803 ,"Potion of levitate"            ,"a potion of levitate"            ,"TES_OBJ_POTION_OF_LEVITATE"            ,1 ,100009 ,-1 ,-1 ,2 ,3 ,1 ,50  },
@@ -42241,7 +42241,7 @@ const TES_POTION_INFO 								TES_INFO_TABLE_POTION_INFO[] 			= {
     { 72  ,188 ,336872 ,"Potion of restore skill"       ,"a potion of restore skill"       ,"TES_OBJ_POTION_OF_RESTORE_SKILL"       ,1 ,100138 ,-1 ,-1 ,2 ,3 ,1 ,50  }
 };
 const TES_SCROLL_INFO 								TES_INFO_TABLE_SCROLL_INFO[] 			= {
-	{"RESERVED"},
+	{0,0,0,"RESERVED"},
     { 1   ,2   ,336901 ,"Scroll of burden"              ,"a scroll of burden"              ,"TES_OBJ_SCROLL_OF_BURDEN"              ,1 ,100001 ,-1 ,-1 ,1 ,3 ,0 ,100 },
     { 2   ,4   ,336902 ,"Scroll of feather"             ,"a scroll of feather"             ,"TES_OBJ_SCROLL_OF_FEATHER"             ,1 ,100002 ,-1 ,-1 ,2 ,3 ,0 ,100 },
     { 3   ,7   ,336903 ,"Scroll of fire shield"         ,"a scroll of fire shield"         ,"TES_OBJ_SCROLL_OF_FIRE_SHIELD"         ,1 ,100003 ,-1 ,-1 ,3 ,3 ,0 ,100 },
@@ -42382,7 +42382,7 @@ const TES_SCROLL_INFO 								TES_INFO_TABLE_SCROLL_INFO[] 			= {
     { 138 ,247 ,337038 ,"Scroll of restore skill"       ,"a scroll of restore skill"       ,"TES_OBJ_SCROLL_OF_RESTORE_SKILL"       ,1 ,100138 ,-1 ,-1 ,2 ,3 ,0 ,100 }
 };
 const TES_CLUTTER_INFO 								TES_INFO_TABLE_CLUTTER_INFO[] 			= {
-	{"RESERVED"},
+	{0,0,0,"RESERVED"},
     { 1    ,1    ,333001  ,"Ash statue"             ,"an ash statue"            ,"OBJ_CLUTTER_ASH_STATUE"             ,0  ,0  ,0  ,0  ,0  ,5  ,4   ,10  },
     { 2    ,6    ,333002  ,"Basket"                 ,"a basket"                 ,"OBJ_CLUTTER_BASKET"                 ,0  ,0  ,0  ,0  ,0  ,1  ,2   ,5   },
     { 3    ,10   ,333003  ,"Pair of bellows"        ,"a pair of bellows"        ,"OBJ_CLUTTER_PAIR_OF_BELLOWS"        ,0  ,0  ,0  ,0  ,0  ,2  ,5   ,1   },
@@ -42538,7 +42538,7 @@ const TES_CLUTTER_INFO 								TES_INFO_TABLE_CLUTTER_INFO[] 			= {
 };
 //--------------------------------------------------------------------------------------------------//
 const TES_EFFECT_INFO 								TES_INFO_TABLE_EFFECT_INFO[] 			= {
-	{"RESERVED"},
+	{0,0,"RESERVED"},
     { 1   ,100001 ,"Burden"              ,1  ,1  ,1  ,5  ,10  ,10  ,10  ,107 ,0  ,0  ,1  ,1  ,1  },
     { 2   ,100002 ,"Feather"             ,3  ,1  ,2  ,10 ,10  ,10  ,10  ,107 ,0  ,0  ,1  ,1  ,1  },
     { 3   ,100003 ,"Fire shield"         ,3  ,1  ,2  ,10 ,10  ,5   ,15  ,107 ,0  ,0  ,1  ,1  ,1  },
@@ -42689,7 +42689,7 @@ const TES_EFFECT_INFO 								TES_INFO_TABLE_EFFECT_INFO[] 			= {
     { 148 ,100148 ,"Physical immunity"   ,2  ,5  ,2  ,10 ,0   ,0   ,0   ,107 ,0  ,0  ,1  ,1  ,1  },
 };
 const TES_ACTION_INFO 								TES_INFO_TABLE_ACTION_INFO[] 			= {          
-	{"RESERVED"},
+	{0,0,"RESERVED"},
     { 161 ,100161 ,"Overpower","Action","None","STR" ,"Damage" ,3   ,5   ,8   ,2   ,112 ,0   ,0   ,1   ,1   ,1   },
     { 162 ,100162 ,"Fade"     ,"Action","None","SNK" ,"Armor"  ,3   ,5   ,8   ,2   ,112 ,0   ,0   ,1   ,1   ,1   },
     { 163 ,100163 ,"Disengage","Action","None","WIL" ,"Armor"  ,3   ,5   ,8   ,2   ,112 ,0   ,0   ,1   ,1   ,1   },

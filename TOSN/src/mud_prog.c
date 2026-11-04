@@ -1402,10 +1402,10 @@ int mprog_do_ifcheck				(const char *ifcheck, CHAR_DATA *mob, CHAR_DATA *actor, 
 			MPROG_EV(char_mercantile);    		MPROG_EV(char_speechcraft);    		MPROG_EV(char_illusion); 
 			MPROG_EV(char_jewelcrafting); 		MPROG_EV(char_provisioning);   		MPROG_EV(char_tailoring);
 			
-			MPROG_EV(char_resistance_fire); 	MPROG_EV(char_resistance_frost); 	MPROG_EV(char_resistance_shock); 
-			MPROG_EV(char_resistance_poison); 	MPROG_EV(char_resistance_magic); 	MPROG_EV(char_resistance_disease); 
-			MPROG_EV(char_resistance_blight);	MPROG_EV(char_resistance_corprus); 	MPROG_EV(char_resistance_paralysis); 
-			MPROG_EV(char_resistance_weapon);
+			MPROG_EV(char_resistance_fire_percentage); 	MPROG_EV(char_resistance_frost_percentage); 	MPROG_EV(char_resistance_shock_percentage); 
+			MPROG_EV(char_resistance_poison_percentage); 	MPROG_EV(char_resistance_magic_percentage); 	MPROG_EV(char_resistance_disease_percentage); 
+			MPROG_EV(char_resistance_blight_percentage);	MPROG_EV(char_resistance_corprus_percentage); 	MPROG_EV(char_resistance_paralysis_percentage); 
+			MPROG_EV(char_resistance_weapon_percentage);
 			
 			MPROG_EV(char_faction_FGD); 		MPROG_EV(char_faction_TGD); 		MPROG_EV(char_faction_MGD); 
 			MPROG_EV(char_faction_DBD); 		MPROG_EV(char_faction_IML); 		MPROG_EV(char_faction_IMC); 

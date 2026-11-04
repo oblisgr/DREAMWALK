@@ -9,7 +9,7 @@ CC      = g++
 NEED_DL = -ldl
 
 #Some systems need this for dynamic linking to work.
-EXPORT_SYMBOLS = -export-dynamic
+EXPORT_SYMBOLS = 
 
 # Uncomment the two lines below if compiling on a Solaris box
 #SOLARIS_FLAG = -Dsun -DSYSV
@@ -20,7 +20,7 @@ IMC = 1
 
 W_FLAGS = -w
 
-C_FLAGS = -g2 $(W_FLAGS) $(SOLARIS_FLAG) $(PROF) $(EXPORT_SYMBOLS) -Wno-format-truncation -fpermissive
+C_FLAGS = -std=gnu++11 -include sys/time.h -g2 $(W_FLAGS) $(SOLARIS_FLAG) $(PROF) $(EXPORT_SYMBOLS) -Wno-format-truncation -fpermissive
 L_FLAGS = $(PROF) $(SOLARIS_LINK) -lz $(NEED_DL)
 #D_FLAGS : For the DNS Slave process. No need in linking all the extra libs for this.
 D_FLAGS = -g2 -O $(PROF) $(SOLARIS_LINK)
@@ -69,7 +69,7 @@ clean:
 else
 smaug: $(O_FILES)
 	rm -f smaug
-	$(CC) -export-dynamic -o smaug $(O_FILES) $(L_FLAGS)
+	$(CC)  -o smaug $(O_FILES) $(L_FLAGS)
 	@echo "Generating dependency file ...";
 	@$(CC) -MM $(C_FLAGS) $(C_FILES) > dependencies.d
 	@perl -pi -e 's.^([a-z]).o/$$1.g' dependencies.d

@@ -157,7 +157,7 @@ void clear_room				(int x, int y){														// CLEAR ALL EXITS FOR ONE ROOM.
 	}
 }
 void map_exits				(CHAR_DATA *ch, ROOM_INDEX_DATA *pRoom, int x, int y, int depth ){	// THIS FUNCTION IS RECUSIVE (IT CALLS ITSELF).
-	static char map_chars[11] = "|-|-udb/\\\\/";
+	static char map_chars[12] = "|-|-udb/\\\\/";
 	int door;
 	int exitx = 0, exity = 0;
 	int roomx = 0, roomy = 0;
